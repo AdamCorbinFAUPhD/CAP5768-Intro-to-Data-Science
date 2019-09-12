@@ -1,0 +1,1398 @@
+[0:05:27.0] this? No, and yeah, right there, Over here
+[]			 All right
+[0:06:16.3]  Good afternoon, everyone
+[]			 And welcome back
+[0:06:19.9]  I overheard some conversations of Dorian
+[0:06:26.5]  I guess everybody was hopefully not strongly affected by it
+[]			 It's good to see you again
+[0:06:31.8]  A lot of work to get ready for it
+[]			 Of course I know the feeling
+[0:06:35.4]  And now you're hesitating whether we should the other half of the work or wait a few more weeks to see what happens
+[0:06:45.0]  Right? Okay, so it's good to be back, and I hope everybody's safe, including those of you who are watching the video recording of this lecture
+[0:06:52.8]  So this is what in the syllabus appears as lectured to Technically, it's our third week, of course, and it's the part in the course where we deal with the so called data science Python stack
+[0:07:11.5]  And as you know, this is a It's like a difficult topic to cover because we have to find a balance between what we need for things such as our ongoing assignment one
+[0:07:23.7]  So let's call it immediate needs what we will definitely need in the near future, even if it's not appearing explicitly on assignment one
+[]			 I don't think these guys are working
+[0:07:34.9]  Keep beeping
+[0:07:38.2]  So try to stick close to this microphone here
+[]			 Okay, so there's the stuff we need for the assignment
+[]			 One
+[0:07:44.3]  There's the stuff we know we will need sooner or later
+[0:07:49.5]  And that is, in this spirit, off developing a sense of comfort or familiarity or fluency, if you will, with the set of tools
+[0:08:07.6]  So And of course, there's 1/3 level of understanding that would be highly technical if we want to look at writing cold on a more systematic basis, which I believe is not the go off most people in this class in spite of those of you who already do that for a living
+[0:08:22.7]  So if you do that in your date time job, good, Excellent
+[0:08:29.8]  If you don't, this class will not try to artificially make you Ah, softer developer slash statisticians slash data Science
+[0:08:32.8]  The scientist all in one semester that would be too much
+[0:08:55.4]  So what I'm striking for is somehow this second goal the idea that we should become comfortable with these tools with these packages and the language, of course, underlying it to the point where he can understand what we're doing and why we're doing and not getting stuck as we make progress, say, in our first assignment
+[0:09:01.9]  So today's lecture is supposed to be not assignment one centered but close to the end of the lecture time
+[0:09:10.4]  I will talk specifically about assignment one questions that you may have
+[0:09:16.5]  So hold on to that because there's a distinct possibility that based on the examples that who covering today's lecture, some of the questions you have will become answered will be answered by by the type of thing we're talking about
+[0:09:33.7]  For those of you who asked me where you are, where are we? Book wise
+[0:09:41.4]  Um, what we're doing is basically covering the 1st 4 chapters off Jake 100 Classes book, which we call Textbook One
+[0:09:57.0]  So we did cover chapter one, which was the Jupiter notebooks I python type of stuff we are now doing in a bundle that I call lecture to what, in the book corresponds to Chapters 23 and four
+[0:10:00.1]  If you have been to the actual physical book, those three chapters combined are more than 200 pages worth of material
+[]			 It is a lot, and I know it
+[]			 So pay attention to what I'm gonna do today
+[0:10:16.0]  because I'm going to go over the portions off the book in those chapters, Maybe we will not reach chapter for We'll see, but at least a CZ, much as we can off two and three to make you aware off which parts are extremely important
+[0:10:43.7]  Which parts are less so and which parts, perhaps you can neglect altogether, all the while running as many examples as we can together asking questions, tweaking values or lines of code so that we start enjoying in a collective sense
+[]			 Perhaps this feeling off being comfortable enough with the tools that we know what we're doing and how we're doing
+[0:10:56.7]  And so So let's start with the quick review off, Numb by which recovered some extent last time
+[0:11:05.6]  We need to finish that, and we'll review some things to put ourselves back in
+[0:11:14.3]  Are the proper frame of mind so numb by America? Python is a library for python that basically thus what don't read from this light? What does number pi bring to the table? A raise and matrices? Yes, and in a way that working with such a raise and matrices is relatively easy
+[0:11:47.3]  What do I mean by easy, convenient but see again, you don't have to program your own definitions
+[]			 You don't have to look through a ray elements to do, say, element wise addition or multiplication or other operations
+[0:12:07.1]  It's smart enough to treat a raise or matrices as entities to which you can apply mathematical functions that implicitly, I mean, should be applied to all elements within those in America race
+[]			 So it is a numb pyre
+[0:12:15.7]  A can be fancy Lee described as an efficient, motor dimensional container off generic data
+[0:12:25.3]  It is, uh, modified version off
+[]			 What in Python when you create a numb pie ray, you typically either start from scratch or you start from a python list
+[]			 Thank you very much
+[]			 I want You are absolutely right
+[]			 Okay
+[]			 And, as with many things will see today, some of which are review from last week
+[0:12:48.5]  There are many tradeoffs involved in abstractions that Mumbai provides over the underlying python or later on abstractions that pandas provides on top of the underlying number
+[0:13:09.0]  Because there's a kind of hierarchy going on here and the trade offs include things such as lists being head Virginia's restructures, you can make list off multiple data types, whereas numb pie arrays are homogeneous data structures
+[0:13:19.3]  We have a raise off floats, arrays off unsigned integers and what not In the so called guided tour, there's apart five that talks about Mumbai
+[0:13:26.1]  These are two most useful links
+[0:13:29.5]  The Wikipedia entry and the official Nam pipe age
+[0:13:34.3]  There's nothing to it, but perhaps more importantly, if you looked at the children notebooks that correspond to this section's in Chapter two in your so called Textbook One, you probably saw a list that you can recognise from this slide
+[0:13:56.1]  So they're basically 10 main notebooks out there, some of which are much more important than others
+[0:13:59.5]  And so part of my job today is to go over some of these highlights with you and make sure that you pay attention, tow things that really matter if you want
+[0:14:06.5]  Of course, you can download cheat sheets as I have made some of those available, but the idea is almost as if we took this one textbook and decided to create our own cheat sheet of short shorts
+[]			 So that's what I try to do with some of these lights
+[0:14:22.4]  You can do some of those things yourselves, so this is ah so in the early part of this chapter in 2
+[]			1 or whatever it's called 0 to 01 we have the introduction to dump I raise and how to create them
+[]			 So let's go back to that
+[]			 In fact, just to be systematic here on, let me make this big enough
+[]			 So you okay? See it
+[0:15:05.7]  So the introduction to numb pied, which is 200 basically reminds you how to important by or install it or how to get online help
+[]			 I don't think I need to go over that in two points there
+[0:15:17.4]  One we're starting to talk about it may remember there's this very technical explanation about what a numb pie array is compared to Ah python list
+[0:15:50.9]  This diagram here, which I also including this lights, is a reminder that when we create an umpire A from a python list, we are 100 hood converting a rather complex object which is there list off potentially different data type items that python allows to encapsulate into this container, doing a lot of work on our behalf under the hood
+[]			 We are replacing that with something that is much more structured
+[0:16:03.1]  That reminds you off the definition off Honore in your introduction to microprocessors class or something like that, something that consists off elements off the same data type in a way that you can think office adjacent memory positions in in such a way as in the classical definition, often array that appointed to the first element it allows it to access any content within the array
+[]			 And in addition to this essential element, which is the point to the first element within the array, you have additional information
+[]			 In other words, Honore
+[0:16:40.3]  A numb pyre A knows its size, something that c programming language
+[0:16:43.8]  Ray doesn't phrase this right
+[0:16:50.2]  Okay, so let's take a look at 201 and refresh our memory
+[0:16:57.0]  So if I start, see if hooking that's the first executable cell
+[0:17:06.2]  I start with a list, which in this case happens to be a list off integers or a list off strings off one character each
+[]			 I I could presumably convert either L or L two into a numb pyre
+[]			 Ray
+[0:17:24.0]  If I start, however, with a list such as L three, which is a mix off Bullen String float, an integer I will have trouble down the road, converting this into an AMP I array
+[]			 There will be some bad casting that will take place in that case
+[]			 So first piece of knowledge to review the, um, numb by array is a single data type, fixed type type off
+[]			 They re structure
+[0:17:53.8]  So the code that is useful starts virtually here
+[0:18:05.3]  When we do the classical important umpires and P and we initialize a numb pyre A and P adultery of integers by calling the constructor, if it will in passing specific is explicit values
+[]			 Okay, this is what happens if we try to mix multiple data types
+[0:18:20.9]  Since this is one float together with some integers, everybody who's not afloat gets promoted to float
+[0:18:30.9]  If we want to say that explicitly that even though the initialization that is looked like integers, we actually want them to mean four bite or 32 bit floating point numbers, we can explicitly indicate that by adding the the type equal whatever type we want to the initialization off the array
+[0:18:58.7]  This is a way to initialize a to D array that, for those of you who are new to Python, may seem a little bit cryptic in the beginning, but eventually will become second nature
+[0:19:07.9]  So basically, we're using the Python function range to say I want Honore that has a number's going from eye to eye plus three where I comes from this second race
+[0:19:16.2]  So clearly, if the second race 246 the numbers within each row of the array will be the first number
+[]			 That number plus one that number plus two in other words, up to and excluding that number plus three, which is the meaning of this syntax here
+[]			 All right, so very compact
+[0:19:34.7]  Way off initializing a to D array or Honore that came out off
+[0:19:45.1]  What in python would be a nested lists
+[]			 Okay, there many useful arrays that you can create from scratch
+[0:19:56.3]  If you have used math lab, you easily see the equivalence here
+[0:20:00.1]  Things such as an array of zeros, arrays of horns, a raise with same element in every position, a raise, with the range off elements going from start to end by a certain step, always being mindful that the end here is excluding that value, which you can always test
+[]			 So if you think oh, I need to go from 0 to 22 at a time, and there's only stops that 18
+[]			 You could easily change that 22 for instance
+[]			 And that's it
+[0:20:36.9]  So nothing over the complex about that Lynn Space to create linearly spaced elements within one D array in this case
+[]			 And then we start something that will do a lot during the course of this semester, which is to create a raise off random values
+[0:20:52.1]  And in this case, we introduce the idea of fixing the seed off the pseudo random number generator from the python language to a certain value
+[]			 So this always looks the same
+[]			 If you comment out this line every time you run this cell, you will get a different set of numbers
+[]			 Simple is that important? But not quite now or not quite yet
+[]			 The random primitive is a uniformly distributed, um, probably stick distribution, which means numbers will be between zero and one
+[0:21:36.7]  And if you had an array off a large enough size, you would and plotted sista graham, it would look like a flat distribution are disclosed to a flat as there random number generator allows it to be okay
+[0:21:47.3]  If you want something that is a civilian, a normal or Gaussian distribution you can use and p dot random that normal instead, in which case you have to pass the mean standard deviation
+[]			 And they're a size
+[]			 This is a zero Ming array which suggests that it should have positive and negative values in it, which, by the way, it does
+[0:22:12.2]  So everything looks according to the plan
+[0:22:20.9]  Once again, if this array was large enough, and if you knew how to plot the hist a gram which you already saw last week or it can quickly look up
+[0:22:28.6]  In either case, if this was a 300 by 300 array, perhaps something of that size, you would see the classic bell shaped car
+[0:22:37.5]  All right, what if I want a raise within a an introvert? That is not the default for the uniform distribution
+[0:22:42.6]  I can use riend int and specify the interval
+[]			 Okay, by the way, as you can tell, the original quote here was 0 to 10
+[]			 I tweak that at some point and didn't add it
+[0:23:00.1]  The comments or the comment and the line of code were inconsistent
+[0:23:04.8]  All right, I strongly suggested for almost anything we do here for every cell you run, try to trick it and run it with a different something
+[0:23:28.3]  Okay, most things take a fraction of a second to run, and if you think, say, for instance, if I do n p dot I've not dollar sign for what will happen or a four dimensional ray with one's in the diagonal and zeros otherwise
+[0:23:30.4]  So if I see that, fine, ofcourse, Don't shoot yourself in the foot by putting 400 here or something, because the Joker notebook display will be clever enough to not display the gigantic thing
+[0:23:43.1]  It will show you how the array begins and how it ends, which still allows you to figure out
+[]			 Looks like it is a I type off matrix 400 by 400 but you don't see you don't get to see its entire contents
+[0:24:06.7]  All right, this is a good reminder, especially for those of you who are relatively inexperienced with programming
+[]			 Be extremely careful with things such as empty
+[0:24:18.5]  So even though not by allows you to create an array with empty values, empty doesn't mean zero Empty doesn't mean nothing
+[]			 This it means whatever was left in those memory positions before
+[0:24:31.0]  Sometimes it's something that came from the last you see how it relates the last bits off code we executed
+[]			 So this looks like a piece off the I
+[]			 But if I do the random cell again and come back here, chances are it could be have something different
+[]			 It didn't
+[]			 That's okay
+[]			 All right
+[0:24:49.5]  So don't trust that empty means something that you can control
+[]			 You cannot
+[]			 All right
+[0:24:57.6]  So what types off numb pie data types doesn't buy support
+[]			 I think I have is light for that
+[]			 Yeah
+[0:25:02.3]  So if you need a quick riposte, those lights on campus, of course, if you need a cook, quick look up type of cheat sheet on data types
+[]			 There's this light in addition to what you have in the book as well
+[0:25:23.5]  All right, so this is 201 which we have seen before, but I just wanted to go back to in case there was any question bombings, especially in these review modules
+[0:25:30.0]  Stop me with a raised hand if you have a question
+[]			 Okay
+[]			 Here's no start to get a little bit more interesting where we take a raise and we do things with them
+[0:25:56.3]  We've asked what are you or your contents What is your size? What is your shape? How can I access individual elements either to only read their values or modify or combine in some way? How can I slice or reshape a raise? How can I join or split a raise? So let's take a look at this and, uh, together
+[]			 So you were basically creating three arrays
+[0:26:14.4]  That will be our examples, x one x two x three and we're printing the contents of the last one of them extremely
+[]			 Once again, if you think this example would be best for your own sake
+[]			 If if you could print each and every one of them, you can go to add it split cell, and you can put a print x one here
+[]			 You can do another split cell here and add a print extra here
+[0:26:50.7]  In other words, what every thinks too, ensured that you understand what virtually each line of code is doing
+[0:26:58.5]  Okay, so if the author of the book decides to group things in a way that you think you would understand better if they were separate, make them separate yourself
+[]			 Okay, help yourself in the process
+[]			 So if you ask the number of dimensions our shape or size off a three dimensional race such as X three
+[]			 You get the information that corresponds to this particular array
+[]			 We've been through that before, so I'm going to skip a few things here when I need to access an element off
+[]			 Honore
+[]			 Say this is X one
+[0:27:34.7]  If I want to access its first element, what way do this scene? Texas scrub rackets and subscript or index, and a raise in Nam pi R zero based
+[]			 Okay, so subscript zero means the first element subscript three means the fourth element
+[]			 This is a relatively weird example because these two guys are identical
+[]			 So I would I would have created this array with different values
+[]			 Okay
+[0:28:03.9]  And what happens if you try to access a the seven death 71st element off Honore? And such a thing doesn't exist
+[0:28:10.8]  You're getting out of bones
+[]			 A message for X zero
+[0:28:18.8]  Remember the Xs equal zero x is equal 10 Meaning rose one meaning columns
+[]			 Of course, this being a row vector, it only has, um x zero
+[0:28:37.0]  But if I tried to do something such a 70 45 for X two I, it would already complain about that with the first index
+[]			 Okay, let's go back to this
+[0:28:46.4]  Put a reasonable value here for X one, brother
+[]			 Okay, There you go
+[]			 All right
+[]			 This is something new for those who are coming from other languages
+[]			 The negative index idea
+[0:29:08.2]  So, in math lab, for instance, if you need to access the last element off, Honore used the Q word and e and e right in Python Lump
+[0:29:17.2]  I if you want to accept the last element, use negative one almost like saying going from the end backwards to the beginning
+[0:29:20.3]  The first guy you encounter if you want to interpret like that similarly negative to me as the next guy
+[0:29:30.9]  And so for most dimensional race, everything applies, including the notion that if you try to do something that is out of bounds, you should get and their message
+[0:29:44.6]  And interestingly enough, there a message only refers to access one
+[]			 If the index for X zero is okay
+[0:29:51.2]  You see, In this case, of course, they're both incorrect
+[]			 Okay, but it stops at trying to solve X zero without even going further
+[]			 If you fix the X zero problem, it will then give you never saying it's out of bounds for exit
+[0:30:06.3]  Straightforward, I presume
+[]			 Right? Okay
+[]			 No
+[0:30:14.4]  Careful with modifying the contents off Honore, if you haven't already, that has these elements here
+[]			 And you say I want to change this guy here to be not a three anymore, but 12 you use the proper notation to say Go to extra rose
+[]			 Zero column zero Put a 12 in it
+[]			 And sure enough, it will change into a 12
+[]			 However, if you try to put something that is not compatible with the type off the race a string, it will say, I cannot do that
+[0:30:59.6]  I was looking for images based in what? If you try to put a floating point number here, what do you think will happen up casting, typecasting, promotion on the spot or an error message? Promotional? Despite, let's see, actually demotion on the spot
+[0:31:10.2]  The type off the array before the attempt is kind of comparable with the data item that you're trying to add so it will be truncated
+[]			 I think that's the original example
+[0:31:18.7]  Actually, it's with a floating point number
+[]			 I have messed up with these examples so many times that I would have to go back to the book to see what the original one looks like
+[0:31:30.6]  Yes, it modifies the value of X one from this point on will never have the same value as it used to be here before, All right
+[]			 And it will not be the one you meant, because it was an array of integer
+[0:31:41.8]  So it found a way to convert, which was, in this case, a typecasting down a demotion, if you will
+[0:31:52.4]  Okay, a raise license is absolutely essential
+[0:31:55.1]  Knowledge basically means if you want a slice sub array, you can do that using the start
+[0:32:03.1]  Kahlan, stop column step notation
+[0:32:07.3]  This is identical to the mutation that those of you came with metal
+[0:32:10.4]  Acknowledge me, remember from there
+[]			 And there's nothing to it
+[]			 Well, you think there isn't
+[0:32:43.4]  But when you realize that their default values for they start to stop in the step, things may get a little bit more cryptic, as when you see this line of code here which basically means I want everything up to the element whose index's five in other words, the fifth element off the or the sixth element of the real, except for the sixth element
+[0:32:46.8]  So In other words, one way to memorize what this does is you're asking for the first however many elements you put here, right? If you want everything after the element whose index's five? In fact, I told you, um, we would do something different last time I told you that I wasn't happy with the fact that the Indus is and the contents of this array are so similar, so we can change that example to be 10 times that
+[]			 So when you look at this, it's clear that the elements are zero through 40
+[]			 When you say five, you have to interpret
+[0:33:29.9]  Okay, I started index 5012345 So it should be these guys all the way to the end
+[0:33:38.8]  And that's exactly what happens if I say four through 701234 six, 56 but not seven
+[0:33:48.4]  So should print out 40 50 and 60 which is what it does
+[]			 If I see every third element or starting with one every other element, I get what I get, and there's a simple way to reverse the contents of an array or to reverse it
+[0:34:05.8]  Starting from a certain point and moving towards the beginning by a certain step
+[]			 Everything that works in a single dimensional array works for multiple dimensional raise as well
+[]			 Okay, uh, one thing that you may have seen here, maybe I put it
+[]			 Maybe it was There is the transposed notation that's straightforward
+[]			 If you remove that, uh, you see different results off course, but here there is also different
+[0:34:39.7]  Never mind
+[0:34:50.4]  All right, um, this is something we saw before together the notion that when you ask for a sub array, you're actually asking for a view off the larger thing
+[]			 So if you make changes to that separate, they will reflect in the large array
+[]			 If you want to create copies and work on those copies in such a way that they don't reflect any changes back on the array from which they originally came, then you have to use the copy method
+[]			 You remember that from last time? Okay
+[]			 All right
+[0:35:14.4]  Reshaping and arrays, basically making it such that while keeping the same number off elements, it has a different number of rows and columns
+[0:35:33.4]  So once again, if you think that you don't understand this problem as it is breaking down you can call the first array A and extracted from here, in fact, how he didn't work
+[]			 Okay, so what was it and p dot Ray? Um a range zero then is that once and you got a range one one Common 10
+[0:36:16.4]  Okay, you're not free shape
+[]			 We want to the separately
+[]			 Thank you
+[0:36:21.4]  So we can do a dot Reshape separately here, call it be, say, and we may want to, but split these cells print this guy's whatever it takes to make sure that I understand what was there before what was there after the reshape
+[0:36:51.6]  Okay, this is extremely simple, but I'm mostly addressing those of you who are asking me questions and who are concerned about your lack of familiarity with five Phone I pi some director notebook and what not
+[0:37:03.2]  The nice thing about an interactive environment like that is that you can play with every little bit off code in a meaningful way and see if it works for you
+[]			 So if that concatenation off a range and reshape waas confusing breaking it down, calling it by different names is fine
+[0:37:25.4]  I had a communication from a student saying I'm working on assignment of the one
+[0:37:30.9]  Chances are my code will be longer than necessary
+[0:37:35.0]  And I am aware of it because probably students doing something like this, creating separate variables, understanding what they are before doing something else
+[0:37:40.9]  And that's perfect
+[]			 No problem
+[]			 Uh, the more clear you make the code for yourself and for people who might read it down the road, the better
+[0:37:54.9]  This is not the time or the place to do optimization, not for speed, not for memory consumption on anything like that
+[0:38:08.9]  Of course, being neat, elegant in the sense of writing things that can be properly read is an expectation but not doing things that are overly optimized
+[]			 That's definitely not go here
+[]			 So any time you need to break now an example or tweak it or modify it in some way, do it and please do it
+[0:38:35.9]  And, um, don't be concerned about your code being potentially not s compact or efficient or optimal, as you would want it to be
+[]			 All right
+[]			 Okay, um so reshape works off course to convert vectors into matrices or in putting it in a different way
+[0:38:54.1]  One DEA raising two to de Reyes and the the syntax is rather straightforward
+[0:39:05.8]  Okay, Khan, Captain Ating to a race means what the name suggests
+[]			 Basically, if they are too arrays off, size one by three basically means putting them next
+[]			 One another
+[0:39:18.2]  Along the only dimension that makes sense, which in this case, is the is the row dimension
+[0:39:25.1]  Once they have been conned, Captain Ated you can come, captain
+[]			 Eight further and so on
+[0:39:31.6]  If you have however, Hey, two dimensional Ray
+[]			 It begs the question
+[]			 Do you want to come, Captain? Eight to the right of the existing array or below the existing array
+[]			 If you don't explicitly say how you want the concatenation to take place if you just call the concatenation function, passing the name off the variables involved in this case it's great and great again
+[]			 It will come, Captain
+[0:39:57.8]  Eight along the first access, which means one on top of the other
+[]			 If you wanted to be one next to another, you will use the option X equals one
+[]			 Okay
+[0:40:13.9]  Any questions Russians know
+[]			 Okay
+[]			 All right
+[0:40:33.3]  So since the use of concatenation is something that you may want to do quite often there are alternative options to do the same vertical or horizontal stack, and they're called V Stack and H Stack, respectively
+[]			 That's another thing that some of you may have noticed
+[]			 And it's a common thing for many programming languages
+[]			 There are often multiple ways of doing the same thing with different Syntex
+[]			 And once again, in your assignments
+[0:40:52.1]  Unless you're doing something that is, say, deprecate ID, which will give you a warning or error message right there
+[]			 I don't care if you use one or the other
+[]			 You should know what you're doing
+[]			 And if your code is readable
+[0:41:09.9]  Okay, I would claim that, um perhaps, um, the horizontal stack Syntax is cleaner than the excess equals one for comm, Captain eight
+[]			 But if you think differently, that's fine
+[0:41:24.2]  All right, so there's there will be just a few instances, perhaps in which I will strongly recommend using, say, library function over another or specific option or something like that is will come later
+[]			 In fact, the textbook author does a good job in that
+[]			 Think about it
+[]			 For those of you who are keeping up with the reading, I think about what happens at the end of Chapter two, when they introduced Numb Pie, structured a race and you start realize it's a messy Syntex wise
+[0:41:54.0]  It's rather Massey
+[]			 And he only does that in order to motivate you to appreciate the beauty off pandas data frame
+[0:42:03.7]  So once you realize that you couldn't go much farther with Mumbai alone, pundits comes to rescue
+[0:42:18.3]  Okay, so, um, there will be moments like that in which, by the time you're starting to dislike something, chances are you're just being teased to disliked enough to appreciate what's coming up next to rescue
+[0:42:26.4]  That happens all the time, especially in this environment that is highly collaborative, where things evolve dramatically over time
+[]			 Okay, we'll talk more about that when you get to meth plus live
+[0:42:41.7]  How In the beginning, it was very quick and dirty attempt to bring meth lab type plotting capabilities to fight on folks and how, over time it became much bigger than that and how, in spite of having become itself much bigger, the A p I is considered too low level for many people, which gives rise to other friendlier AP I such a seaborne, which we saw in some examples already were users off Seaborn without worry much about what it is when you get the chapter for in the book
+[0:43:09.9]  We understand how Seaborn and met plot lib are related more clearly than we do now
+[]			 All right, So what does it mean to split Honore basically to break it down into a number off pieces which combined should correspond to what the array contained in the first place
+[]			 So let's take a look at this quick piece of code here and try to remind us off what's going on
+[0:43:38.4]  Basically, here I am, giving the name using the function split from numb pie
+[]			 So m p dot split to take on a ray X and split it into how many parts it looks like
+[0:43:52.5]  Three, because the array that I passed as a second parameter has three elements in it
+[0:44:00.4]  But it basically means, if you personally with an elements in it, you create n plus one sub arrays
+[]			 That's why you need four variables on the left hand side
+[0:44:10.7]  If you think it's only three and you forget to say the fourth variable, you will get an error
+[]			 It will say I have more values to impact
+[]			 Then you gave me variables to put them into all right
+[]			 In fact, this has nothing to do with the print
+[0:44:34.4]  In case you wonder if the error it's clear from the air message with this big arrow here where the interpreter stopped, it's clear that it hasn't even got to the line
+[0:44:42.0]  Where the print is to be evaluated is rudimentary
+[0:44:45.8]  Not even debugging but error verification here
+[]			 Okay, So in this case, if you understood the message, you would go back, fix it, and everything will be fine
+[0:44:55.0]  The English is here, our little bit mysterious
+[]			 In the beginning, we went over that last time
+[]			 But once you pay attention and you do the 0123 etcetera, they make sense
+[]			 Um, okay
+[0:45:10.8]  There are variations off the split function called eight split, and we split
+[]			 Which, of course, makes sense in arrays off higher dimensionality
+[0:45:30.4]  So to the array that you may want to split vertically or, um, horizontally
+[]			 Okay
+[]			 And those air pretty straightforward
+[]			 Correct is a still review
+[]			 I know, but I'm now comes perhaps one of the most important parts
+[]			 Let me just go to my slides, which I'm using this kind off, um, script here
+[0:45:54.3]  So we're arriving at 203 which is the lump
+[]			 I universal functions
+[]			 So here's the part where we are officially introduced to the notion that in them pie arrays are these first class entities
+[0:46:10.3]  You can at them OPIC and do a number of things with them, meaning on an element by element basis, without having to write much code for that
+[]			 So this is what to 0
+[0:46:28.6] 3 is all about so to our force, we will never, ever write a four loop in this entire class force off course
+[]			 It was a trick question
+[]			 Of course
+[0:46:35.4]  There'll be four loops for a million reasons
+[0:46:44.3]  Now, for a non trick question through our false, you should not find yourself writing four loops to traverse the contents off a raise in order to do any mathematical operation that is element by element between the two Rays
+[0:46:54.7]  That will be a true statement
+[0:47:03.5]  In other words, you will be implicitly bring something that goes by the name off victories ation off array based processing
+[0:47:08.5]  So I think that the concept is well understood
+[0:47:27.6]  In other words, if I have an array and I say compute had me run a few cells here, well, that may be a little bit distracting to you and those who are absolute beginners
+[0:47:40.9]  Please make note of this fact the textbook author sometimes introduces, say, time computations to show that fact arised operations are faster than four groups
+[0:47:48.4]  For some of you, this may be an unnecessary distraction at this point
+[]			 Okay, so keep that in mind
+[0:48:04.1]  So if you understand, say this piece of code here, you basically understand almost everything there is to understand in terms off universal functions and how to deal with a raise all at once
+[0:48:13.1]  What is X? Well, you have it printed here
+[]			 X is A to the national ray off size three by three, off integers between zero and nine except nine
+[]			 In other words, zero through eight
+[0:48:32.6]  What is this line off code doing here? It's basic computing to three Power X where X will be as many values s in this array, and the result will be an array of the same shape and size they say, Oh, but this wasn't assigned to available
+[]			 Of course, it could have been assigned to a variable here, so you can use it later
+[0:48:57.7]  So, anything, once again, anything you need to do to tweak the examples to your favourite
+[]			 Do it
+[]			 Okay, if you say OK now I understand what this is doing
+[0:49:12.5]  If you want to, Whatever split the cell again and we'll print Why here, whatever works so print ex separate from print y
+[]			 That's fine
+[0:49:16.8]  If you think it's a cleaner way of understanding it, you, my guest
+[0:49:19.3]  And of course, you can do that for addition, subtraction and many other operations, as indicated in this table, which is also in our slide
+[0:49:32.1]  And also you can do cool little things such as accumulate, like adding, all the elements are for multiplying them up
+[]			 And so we saw that before so we can move on to the next thing, the next thing
+[]			 Which, by the way, is important
+[0:50:03.9]  Um, which is basically the notion that sometimes you want to look a tte this summer is statistics off presumably large amount of data, in part because maybe it's too large to be looked at individually
+[]			 Every single row, every single column, every single element in the data frame
+[]			 If it's pandas data frame or in the array, if it's an empire, A
+[]			 So it's convenient to have library functions that do things such as the sum the minimum, the maximum off all the elements within the array
+[]			 And that's extremely easy to understand
+[0:50:36.5]  If you remember, of course, the trick with things that may be done across the array in the sense off column Wise or ro y's and how to specify the excess property to get what you want
+[]			 All right, so let's go to this quick example here
+[0:51:06.2]  This is your to the Matrix or array
+[]			 M three by four
+[]			 If you ask for the sum of all elements, you get whatever you get
+[]			 But if you say no, I want something say the minimum just across each row
+[0:51:27.0]  In other words, column wise, you can say so by saying, Compute that function
+[]			 Say the minimum collapsing the rose
+[]			 That's the meaning of that off course
+[0:51:32.3]  Instead of the minimum it could be
+[0:51:33.8]  The summit could be any other function, but basically you're doing it
+[0:51:39.2]  Collapsing the rose or collapsing the columns right
+[0:51:47.6]  In addition to some and minimum and maximum, you can have mean variants and a few other things
+[]			 What is the meaning of the n a n safe version of those and again instance for not a number? It means that if there is a value or more, that is not a number
+[0:52:07.2]  It will not crash
+[0:52:09.0]  So did we simulate that before? Let's do something here
+[]			 Let's go back here and say M 00 is not a number
+[]			 Let's see if this works
+[]			 No
+[]			 How do you force? I'm not a number in a dump
+[]			 I array, but we have to Right to make it
+[]			 Think it's not a number and P don't and the end like that
+[]			 You believe so? Looks like you're right
+[]			 Okay
+[]			 All right
+[0:52:46.6]  Let's see if something breaks
+[]			 It does
+[]			 You try to some
+[0:52:51.4]  All the numbers up, you get a nutty number
+[0:52:53.8]  This one, not a number, has contaminated the computation of the sun
+[]			 But if you know there's a safe version and p that an a m some you get there any n safe version off that
+[0:53:26.7]  All right, so it added up all the elements and this regarded and not a number just looking ahead, because this is an entire section on depend this chapter
+[]			 What is happening here, or let me start with a very basic question
+[0:53:41.7]  What is the likelihood that Rhea World Data sets will contain and a m points very high
+[]			 Okay, What could be the reason why certain points in a data frame in a table, if you want to call it that would be any
+[0:54:09.8]  Could be a million Things could be say, uh, blood panel that for a particular patient didn't check for cholesterol for the patients he did
+[]			 It could be a survey
+[]			 Questions answers The survey questions and some questions were not answered by some people
+[]			 It could be a million things, right? So this is effect off life
+[0:54:25.4]  There will be nuns or Anais or n A ends, whatever you wanna call it
+[]			 And soon enough we'll talk about strategies to deal with
+[0:54:35.7]  That, uh, common strategy is to use what is known as a sentinel, and the n a N symbol is such a sentinel
+[0:54:48.5]  It's basically putting something there that gives you the explicit indication that this is not to be taken seriously
+[]			 When it has a simple name like that
+[0:55:00.3]  It's kind of easy to figure so much sometimes when it has a value that cannot happen, say negative 9999999 in something that can only be positive zero positive
+[0:55:13.7]  Then you have to have this extra bit off knowledge to say, Oh, that means and a nothing number not available, not acquired, not computed, not measured or something like that
+[]			 What do you do when you have such things? We'll talk more about that later
+[0:55:27.2]  You can drop the entire road that contains and a M
+[0:55:33.7]  Sometimes this may not be in your best interest, because imagine if we're talking about, say, against blood tests on patients with a very rare disease
+[]			 So those data points
+[0:55:45.9]  Those patients are rare enough already
+[0:55:48.8]  If you tabulate the blood test results and throw away empire rose, meaning tyr patients, because for some columns for some aspects that the doctor could have ordered to be measured, they chose not to
+[0:56:06.1]  For that patient, you lose tremendously valuable data, so talk more about how to deal with these things
+[0:56:15.2]  One thing that you don't want to do is to have these things contaminate the rest off your computation
+[0:56:21.4]  So my question to you going a little bit beyond the syntax for doing this, which we figured out is is this a reasonable thing to do? In this case, if that guy's not a number, do you think this some off, everything else could be still useful, I would say yes
+[0:56:33.1]  Presumed, Yes
+[]			 It makes even more sense
+[0:56:50.0]  Perhaps if we did something, um, in a particular exes or something, because then it would only contaminate, so to speak, the column or the role to which it belongs
+[0:56:51.8]  Everything else would be inconsequential because doesn't have an impact everywhere else
+[]			 Right? So it is
+[]			 In most, I wouldn't say most
+[0:57:05.8]  It is, in many cases, a reasonable thing to do, which is kind of ignore it for now, at everything else up, which is what we're telling here with this scene techs and move on
+[]			 All right, so just a quick way to motivate the n a n safe version off some of these, uh, functions
+[0:57:26.8]  Then we had the whole average height off U
+[]			 S
+[0:57:27.8]  Presidents
+[]			 That's where we stopped
+[]			 This is something that you're working on as the beginning off your assignment
+[]			 One can go back to that later as needed
+[]			 Okay
+[]			 All right
+[]			 One point
+[]			 Okay
+[0:57:46.7]  Um, speaking off aggregations, which is what? This 204 that we came up
+[]			 It's all about
+[0:57:55.2]  Remember that the access Q word specifies that I mentioned it is to be collapsed, all right
+[0:58:02.7]  The next drifter notebook or section in the book, 2
+[1:11:02.7] 5 talks about broadcasting, and this is a figure that shows how this mechanism works
+[0:58:27.0]  Basically, broadcasting is a convenient way by which you can take an array, say, off one row and three columns add this case a constant to it, and it knows that what you mean is ed the number five toe each and every element of this array
+[0:58:42.9]  So I noticed, in order to make this element by element of Ray operation, it broadcasts this value five, however many positions to the right, if you will, until it has the same shape and size as the left inside operator and produces the desired result
+[0:59:04.1]  This is an extremely convenient way to save you from having to do those expansions or re sizing or reshaping yourself
+[]			 Okay, and it works for one D a raise to the arrays and, in the case of two DEA raise, it works in both dimensions
+[]			 In other words, you can add a column vector to a row vector and get a two D array as a result, in which case you're broadcasting across the columns here, broadcasting across the rose here and producing the result
+[]			 The syntax is straightforward and and the early example in the chapter shows that what you're doing here by writing a plus five is equivalent to having created another Ray where you did the broadcasting yourself manually
+[]			 Okay, as you may expect, this doesn't always work
+[]			 There should be some rules for these things work, and the rules are explicitly indicated in the middle of this
+[1:00:14.4]  Took her notebook
+[1:00:30.3]  Basically, it has to do with the number off the mentions off the arrays involved, so there will be examples in which things work, and the textbook author works out how the inner agreement off the dimensions is indeed correct
+[]			 And there will be an example in which things break on purpose
+[1:00:45.2]  Because what you're trying to do is not compatible is may remind you off good old matrix multiplication where if you multiply a matrix a by a matrix B, the inner dimensions must agree
+[1:00:54.4]  And once again, if you have had math lab experience before coming to this class, chances are the inner dimensions
+[]			 Do not agree
+[1:01:03.8]  Error message is one of the things you saw a lot because it's a common mistake to make
+[1:01:12.4]  If you ever come into matrix multiplication in a more traditional sense in this course, I strongly suggest you draw diagrams off what you're doing
+[1:01:25.8]  Okay, if any of you took the machine learning neuro networks courses by Professor Andrew Hang from course era famous Stanford University professor, you may have done those things in that in those courses, having to do the moat matrix multiplication to implement forward propagation back propagation, things like that and having to draw the diagrams yourself
+[1:01:42.2]  So you understand exactly which they mentioned you're dealing with
+[]			 And this is a general piece of advice
+[1:01:47.5]  There's no shame in drawing diagrams off what you are hoping to achieve, even in something as simple as assignment
+[1:01:54.6]  One First question or first, I am okay
+[1:02:02.1]  If you can see it on a piece of paper, you can explain to another person you can split the difference between understanding what you need to do and then figuring out how to do it in python numb pie and sore
+[1:02:17.1]  And I'm assuming here that if you run into difficulties, it will be most likely on the second half of this process when you try to figure out
+[1:02:24.7]  But how do I do it in Python? As opposed to This is what I need to get, all right, and we're getting to the point who have more, more answers to that
+[1:02:41.1]  All right, here's a nice example of broadcasting and something that happens in practice
+[]			 Say you have a new array off 10 by three random numbers uniformly distributed
+[1:02:56.7]  So between zero and one, you compute the main across the first they mentioned, in other words, for Call him and you get that value stored into a variable X mean and you say, you know what I want each column to be centered
+[1:03:10.1]  In other words, I want to have zero bathed values above and below the mean value for each column
+[1:03:29.6]  So one way to achieve that is to say, Let's create a new matrix X underscore centered, which takes the original values off X once again 10 by three, and subjects ex ming from each and every value, which is a Honore off size one by three
+[]			 So clearly when this took place, we implicitly used broadcasting
+[1:03:49.5]  This ex Ming array became a 10 by three array for the sake of the calculations, all those 30 subtractions took place
+[]			 And now what we have if we go for each of these columns is, uh, as you can tell, some numbers are positive, some negative
+[1:04:01.5]  And if you if you were to extract one of these columns and plot them or something, you would see that the, uh, look centered around zero
+[1:04:20.2]  Okay, in case if you want to check if this is correct, you can ask what is the mean value of each column after the centering and you would expect to get 000 You don't
+[1:04:28.7]  Why? Because thes air floating point calculations with a fixed precision
+[1:04:31.8]  So what, you get something in the neighborhood of 10 to the negative 17 is virtually zero for all practical purposes
+[]			 All right
+[]			 Okay
+[]			 The last example
+[]			 I think it's horrible
+[]			 So skip it altogether
+[1:04:48.1]  I don't think it adds much to your understanding
+[]			 All right, questions
+[]			 Let's keep going a little bit further
+[]			 And talk about comparisons
+[1:04:57.8]  Masks boolean logic because this will lead to something that in math lab goes by the name of Lord Tickle indexing
+[]			 Uh, the python folks like to call it masking and it's something extremely important
+[]			 So we're done with this
+[]			 We have done with the rules of broadcasting okay, here
+[]			 Comparison masks bullion, larger comparison operators
+[1:05:27.2]  So it shouldn't come as a surprise to say, Oh, numb pie supports comparison operators that it should
+[1:05:35.6]  He shouldn't come as a surprise either, that what we see as the overloaded operator, as folks with c++ background would like to call it, is actually a friendlier few keystrokes equivalent to something that has a full blown universal function
+[1:05:54.5]  Names such as np dot equal, which you can replace with two equal signs
+[]			 Nothing to it
+[]			 The devil, of course, is always in the details
+[1:06:27.7]  So once you thing about this for a second MP that equal if you hadn't seen a single example in your life, you know that number I raise our, um, first class entities, If you ask, is a ray a equal to be? What do you think will happen? Do you think it will do it element by element comparison and produce as a result, on array of Bull Ian's off this size off the race? Or will it give you a generic answered? That will only be true if each and every element is the same
+[]			 You could be the thing
+[]			 Okay
+[]			 You could either
+[1:06:52.8]  Which one is potentially more useful? Element by element of global, I would say element by element, which you can always eventually summarize in the incident in a way other than global
+[]			 Okay, but let's see
+[]			 What What is this story here? Okay
+[]			 In fact, your textbook doesn't start with that right away
+[]			 But you can see here that the comparisons do take place, um, element by element
+[1:07:16.9]  But just in case you say no, I want to test this hypothesis
+[]			 Professor, I want to do that before everything else
+[]			 This is what you can do it
+[]			 You can say you do the imports
+[1:07:26.9]  You do any sort sell below, or something like that, create to a race
+[1:07:48.7]  Seem to be identical, right? And ask if a Zico to be and you would get her answer right there
+[]			 It did on element by element
+[1:07:59.2]  Compare some which in this case, happens to be true
+[1:08:03.5]  True, true, true, true, true, true, More useful than, ah, global comparison
+[]			 Right
+[]			 Okay
+[1:08:28.2]  No, um the examples in the book will use a data set that has to do with how much rain is measured in the Seattle area, or how much was measured back in the year off 2014
+[]			 So every time you see lines like this, take a break to see if you really understand that's going on here
+[]			 P d got read
+[]			 Underscore
+[1:08:53.1]  CIA's V is technically the pandas primitive to build data frame out off something that was originally stored into a comma separated values
+[1:08:55.5]  In other words, spreadsheet like file
+[]			 That file has a name, and in this case it must be in a certain folder in this folder called Data and must have this name and what not this part here
+[]			 You probably cannot figure out until you see what the data looks like, right? Why? So that again you have an idea, Of course
+[]			 What is the idea? It's probably looking for a column in the C S V that has a name P R C P, and I've got the values from that that you're absolutely correct
+[]			 But it's in other words
+[1:09:44.5]  If you were writing this code yourself, you wouldn't be able to figure it out without opening the file first
+[]			 So let me give you a few bits off advice here at me
+[]			 Common this line off code copy only
+[]			 The first part of it
+[]			 Do something that you might I want to do
+[1:10:05.8]  Split the cell, See if this works
+[]			 Looks like it did
+[1:10:14.8]  So Rainfall apparently went to this repeated at Reed Reed
+[1:10:19.5]  CSU
+[]			 I went to this file, read it
+[1:10:22.4]  Built a data frame
+[]			 Now you have a date
+[]			 A frame
+[1:10:25.1]  Invariable ring
+[]			 For what? Can you ask one of the common things you can do
+[1:10:32.7]  Remember that if you have an object in memories a ring for the dot and you hit tab, you get some help off methods that work for that object
+[1:10:42.7]  Is there a method that you think would be helpful here? Oh, give a hint
+[1:10:45.5]  Starts with h ends with D
+[]			 Okay
+[]			 Okay
+[]			 So had okay, parenthesis
+[1:11:02.7]  What does the head method? What does it do to a panda's data frame? It produces the 1st 5 rows in a data frame, no matter how large or complex
+[1:11:18.7]  All right, so you see how the example becomes a little bit more manageable now that we are hacking for our convenience
+[]			 Why? Because there was no way you would know that such a thing
+[]			 It's p R
+[1:11:26.4]  C P, which presumably is an abbreviation for precipitation existed and had that name
+[1:11:45.2]  Okay, keep in mind one thing that will come up explicitly an assignment number two When we opened these types off data sets in CSP file say we are often assuming that someone, typically the book offer, knows another piece of information normally long as the code book
+[]			 In other words, no one in this room are watching
+[1:11:56.3]  This video is required to guess what is in the data
+[1:12:02.8]  Remember the president's heights in assignment? One self explanatory
+[1:12:06.8]  Then we went to the one that is the mpg
+[1:12:08.5]  I pointed to the place where you can look at the code book
+[1:12:14.4]  What is the meaning of things such as displacement or something like that? All right, or origin, Right, So here we don't have a code book
+[]			 Not that we no off
+[]			 So if you want to take the time to break the example down, it may be a good idea to do so
+[]			 Remember that what the author called ring for waas a subset off the entire data frame
+[1:12:42.0]  But we'll get to that in a minute
+[]			 All right, In fact, you can even call this something else
+[1:12:49.1]  If you want to be very meticulous, you can say ring for underscore fool or something to indicate that you got the full file here and that you're gonna go back to doing this thing later
+[]			 All right, So there is a column called P R C P, which is precipitation
+[1:13:09.0]  And we have information saying that the unit here is inches
+[1:13:11.3]  It could be millimeters centimeters
+[]			 Who knows? But that's okay
+[]			 What else can we learn about rainfall? Underscore, fool
+[]			 If instead, off head we had called shape
+[]			 What would we get? The notion that there are 365 rows
+[]			 No kidding
+[]			 It's for one year and 17 columns, which are whatever they are
+[1:13:35.1]  We lost that information because they replace that part
+[1:13:40.2]  And, of course, if you say Oh, you're so sloppy, Professor, You're right
+[]			 Okay
+[]			 You can say you can split cell here
+[]			 You can go back and keep your rain
+[1:13:52.4]  Uh, fall underscore, fool God head that we had before
+[]			 So you don't lose that you go to this one and so on
+[1:14:06.4]  And if that makes your solutions to assignments longer than they need to be and the time is ticking and you cannot clean up before the submission
+[]			 That's fine
+[1:14:15.7]  None of these things actually hurt, especially if they give further understanding off either data set or the problem or the intricacies
+[1:14:24.3]  And so so what are those 17 columns? They go by names such a station station name, date, precipitation, no team men T
+[1:14:25.5]  Max and so on
+[]			 Whatever those things may mean, presumably, if you take the values off this one column, that's all you care about
+[1:14:42.0]  It's precipitation so we can borrow this piece off syntax here and recreate our ring
+[1:14:53.4]  Fall variable by saying ring ful is rain for their score
+[1:14:53.8]  Full brackets
+[1:15:00.7]  Colin name dot values Here you're technically using pandas notation to index columns by name, which is something that, technically, you only learn about in chapter
+[1:15:12.9]  But there's no way to disentangle this just as we use math lot live to plot some things, all right, so it's the part where we're using some things, knowing that at some point later on, we will be able to if we want to understand them a little bit further, let me remove this extra cell
+[]			 So now we're back in business the same way as the example meant with available called rainfall, which is off size 3 65 uh, rose by one column
+[]			 If you ask for rainfall, got shape, you get that information
+[]			 The one here is implicit
+[]			 Okay, that's a python thing
+[]			 All right
+[]			 And if you convert the rainfall from interest two millimeters, you will or vice versa
+[]			 Yeah
+[1:16:18.3]  Uh, you will have something called Inches
+[]			 All right? Yes
+[1:16:24.9]  Did that values if you only have the column itself? Let's see
+[]			 Looks like it works just fine
+[]			 That see if the next calculation works? Looks like it works
+[]			 So to answer your question, I believe it would work just fine
+[]			 Okay? Yeah
+[]			 Can anyone tell me off for case where it wouldn't work? Another thing you can do always is to do a dot on a tab to see what else
+[1:16:55.7]  See it offers some very bizarre options here
+[]			 So perhaps it's even cleaner without dot values
+[1:17:06.3]  I can't think of a reason why this would be bad, right? Anyone The most experienced in the room? No
+[1:17:09.0]  Who lived at that? So thanks for that
+[]			 Questions
+[1:17:11.2]  Less observation
+[1:17:16.4]  Okay, so now you're using Met plot lib as is and see Born on top of that which is technically a friendlier AP, I built on top of meth apart limb
+[1:17:25.4]  To plot a history, Graham basically have to put the magic and imports and the sea born set all these three lines just to get this built in history
+[1:17:36.6]  Graham plotting functionality from seaborne
+[1:17:46.7]  So what does this plot tell us? It's not so much about bullion raising masks, but general interpretation
+[1:17:49.6]  Vast majority off the days in that year had very little rain
+[]			 We can say that right years
+[1:18:00.5]  This is the graph off the precipitation column
+[1:18:02.5]  Yes, sir
+[]			 Okay
+[]			 Off course
+[]			 You could do more things with the rainfall here if you want
+[1:18:10.9]  And if you have peaked at, um banned us, you could have seen a method called describe, for instance, which gives you summary statistics for each and every column
+[1:18:32.6]  Okay, so once again, there is no single linear path of learning here
+[]			 But you have to be mindful of what you're doing
+[1:18:39.5]  Why you're doing how much you want to jump back and forth
+[]			 How much you just want to get the job done and move forward
+[]			 Okay, So Oh, describe is really cool
+[]			 What does it tell me, for instance, that when it comes to precipitation, the minimum waas zero
+[1:18:54.9]  In fact, the first cartel is also zero
+[]			 The median is also zero
+[1:19:02.4]  The Ming is 33 point something the extended aviation 67 the maximum is 467
+[1:19:16.6]  So, indeed, there were more than half off the days of the year ahead because you're a rain which goes against the usual reputation off Seattle being a rainy city
+[]			 Okay, so, as always, the devil is in the details
+[1:19:26.0]  As always, people make arguments or things become well known truths when sometimes the data doesn't quite back it up
+[1:19:33.1]  This will be a recurring theme in this course
+[]			 Right? So what is the data telling us that there was some ring, indeed, for less than half of the days of the year
+[1:19:42.5]  And then legitimate questions become maybe more during the summer, Maybe more outside of this summer
+[]			 Can we figure it out? Yes, we can
+[1:19:52.0]  Fact example, will continue doing something like that
+[1:19:59.8]  It will get into, um, all these, uh, bullen, Um, um, operators and masks
+[]			 And I think it will
+[]			 It will eventually come back to answer the question
+[]			 That's if it happens here
+[]			 Yes, it will
+[]			 Okay, good
+[]			 All right
+[1:20:19.8]  So before we go back to the Seattle Rain data and before we take the break, let's take a look at this
+[]			 So we know that
+[]			 Okay, there
+[]			 Comparison operators, fine
+[1:20:30.9]  Things got a little bit trickier when you combine things
+[]			 So be careful when you do
+[1:20:44.0]  This is a table in the book that became completely butchered by formatting reasons in the director notebook
+[]			 But I made it available in this lights for you
+[]			 It's this table here
+[]			 Okay
+[]			 All right
+[]			 So look at what happens
+[]			 Let's take a look at this example here
+[1:21:02.4]  There's this array X here whose contents are the ones highlighted, If you ask simply ex less than six
+[]			 You're basically saying go to each and every element off ex compare against six and tell me to or falls
+[]			 So you get an array off the same size and shape as X, but bulletins instead
+[1:21:20.8]  If you think about what's the usefulness of this type of thing, you can think off indexing on lee the elements that you want, For instance, counting how many elements are non zero okay, Or the library function is count
+[]			 Underscore non zero
+[1:21:52.7]  But if you pass ex less than six as a parameter, you're basically saying, Go to the resulting array off billions and count how many off those guys are not zero, but it's a ray of bullets
+[]			 Professor, we're talking about zeroes here because every time you talk about bulletins, false means zero true means not a zero
+[1:22:15.9]  All right, so what is this line of code doing? It's basically asking how many elements in the original Array X are less than six, and the answer's ate out of the 12 at Step back a little bit
+[]			 So basically, in case you wanted, what they are all the elements in the first row for plus these two plus these two
+[]			 So the answer is correct
+[1:22:34.3]  You can check mentally because they're a small but what it actually did
+[]			 It went to this guy here all right, and it counted
+[]			 How many truths are there? That's how it produced
+[1:22:51.9]  The answer ate it, counted how many non zeros were there in the bullet array produced by the logical comparison X last then six
+[]			 Does that make sense? Do you see broadcasting happening here
+[1:23:02.1]  Absolutely excellent
+[]			 And six basically meant we compared ex off size three by four with an array off three by four, all of which have the number six in it
+[1:23:16.1]  Producing an array off three by four off truths and forces counting How many of those things are true and producing a result that is, in this particular case, eight
+[1:23:35.6]  Pretty convenient, huh? Asking how many elements often America, Ray, fulfill a certain criterion
+[]			 What about this line of code here? What is it doing? Very tricky, actually
+[1:23:53.9]  What do you think the programmer the naive programmer may have intended when they wrote that code? Some The values off the elements that are less than six
+[]			 Is that what it did? No
+[1:24:10.7]  Now it added up the truth
+[1:24:11.4]  Each true is worth a one
+[]			 So one plus one plus 18 times its equal to eight
+[1:24:25.8]  So that's not what you wanted, right? You you You probably wanted to add the actual value, so I wanted to have the 50333252 and four
+[]			 But that's not what you got
+[]			 You can do that
+[]			 But the same Texas, uh, different and I leave it up to you to figure out how to do that
+[]			 All right
+[]			 You may need some and see indexing type of thing
+[]			 We'll get to that
+[]			 All right
+[]			 Um, does anyone want to try? But if we do this, did you get it? We got it
+[1:25:13.6]  And this is a thing that sometimes gets beginners completely nuts
+[]			 They say you added three keystrokes, and they made a complete difference
+[1:25:21.1]  How in heaven did I know that these were the three keystrokes that I had to type? Okay, I know the feeling
+[1:25:28.0]  Trust me
+[1:25:32.4]  I know the feeling being there down that, and there'll be many keystroke that I don't know myself
+[]			 I have to look it up and so forth
+[]			 So what? Um, what it have it have I just done here? I used them
+[1:25:46.7]  Golan comparison are the comparison which results in Bullen Results two index on Lee
+[]			 The elements off X, where this is true and at their values up
+[]			 So is 25
+[]			 Correct
+[1:26:03.6]  Let's see five plus zero plus 38 11 14 1921 25
+[]			 It is correct
+[]			 All right
+[]			 So this is technically something that we'll learn in 2
+[]			7 or 2
+[]			8 whatever section it is
+[1:26:20.8]  So there's no you're following the book and the notebooks linearly as I'm pretending to do today
+[1:26:27.3]  You wouldn't know how to do that, and you will find a number of situations like that
+[]			 You have basically three main options
+[]			 One
+[]			 Try it out as I didn't hoping for the best to bracket the question
+[1:26:38.0]  Make a note of it
+[]			 How true
+[]			 What and third stop what you're doing
+[1:26:45.3]  Go one page 10 pages
+[1:26:48.2]  Two chapters, 10 books
+[1:26:51.4]  However many help pages, however, many stack overflow searches until you find the answer
+[1:26:53.9]  Figured out
+[]			 Go back and continue living your life
+[1:26:58.8]  None of the three is universally best
+[1:27:03.6]  Okay, sometimes time is your critical assets
+[1:27:05.2]  Sometimes the curiosities to high
+[]			 Sometimes you cannot get past that point if you don't solve it
+[]			 Therefore you have to do what it takes
+[]			 All right
+[]			 So start building those strategies, OK, and look at how powerful these things become
+[]			 So you start being able to answer questions such as how many values? Less than six in each row
+[]			 So you're basically asking the same questions
+[]			 How many values are there that are less than six
+[1:27:32.4]  Adopt the truce on my behalf
+[]			 But wait a second
+[]			 I want collapsing the columns, in other words, row by row
+[]			 So for two and two, four, two and two, that's the answer that you're getting
+[1:27:49.8]  How many Value Spur row are less than six? All right, remember that the array that you get is one by three
+[]			 It's not three by one, even though you collapsed the columns
+[]			 All right
+[]			 Okay
+[]			 And pay attention to those details
+[1:28:19.4]  What if you needed that array to be, um, three by one? I think you could transpose it, but it's not working for some reason
+[]			 Okay, at that any That is great
+[1:28:29.0]  Only look at the beauty off np that any an mp dot all, Are there any values at all? Of course
+[1:28:37.4]  Here you can figure out if you did that x rated and ate here, you could manually say, Oh, yeah, there's a least one
+[]			 Or of course, you could see it in the original Ray
+[]			 But if there's a race to large, you want something quick? Yes
+[]			 Is there any value reading? Zero? No
+[]			 Are all values less than 10
+[1:28:56.4]  True are all values ICO 26 Of course not
+[]			 Okay, you can do it by row or by column
+[1:29:03.1]  The stands are extremely powerful
+[1:29:10.9]  All right, What if we haven't any end there? Okay, you can start doing all sorts off
+[]			 Um, little tricks
+[]			 Okay
+[1:29:19.9]  You can force on n a n and see if it throws some of these things away or not
+[1:29:30.0]  But again, be mindful that you don't want to do things that will just make your life harder if they lied through enough additional understanding
+[1:29:35.0]  By all means, challenge yourself, break things and do what you need to do to learn
+[]			 But if you realize I shouldn't even be doing that, I'm getting into an unnecessary rabbit hole here
+[]			 Stop
+[1:29:50.8]  Take a break, Come back and focus
+[]			 All right
+[]			 All right
+[]			 Um, a few things that are important parenthesis matter that's important
+[1:30:16.1]  So here we are, asking for going back to the to the rain data set were asking how many days had more than half a niche and last them one inch of rain
+[1:30:22.1]  So for some reason, we are interested in that interval and you get the answer 29 days and you see that the sun, as in counting the number of true results is quite useful because you don't care about individual values
+[]			 You don't care if it was 0
+[0:28:32.2] 6 point seven or 70
+[]			 You just want to see how many are in that interval or if you ask
+[1:30:50.3]  By the way, what is the difference between this cell in this cell here? If you remember your logic design, this is basically the good old way off expressing A and B as they're not off
+[]			 Not a or not
+[]			 Be right
+[1:31:01.3]  One of the classical Bullen logic identities
+[]			 All right now, just to answer some meaningful questions about the Seattle ring
+[1:31:15.9]  In case you're curious with this knowledge, you can ask how many days were without ring at all, and the number is quite impressive
+[1:31:16.4]  215
+[1:31:20.0]  How many days head rain, the remaining 1 50? This is mostly for error checking
+[]			 Of course, you wouldn't expect some not to add up to 3 65 How many days had more than half a niche? Only 37
+[]			 How many days had head ring, but it was so low
+[1:31:36.8]  Low 0
+[]			2 inches
+[]			 72 clearly 72 37 don't add up to 1 50 Why? Because there were days in which there was rain and the ring waas Um um between 0
+[]			2 in 0
+[1:11:02.7] 5
+[]			 Right? Okay
+[]			 Good
+[]			 Um Oh
+[1:32:21.2]  Remember the bull in arrays mask that I pulled out of my hat a few minutes ago? The answer was in this same section, all right, howto index the elements that satisfy a certain logical condition, which, in, uh, bye from parlance is considered a masking operation in math lab is called logical indexing
+[]			 Same thing
+[1:32:32.8]  It's a way by which you can index elements in the array, bypassing a condition to them
+[1:32:43.2]  But be mindful of what you're doing here When you ask just simply excellence than five, you get an array off bullets off the same shape and size off X
+[]			 When you ask, tell me what they are
+[]			 You get their values
+[]			 But you completely lose information above the original location in a red X
+[]			 So what? I mean, here you have their values
+[]			 All right
+[]			 You can compute what everyone to compute with them
+[]			 But based on this operation, you don't know where they were
+[1:33:11.7]  So if the position oh, aspect is important, this may not be the best way to go
+[]			 All right
+[]			 Okay
+[1:33:33.0]  Now, this is the part where we ask a few other questions about the Seattle data sent
+[1:33:41.0]  Basically, we create a variable called summer, which is between the 107 3rd and the two hundreds
+[1:33:42.2]  Six years, first day of the year
+[1:33:52.7]  And we ask to compare precipitation outside the December are within the summer
+[1:33:55.8]  And surprisingly enough, the Midian precipitation on summer days is zero
+[1:34:03.6]  Whereas this is something that is so cool
+[1:34:12.8]  Okay, I like this example for for the warding off the results
+[]			 Take a look at that
+[]			 We're basically using, um, logical indexing here to get either rainy days or days that following the summer or rainy but outside off the summer rainy and not summer
+[1:34:37.4]  And for some reason, for three of the four results were using the medium
+[1:34:44.8]  So what is the property of the median? Okay, what is the median between Negative one negative
+[1:34:46.1]  101 and one zero
+[]			 Okay
+[]			 Okay
+[]			 So middle precipitation on rainy days is whatever
+[1:34:59.9]  Fine
+[1:35:11.9]  But this may come as a surprise for people who don't know what media means, right? Um or better yet, um, this one right the meeting Precipitation on summer days waas zero, which basically means which was already when we did describe more of them half off the summer days did not have any rain, right? That's all we can see
+[]			 Okay? And the maximum, of course, is whatever it is
+[]			 And of course, we can easily tweak this to have minimum or standard aviation
+[1:35:44.1]  Other summary statistics final bit about this, and then I promise we'll take a break
+[1:35:49.7]  There's syntax for the end and our operator using the Empress End and the pipe symbols
+[1:35:53.3]  But there's also cured and and cue Ward or beware off the difference
+[1:36:00.0]  I will not go through because it's very tedious
+[]			 But beware off the difference between to in cases where you may get an error
+[]			 All right, I'll leave it up to you to play with these options if you want
+[1:36:20.8]  Okay, Uh, roughly speaking, if he used the M percent and the pipe symbol, you should be fine
+[]			 Okay, so this is where I want to stop for before the break
+[]			 Then we'll go to the so called last bits off numb pie and officially talk about pandas after the break
+[]			 Thank you
+[]			 Go
+[]			 It's Yeah
+[1:37:09.0]  Yes, I hear that is like war on this one
+[1:37:17.8]  Used to call That's where's your line? But I drop the one here
+[]			 Here
+[1:39:34.5]  Really? Wait
+[]			 I need to be nice
+[1:40:50.1]  Part of the beginner way
+[]			 Maybe it's a long way
+[1:41:06.5]  There's just a package manager, mostly blacks
+[1:41:10.9]  Oh, you mean by fine determine our charming like Okay, way straight into the super note
+[1:41:24.5]  Because it it is a friendly interface through I and you can see the context of those things you can write some text above For your own sake
+[]			 Yeah, it's fine
+[1:41:36.2]  Yeah, it will be quicker
+[1:41:42.5]  Yeah, I'm enjoying myself, you know? Yeah, but it's a much less friendly to do in the terminal dinner
+[1:41:45.1]  That's one of the motivations for No, thank you
+[]			 You're welcome
+[]			 All right, let's get back on to the business off
+[1:42:00.0]  Numb Pie with a few last bits and very few, in fact, the important things in the last three sections off Chapter two are in Section two
+[1:42:06.1]  Seven
+[]			 Fancy indexing
+[1:42:27.7]  So let's take a quick look into that a few things here and go to 27 fancy indexing
+[]			 So at this point, technically, we know three ways off accessing and presumably modifying portions off numb by race
+[1:42:51.5]  One is what the textbook calls simple in
+[]			 This is where we put the sub script within square brackets
+[1:43:14.8]  The other one is slices where we use the colon notation, and the other one is boudin masks where we do something such as, uh, comparison or any type of logical operation within the brackets themselves
+[1:43:18.8]  Fancy indexing is the proverbial cherry on top of the cake
+[1:43:26.6]  It basically allows you to use a race, as in this is for other rays
+[1:43:27.3]  Essentially, that's what it is
+[1:43:31.1]  So it means passing an array of fantasists to access multiple ray elements at once
+[]			 So let's see how this works out
+[]			 So let's assume we have this one dimensional ray X off random numbers between zero and 100
+[]			 Okay, and let's assume we want is a simple indexing, right
+[1:43:55.7]  If we want the fourth, the eighth in the third element, we can just write their sub scripts
+[]			 Nothing to it
+[1:44:09.5]  We could make it a little bit more elegant and say, This is the area of Indus is and please find me the elements in Ex Who's in
+[]			 This is our 37 and four
+[]			 So basically, it's asking, going fetch X subscript three x subscript seven and X subscript to nothing to it gets more interesting if you do these things
+[]			 And, um, to the national A race
+[]			 Look at what's happening here
+[]			 Here
+[1:44:42.5]  We're basically providing a two dimensional array off in this is that will serve two, populate the results of this X scribe record i n d line of code
+[1:45:07.3]  We're basically saying goto each and every element whose position subscript index matches these numbers and populate their values here
+[1:45:17.7]  So basically means going to the array X getting the fourth element subscript 3 71 and placing it here
+[1:45:24.4]  In other words, your index array or your array of penises is basically determining the shape off the result on your behalf
+[1:45:35.9]  You're not simply saying, get this guy and this guy and put them all together, which by default it would do but instead shaping anywhere you want
+[]			 All right
+[]			 Um, okay
+[]			 And of course, you can combine this type off
+[]			 Are there a few more things here? They're important off course
+[]			 It works in multiple dimensions
+[1:46:00.5]  So if if you have to index arrays, Roland column and if you write it like this, Um, you're basically saying go to Rose
+[]			 Zero column to fetch that guy
+[]			 Go to row One column one fetch that guy and so on
+[]			 All right
+[]			 Um, you can use broadcasting with fancy indexing as well
+[1:46:45.0]  So if you want, you can, um, find the second first or conversely, 3rd 2nd and fourth row for each column
+[]			 See if you can understand this example here this scene techs, which is a little bit mysterious
+[1:47:07.8]  It's basically saying that for each row you go sort the in the reax you'll sort the rose the elements within its row
+[1:47:12.6]  According to, um, the Indus is provided by the call
+[1:47:20.4]  Terrible
+[1:47:38.7]  So basically, the way you would read this is Goto This guy, which gives you the Indus is basically means visit the index to, in other words, the third guy and then the index one, the second guy and so on and put them where they belong
+[]			 And that's how you get the result
+[1:47:51.7]  You see Okay, you can, of course, combined fancy indexing with straightforward in dissing and slicing and logical indexing
+[1:48:09.2]  Anyway, you want So this is an example where it can say starting with the second column, Get the other three columns in the way that shuffles them
+[1:48:21.4]  So you'll get this column to 6 10 Um, nothing is stronger
+[]			 Okay, True
+[1:48:42.7]  Starting with the second Whoa
+[1:49:04.1]  So this one basically says, go to the third row and get the Indus is as follows This guy subscript to this guy subscript zero, This guy subscript one
+[]			 That's what you get here
+[1:49:12.1]  This one tells you to the same thing starting on the second row
+[1:49:19.8]  So you do the same thing for the federal, But you also do that for the second
+[]			 All right
+[1:49:29.3]  Okay, um, this example here, iss just okay
+[]			 I will not pay much attention to it
+[1:49:42.6]  I will just point out that if you run your Jupiter notebook with the original code which tries to make this salient points larger, it didn't work for me, so I had to replace them with red instead to make them show up Something, uh, happened there
+[]			 All right
+[1:50:08.7]  No, of course, everything you can do, using a certain type of indexing to simply access values within an array, you can, presumably due to change the contents off the array
+[]			 So look at these examples here
+[]			 So look at what's happening here
+[]			 Basically, you created an array from zero through nine
+[1:50:30.2]  Then you said for these indexes to 184 replaced those guys with the number 99
+[1:50:39.0]  So the third element, the second, the ninth and the fifth elements were replaced with the number 99
+[1:50:45.9]  Now, if you say subtract 10 from the elements off AEX Index by the SIM array of Venus is I You are basically applying mathematical operation too
+[]			 The elements off ex who's in this is our in array
+[1:51:11.0]  I In other words, those guys that you started off calling them 99 will know become 99 minus Stan
+[1:51:27.3]  Therefore, you see those 89 here? Okay, uh, there's a word of caution here repeated in this is with these operations can cause some potentially unexpected results
+[1:51:47.1]  So this is, uh, an example where you put an array of zeroes and then you basically try to replace with the values four and six, but basically, you're assigning to the same position, so you're replacing with four and immediately overriding with six
+[]			 So this line of code doesn't make much sense overall
+[]			 All right, because the indices are the same
+[]			 If you replace this with zero and one, this would make sense
+[]			 You're basically saying put a four in the element whose index zero put a six in the element
+[1:52:06.2]  Whose indexes? One
+[]			 All right
+[]			 Okay
+[]			 Um, what about this? This is also a little bit tricky
+[]			 You're basically saying that there's an array of penises with repeated values and you want to add one to the elements Who's index falls within that range? But this, uh, we have to figure you have to change a few things here
+[1:52:52.0]  Let me just to keep the example as it wa ce Okay, so basically, you're heading one to the element whose subscript is too
+[]			 This guy, you You probably meant to add one twice to this guy, but it didn't quite work right or three times to this guy, but it didn't quite work for the same reason
+[]			 Okay, so if you want to do that, if you want to add multiple times the same amount to however many times the index appears here, the recommended Syntex is head at
+[1:53:36.9]  So basically you're saying go to the positions for vector A At index, I add whatever amount one, and the result will be as intended
+[]			 Does that make sense? Let me bring the index I hear
+[]			 So we copy it from here and put it here so the cell becomes more self contained
+[1:53:59.6]  Another little trick you can use if you see that you're working on a cell and it uses variables that are way Beck earlier
+[1:54:04.7]  Bring them back here
+[1:54:05.8]  Copy them again
+[1:54:06.9]  Declare them again
+[]			 So you have everything you need to understand this example right here
+[]			 Okay
+[]			 So basically, the a number of times that index appears here means how many times the ad at that position will increment by one
+[]			 Ofcourse, if you wanted to increment by two, it would be a simple as that
+[]			 So play with example little bit and you should be fine
+[]			 All right, so that's basically it for numb pie
+[1:54:36.3]  Once again, 208 will tell you
+[1:54:38.3]  Surprise, surprise
+[1:54:39.8]  There is a sorting mechanism built in
+[1:54:49.2]  You don't have to write her own quick sort, bubble sort, heap, sort, merge sort or something that you may have had to do in some data structures causing in your past
+[1:54:55.5]  There's MP, that sort that does the job for you good and 209 will talk about structured a race, which is something that exists in lump I
+[1:55:06.4]  For those of you who know PHP, they will remind you off associative arrays
+[]			 That's what they're called in PHP
+[]			 But they are messy
+[]			 They are unfriendly
+[]			 So the textbook author basically shows you that they exist just to tell you
+[]			 And I'm not kidding
+[1:55:23.3]  I can quote from the book if you go to structure data, numb pie and you screw all the way to the final few words in the chapter
+[1:55:32.6]  It says this section on structure and record the raises purposely at the end of the chapter because it leads so well into the next package, which is pandas
+[]			 In other words, you
+[1:55:41.3]  Even though Nam pie has this type of, um, support, you don't want to mess up with that
+[1:55:48.9]  It's the same Texas ridiculously unfriendly
+[1:55:52.5]  Okay, so don't even waste any time with that
+[1:55:57.2]  With that having been said, let's switch to pandas
+[1:56:03.2]  So pandas, which is the Python Data Analysis Library, is basically built on top off numb pie and, of course, python
+[1:56:14.1]  And it offers their structures and many operations for manipulating americal tables and time Siri's so you'll see that these two main objects will be highlighted in in great detail
+[]			 The chapter on Pandas in the book is extremely long
+[1:56:33.4]  It's very heavy, very extensive, so hopefully I'll be able to pick up the things that are most important to you as we go through this together
+[1:56:46.8]  Okay, The two most important objects are Siri's and tie data frame
+[1:56:53.1]  Siri's is for one dimensional rate, which could be huh temporal
+[1:56:56.3]  They mentioned type off collection of measurements, say, And they the frame is your good old table, typically a toothy array with some tricks to handle a raise of higher dimensionality
+[]			 So, um, let's go to the first notebook
+[1:57:17.8]  The 1st 1 technically st 00 Introduction to pandas, where you be reminded that every time you need toe use pandas, you do an import
+[1:57:26.7]  Pandas SPD Before you do anything else, nothing to it
+[1:57:38.9]  301 is where things start to get interesting, so important, implying pandas
+[]			 So let's start with a serious object
+[]			 So this is a one dimensional array off index date
+[]			 So far, so good
+[]			 You may stop here and say I could have created a one dimensional ray off index data using numb by
+[]			 And that is correct
+[]			 The difference go
+[1:57:59.9]  Every spenders allows you to index the data in different richer ways than numb pie
+[]			 Okay, in addition to having their subscript 0123 you can create other types off induces
+[]			 Okay, In other words, skip a little bit
+[]			 Here
+[]			 You could write something like this
+[1:58:38.6]  You could say it's a panda Siri's whose values are this first array before the comma and whose index I want to be the letters A, B, C and D
+[1:58:45.3]  So when you ask what is the content of data, it's now appendices
+[]			 Siri's object who's in? This is our lower case, a through D and whose values are 0
+[]			25 etcetera
+[1:59:05.5]  And if you want to access the data based on the Indus is you chose data sub script, be in single quotes will give you the element that you expect it to you
+[]			 You may ask yourself, Can I still use a traditional index scene? So create another so type something like that Data subscript one
+[]			 And apparently yes, you can
+[]			 All right
+[1:59:30.5]  Okay, The ability to choose your own industries comes with a lot of flexibility
+[1:59:41.1]  For instance, I can create in America in this is there are not 0123 but for some reason to 53 and seven for whatever reason
+[]			 Okay
+[1:59:48.6]  Could be that I want to match to the months of the year
+[1:59:51.9]  And those values happen to be February, May, March and dry or something
+[2:00:00.8]  All right? And I want this friendly way off figuring out by the number here that this is the month of February in which 0
+[]			25 off something happened
+[]			 All right
+[]			 Okay
+[]			 Now be mindful that once you do that data subscript five is based on that data subscript zero would be what, on error or another way off accessing the zeroth element
+[]			 What do you think? Let's start with something simple
+[2:00:34.4]  They subscript to what do you think? Point? If I Yes, but they the subscript zero ever
+[2:00:48.4]  Okay, so and the era has some have stable cause helper in it
+[]			 So basically, there is no zero as a key in this stable, right
+[]			 So too is no longer the third element
+[]			 There, index, the key that you chose yourself
+[2:01:08.6]  All right, So don't take this analogy
+[2:01:11.2]  That the good old substrate works even when you choose other indices
+[]			 Because it may break soon enough
+[]			 All right, Right
+[]			 Right
+[2:01:26.8]  If you want to convert that to an umpire rate with losing index reset to 01 et cetera, and then it would work
+[]			 Yes
+[]			 All right
+[]			 Okay
+[2:01:47.8]  You wanna do that? So if we do and MP that already off the data, right, and then zero, you think this would work and he put dream date? Okay, that's the type of thing that falls under my earlier a comment
+[]			 The options
+[2:02:00.4]  Try it right away bracket for future reference or go search for the official documentation or something like that
+[2:02:09.3]  We were lucky that the syntax worked and the it confirmed what we thought
+[2:02:13.5]  All right, so we can think of a syriza's a special type off dictionary
+[2:02:21.7]  A dictionary is basically and here, by the way, folks, is the point where I'm tryingto put your minds
+[2:02:24.2]  The beginner's mostly at ease with your Oh, my goodness, I don't have a strong background in python or no background whatsoever
+[2:02:39.3]  That's fine, because when it when the book says things such as you can think of a panda, Siri's a bit like a specialization off a python dictionary
+[2:02:47.0]  If it's tough, ideally would say OK, what is a python dictionary? Don't even know enough fighting for that
+[]			 And then it says, Oh, dictionary is a structure that maps keys to values
+[]			 But look at them
+[2:02:58.4]  They're going to details again, huh? Arbitrary keys to arbitrary values
+[]			 That's how dictionaries work in python, whereas a panda Siri's objects is the structure, which maps typed keys to typed values
+[2:03:15.8]  Okay, once again, similar to lists and Empire race
+[]			 Now bye from dictionaries and panda Siri's objects
+[2:03:25.8]  You lose some flexibility, but you gain in some other way efficiency, for instance
+[]			 So here's an example
+[]			 Off a dictionary population underscored the icy tea, which has as an index or key the state's names and as a value, some number, which presumably is the population off those states
+[2:03:59.7]  So population dot underscored the icy tea is a python dictionary because its keys and values are all of the same type, it can be converted to a panda
+[2:04:06.6]  Siri's in this line of code, and when we do the conversion, the new variable population is a panda
+[]			 Siri's objects with the state's names and their population
+[]			 Remember, in a dictionary, this is the key
+[]			 In other words, I should be able to write something very readable
+[2:04:24.4]  Such as what is the population of California and get that value
+[2:04:41.2]  All right, Okay, by the way, for some reason, the way the code runs versus the weights presenting the book is not identical
+[2:04:45.1]  There's something about automatic shorting off a medical shorting that takes place, uh, here or doesn't take place here and takes place in the book or vice versa
+[]			 All right, so it can use slicing if you want to get the population off
+[2:05:05.5]  States between California and Florida are basically asking for this slice you can use there common colon operator to slice it up
+[]			 All right, how can you build a serious? You can build a Siri's out off list out off a numb pie ray out off a dictionary
+[]			 So if you do P
+[2:05:31.7]  D that Siri's and then pass um to foreign six
+[2:05:33.4]  Separated by commas surrounded by square brackets, you basically create a time Siri's one dimensional object whose industries will be by default
+[]			 01 and two
+[2:05:53.3]  You can specify the index to be something else, as we mentioned where he can initialize with key value pairs or index column value
+[]			 Um, as in this example here
+[]			 Okay
+[2:06:08.6]  And you can even, uh, initialized with a larger number off data points and index on Lee, a subset of them
+[]			 Okay, this is a little bit, uh, mysterious in the beginning
+[2:06:30.0]  In other words, you can populate a siris on Lee with the explicitly identified keys, right? The other big name in panda
+[]			 So this is the Siri's object
+[2:06:49.6]  The other big name in panda, the one that we are already using on and off without looking at its specifics, is the date of frame object data frame object is the bread and butter off traditional data analytics using something that in the business world could be done using excel or are, or other tools
+[2:07:11.9]  So basically, it's a generalization off a numb prior rape
+[2:07:15.1]  In fact, they're too philosophical ways off
+[2:07:20.0]  Telling what the data frame is, you can say that it's a generalized version often umpire a or a specialized version off a dictionary
+[]			 Let's take a look at that
+[]			 So has look at these examples here
+[2:07:42.5]  So this is a dictionary called area underscored the eye city, which has as keys or induces the names of the states as the and the values are the area in square miles presumably, and we can make a pandas Siri's out of this dictionary and check the result Good effect
+[2:08:07.2]  Once again, if you are curious about how this how does this thing look like what we're while it was still, um, by phone dictionary
+[2:08:24.0]  You can do that, Okay? Or you can try print area U I, C T or whatever it is just to separate the dictionary from the Pandey Siri's built from the dictionary
+[2:08:27.1]  Contents
+[]			 All right
+[]			 No, we can make a date a frame out off those two Siri's
+[]			 So, in other words, we can put the population and the area off those states side by side and create a data frame called states
+[]			 Who's column
+[2:08:56.0]  Names will be population in area and whose actual contents will be populated with the contents of the variables population, which is a data Siri's object that was created all the way here and area, which is another Siri's object
+[2:09:14.0]  It was created more recently
+[2:09:21.6]  This is almost equivalent to taking too one dimensional column vectors and gluing them together and turning into a two theory
+[]			 Nothing to it, right? Here's another example of things that it can start asking yourself
+[2:09:41.6]  For instance, What if the second variable here didn't have the great state of Texas? Okay, so it has California, New York, Florida and Illinois
+[]			 So what would happen if I try to put the two together by default? No
+[]			 Maybe at any N for the area of Texas because we don't have that information
+[]			 Maybe it would drop the row all together
+[2:09:59.4]  What do you think is more reasonable? Drop your Oh, I think it's the other way
+[]			 Okay, and what it does is the any end
+[]			 So that's what I thought would be more reasonable
+[2:10:08.8]  That's what some people in this side of the room gas it would have happened
+[]			 All right
+[2:10:14.3]  So, in other words, it tried to be as inclusive as possibly took everything he had on the population, siris everything it had on the area
+[2:10:25.4]  Siri's created a data frame out of the two, and for those intersections of rows and columns in which it didn't have anything, it put in any an ism reminder that it doesn't have that information
+[]			 All right, okay? Of course
+[]			 Now he messed up the example
+[2:10:37.9]  Many things from this point on will probably break
+[]			 And why don't you do this, right? Uh, that's the Texas thing
+[]			 Uh, I can bring this guy back here
+[2:10:54.7]  I don't, but I have a clipboard
+[]			 Okay, good
+[]			 All right
+[]			 We're back in business
+[]			 All right
+[2:11:05.6]  So you can ask, What are the Indus is for the Siri's object? Of course, the industry's came from the population and the area, serious objects
+[]			 And now they are the This is using data frame object
+[]			 You can ask whether their columns and so on
+[]			 You can also try to do something else
+[]			 When you do dot tab, you see that their whole lot of things you can do here
+[]			 Okay
+[2:11:38.2]  So you can do values, for instance, and didn't help because probably, uh, I would have to form it differently, But you can do a lot more on the pieces and bits of data frame as you want
+[]			 Okay
+[]			 So if you ask, what are the areas off each of those five states you get, uh, something like this? Good
+[]			 No, um, this is an important reminder
+[]			 Um, you know, to the national numb pyre
+[2:12:20.7]  A data subscript zero will return to first row for a date of frame data with the name of the column zero, we returned the first column
+[]			 In fact, let's see if we can actually do it simply a zero here
+[]			 No, I cannot
+[]			 But we can't do the zeroth column, okay? And that, in this case, is a population
+[]			 And that's what we get
+[]			 Yes
+[]			 Oh, no
+[]			 Oh, I think it's just a generic
+[]			 And I think it will work for this
+[]			 But we can try
+[]			 Yeah, it doesn't interest a generic example
+[]			 It's kind of the name that your column zero have, which in our case, is population
+[]			 All right, good question
+[2:13:05.6]  Okay, So how else can rebuild data frame objects we can build from a single Siri's object? So this is an example in which a serious object, the population object waas promoted toe a data frame
+[]			 All right
+[]			 We can build from a list of dictionaries
+[2:13:24.8]  By the way, this is something called tau
+[2:13:25.2]  Learn how to do when you're trying to figure out simple operations on data frames sometimes even string, such as California, Texas for the worst
+[2:13:38.2]  Yet, those large motive digit numbers are distractions
+[]			 You don't want that
+[]			 You want to get to the point where you can see what's actually happening
+[2:13:47.2]  So here's an example where you build a data frame consisting off three rows
+[]			 Two columns
+[]			 The column
+[2:13:54.8]  Names are A and B, and basically their values are either roll index or twice the amount Simple like that
+[2:14:00.2]  It becomes much easier to see what happens with this small, manageable data frame, even compared to a data frame of the same size, with long strings or long numbers or weird stuff
+[]			 Okay, for instance, Um, here's an example where you try to build a data frame where you only have values for certain induces in some positions
+[]			 But not all pandas is clever enough to figure out okay
+[2:14:31.7]  Apparently, this person is asking for a data fame with three, and this is a B and C all right
+[]			 That means three columns, apparently for each row
+[2:14:47.2]  Some of the columns have values, so column A and B for the first row Columns B and C for the second row
+[]			 And for those that don't and I am all right
+[]			 And here's the info on this guy Now, interestingly enough, look at what happened with the data types here
+[]			 Um, because off the need to put an end again here and here this one and this four, which originally meant to be integers, were promoted to float
+[2:15:22.8]  That's a technicality
+[]			 Any n has a floating point representation to it
+[2:15:28.8]  So to be consistent, it had to be all floats, all right
+[2:15:33.2]  Meanwhile, since column B had values for all its rose and those values are integers, the column remains a column off indigenous
+[]			 It is fine
+[2:15:52.0]  Remember that date of frames in general who have columns of completely different types? The miracle categorical interject floats, etcetera
+[2:15:56.5]  So this is perfectly fine
+[]			 You can build a data frame from a dictionary off Siri's objects
+[]			 We kind of saw that you can build from a two dimensional numb pie array
+[]			 Look at this
+[2:16:20.6]  You build in umpire a first random numbers three rows, two columns and then you say, by the way, I want to the columns to be called Food and Bar and the rose to be indexed by a B and C, which, of course, could be anything itches, Right? So one thing that you may want to do going back to assignment
+[2:16:34.7]  One is to take that data frame, consider containing the president's convert back into an umpire, a gore or do other things just tow
+[]			 I understand that you can see which things are made off
+[2:16:48.7]  What? Okay, this is strange syntax
+[]			 I wouldn't worry about that
+[2:16:56.3]  It's basically taking the ugly, numb pie structure racing Tex and building a data frame out of it
+[]			 You don't have to worry about that
+[2:17:05.9]  There's a panda's index object which basically serves
+[2:17:07.3]  Isn't a re toby used in indexing operations just as we saw in the fancy index? Seen examples in them pie
+[2:17:18.1]  But you have to be mindful that it is immutable
+[2:17:22.9]  What does it mean? You cannot change? It cannot assign values to it
+[]			 Okay, so if you try to do in subscript one, get a new value, no can do
+[]			 All right
+[]			 Okay
+[2:17:43.7]  If you have two arrays off induces and you want to combine them, you can do so using intersection union or symmetric difference
+[]			 In other words, set operations
+[]			 Okay
+[2:17:52.3]  You can create combined index that if youse intersection, of course, consists off only the elements that are present in both sets
+[2:17:57.7]  If you do Union
+[]			 The elements that are present in both sets
+[2:18:01.5]  Of course, it removes redundancies
+[2:18:02.2]  It creates something nice and elegant
+[]			 Okay, so one index here could be summer days in whatever way
+[]			 The other index could be holidays
+[]			 And you could have an intersection saying holidays that fall within the summer or something like that
+[2:18:24.5]  Okay, Toe access to use as a as an index against any data frame that has presumably data for the 365 days of the year
+[]			 All right, questions
+[]			 Let's go back to the slides
+[2:18:40.1]  Justus, a script chief
+[]			 I'm not missing anything
+[]			 Okay
+[2:18:43.5]  Talked about index
+[2:18:47.0]  Okay, so data indexing and selection, that's the debt
+[2:19:05.7]  So when we just revised numb pyre raise indexing, we learned about basic indexing, slicing, masking, fancy indexing and combinations off those things
+[2:19:14.6]  They're similar ways, of course, to access information in data frames or Siri's in Panda's
+[]			 Let's see how this works
+[]			 Starting with a very simple panda, Siri's for elements, straightforward data and then the name of the indexing square brackets
+[]			 We saw that before
+[2:19:34.6]  You can ask, is there such a thing as a ki ay in the data and get an answer before you try toe access the element at position whose key is a So if you try, he of course, it would result false
+[2:19:49.1]  That is basically a way off saving you from trying data
+[2:19:57.1]  He and getting nearer
+[2:19:58.4]  You could have prevented it by asking, Is there such a thing as E? And the answer would be no
+[2:20:05.0]  So you would have spared yourself from that there where you can ask for the complete list
+[2:20:09.9]  Half
+[2:20:11.2]  He's in this data in this Siri's object
+[]			 Okay? Or you can ask for a list off the items
+[2:20:22.5]  Nice
+[2:20:26.9]  This stuff, index content payers
+[2:20:30.2]  My advice
+[]			 Try these things, okay
+[2:20:33.0]  Especially with very small variables
+[]			 Okay
+[]			 See if you understand what's happening here or say for instance, remove the list and ask only for data thought items
+[]			 You what it says
+[2:20:51.2]  Ah ha It zip
+[2:21:01.8]  What is a zip in python? The list of elements that you can spend by using list
+[2:21:13.1]  Okay, So in that case, if you don't have a python background, you would hit a potential roadblock, but nothing that is too far away from a Google search
+[2:21:24.2]  Right? Zip in python, there are some non official sites here or you can go to the official documentation and learn more about it
+[]			 Okay, Okay
+[2:21:38.3]  You can, of course, override the value off any element in this array or create a new role on the spot
+[]			 Which is what? This piece of code, actually
+[2:21:46.2]  Thus right
+[2:21:49.3]  So there was no Ro Who's index is lower case E
+[2:21:55.4]  By writing that it dynamically extends the dictionary or a pens, an element to the Siri's
+[2:22:08.7]  That's extremely convenient, especially if you come from languages in which this requires locating memory explicitly and re sizing and whatnot
+[]			 All right
+[]			 Okay
+[]			 Can you access the information in this Siri's object using slicing? Yes, you can
+[2:22:25.5]  Can you do it Slicing by the explicit index such as a through C? Yes
+[]			 Or about implicit? Yes
+[]			 But look at the difference here and look at it
+[]			 How tricky this is A through C basically means the 1st 2nd and the third right zero through too should mean the same thing, right
+[2:22:52.4]  And, um, this is a source of confusion, because when you do is lie, sing with an explicit index
+[]			 The final index see is inclusive
+[2:23:14.7]  And if you do with an implicit index, the final one is excluded It zero through to accept too, right? So be careful about these inconsistency in the python language
+[]			 Technically, you don't want to use implicit integer index
+[]			 But what if you do? Right, Uh, you can do I'm asking and you can do fancy indexing, and you can combine all of these
+[]			 None of these is highly recommended, though in order
+[]			 Yeah, and it's important point you learn how to do all these things
+[2:23:44.6]  And then I basically say, Forget about it
+[2:23:45.7]  Better to use lock as in location, and I lock, as in the index at a certain location
+[2:24:01.4]  What about my ex? It's still here because the book is a little bit old, but it has been deprecate ID, so I X is not to your best friend anymore
+[2:24:03.7]  So look at this Mother Siri's explicit index for, uh, simple accessing or explicit index for slicing
+[]			 Look at what happened here
+[2:24:24.9]  Uh, and how am Bigas? This is when you did data underst subscript one
+[]			 You basically meant using this guy here
+[]			 Get it? This content A And it worked when you did slicing
+[]			 You basically meant from this second to the third element or second for the fourth, excluding the fourth
+[]			 So second and third and you got those guys
+[]			 But they happen to have in This is three and five
+[]			 So this is horribly confusing, horribly confusing, So don't do that, Okay? He said use lock to say, What is the data at location one and one means the actual index
+[2:25:11.6]  What is the data at? Location one through three
+[2:25:13.3]  Using the Indus is so one through three
+[]			 However many may there may be there
+[]			 Okay, what is the data? In an implicit way, you can ask, um, data dot I lock one, which basically means now I want the implicit Python style index
+[2:26:04.4]  So I'm asking for the actual first element, and I get this guy okay, just as you would get here Second element overall or element whose subscript is one
+[2:26:09.8]  So you still have access to thinking of these guys? A 01 and two, but you would make it more explicit by using my luck instead
+[]			 Does that make sense? You can change that to zero
+[]			 Say, if you want to see what it does
+[]			 So basically got the zeroth element which happens to have on index off one in the data
+[]			 Siri's in the Siri's object
+[]			 But by using, I look rather than luck
+[2:26:43.2]  Mark Zero, by the way, should give you an error
+[]			 Right
+[]			 There is no such an index
+[]			 And you get an error lock
+[]			 One means the element whose explicit indexes one I lock one means the implicit index
+[]			 The second element overall
+[2:27:09.0]  That's why you get this guy here, all right? And they are much more clear than just brackets and Collins and numbers That made me different things
+[]			 Yes
+[]			 No
+[]			 Well, this is for slicing
+[]			 Not from asking
+[]			 Yes, Yes
+[]			 For a slice in, Yes
+[]			 You don't want to slice in the conventional sense
+[]			 What about in data frames? So by now, it doesn't come as a surprise to think off a data frame is, um, to the structured array
+[]			 So here's a data frame built off two pandas, Siri's area and pop similar to what we had before
+[2:27:47.2]  But there's a little trick the author explained by calling this guy pop instead of population, it will come up in a few minutes
+[]			 Um, so nothing to it
+[]			 California, Texas, et cetera
+[]			 Okay, no, we can ask What is the date? What is the content off the area column, and we get that fine
+[]			 We can also do a dot style to access information there
+[2:28:25.0]  Okay, In addition to this syntax, which one do you prefer? Depends on the situation
+[]			 Give me a situation where you would prefer one or the other
+[2:28:34.3]  Okay, so the penny on the situation meaning even, uh, mood or which one is more meaningful than the other
+[]			 No matter what
+[2:28:47.9]  The 1st 1 first one basically screams Index, I am indexing something
+[]			 The other one could be a property of the object data
+[]			 Right
+[]			 Which one could say it? ISS, right
+[2:29:02.9]  It's a property or an attribute of the object
+[2:29:09.0]  But I would vote for the 1st 1 for the one that is blinking here
+[2:29:13.4]  Basically says explicitly, gold with the portion of this data frame who's indexes area and catch it
+[]			 All right
+[2:29:25.5]  It's more clearly and indexing and retrieval operation than just accessing a property or accessing on attributes or something like that
+[2:29:32.7]  Okay, by the way, you can ask, Are these two things the same with the keyboard? ISS is data area the same as data square brackets area, and it will say yes, but look at where this thing fails
+[2:29:41.1]  Angelica, If pop is a reserved keywords, which it is, the second version always works
+[]			 The 1st 1 does not
+[]			 Okay, so you cannot, because there's a pop method in the python language
+[2:30:03.8]  All right, so if we needed another argument for the slightly more verbose but more precise Syntex, we got it
+[]			 Okay, Now look at this pretty cool line of code here
+[2:30:18.4]  Data brackets, density echoes data pop, divided by data area
+[]			 What are we doing in one line of code? I'm basically creating 1/3 column
+[]			 Or 1/3
+[]			 Siri's, if you will
+[2:30:31.9]  Who's indexes? Density and whose values are computed from the corresponding values in the population and the area
+[2:30:37.0]  Siri's sharing the same index off course, and so on
+[]			 Very elegant way of creating this entire third column here
+[2:30:46.7]  Right? Doesn't get much more elegant than this, I would think
+[2:30:53.0]  All right, What if we had forced one of these values off area or population to be zero? If there is zero, try to divide
+[]			 It gives infinity Okay
+[]			 You have a still works for everything else, and then you deal with that when you have to do with that all right
+[2:31:23.9]  Okay, um, you can look at the data frame, is it? To the mansion of a ray, which can be transposed
+[2:31:33.5]  And, um, in other words, stopping rows and columns off, eh? Um um, take a frame is as easy as doing so with conventional race
+[]			 Okay, let's see what else is important
+[]			 We can use lock and I lock Justus before and I x will give you a message that it's deprecate ID
+[]			 Okay, Now, things start to look interesting here
+[]			 That's if I didn't
+[2:32:12.9]  Yeah, I kind of messed up the members
+[]			 But here's a case where I'm asking, What are the elements in the data frame whose data density is greater than 100
+[]			 And I'm asking Give me the population and the density
+[]			 So a subset Get off the columns
+[]			 Ofcourse
+[2:32:30.6]  Infinity is greater than 100
+[2:32:40.6]  That's why I got picked up, right? Uh, some amongst you may want to do things such as data dot density not equal to infinity
+[]			 None of this will work
+[2:32:52.0]  No, it will not only the parentheses, of course
+[]			 Yeah, parenthesis matter
+[]			 I think I said that myself
+[]			 Yeah, getting Oh, yeah
+[]			 This guy gave me an extra one
+[]			 This one
+[]			 And this will work
+[2:33:13.0]  No, the name M is not defined
+[]			 Yeah, it's a good question effect
+[]			 I'm happy to see this and p that if all right
+[2:33:28.2]  Oh, we don't have important empires in peer in a second
+[]			 That's kind of on an unnecessary rabbit hole type of thing
+[2:33:39.7]  But I'm doing it on purpose just to see the type of mental process you could go through if you wanted to clean this up a little bit
+[]			 Okay, so m p dot info exists
+[2:33:56.0]  It has a representation, right? So you could clean up that mess by changing the conditions off the, um, subset off the data frame that you're interested in
+[]			 All right, there's this simply I lock nothing to it are
+[2:34:16.3]  Basically you're saying go to zero and two, which is this guy here and put a 90 in it
+[2:34:17.9]  So you're putting a 19
+[]			 This is horrible, by the way
+[]			 Right
+[2:34:21.4]  Horrible
+[2:34:23.8]  Something that came out off a formula
+[2:34:25.5]  Now you're arbitrarily overwriting, but anyway, all right, you can do, uh, slicing for Rose story
+[]			 You can do slicing is by row number
+[]			 You can do masking
+[2:34:43.8]  So that's all fine and dandy
+[]			 um, next item for which we probably don't have much time
+[2:34:50.6]  So he spoke about index earns
+[]			 Okay, um, operations on data
+[2:35:10.3]  Um, roughly speaking, all the essential abilities that numb pie provides are preserved by pandas or inherited by pandas, if you will
+[]			 But, uh, since it allows, induces Toby, whatever you choose them, Toby, it begs the question
+[]			 How does it handle that? Let's take a look at a few examples
+[]			 Okay, So we have to variables here
+[2:35:37.2]  A panda Siri's called S E r
+[]			 With default in
+[2:35:41.6]  This is an appendix data frame
+[2:35:45.1]  Who's in? This is our also default 012 And the columns are B A, B, C and D
+[2:35:53.1]  So I could do an EMP I type of thing and say e to the power, whatever the number is here
+[]			 And get those numbers here fine
+[]			 Or run some complex calculation
+[]			 Look at how interesting this line of code is
+[2:36:24.3]  I'm basically doing some potentially complex calculation here on the values off this data frame and applying to the entire set of rows and columns in one line of code, just as I would do for a number, irate things get more interesting when there's an issue with alignment, so we kind of mimic it that earlier
+[]			 But here's the situation
+[2:36:41.3]  I have a serious that has 43 states rather Alaska, Texas in California and their areas another series that has three states and their populations
+[]			 It just so happens that Alaska is in one and not in the other
+[]			 New York
+[]			 Same thing
+[2:36:54.4]  So when I tried to divide population by area, I get some N a n ce not surprised me
+[]			 Right? Um, as look at what happens in this example here once again, I have serious with some in this is that are not present in the other one
+[]			 So there's something with index zero here something within next three here
+[]			 But when I do an A plus B, I have to be mindful of that
+[]			 I have to try to align that, and when I align, I will not know what the other one would contain
+[2:37:29.0]  If any N is not acceptable, I can replace the eh plus B notation using the ad method more explicit because it gives me a chance to add the second parameter that says Phil Value with zero
+[]			 So in this case, when I say in the zero of this guy's too in the exit of this guy, there isn't such a thing, So it's two plus implicitly zero
+[]			 So you get this to here
+[2:37:56.5]  Similarly, this any n comes from this guy
+[2:37:59.2]  Five plus nothing on the other guy
+[2:38:07.6]  So 505 All right, so you're basically saying fill the missing values with zeros
+[]			 He gets more interesting than that
+[]			 So if you have in their frames now, empire rose that only exist for some columns
+[2:38:29.0]  Uh, fellas, that only exists in one of the variables
+[2:38:44.7]  Say why for this entire row or this entire column C and you add up X and Y, it will create a resulting data frame that is enough to accommodate all the values
+[]			 But of course, since it doesn't know what the value should be here, it will put any ends
+[]			 And if you think oh, well, that trick off doing the ex dot head
+[2:39:03.2]  Why comma? What is the syntax again? Few underscore value zero work for two dimensional
+[]			 And the answer's yes
+[2:39:15.6]  Okay, I think I have to stop before I get cut off
+[]			 We will continue next time
+[2:39:19.1]  Finish panders, cover
+[2:39:25.0]  Matt partly give you assignment number two and hopefully develop once
+[2:39:30.4]  And for all the skills to be comfortable doing this type of thing on a regular basis
+[2:39:33.3]  A Simon number one
+[2:39:34.4]  I changed that line on canvas
+[2:39:38.7]  Yeah, it's the 14th right? Yeah
+[]			 Yeah
+[]			 All right
+[]			 Thank you
+[]			 See you next week
+[]			 Okay, Think

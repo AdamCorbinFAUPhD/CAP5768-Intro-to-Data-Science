@@ -1,0 +1,1534 @@
+[]			you
+[]			 Yes
+[0:02:56.4]  Hi, this is Dr Mark is, um, about to teach my class at CM 1 30 But my Mac book is not displaying on the projector
+[0:02:58.0]  Can you come in and assist me? Perhaps Salmon 30
+[]			 Yes, Thank you
+[0:03:45.8]  No, something's happening
+[]			 You don't
+[]			 All right
+[]			 I can get left off with me
+[]			 This way
+[0:03:54.8]  US peace
+[0:03:56.5]  We have USB C right here
+[]			 Will you do? All right, let's try that
+[]			 I don't know that
+[]			 That's right
+[0:04:02.5]  Charge
+[]			 Okay
+[0:04:08.1]  Yeah, that's what we can use this as a bypass just to see
+[0:04:11.5]  Let's see, I'm wondering this is a bad thing, this one I have been using all the time
+[0:04:25.8]  So it should be There's naptime is no signal
+[]			 Try it without using this
+[0:04:40.9]  Okay, just that President contract
+[0:04:46.2]  Laptop
+[]			 No signals
+[]			 So there was something about mirroring this place or something
+[0:04:52.8]  I, Dent or David alone
+[0:04:54.7]  Mirror should be checked
+[]			 Yes
+[]			 That's what I thought is not coming up
+[]			 One other option we can have you try is mobile
+[0:05:09.7]  Well, how does that work type in that address? Boca
+[]			 Okay, go to the website
+[]			 Okay
+[0:05:15.7]  Cm 1 30 mobile
+[]			 Not you
+[]			 You may have already You're back you know, So I will not do this
+[]			 Okay, download that
+[]			 It's already here
+[]			 Yeah
+[0:05:47.5]  Quick
+[0:05:56.1]  Business crest on all Your driver need audio from the the computer
+[0:06:03.4]  So our airplane, which should be up top
+[]			 Yep
+[0:06:13.1]  Click on defense
+[0:06:13.6]  Ward is Wait
+[]			 Okay
+[0:06:22.5]  Looks promising
+[0:06:27.1]  Come up any moment
+[]			 All right
+[]			 Excellent
+[0:06:35.2]  Like that? Definitely
+[]			 Have that checked
+[0:06:37.6]  Checked
+[]			 All right
+[]			 Excellent
+[]			 Thank you so much
+[0:06:40.0]  Appreciate it
+[]			 All right
+[]			 Not everyone
+[0:06:47.1]  We ran into some technical difficulties, but we should be
+[]			 I've been running now, and, uh, welcome back
+[0:06:57.5]  Um, it's tryingto reset our mindset into the contents of this course
+[]			 So let me start by asking you quickly going about the room and asking Why do you remember from the first day three things that may be stuck with you? Maybe five, depending on how quickly can go around yet
+[0:07:24.0]  Definition of data, science, definition of the science that we came up together with, said it's somebody does
+[0:07:33.5]  It is a statistician
+[]			 Okay
+[0:07:44.2]  You like that, right? Okay, so the scientist knows more statistic than the efforts programmer and programs better than the every status station
+[]			 Okay
+[]			 All right
+[0:07:49.9]  I like the affected that stuck with you
+[0:07:55.5]  Whether it's a serious definition or not remains to be discussed
+[0:08:01.5]  I think it's appropriate for much of the Crawley, and that's good
+[]			 All right
+[]			 What? I was stuck with you from the first day
+[0:08:11.2]  Anything? Practical hints, ideas, tools, goals, expectations, concepts
+[]			 It is a good time to be a data scientist
+[0:08:19.0]  Job market twice
+[]			 That is correct
+[0:08:23.7]  Okay, What else? That's try to grasp a couple more things
+[0:08:28.9]  And, Erica, you seem to be begging
+[]			 Yeah, that's way
+[0:08:38.8]  Have a witness here
+[]			 That's exactly how she looks
+[0:08:46.8]  Isn't nothing
+[]			 Really? Yeah
+[0:08:56.0]  Machine learning's not necessarily under the veil of data science
+[0:08:59.0]  I told you it's safer to not call one a subset of the other or vice versa
+[0:09:05.1]  But to say that they're both related and have a high amount of overlap
+[0:09:11.3]  A couple more, perhaps anything from last time? Yes, I was injured
+[]			 It was interesting for me to find out
+[]			 David Science was even more Yes
+[0:09:22.2]  Correct
+[]			 I thought it was the other way around
+[0:09:29.1]  Okay, We're back to the substance
+[]			 Who percent discussion about You're right
+[0:09:32.4]  Data science is broader in scope than machine learning
+[0:09:38.1]  And for those of you who may have studied data signs in the context
+[]			 Off business courses
+[0:09:44.2]  They refer to some very fancy frameworks for everything from data opposition, curation cleaning up
+[0:09:59.3]  I may refer to those at some point in time, and one can say that the machine learning component is the modeling block off that vast framework
+[0:10:11.9]  In other words, machine learning cannot do anything for you if your data is income complete, corrupt, poorly curated, redundant old and a number of other problematic situations
+[0:10:28.7]  Machine learning can do very well for you if you don't have any insight into what is the problem that we're trying to solve? What type of expert or domain knowledge you can bring into the table to help your design process, including your choice off machine learning algorithms? So it's correct to say that quick question three things that this course will definitely cover
+[0:10:37.9]  It's almost like a syllabus quiz three things that we won't see and use and practice whatever in this course anything
+[0:11:02.0]  Well, we're gonna get we're gonna get good at hacking cold or writing code for making our data Science solutions come to life and Assignment number one, which has just been posted on campuses along those lines what else we learned about? You're in a regression end
+[0:11:14.1]  Logistic progression, perhaps
+[]			 Okay, good
+[]			 All right
+[0:11:22.0]  Well, what else? Yes, we'll learn about some basic classifications
+[0:11:27.2]  Seems absolutely, again being careful not to step on other people's toes
+[0:11:28.1]  People who teach empire semester courses in there, but definitely yes
+[0:11:34.5]  What hypothesis? Testing as he started with assignment number one and some very silly hypothesis, as we'll see in a minute
+[]			 All right
+[]			 Three things that, of course, will not cover
+[]			 Don't be silly
+[0:11:44.9]  Don't say French literature or off course
+[]			 It will not cover there
+[0:11:49.7]  Differing
+[]			 Yes
+[0:11:51.8]  You know networks? Yes, do that again
+[0:11:59.7]  Advanced machine learning well depends on where we draw the line on advanced
+[]			 But it's correct to say will not cover advanced machine learning
+[]			 All right
+[0:12:07.3]  Artificial intentions won't could claim such a broad umbrella topic that we're doing a eye to some extent, depending on what we do
+[]			 So yeah, but not, uh, specialized a i in any way day
+[]			 Good
+[0:12:26.2]  So one thing that I hope is has become clear to all of you is that this is primarily a hands on type, Of course
+[]			 But it's not only that, So the fact that we had a lecture on tools doesn't mean tools are the only thing or even the main thing
+[0:12:38.9]  So I'm going to switch the doc cam here and a little diagram
+[]			 So to give perspective, we have to change the zoom level here
+[]			 All right, Better now
+[0:13:01.3]  Okay, So this class thus indeed require that you master some tools and that was off the discussion we had last week
+[]			 Which schools are those? Those here include
+[]			 Let's make a distinction
+[0:13:19.4]  Do not include languages or packages were talking about APS or software solutions
+[0:13:24.2]  Google Lab came up is a possible platform
+[0:13:33.7]  Yes, but Google, that basically is running a bunch off python scripts in bed into Jupiter notebooks
+[0:13:41.8]  Right? So knowing something about Jupiter notebooks is arguably deal
+[0:13:44.5]  But as you need a stools, maybe a python, i d
+[]			 It's optional
+[]			 Okay
+[]			 By some i d
+[0:13:54.1]  For those of you who are not their familiar with their terminal, you better get used to the terminal
+[0:14:08.6]  Okay? And if you're the refresh on how to do simple things, which is create folders renamed files from the terminal, check some online, um, tutorial for dance and of course, terminal in part because, in part because we want to run Bye
+[0:14:18.0]  I probably phone occasionally, not awards, and I'll give you a diagram in a minute
+[0:14:35.6]  You may find yourself doing something such as watching online lecturer on a browser window and having your terminal open on my python and positive video type things and stuff up and keeping up with what's being presented
+[0:14:39.0]  Okay, so of course, Rooker notebooks and I python are highly correlated
+[0:14:45.1]  Basically, the I and II pipeline stands for interactive and Joker notebooks are more than just interactive python
+[0:15:01.8]  They allow you to interest firs cold with text, even latex formatted mathematical equations, images, links and lots of things to the extent it as we'll see today when I introduce the Sandman little one, as you work on your super load book and make it nice and playing at the end
+[0:15:19.5]  Your report for the scientist right there just present option that says Save is a pdf and Bob's your uncle
+[]			 Okay, so that's part of the deal here tools
+[]			 So we are basically done with it tools component in the sense of telling you what they are, and we will never be done because we will use them again and again, again and get better those
+[]			 But the course is much more than truth
+[0:15:47.4]  So the fundamental, uh, pillars, if you will off the costs are solid
+[0:16:02.0]  Conceptual foundations and students who took other classes with me may remember one of my favorite mantra as technologists come and go, foundational concepts stay
+[0:16:16.7]  If you learn to do something in Python today and tomorrow, you go for a job interview and they ask you to do that same something in math lab or are, or JavaScript or Julia or whatever language or platform or package
+[]			 Chances are, if you understand the concepts, you will figure it out
+[0:16:25.3]  Granted, you may need some help from a cheat sheet or some online helper because you may not know this scene techs, but that's the highest critical thing
+[0:16:35.0]  So conceptual foundations and its sister block block here, which is solid statistics and meth
+[0:16:51.0]  Okay, so not every foundation that comes in the context of this class is mathematical in nature, but a fair chunk of it is, and one of the textbook so called textbooks to think stats is mostly about the mathematical and statistical foundations as rebuild that will build throughout this semester, the third's important component and the one we'll talk about today and next week
+[]			 A lot is what I would like to call computational foundations, which you could also map to skills, libraries, languages or language
+[0:17:37.0]  Singular being python
+[0:17:43.7]  In our case, in the library, such as number I met what leave It's after
+[]			 So computational foundations
+[0:17:51.2]  The hacking part of the course is another big blob that we want to take care of
+[]			 And, of course, competition of foundations
+[0:17:59.2]  Build upon your mastery off certain tools
+[0:18:05.3]  You need a place to buy popular cold, debug run document, and so on
+[0:18:09.7]  Another component of this cause is that they were put on the top, right just because it didn't plan this thing better
+[]			 Is the basics off machine learning modeling
+[0:18:27.3]  Okay, so the modern component, that machine learning aspect ce o r a significant chunk off what this class is all about
+[]			 And, um, it's almost like what we I don't do very often, at least not by design
+[0:18:42.9]  Occasional other discussions related to data science
+[]			 It could be job market related
+[0:18:50.0]  It would be ethics related
+[0:18:53.5]  It could be, um, a boat
+[]			 The interplay between what the data scientists is supposed to know and do versus everyone around that person in the organization
+[0:19:14.3]  If you I want to become a date of science scientist, What what do you have in mind? Sit in a cubicle right writing code or they talk to other people
+[0:19:26.5]  So they have these types of discussions as well as other things in the biggest skim off eight a curation data wrangling, data warehousing
+[]			 And so so
+[0:19:30.6]  Those are occasional discussions that we may have
+[]			 As we go through the course
+[]			 Let me pick on the computation off foundations part a little bit further
+[0:19:49.1]  So if we zoom in on this part here, that's where you are expected to demonstrate knowledge off Python and some of its libraries
+[]			 And that's where the distinction between the beginners and the experienced students in the class will become apparent
+[0:20:37.0]  That's not the only point where it will become apparent, but it's one point where it will be So what I have been doing since the first day off classes I have been trying to provide to those of you on the beginner end of the spectrum a chance to learn this stuff gradually, especially making up for any python prerequisite that is not explicitly there but that you they lack
+[0:20:47.2]  From this point on, everybody will get the same treatment, so to speak
+[0:20:52.2]  In other words, starting today go through Dump I inside blot on not secular and pandas and eventually, Matt what? Live in at some point psych it learn in a fair amount of detail that will be helpful
+[]			 Hopefully true
+[0:21:07.1]  Everybody but the 1/3 most advanced professional data scientists, python developers in the class, those who have to be extra patient
+[0:21:16.5]  In fact, if you are in this cause and you are super duper pockmarked expert, there are two things I have to say
+[]			 If you're in this cost of getting easier, congratulations, it will be easier
+[0:21:26.0]  Okay, everybody is likely to get an eight regardless
+[0:21:51.6]  But for those of you who are in the material should be uneasy, eh? Secondly, it is my experience that due to my teaching style, perhaps, and my openess to people who know more than I do in certain topics that if you could and I'm talking to you experts, if you could kindly provide some of your insights and expertise through discussion board forums, either by helping fellow classmates or pointing the directions off links, block posts, examples, demos, libraries that you know off that I may not have mentioned it will be very much welcome
+[]			 That's how we work
+[]			 That's how I work
+[]			 In all courses that I teach
+[0:22:16.3]  There is no course that I teach where the possibility of having someone in the classroom knows more than I do, at least on chunks off the course, contents is equal to zero
+[0:22:24.9]  There will be someone who is more knowledgeable, more experienced
+[]			 And so I thought about this learning process here
+[0:22:34.4]  So most of you will spend at these next two weeks or so busy building your computational foundations
+[]			 If you have all these in your set of skills coming into the class, congratulations
+[]			 Take two weeks off
+[0:22:46.9]  And don't forget to submit the sentimental one, and we're good
+[0:22:51.3]  If you don't, I would like to talk briefly about what I like to call learning paths
+[0:23:04.2]  This is an important topic for me as a navigator, as an instructor, because speaks to my concern that whatever it is that this course covers or any course of a teach gets through to you right
+[]			 So first things first
+[0:23:23.4]  Each individual's learning style is potentially different
+[0:23:29.0]  You can try to group into some clusters, but at the end of the day, each person learns in a different way at a different pace
+[0:23:36.3]  Has different preferences in every sense, from being a late night all to be an early riser from preferring physical books or e books or no books altogether and so on
+[0:23:57.0]  I've seen over the years that there are some differences that are worth mentioning for your own sake, even if it comes in this scope off
+[0:24:04.9]  So actualization itself
+[]			 Uh, knowledge
+[0:24:11.3]  Um, one of these distinctions is bottom up versus top down learners
+[]			 Hopefully it goes like this
+[0:24:22.7]  Say you have you're in the middle of learning python, then by and so on, there will be some among you who will prefer to open a clean I python shell and start typing something up
+[0:24:31.5]  Create a list of verte list into an Empire E
+[0:24:40.1]  When he played the arrays lies come Captain eight Index fancy index blah blah, blah beautiful
+[0:24:42.4]  You start from a blank canvas and you build it up
+[]			 Nothing wrong with that
+[]			 Same is true for assignments
+[]			 You start from nothing, and you build up
+[]			 There are others like the opposite
+[0:24:58.2]  They like to see complete examples and dream and chop
+[0:25:04.7]  Break it down to understand the pieces, to modify something to connect differently
+[]			 And that's fine, too
+[0:25:13.0]  And chances are you'll use a little bit of each in your life time as a lifelong learner
+[0:25:23.4]  But it's a clear difference in approach that you may be mindful off in this case, by the way, one of the impacts of being more of a bottom up or a top
+[0:25:26.1]  Now Lerner is how much you like certain types of tutorials and online courses that exists out there
+[]			 Much of what goes on YouTube, including very popular channels in tutorials, is off a bottom of fashion
+[0:25:43.5]  This very experienced, colder and this kind of program you wizard puts up terminal or the idea and starts typing stuff up, building from nothing into a complete Web page or machine learning model, or, depending on the topic, whatever it is, the final result
+[0:26:05.1]  And that's why some people love that some people don't, and if you do, you are more of a bottle
+[]			 What type of order
+[]			 If you don't, you're probably on the other side
+[]			 The other thing that I think is especially important
+[0:26:18.0]  Yes, I make some progress with you In them pie and etcetera is whether you want a breath first or that first approach again
+[0:26:38.9]  The too often have an interplay, but I believe that for most people in the class, particularly beginners, the breath first approach will be preferred
+[0:26:43.3]  Okay, And assign the number One is a reflection of that
+[0:26:49.4]  In other words, you will not become forced on them by experts and pretend pandas doesn't exist and then try to become a panda's expert
+[0:26:53.0]  Learning every little function there is to learn
+[]			 You learn enough off the big stack and then you say, OK, now I need to learn specifically how to do this are specifically how to do that
+[0:27:07.7]  You're a textbook so called Textbook one
+[0:27:10.2]  Take thunder classes
+[0:27:11.0]  Book is kind off that first
+[0:27:24.3]  If you look at it by the time you're done reading chapters 23 and four, numb by pandas and meth lost lives
+[0:27:27.0]  I think one in 300 pages off the book who have gone by
+[0:27:32.0]  If I remember the page count completely or correctly
+[0:27:33.9]  Okay, You You'll be done with 40% of the book or something like that
+[0:27:38.1]  So Jake 100 possibles really deep into each of these three fundamental pillars off the data science stack, and we will approach it at a level that I believe is appropriate for lecturer and for the class
+[0:28:07.4]  As we go through those chapters, there's another learning style that I should machin and I will call it pragmatic in quotes, which basically leans the minimally needed to finish an assignment
+[0:28:14.2]  Okay, so project
+[]			 And that's nothing wrong with that
+[0:28:28.2]  It's better to be pragmatic and submit your signals them to be deep into the depths off Candace and then say, Professor, you survey the center number one because I didn't even get a nap
+[0:28:31.6]  Lost little chatter
+[]			 This is making sense
+[0:28:39.7]  Do what you need to do and keep going deep into whatever topic you want without losing track off your assignments
+[0:28:44.8]  So the ultimate pragmatic person, of course, is the compulsive stack overflow searcher YouTube watcher
+[]			 The person that for anything that they think they need to do in a piece of assignment, will try to find an answer and stack overflow or something
+[]			 I think that's extreme but occasionally we all go to stack overflow to figure something out
+[0:29:12.9]  As a result of these differences in learning paths, I have to say that my guided tour document off which I published the updated version before coming to class it covers up to Part seven
+[]			 It is
+[]			 It should be helpful
+[0:29:24.6]  But since each person learning style is unique, you're free to skip
+[0:29:27.5]  Move around completely
+[0:29:29.4]  Ignore the ones that I call optional because you don't have the time or you know that stuff already or it's redundant to the one above or below
+[]			 That's perfectly fine with me
+[0:29:41.1]  So it's prepared with the best intentions of putting in one single document
+[0:29:47.3]  The most important links did more natural sequence to go about learning these things
+[]			 I have to say a couple more things about this
+[0:30:00.9]  We live in a world where there are plenty of resource is out there, including free ones, and some of the things that I recommend that you go and check out on their camp or Corsair or something are good free, additional online courses or two tortures that you can, um, thank you and maybe reinforce my three from last time that we build a community off learners in this class and in the community of learners
+[0:30:28.8]  If we look at the history graham off skill set, which is kind of by model in this class, I hope the beginners we'll get help from the experts and the way you can help include a discussion board, forms and other channels that he may want to find slack channels for the cause
+[0:30:53.2]  Whatever you want to self organize
+[0:31:04.8]  All right, interesting enough when you talk about beginner's and experts in the class is the notion that there is no average students, right? It's it's an abstraction
+[0:31:07.3]  It's like saying the average American household has 2
+[]			2 kids
+[]			 Have you seen if every 2
+[0:31:17.8] 2 kids I have not? Okay, So it's silly for me as an educator to say, Oh, I'm teaching this cost to the average person in your class business and getting to know one that's problematic, and I may very well make both sides above and below the average unhappy because some will be bored
+[0:31:34.3]  Some will think it's too hard
+[0:31:40.5]  That is a challenge, and I am fully aware of it for any course that doesn't enforce Street
+[0:31:41.7]  Three requisites
+[0:31:47.4]  It is a challenge, isn't it? Is it is the fact that you took a call Kwan, before reaching cock to doesn't mean you took out one with the same level of rigor or recently enough or something like that
+[0:32:02.1]  So Heading said that particularly for Assignment number one to all the experts in the room and all their millions of people watching us on media site don't get upset because it's a very simple, easy assignment for the ones on the experts side of the equation
+[0:32:13.4]  But it's meant to help the ones on the beginner side of the equation do something meaningful
+[0:32:19.2]  Get that one for the feeling that they can convert ideas into code five found code in this case
+[]			 See, something happen, whatever it is
+[0:32:28.4]  Tables being displayed, plots being draft and having this good positive feeling that they're computational skills, phony previous diagram are enabling them to create functional cold to solve problems, test hypotheses, answer questions and so on
+[0:32:56.7]  Okay, so haven't given this semi philosophical explanation to why I do the things I do
+[0:33:06.4]  Let me go to power assignment porn, which should look more or less like this
+[0:33:14.1]  This was it? Projector refreshes
+[0:33:15.4]  That'll be great
+[]			 See, it was lost words, huh? That's it
+[0:35:24.0]  Really switching to the dock
+[0:35:28.7]  Him killed the left off connection, But, uh, together, even if it means calling the folks from the tax reports again
+[]			 Mmm
+[]			 That's what people who don't have a Mac
+[0:35:54.1]  That was harsh
+[0:35:57.7]  Yeah, that c Hi
+[0:36:08.0]  It's Dr Marcus from CM 1 30 again
+[0:36:10.5]  It stopped working once I switched the block AM and back to the left
+[]			 If you could stop by to see what's going on
+[]			 Thank you
+[0:36:26.3]  Yes, that retired
+[]			 It all came for today because and hope that they left up will soon start working again
+[]			 So it worked Well, you were here
+[]			 I switched the document because I wanted to do something there
+[]			 And now it's no longer working, even though your place as it's okay
+[]			 Oh, of course
+[]			 Thank you
+[]			 Thank you
+[]			 Thank you
+[]			 Thank you
+[0:37:31.1]  Okay, chalk it up to old age
+[]			 Thank you
+[]			 All right
+[0:37:39.0]  Okay, folks, it's more well not left up the option that I have to press here
+[]			 Thank you
+[]			 All right
+[]			 That's not officially started there
+[0:37:48.3]  These you're saying the number 1 40 class? It's supposed to be kind of a fun assignment, depending on your notional fund, and it will be a nice way to a nice excuse for you to say Okay, how do I do this in Python? So few things to get started
+[0:38:02.9]  There's a distinct possibility that if all you need to catch up with this python, you look at this assignment and you say, Boy, I wish this could solve these in Excel or something like that because I know how to do it using a different set off tools or language
+[]			 So here's what it is
+[0:38:20.0]  The goals are to get acquainted with the Python duty notebooks
+[0:38:28.0]  The Python Data Science stack haven't easy early experience off manipulating, summarizing, visualizing small data sets and right python code to answer questions and test hypotheses based on the Congress of the Essence
+[0:38:39.2]  I thought you structured his assignment as a game
+[]			 It's not daughter, too, but it's close
+[0:38:46.5]  Okay, With three levels off increasing complexity, Level one is a ridiculously simple, trivial gator
+[0:38:54.1]  Sat level two is a little bit more involved one and Level three is a little bit trickier, and each one has points and bonus points and coins being dropped another
+[]			 Okay
+[0:39:04.3]  Interestingly enough, at the end of the physicians exporter notebook to pdf, form it and it will automatically become your report
+[0:39:21.0]  So if you haven't found that option yet in your, uh, uh, general notebook menu, this will be something such as Don't load as pdf viel Atec
+[0:39:23.3]  That's how you will generate a report at the end
+[]			 So if you have the file right now, it's on canvas
+[]			 You have two options right away
+[0:39:34.3]  Use it locally
+[0:39:38.1]  Running director notebook locally or uploading it to Google
+[0:39:39.6]  Call have and do it from there
+[0:39:41.8]  Whichever way you choose, the first thing you're gonna do once you decide is safe
+[]			 A copy
+[]			 So you save a copy and start working on the copy
+[]			 Okay
+[]			 So the first thing you will do this, I'm running local
+[]			 Yes
+[0:39:54.8]  You can tell by the local host
+[0:39:55.1]  888 here
+[]			 So make a copy
+[]			 Okay
+[]			 And then you call it something meaningful
+[]			 You can say so
+[]			 The name of this could be something else
+[0:40:08.2]  Could be assignment one
+[0:40:09.7]  Underscore your user name
+[0:40:12.0]  That's assuming, sir
+[0:40:12.2]  Jeez
+[0:40:12.5]  Me just for sake of argument
+[]			 Okay, good
+[]			 All right
+[]			 So now it's your copy
+[0:40:24.6]  you can do every want with it, including creating a pdf right away to see how it looks like or starting with the actual Senate
+[]			 Okay, good
+[]			 I'll talk about the Google call
+[]			 Have option in a minute, because it has something a little bit, um, tricky when it comes to reading this
+[]			 Yes, V files from a sub folder
+[]			 And I'll get to that in a little bit
+[0:40:55.1]  Okay, Um, what will you submit? Basically two files the pdf report which was generated automatically the notebook itself a white python python noble file and optionally a link to the life version off your solution
+[0:40:59.4]  Google happy if you choose to work there and you want to share that link
+[0:41:06.7]  Okay, The total number of points is 320
+[0:41:07.8]  They're up to 44 bonus points and the distribution off points bird level is spelled out
+[]			 So you know how many points each thing is worth
+[0:41:22.2]  Should you come to the point where you have to submit this thing it's doing now and you haven't finished? Okay, it is okay to attempt a bonus points, but especially to the experts in the room and watching us
+[0:41:30.3]  Do not overdo it okay, particularly, do not do anything that will come much later in this semester
+[0:41:43.5]  Keep within this spirit off the assignment, his spirit off assignment being it's an exercise in exploring data sets using high schools that is fixed
+[]			 We figured out the minimum
+[]			 The next move
+[0:41:51.3]  The average medium off certain quantitative attributes, plotting things that a scatter plots, box plots, organizing date that cleaning up data
+[0:42:08.0]  It's not two train fancy machine learning models or explore very intricate mathematical analysis a lot of times and so on
+[0:42:21.9]  The idea is to enable, particularly the beginners amongst us, the opportunity to write, called the test simple hypothesis and produce answers to simple questions that you know you should be able to answer because the answer can be pulled from the data and we see examples in a minute
+[]			 All right, so it's kind of off course
+[]			 The answer is there
+[0:42:45.3]  And the question is, how my right darn python cold to do that? How do we clean up this? How do I combine these? How do I join? How do we do some clever indexing to only get the subset and so okay, Level one is presidents of the U
+[]			 S
+[]			 A
+[]			 You're gonna run the code that I give you, and as a result, you're gonna get the names and height in centimeters off the 1st 44 presidents off the U
+[]			 S
+[]			 Good
+[0:43:12.2]  And as soon as you get that, I ask you to do something right cold to display the history Graham off the president's heights and compute summary statistics such as Ming standard deviation, minimum and maximum
+[]			 You're gonna enter your cold here in your copy of the notebook, past it and so on
+[]			 And once you're done, you move on
+[]			 You know, presumably that you got the eight points, because in this case, you can manually see if your answers are correct
+[]			 After all, it's ridiculously simple
+[]			 44 rose by three columns
+[]			 Data frame
+[]			 So far, so good
+[0:43:50.1]  Okay, now it's just getting warmed up, right? So I'm gonna write Python code to answer questions that you know the data should be able to provide answers to who waas the toll It all this president or were if there's a tie
+[0:44:05.2]  Same thing for the shortest and how many presents were six feet told
+[0:44:07.1]  Told her
+[]			 Be mindful, of course, at the height is in centimeters, and I'm asking the question in feet, nothing to it
+[0:44:17.6]  Few lines of code should be able to produce three sentences on the notebook, saying that Polish President Waas Block the shortest were blind blah, and five presidents were six feet taller
+[0:44:26.7]  Taller, however it account
+[0:44:32.9]  Maybe let's use this very small, simple and manageable data's have to prove a silly hypothesis
+[0:44:40.4]  For instance, hypothesis one even numbered presidents are in average taller than odd numbered ones
+[0:44:44.1]  It's a reminder that data science can used for good partners is evil purposes and silly purposes okay, and that using data to support that hypothesis may or may not make sense
+[0:45:10.1]  This is a silly hypothesis from the get go, but it's not always that you know it's silly when you're working on a more complex problem, okay? And sometimes you have to raise some potentially city hypothesis to see if the data supports some insight that may lead to a non silly model
+[]			 So you write some code to test the hypothesis
+[0:45:20.7]  There are two options is either true or false, and you will print out some message to that effect
+[0:45:24.9]  Simple enough
+[0:45:31.3]  So in question one you win the easiest four points, but answering was it confirmed or refuted? In fact, even by guessing it to have 50% chance of getting those four points now, you will come up with a silly and different hypothesis to be creative
+[]			 What could it be? Look at data
+[0:45:53.1]  You don't know these individuals
+[0:45:53.9]  Parties
+[0:45:57.0]  You cannot say Democrats are an average taller than Republicans
+[]			 For instance, that's not in the data
+[0:46:02.6]  What do you know? The order in which they became presidents, their full names and their height
+[0:46:19.9]  What would be a silly hypothesis, too? But our earlier you could say that presidents the 1st 10 presidents were shorter than the authority for that followed its hypothesis
+[0:46:22.5]  He can be sillier than that
+[0:46:25.8]  Got a middle name? Okay, presidents with a middle name are shorter than those without
+[]			 That's a hypothesis
+[0:46:40.1]  You can test into data at the day that is produced because some presidents do indeed have a middle name or militias that are not published here, right? Yeah, in the data, it's not
+[0:46:46.6]  Tweak or manipulate or convert or look up anything the date of birth off the president, or for how long he served, not only that even sillier
+[]			 Come on, be silly
+[]			 It's your I think is our last chance to this semester to be really silly
+[0:46:59.6]  So enjoy it
+[]			 Okay
+[]			 Oh, they have longer
+[0:47:06.0]  Ah ha! Longer names correlated taller presidents
+[0:47:13.4]  There's a correlation between the length of the name, the string, continued name and the height you can
+[]			 You can try to prove that and so on
+[0:47:24.5]  You can say that presidents whose names begin with a through C R in average taller than any other letter or whatever
+[]			 Okay, you got it
+[]			 So that's it
+[0:47:28.7]  That's a warm up
+[0:47:38.1]  Now get a little bit more serious in level two, Level two, you're gonna get data set containing people salaries and demographic data
+[0:47:42.2]  It's a little bit more than 1000 technically 1192 employees from a fictitious company off which you obtain these pieces off information
+[]			 You know, things like to get a little bit nicer and more interesting
+[0:47:59.0]  First, because the data set is large enough that we're not simply Glenn's at 44 rolls and say, Oh, okay, it's more than 1000 such rose
+[0:48:06.5]  Secondly, because the number of columns has also tripled third, because there's a combination between numerical data and categorical data
+[]			 Okay, so what do you mean by that? Let's try to take a look into this
+[0:48:27.6]  If you look at this data frame that comes from the salary's not C S V file
+[0:48:32.8]  And if you say what? I don't even know how to do that in Panda's yet
+[]			 Well, you can always go to your good old excel or equivalent and open the thing there just to look at it
+[0:49:00.7]  There's nothing wrong with it, right? So you can you can see how this data set looks like so enough you will forget that such a thing is excel exists for the sake of this course and be able to produce whatever displays you want and so on on the drip Middlebrook itself using your python skills
+[0:49:12.0]  So what do you think is represented here? What's the meaning of the column urn, how much they make all its salary compensation, whatever, how much they make presumably per year
+[0:49:16.0]  Given the numbers here, presumably, it's in U
+[]			 S
+[0:49:19.3]  Dollars per year
+[]			 That's a reasonable assumption
+[0:49:22.2]  Height expressed in inches
+[0:49:27.2]  Sex is a categorical attributes, and in this particular context there are only two options
+[0:49:32.9]  Male and female
+[]			 Okay, And as an education, what do you think it means? Years of education
+[0:49:47.5]  So 16 typically meaning betters degree 17 Possibly master's degree
+[]			 12 high school and so on
+[0:49:53.8]  Right age, self explanatory and race
+[0:49:55.8]  Also categorical
+[0:49:59.1]  We can see things such as white, Hispanic, other black
+[0:50:04.2]  And I think those are the only categories
+[]			 But you can right by phone calls to see if that's correct or not
+[]			 Right, So that's the beginning of the story here
+[0:50:18.0]  So does this type of data required a true domain expert? None of us
+[0:50:23.1]  Let's assume for a sick of argument none of us has ever worked in a jar
+[0:50:27.1]  We don't know payroll
+[0:50:31.2]  We don't know Hiring, recruiting as professionals
+[0:50:43.7]  And yet this Davis, that is fairly straightforward, right? It basically says that each anonima ized individual off a certain race age, educational level engender, and height makes X amount of those a year, right? What do you think? You can use this data for zillion things, including pay gaps, differences in pay based on male or female, younger versus older, higher degree of education
+[0:51:05.7]  Lord of your education
+[]			 Maybe height
+[0:51:15.0]  Who knows? Okay, so Since this is not a class in sociology or anything like that, I will not go into the implications off
+[]			 What happens if there's a pay gap or gender inequality or something like that? But we are trying to use the data in a meaningful way to answer some of these questions
+[0:51:34.5]  So question number two is what is the meaning of each of the six attributes? Variables, features? I just gave you the answer to that
+[0:51:37.4]  Six points for MI, six points for you
+[0:51:41.9]  Okay, you know what usefulness is calculating somebody's
+[]			 That's a very interesting point
+[0:52:00.2]  To have to have that height in inches with so many decimal places may refer to the fact that they were originally centimeters and were converted using a formula
+[]			 That would be my guess
+[]			 Okay, but very good point
+[0:52:11.4]  And again, at this point, the risk of sounding obvious
+[0:52:20.9]  Ask as many questions as you have about a data, asked them to the class while you're here, ask them for yourselves while you're looking later
+[0:52:27.7]  These are important, um, practices, if you will, habits to build
+[]			 All right, so now let's explore the data set a little bit further Here, I give you some cold for minimum
+[0:52:37.1]  Maximum Ming and Median
+[0:52:40.4]  Some called for his diagrams
+[]			 Wait a second
+[]			 That's kind of the solution to the previous part
+[]			 Yes, it is
+[]			 Okay, kind off
+[]			 All right
+[]			 So here I give you some cold too
+[]			 This place, some statistics
+[]			 For instance
+[0:52:52.7]  The minimal salary is surprisingly enough, $200 a year
+[]			 Next, 1 70,000 times as much the average salary, which at this point doesn't mean much, but still 23,000 and change
+[]			 And the median salary
+[]			 Okay, if you do a history Graham off the several distribution, you get something like this, which is not surprising at all
+[0:53:20.6]  Right, More people make less money than their CEOs and so good
+[]			 Yes, automatically
+[]			 Good point
+[]			 Thus the hist function automatically said the beans
+[]			 If you don't specify the number of beans
+[]			 Yes, with us
+[0:53:42.3]  But if you want to make it more or less fine grained as an option to settlements
+[]			 How many beans by default Do I know that? I believe it
+[0:53:47.0]  Stan, Let's count
+[0:53:48.0]  369 10
+[]			 I think it's there
+[]			 But there I would I prefer to answer this question by saying I don't know, I will not know
+[]			 I do not terrible knowing that I know where to find the answer
+[]			 Okay
+[0:54:08.7]  But just s o this is the type of thing that you will take pee out dot hissed or the hist option in Matt plot lib, and you'll do a Google or stack overflow
+[0:54:16.4]  Uh, quick Sarge to see where is the documentation
+[]			 And once you fight the documentation, you will see that it is option beings
+[0:54:28.8]  And if an integer is given, there will be beings plus one edges
+[0:54:34.4]  And if nothing is given, the default is Dan
+[0:54:41.2]  All right, so I happen to know that, but it's a terrible thing that you should not memorize, but all good questions he's gonna be for What is it? Can I change it and so on? And if I can change it, What is this in Texas? What? Okay, um, and I like the types of questions that are coming up because it also goes to show that some of you will pay more attention to some details than others
+[0:55:08.2]  For instance, some of you who know a little bit more about python and formatting off printing messages on the screen will hate the fact that this being dollars and cents has all these digits after the decimal place and will truncate that will put a dollar sign before we make it nicer
+[]			 And all of these things will count as bonus points
+[0:55:35.8]  In other words, in addition to the bonus points that I mentioned explicitly, if you do anything even on the so called starter cold, that makes it nicer or better documented so I can pay attention to it and give you bonus points
+[]			 By the way, the bonus points idea is by design
+[0:55:47.9]  It's one of the ways by which I get the experts in the class less bored because there's an incentive to do a little bit lord and just get it done and over now for this sport
+[0:55:57.3]  What are we trying to visualize here and what type off arguments this may or may not support, and you make it bigger so we don't look much of the code that comes immediately after
+[0:56:15.3]  So this is a type of plot known as a scatter plot, right? So basically we're trying to see if there is any artistic you were here
+[0:56:17.1]  Coronation between two features or attributes
+[0:56:22.0]  Salary and the number off years of formal education
+[0:56:32.6]  What do you think the plot is showing us? Strong relation, Weak correlation
+[]			 Virtually no correlation
+[]			 As the number of years of education go up, this salary presumably should go up
+[]			 It's we also
+[0:56:47.1]  The train should be something moving upwards
+[]			 There's a assume
+[]			 There's some positive correlation, some positive correlation
+[0:56:56.0]  We'll take your questions second
+[0:57:00.7]  So here's a a good point to gauge what his assignments all about
+[0:57:24.1]  We don't want to go full blown statistical treatment on this, but we don't want to write anything that's too vague or two late person like so If you find yourself writing things such as, maybe or a little bit of these or too much of that, try to be more precise
+[]			 So if you say there's a little bit of correlation yet, it's not so great
+[]			 Let's go one step further, and I went one step further for your convenience
+[0:57:34.8]  I wrote the code to compute the Pearson correlation coefficient between the two variables, which turns out to be 0
+[0:57:49.4] 3399 which I may say so what if you don't know what yes or help interpret is value
+[0:57:52.3]  You you're just giving number, right? So here is the summary
+[0:57:55.5]  Pearson Correlation coefficient is a very between negative one on one zero means no correlation and a value above a certain threshold or below
+[0:58:09.7]  A certain negative value indicates notable strong, positive or negative correlation
+[0:58:13.4]  This special could be 0
+[]			5 point 3
+[]			7, depending on the book you read
+[]			 There was a 0
+[]			7 or higher on the positive end is strong, positive negative 0
+[0:58:24.1] 7 or lower on the negative and is strong
+[0:58:26.2]  Narrative 0
+[0:58:27.8] 5 escaped off
+[0:58:29.7]  Some correlation point threes or less is weak
+[0:58:32.4]  So this is borderline weak
+[0:58:34.1]  Positive correlation
+[]			 So there is some correlation there, but it's not strong
+[]			 Your question and then your question, you're better reason you're no
+[0:58:49.1]  Was there a reason why I put salary on the accent? Years of vacation on the right? No, in fact, not everything about it
+[]			 It would be best way around
+[0:59:00.1]  But this is a drifter notebook, right? So apparently if we swapped the two right, I may have to run everything up to this point
+[0:59:13.5]  Yeah, I will change my labels too
+[]			 Okay, so let's do a run all above just to be sure if it's working from the beginning
+[]			 So far, so good
+[]			 So it knows that salaries is all about and what not
+[0:59:42.8]  Okay, so now you're trying to change the accent, right? Able here
+[]			 Right
+[0:59:46.6]  The title could still be the same
+[]			 And there you go
+[]			 Better
+[]			 Much better
+[]			 Thank you very much
+[0:59:53.2]  Bonus points for you
+[]			 Okay
+[]			 All right
+[]			 And for everyone else, I can
+[]			 I say this is a very part
+[1:00:03.8]  Okay, You can see the correlation there somehow, but you can see that s sorry
+[1:00:06.2]  Goes up in general with, um, more years off education there
+[1:00:13.5]  Many people making the exact same amount
+[]			 25,000 year at a very broad range of formal education
+[]			 Right
+[]			 Excellent
+[]			 Okay, so off course a correlation coefficient shouldn't change
+[]			 It's between two variables
+[1:00:32.3]  It's a formula that completes the correlation, regardless of which one you call first
+[1:00:39.5]  That if you don't trust me, by the way, it's always going to be a distrustful of the instructor in this course
+[]			 Okay, if you say I think is not right, that's do it differently
+[1:00:48.5]  Under the other way around
+[1:00:53.0]  No, he was right, Dink
+[1:01:04.0]  Okay, so now you have 16 or more points that you can make by doing things such as displaying the total head count easy and the number of percentage of male and female employees
+[1:01:10.7]  There will be a million ways of doing that, inviting somewhere elegant and others
+[1:01:16.6]  And as we go through the basics off data friends, this will become apparent computer display the minimum national average median salary per gender
+[1:01:25.8]  Well, you know how to do it Global
+[]			 You gave your cold already
+[1:01:33.3]  So what would be, ah, basic strategy here
+[1:01:40.6]  What do you think you should do with the data? Separated? Basically right
+[1:01:45.4]  After all, these two slices will be complimentary
+[]			 All right is some of the male and the female slice will be the complete data set
+[1:01:55.9]  So once you have them as separate slices, you can do what everyone with them, whether it's computer statistics or plot things and so on
+[1:02:03.7]  And then port meaningful graph that could provide insight into gender inequality if any is present
+[1:02:15.4]  Um, so what is the idea of gender equality in this context? The argument that in average, women make less than men for presumably the same position
+[]			 We don't know the position that these people have any company
+[1:02:29.6]  You cannot make any claims about that
+[1:02:31.9]  But you can look at the overall distribution off salaries and have an idea if this is true or not
+[1:02:39.5]  If it is supported by the data or not, I'll show a quick peek into my solutions here to show you that this is a possible plot that you may come up with
+[1:02:53.3]  Okay, so that we can analyze this plot together
+[1:02:57.8]  Okay, can pause the video
+[1:02:58.8]  Take screenshots and Central
+[1:03:05.1]  This is called Katie current Oh, density estimation part
+[1:03:06.9]  It's a smooth version off a history Graham
+[]			 Basically
+[1:03:29.5]  Okay, So what do you see? Color coded blue for male red for a female? Clearly, the huge program for celery distribution for male employees is shifted to the right and has a much longer tail towards high salaries and underlined for females, therefore suggesting gender inequality when it comes to pay
+[1:03:39.2]  Okay, again, just what is reported by the data
+[1:03:42.2]  No big commentary
+[1:03:43.0]  Orson
+[]			 So as you can possibly tell by now, this data set can help us test many other hypothesis
+[1:03:50.0]  We can see there's discrimination or inequality or gap Dutra gender, but also age, race or even height all right, so and for the sake of this assignment, let's assume that we don't call different salary versus years of education a bad thing
+[1:04:11.8]  We assume that years of dedication should correlate well with a person's salary
+[1:04:18.9]  All right, by the way, it is a clear, weak argument, and the pierces coefficient shows that this is not the case
+[1:04:25.7]  But, um, we can we can stick to that
+[]			 So at this point, your task will be produced
+[1:04:40.0]  Three different hypothesis that might suggest that started This tradition is by the by factors such as age is okay, These are creative but realistic and no longer silly
+[1:04:42.4]  Hypothesis is Okay, So can anyone volunteer a couple of hypothesis here for ages and, for instance, what would be an interesting, potentially meaningful hypothesis? The test
+[]			 First, you can check to see how it correlates with income mirroring the scatter plot correlation coefficient calculations
+[1:05:09.0]  Okay, see what that gifts
+[]			 Let's try to do that together
+[]			 Okay, so what we can do here, we can copy this entire cell
+[1:05:21.6]  There's an option to do copy sells
+[]			 If a cell contains cold, you can also do something more straightforward, such as copying the actual text containing the cold coming to the point where you want to insert a cell
+[1:05:38.0]  Say, here you insert sell below
+[1:05:40.1]  His options are a little bit friendlier and nicer in Google Collab, This is your standard job
+[1:05:44.6]  Took the notebook that I'm using here
+[1:05:52.7]  So now we want Thio Look, a tte how salary correlates with age
+[]			 So what would be the changes? So here we have toe index salaries based on the employees
+[]			 Age is this is a thing called age
+[]			 Yes, that's the name of the column there
+[1:06:14.7]  All right, what else can we do? Uh, changed the names off the hot name
+[1:06:27.3]  Age is not defined
+[]			 Do that again
+[1:06:32.0]  Before did you run before I did? It knows that salaries is I'm trying to build a numb pyre, Ray
+[1:06:41.2]  Indexing this salaries by age, just as I did before for this salary
+[]			 Oh, wait a second
+[1:06:51.5]  They should call this year's I should call it age
+[]			 Okay, but it doesn't really matter well with us, of course, because I call each year
+[]			 Okay, So, salary versus age, That's the plot to get
+[]			 And then we can compute Pearson coefficient
+[1:07:10.9]  I'll do everything, including greatly import again but course, this is not necessary
+[]			 You can clean it up later and run
+[]			 And the correlation coefficient is 0
+[]			8 as close to zero as it gets off in a small data set like this
+[1:07:34.1]  So what is the partial conclusion? We can arrive at that? The data does not support any notion off ageism
+[1:07:42.1]  Pardon me
+[]			 Oh, okay
+[]			 Good point
+[1:07:46.8]  It's probably hears it should be a judge
+[]			 All right
+[]			 Yeah, yeah, yeah
+[]			 Okay, So if have years before because I mistakenly I ran that cell
+[1:08:00.8]  By the way, this is a mistake you can make
+[]			 Why did it work before? Because years was wrong
+[1:08:05.2]  And then I relaying it
+[1:08:06.1]  Whenever in doubt, do yourself a favor
+[1:08:09.6]  Either do a restart and run all cells or run off the above to make sure that everything after here is fine
+[1:08:19.4]  Okay, it waas Itwas Yeah, So at this point, that would say run all above, just to be sure off course, in this case here, simple stuff like that
+[]			 You can do that
+[1:08:36.8]  If this was a complex, deep learning different old book, some cells could be a 5 10 hours long training session
+[]			 You wouldn't want to start it all over again
+[1:08:41.6]  Right? But in this case, there's no harm in doing that
+[]			 And we did that to confirm that the correlation coefficient is indeed zero point your weight
+[1:08:48.8]  Everything's fine
+[]			 Every variable hasn't
+[1:08:50.4]  Amy
+[]			 Now be careful with the things you claim you're testing here
+[]			 If you write in your report, there is no correlation s for computation of the Pearson coefficient between salary and age
+[1:09:06.1]  You are stating something that is true to the best of our knowledge
+[]			 If you go once that far to say there's no ages made this company wait a second
+[]			 Maybe, maybe not
+[1:09:29.4]  Okay, If you stare at this plot, you can see that may be that the people were the high salaries are clearly within a window off age between mid thirties and late forties, which is a typical each for CEO Seo's and top officers
+[1:09:42.3]  That still doesn't mean ages, but is something that you can derive from the data
+[]			 And by the way, when I said right from data at this point in the game, I mean this type of stuff, not running a complex model that will make those insights for you will do that in a few weeks time
+[1:09:59.0]  We're just getting used to looking at things and checking our understanding off
+[]			 What is the data telling me what it's not and so on
+[1:10:14.2]  So I would never right hypothesis in terms off hypothesis where everything number three days ago ages when the company that's a horrible thing to write and try to prove from data along spirit will write it
+[]			 There is no correlation between age and salary
+[]			 You run this code that I just gave you for free
+[]			 You confirm that one hypothesis down, two to go
+[]			 All right, But you can make something different
+[]			 You can say people be old retirement age
+[]			 Make less, then younger folks, which will probably supported by the data
+[]			 You can slice it into 65 or older versus the younger folks
+[1:10:50.1]  Compute whatever summary statistics say mean or beating 70
+[1:11:03.0]  And chances are just look at these all those big out liars air Clearly before 65 these guys will pull the average upset differently compared to this crowd here where beyond 65 the maximum you can hope to make it something like $85,000 or so, right? Okay
+[1:11:19.4]  Don't make your hypothesis B two, obviously blatantly based on the data
+[]			 Don't say things such as No
+[1:11:27.2]  1 65 or older makes more than 100 K
+[1:11:31.8]  It's a good hypothesis, all right, but it's to baste too strongly
+[1:11:37.7]  Based on this particular salary amounts off this hypothetical company
+[]			 All right, you're fair game for the most part
+[1:11:46.7]  So just by copying and pasting stuff in the starter code, you're already getting a few for how this is going to grow and develop
+[]			 No, you're right
+[1:12:00.6]  Python gold for dance, and you are free and encouraged to use blots
+[1:12:03.0]  But okay, that's an important remark
+[1:12:07.5]  But make your cold independent off a human being interpreting those plots
+[1:12:10.5]  In other words, don't just hold the plot in saying, as you can see such and such and such
+[1:12:22.1]  Okay, you can say, as you can see in the plot, which, by the way, a color coded by showing red for post retirement age blue for younger or something
+[1:12:28.5]  The pulls Retirement age employees make less in average, and you could even say 20% less 15
+[1:12:38.1] 2% hasn't showed the python code there computed
+[]			 That's what you're trying to do here All right
+[1:12:47.5]  So it's Ah, combination of high school statistics, common sense, visual insights, basic python and related libraries and so on
+[1:12:57.8]  And, uh, not sophisticated models yet
+[]			 Okay, Now for the level three fuel consumption third, different data set
+[1:13:14.0]  This one is one that we're gonna read straight from the source at the University off California, Irvine Website
+[1:13:20.8]  If you have never been to this website, it's the machine learning repository
+[1:13:22.1]  It's a repose
+[1:13:32.1]  It worry that has been around for decades, much before machine learning was popular and profitable as it is now
+[1:13:43.2]  For each such data set, you typically have a basic description off what it iss How many instances air there
+[]			 How many attributes, whether there are missing values
+[]			 And that's one reason why I told this for being level three
+[1:13:58.4]  There are missing values, Okay, There could be missing values in the salaries data said, I don't know the height off temple
+[1:14:02.3]  You number 10 simply number 12 chose not to disclose his or her gender perfectly fine to have missing them, but he chose to have won
+[1:14:17.6]  That doesn't have that type of problem, okay? And this was used in the 19 eighties, three Americans Artistic Association exposition appeared in papers from the early nineties and so on
+[]			 The important thing to do is to realize that you have some very basic information about a data set here
+[]			 And if you go to date a folder, you get the folder where everything is
+[1:14:41.9]  And if you click back here to the interstate description, you get a very simplistic text file containing virtually this information here
+[]			 The attribute information
+[]			 Okay, so I think
+[]			 Okay, this data set So it's basically a data set off vehicles and their fuel consumption expressed in miles per gallon mpg
+[]			 So how many vehicles air there? About 400
+[]			 These are vehicles produced in the seventies and the eighties
+[1:15:17.6]  And since the word displacement doesn't mean much to lay people like me, I I thought it would be important to mention it's the engine size
+[]			 Okay
+[]			 All right, so here's how the data set can be read, and a data frame can be built when you first read it
+[]			 Data set
+[]			 You're going to get a date
+[1:15:49.7]  A frame off 406 rolls and nine columns after you run this line of code data dot Drop in a, which basically means drop the rose for which there are missing values
+[]			 This will go down by a little bit, and we don't have called to tell by how much, but we can insert called here
+[]			 Right, So that's very good
+[1:16:14.7]  Is Jupiter shortcuts yet? I apologize for that
+[1:16:17.1]  I have to Louise
+[1:16:17.7]  Silly things in certain Selvi lo et cetera
+[]			 So here you go
+[]			 If you want to know how many, um, rows and columns air, they're after the drop
+[]			 You can do another print
+[]			 Data got shape
+[]			 Of course, I haven't run anything, uh, from this part
+[1:16:36.7]  That's why it breaks
+[]			 Now
+[]			 It works
+[]			 So basically 14 rose were dropped as a result of that
+[1:16:55.9]  So let's take a deep breath here because I don't want to run into, um, unnecessary confusion
+[]			 There's the reason for Question three
+[1:17:21.2]  What was the net effect of this line of cold data not drop in a in place? True, if you want to know what that the us you can do a Google search from drop and a panda's just to get to the official documentation, and you will see that it removes missing values, okay
+[1:17:31.9]  And then it says they could look at the user guide for more information which values are considered missing
+[1:17:33.0]  Help work with missing data
+[]			 We have a lot of that in the textbook itself
+[]			 We're gonna get that in a little bit
+[]			 Okay? So drop in a apparently dropped 14 rose
+[1:17:48.1]  Work off data once against these 400 is pretty large
+[]			 Try to look at these things manually
+[1:18:03.2]  You may have to come up with some clever python calls to figure out which were those 14 Rose? Display them and say, Okay, you see, that one was missing this or that piece of information
+[]			 That's why they were dropped
+[1:18:09.9]  Important
+[]			 Because this is the type of fuel we have to pay attention
+[]			 It says missing that is yes
+[]			 It doesn't say how many
+[1:18:22.1]  He's not in this simplified description
+[1:18:33.1]  So it's not surprising that the number of Rose went down, but based on the documentation of data, said you wouldn't know how many rolls should be eliminated
+[1:18:34.9]  So my advice to you the answer to the net effect is easy
+[1:18:40.2]  14 roles were dropped, but the best answer is and these are the 14 rose
+[1:18:51.1]  Okay, show what they are, and if you will highlight the missing part
+[1:18:57]  What was the column or what? Which weren't
+[1:18:57.3]  Columns that were missed
+[]			 Okay, so far so good
+[]			 So let's take a look at this
+[1:19:17.6]  The their frame contains information about fuel consumption, the number of cylinders, the size of the engine, your horse power, the weight off the vehicle, how fast it accelerates the year off
+[1:19:20.3]  The model deserted, cryptic 70
+[]			0 is not a floating point
+[]			 It's silly
+[1:19:25.6]  It will be the year 1970
+[]			 So for those of you who want to clean up things, that's a nice task
+[]			 Right down
+[1:19:33.3]  Clean up this model year to show not 70
+[1:19:37.3] 0 or 81 points
+[1:19:38.9]  You know about his bad banking 70 1981 which are years
+[]			 Okay
+[1:19:43.7]  Origin is a bit mysterious at this point
+[1:19:48.3]  I will clarify that minute and the car name is a strength
+[]			 So the data you have is either the miracle or string
+[1:20:00.8]  There's nothing categorical such a gender or race as we had in the salary skates
+[]			 OK, so what did I do? You will write cold too
+[1:20:08.6]  Number one
+[1:20:15.8]  Count the number of three and five cylinder vehicles in the data set display how many of those air there and discard those entries
+[1:20:19.6]  So I'm assuming that three and fights in their injuries are so rare the vast majority of 46 or eight senators that we are better off not even taking these guys into account
+[1:20:32.8]  It's an assumption that I hope has resonance with most of you, particularly those who understand anything about vehicles which I don't
+[1:20:48.7]  Okay, so I'm just removing three and five seeing their vehicles because they're the number off rose is fairly small and therefore they don't seem to be informative of anything we want to do from this point on
+[1:20:53.8]  So you're clearly chopping the data by a small amount
+[1:20:58.9]  How many rows will be discarded? You tell me
+[]			 You write code that shows display the count and then show before and after, if you will
+[1:21:10.6]  Then you're gonna computer display the minimum maximum average fuel consumption in my hospital gallon for 46 and eight cylinder vehicles and optionally, you will display the name off the most at least few official vehicles in the data set
+[1:21:22.3]  And here, if you want to be fancier, can say the most efficient, forcing their vehicle the most efficient six in there, it's up to you a little bit off more detail, and it's time to test some hypothesis
+[]			 So one hypothesis to get a start
+[1:21:46.5]  It is which features off a vehicle correlate best with its fuel consumption, displacement wait or horse baller, Your guess is with his wife
+[]			 But here, a few things are important
+[1:22:03.0]  First of all, can you use gold from correlation from a little bit earlier in the cellars database and data frame? And absolutely, that's a good start of gold
+[]			 Secondly, there might be some people amongst you who may say, You know what? Maybe it's a combination of two or more of those, and that's quite possible not saying it's true for this data set, but it's quite possible
+[1:22:29.3]  In that case, we would be entering what in later science theory is known as a composite attributes, as opposed to just the native or raw
+[1:22:37.3]  Attribute that country
+[]			 The data set itself a good example of composite attributes that is always mentioned
+[1:22:43.8]  Literature is when you do medical studies, say, for diabetes, and you have the person's height and the person's weight, and you try to predict the propensity for diabetes and you don't use either use something called the M my body mass index, which is a humanly designed composite based on the weight and the square of the height
+[1:23:07.7]  If I'm not mistaken, that is a better predictor off risk
+[]			 For there it is, then, wait or height alone
+[1:23:21.7]  All right, so here I am not expecting that
+[]			 You come up with those composite attributes
+[]			 If you do, that's fine
+[]			 That is not expected
+[1:23:32.6]  Okay? Supposed to be straightforward
+[1:23:39.6]  It's basically the three correlation houses, weeping mpg and displacement mpg and wait mpg and horsepower
+[]			 And basically correlation coefficient
+[1:23:45.5]  Computations
+[]			 You can see there
+[1:23:50.1]  One attribute that release more closely with mpg consumption is whatever it is
+[]			 So far, so good
+[1:24:03.2]  Okay, now, there are a few more questions coming up for each of these three cases above used the plots that you will produce to answer the questions
+[1:24:11.9]  Is there a correlation positive or negative in your lonely? Okay, here, being a little bit sneaky, you're or nonlinear
+[]			 Okay
+[1:24:23.8]  The Pearson coefficient, by definition, measures a linear correlation between two variables
+[]			 But sometimes just by looking at a plot, you see, they are correlated, but not in a linear
+[1:24:33.4]  Sees So house flipped my solutions here just to show you how this could look like
+[]			 This is what happens if you do a plot
+[]			 And you have this index here
+[1:24:49.9]  The the the function name in Seaborn is lm plot
+[]			 So this is a scatter plot with a fitted linear model right on top of it
+[1:25:00.1]  So it gives you an estimate of how a fitted, linear, regression type of solution would look
+[]			 Look right
+[]			 So for any of us here, you will say yes
+[]			 I see a negative correlation here
+[1:25:17.8]  Right? Um the heavier the car, the least number of miles per gallon
+[1:25:22.5]  In other words, they're worse is the fuel consumption
+[]			 But if I were to draw a line here, it wouldn't look much like a straight line
+[1:25:33.3]  It would be more like a curve, right? Nice thing about dysfunction is that if you add another parameter, such as the order off the polynomial that you think will fit like 1/3 degree polynomial it, plus the party number right there and you can see ya, huh? There is a negative correlation and maybe a model off polynomial regression with a polynomial off order three, all of which will be explained their intercourse All if you think these things I just said, are a little bit, um unknown O r to advanced
+[1:26:13.7]  Don't worry, we'll yet, But again, it's never a bad idea to look a tw What l implored means in the context off Seaborn going to the documentation I'm looking at
+[1:26:31.3]  It's plot and regression model fits across what is known as a facet grid
+[]			 So basically, you are computing a regression model, of course, behind the scenes
+[]			 But you're not calling it explicitly
+[1:26:43.6]  You're not aware of which mathematical formulation
+[1:26:47.6]  So it sits nicely with the spirit that is assigned a number one, because it shows that you are going one step further
+[]			 But using this order three polynomial regression with polynomial of degree three is a kind of a black box
+[1:27:00.9]  You know, this is such a technique, but if you were pressed against the wall to produce the math at this point, he wouldn't know
+[]			 In a few weeks time, you'll say force, I know how to write it down
+[]			 All right, so that's the spirit behind the question
+[1:27:17.3]  Uh, linear or nonlinear, it's to have you play with these possibilities
+[1:27:19.0]  Still, in this exploratory, mostly graphical type of way
+[1:27:28.0]  And this is one case in which you may have to tell me, as you can see by the plot, Vela Okay, Otherwise, you have to run the regression itself, and it will be a little bit more complex than expected
+[1:27:37.8]  Finally, or almost finally, question seven and eight are questions that you should be able to answer and that kind of map, too, Um, general knowledge
+[1:27:53.9]  Or even so, the vehicles get more efficient overtime
+[]			 That's a legitimate question to ask
+[1:27:58.7]  The data should be able to provide that compelling answer yes or no, our Japanese cars more fuel efficient than American European ones
+[1:28:13.4]  Remember that this time frame of seventies and eighties is there dying in history, and Japanese cars started to catch American consumers attention in great part because of their more efficient fuel consumption
+[1:28:22.8]  So in order to go further here, I give you a hint that you have to replace
+[1:28:25.5]  Remember that origin column that have some mysterious want to entry
+[1:28:32.2]  In fact, one means USA to mean 03 means Japan
+[1:28:35.6]  So if you run this line off cold, you create an extra carbon called country underscore cold
+[]			 It has these strings as opposed to this mysterious looking one to entry
+[]			 All right, so I suggest you produce box plots for that
+[1:28:51.0]  What is a block spot? It's something that looks like this
+[1:29:06.3]  Okay, so it's a plot that shows not only the average value within a certain category, but also the extreme points, the standard aviation, the range
+[1:29:25.7]  And so Okay, So this is something that you probably get once you write the code, which basically shows very subtle upward trend over time, off cars becoming more fuel efficient
+[]			 Right
+[1:29:30.3]  Once again, Sky's the limit
+[]			 If you say I want to break this down for 46 and eight similar cars, be my guest
+[1:29:38.1]  Maybe the plots will show different trans
+[]			 Okay
+[]			 Same thing for Japanese American or European cars
+[1:29:53.1]  You probably get something like this where Japanese cars are, in average, more fuel efficient than Europeans, which are still better than Americans
+[1:29:58.9]  Basically, they've sent those years those models
+[1:30:11.4]  Okay, so finally, 36 points more than 10% goes into the conclusions
+[]			 Okay? Why? Because I wanted to take your time here
+[]			 What have you learned? Which parts were the most fun? What would you do? If you had an additional week to work on this, Which things you did that it should be attention to by the way I did this or something
+[1:30:40.8]  If it's not obvious as I go through the report or the notebook, Okay, so it's a weight off going back to what you did, which you probably did just to get things checked off and say, Ah ha, This was insightful
+[1:30:41.8]  This was yours, right? I could spend another month on this mpg data set if I knew how to visit, if I had to do that
+[]			 And so All right, so that's the spirit off the same number one
+[1:31:06.7]  If everything goes according to the plan, once you're done, when you think you're done, do a lost Colonel restart and run all to make sure that everything works, that your changes are not conflicting with one another
+[1:31:13.3]  And when you're finally done, of course, safe and tried to download s pdf via latex, which will produce a very good looking report for free
+[]			 Okay, so no need to have your word document or anything like that
+[]			 As the name of the notebook date and everything looks pretty neat including color coded source
+[1:31:35.4]  Cold, good looking plots, et cetera
+[1:31:53.8]  Doesn't get much better than this, right? So I hope that just by doing the entire cycle, you are encouraged to not only use these tools, but to be neat and organized and systematic in the use of them because it pays off, the neither
+[1:31:58.4]  You are closer to the final report
+[1:32:02.3]  Your notebook movie
+[]			 All right
+[]			 Good deal
+[]			 Okay
+[1:32:12.8]  Um, you may have seen this in another tab off my pdf leader
+[]			 I put this their science cheat up on campus earlier today
+[1:32:24.1]  It's This one is specifically for numb pie, but I also put the mother off old
+[1:32:25.3]  She cheats okay from their camp
+[1:32:30.8]  Those are very popular cheat sheets
+[1:32:32.2]  They appear in the middle of a copycat sites linked to that, and they're really good
+[1:32:42.7]  So wife on basics numb by basics Sipe I linear algebra
+[]			 We're not quite there yet
+[1:32:45.8]  Pandas
+[1:32:47.5]  Psych it learn We're not quite there yet, Matt
+[1:32:55.0]  What? Lib and see Born, which is, uh, visualization library
+[1:32:57.1]  Based on that blood live and broke A which is another of his opposition library based on math
+[1:33:02.5]  Lovely
+[1:33:06.7]  Okay, use off cheese is pretty straight forward
+[]			 Right? So think about the things that I told you
+[]			 I don't know how to do
+[1:33:11.9]  Injured her notebook, such as short goods
+[1:33:21.9]  Okay, Is the data set? Is the cheat sheet useful for that? Apparently not
+[]			 Okay
+[]			 Is it useful to figure out which things are in each menu and what they mean? Yes, it is
+[]			 Of course, Sometimes the there are shortcuts in the menu itself
+[]			 But you get the idea
+[]			 So far, so good
+[]			 So these things are available on campus now? No, I didn't forget to mention
+[]			 Or now I have to explain more carefully the Google cool app thing
+[1:33:57.9]  If you want to run or to work on Google AB, it's not as clean as I would expect, but I figured it out with the help off one of your classmates
+[1:34:08.8]  Here's the hill
+[]			 The main differences
+[]			 Let me show my I'll Google collapse first
+[1:34:19.5]  Obviously, you have to upload your why Python notebook
+[1:34:27.2]  And within your Collab Notebooks folder, you have to create a folder called Data into which you up
+[]			 They you upload the salaries and present height
+[]			 So you have to keep the folder structure something that you understand
+[]			 It doesn't have to be called data, but then you have to go and change in the source code
+[1:34:48.2]  So look at this hurricane, My Dr Collateral Books data in the and the actual CS fees for level one, level two
+[1:35:03.1]  It turns out, uh, when you I work with sub folders and what not Gugu collab seems to get a little bit finicky, so it requires that you do a few things
+[]			 One such thing is to write
+[1:35:13.3]  This line's off cold
+[1:35:16.2]  It says you're actually mounting the drive
+[1:35:19.3]  Okay, so from Gulag Collab import dry and then drive that Mt
+[1:35:26.0]  Prentiss is called slash conference
+[]			 Let's try
+[1:35:33.2]  Once you run this thing for the first time, it will give you a temporary link, but you have to click on to get an authentication code, which is ridiculously large, quickly copy
+[1:35:38.0]  But when you come back, you paste, and then it gets past that point
+[]			 That's the one shot thing
+[]			 In fact, let me see if it is a one shot thing
+[]			 Let me run from the top here and see if I hit a point where this works or doesn't work
+[1:35:53.2]  Let's see it says Dr already mounted
+[1:35:55.3]  So I mean, look, if I had disconnected or something, I would have to go through the same thing again
+[]			 The other thing that changes
+[]			 And that's an answer to your question
+[]			 I don't know your name
+[1:36:05.2]  Troy Tryst
+[1:36:09.2]  Question the lines that used to be a simple assed, foul victor president
+[1:36:14.7]  Now they have to have this gigantic path, which is the concatenation of content
+[]			 Let's drive with my space drive called lab notebooks and so on
+[]			 If you figure those things out, the rest works, and you should be fine
+[1:36:32.7]  But contrary to what I thought of doing, which would be to have everything Google Cola based, all you would have to submit will be the link
+[]			 I will not do that for two main reasons
+[1:36:47.4]  One, the pdf report is good looking and easy to read and glance at what you did, How much did and so on
+[1:36:54.1]  Secondly, um, for grating purpose
+[1:36:58.5]  I would have to mount a drive for each and every assignment each and every student on my ta, and that's kind of a pain
+[]			 Okay, so in other words, you're more than welcome to use Google Collab
+[]			 I like it and so on, but and There's 99
+[1:37:21.3] 9% chance that if you do everything here and then save and download the Y pie from notebook and run locally on your director logbook set up just to make sure it works, it should work
+[]			 There's no reason why it shouldn't granted
+[1:37:31.9]  If work on Google, have you get used to some nice tease that the plane Juvenile book doesn't have sense? Your editor? Easier way to do these air do that nicer looks one could clean, but it is what it is, right? Really? Where's that option? Oh, in the parts I can tow any port o s right, Thio
+[]			 All right, these nice
+[1:38:13.3]  Okay, if you could document that discussion for four or something for the sake off all of us, I would appreciate it
+[]			 All right
+[]			 Good
+[1:38:16.3]  Any questions? About the same in every one
+[]			 Oh
+[]			 Yep
+[1:38:24.9]  Roadblock problem
+[1:38:33.1]  After you, you will hit roadblocks left and right
+[1:38:34.8]  Absolutely
+[]			 Okay, no question about it
+[]			 It's part of the process
+[1:38:45.6]  And the point will be, um, the realization off
+[]			 Okay, I know this can be done
+[]			 I may not know this same tax
+[]			 I mean, I know exactly what, and I will give you pointers as we go through the second part of the lecture
+[1:38:56.3]  Really? Theory off Mumbai pandas, where the most useful things are
+[]			 Okay, so after the break, go back to the main tax book
+[1:39:12.5]  Have some I python set up or something and go over what I believe to be some of the highlights of the lump
+[1:39:15.3]  I chatter, if time allows will enter the pan this chapter
+[1:39:17.9]  If not, we'll wrap it up next week
+[]			 OK, so let's take 10 minutes and come back
+[1:39:23.1]  Well, shortly after that
+[]			 Thank you
+[]			 Oh, there
+[]			 Hi
+[]			 I didn't know over so yeah, over
+[]			 I just Bye
+[]			 Like the year? Yeah
+[]			 Yes
+[]			 All right, we're back
+[1:47:10.5]  So for the next, for the remaining of the class, I'm gonna do if you're something that I do regularly myself, which is basically to have the textbook open in one window
+[1:47:27.5]  In my case, it's a pdf reader app with the e book version off the textbook one
+[1:47:36.4]  It's if I can somewhat quickly go back to the beginning of the lump
+[]			 I chapter here
+[]			 There you go
+[1:47:47.0]  Introduction to Mumbai, then on another window, I will have the electronic version, Doctor notebook based version off the textbook, which for that I have two options
+[]			 I can go to that on, um, Google Collab
+[]			 Or I can run my local copy of that, which is what I will choose to
+[1:48:35.1]  So I'm gonna go to the my local copy off the books so I can jump straight into a specific chapter our section that I want Clearly, many of you may not have the textbook on the right hand side of the screen, whether any book or paper, because you think you don't need it
+[1:48:37.2]  Everything is in the drifter notebooks, and that's true
+[1:48:40.2]  So consider this right inside
+[1:48:42.2]  Optional than 1/3 screen, it will be a terminal window
+[1:48:57.2]  Where will run? Um, hi, Python
+[]			 So this one smaller? I don't know if my drifter actually running now, we'll see that in a minute
+[1:49:25.8]  So I fight on in a terminal, as there might be times in which we just want to type simple command, or I want to try something completely from scratch without looking at the book or whatever other reasons you may have
+[1:49:34.9]  Since I don't Technically no
+[]			 Which folder I'm in
+[1:49:39.2]  I'm gonna quit
+[1:49:43.1]  I buy some here and it looks like I wasn't the right folder
+[1:49:46.8]  Yeah, not that it matters much if I'm gonna do things by typing stuff up, but it's okay
+[]			 All right
+[1:50:07.4]  So my python Drifter notebooks running locally textbook conductor notebooks highlighted text book
+[1:50:15.8]  And now the question is we could now embark on the most boring adventure off going page by page example by example in Amman
+[1:50:20.1]  A tonic voice
+[]			 Okay, it's possible
+[]			 I don't want to do that
+[1:50:35.9]  Or we could pick and choose things that I think I should call your attention to and try to go with those and take your questions and whatnot
+[]			 So first things first
+[]			 What is numb by stands for numerical python
+[1:50:55.0]  So what? What is it? Basically, it's an extension to basic python language that handles the miracle computations, particularly matrices and and no
+[1:51:03.1]  Okay, uh, sees that many
+[]			 I want to say that
+[]			 No, I see
+[]			 Really? Oh, yeah
+[1:51:19.4]  It's Regency behind scenes, but, uh, the only piece of good news I can offer today to folks who suffered through Matt live with me in a previous clauses that it basically adds to python the ability to handle matrices as first class objects to do things such as matrix addition by simply calling a plus B and getting the result as opposed to for I, for Jay to an element by element tradition
+[]			 That's one thing
+[]			 It brings the table behind these things
+[]			 It does something fairly complex, which I can't explain roughly like this
+[1:51:57.7]  It takes away the flexibility of Maine python off having heterogeneous a race our lists and by forcing a race to be all of the same type, makes the array computation storage memory pointedly directions much more efficient
+[]			 Interestingly enough, your textbook author starts by that which, for many people in the class, may be too technical and to some extent not the most important piece off knowledge
+[1:52:27.5]  An entire semester, I'm highlighting it on the right hand side of the screen, just in case
+[1:52:31.1]  In case you wonder, How can python no one of the car available? A
+[1:52:39.3]  And I put a number there 15 that I mean to represent an indigent
+[1:52:43.4]  Okay, where does it store this type? Information, and this is a new insight into what python integer is
+[1:52:51.6]  Ah, Python Integer is not as simple as a C language integer, which occupies however many bites in memory and has the binary encoded value off that integer
+[]			 It's more than that
+[1:53:22.2]  It's actually an object with yeah, structure type off object where in one of its fields it contains the digit itself but also has information about the type of the variable this size and a reference to handle memory allocation here
+[1:53:41.5]  Location, all of which are not necessary knowledge at this point but are mostly used by the book author as a way to convince you that when it comes to Python lists as a result, off these points are based arrangement
+[1:54:00.5]  The items in the list actually are organized in memory through whichever pointers Point threw them in a much more complex way than on Empire Ray, which reminds you for good old array organization memory from your Inter to microcomputers class or something like that, where you can specify an array by a pointer to its first element and then traverse dewpoints, arithmetic and all that stuff
+[]			 So from under the hood perspective, what number I brings to the table is this ability to handle list like their structures in a way that is more efficient
+[1:54:26.6]  Well, of course, there's no free lunch
+[1:54:29.7]  What you lose in the process that arrays are now homogeneous data structures as they are in sea or c++ not as flexible as lists in python
+[]			 Okay, so at this point, um, one could do a number of things
+[1:55:06.7]  Ah, typical way by which people explain the difference between lists in the race is too type stuff up, such as creating a list l with elements 123 Here's a content off L and then converting into the ray
+[]			 Hey, by calling and p dot array on the list
+[1:55:21.8]  And of course I got an error because I did not important on by as in p Okay, I'm gonna fall flat on my face and 1,000,000 times
+[]			 I don't mind that
+[]			 Okay? Where you can see that a is now an umpire array containing the elements 12 and three
+[1:55:32.0]  Of course, this can be extended to multiple dimensions, as it would be expected
+[]			 So that's a common introduction to lists being converted into a race
+[1:55:49.0]  But granted, this is the part where you have to be careful if you want to go more deeply or not
+[]			 If you understand
+[]			 Okay, a race under the hood
+[]			 Look like that
+[1:55:56.6]  There had homages, their structures
+[]			 They are more efficient
+[]			 Okay, you can see
+[]			 Okay, give me more of that
+[]			 But you can start asking yourself
+[1:56:04.9]  Drink your questions
+[]			 What if I have? Huh? If I append the floating point number 5
+[1:56:19.1] 6 to that list, the list in Python doesn't suffer, right
+[]			 It can have integers and floating point elements
+[]			 If I convert that list into an array
+[1:56:30.1]  What happened? All the indicators want two and three were promoted or up casting too
+[1:56:34.9]  Floating points
+[]			 All right, so that's where I kind of draw the line between
+[1:56:41.9]  They want to go deeper than that
+[]			 You can go and the book will be a good guide
+[1:56:51.1]  I don't wantto I want to move to something else because I think that's enough about the list to a reconversion for now
+[1:56:53.8]  And that's what I'm trying to advise you to do in fact, typing stuff up like this maybe off your liking or not
+[]			 Otherwise, you can just take the drifter notebook version of the book and run the cells and go to the next section and so on
+[1:57:17.8]  And when you think you need to tweak the contents off a cell that's play with this one for a second, and you make it more visible here if you say OK, so I really understand
+[]			 What is this? Okay, so this is doing the context off python lists
+[]			 Okay
+[]			 Oh, that's a different way off
+[1:57:30.7]  Initializing a list calling range and the list constructor, if you will
+[1:57:39.4]  If you don't know what that is because you're buying from background this lacking a bit
+[]			 That's right, because they're back
+[]			 Look at the python documentation or play with range to see what us see
+[1:57:51.0]  If you understand that range stand means then elements starting with zero, which is kind of straightforward and so on pipe
+[]			 Okay, what are we asking for here? The type of the zeroth element in the list
+[]			 Okay, so lists are zero based, or so it seems as a raising sea and many other languages
+[]			 Okay, how can I build a list l to that has the string the equivalent of all those numbers
+[1:58:32.1]  You can use this drink converted string version and a simple for loop here that says for every element in the list, l produce another list that contains the string equivalent of those and So can you do head? Virginia's lists absolutely mics off boo bullion, strings, floats, integers and so, And here he would get to the point where you would be reminded that there is such a thing is a raising python
+[1:58:55.6]  We don't care about those, but we care about numb by a race the MP daughter Ray Primitive to create them from scratch or convert from an existing list
+[1:59:05.7]  And you would have a number of examples off how data types can be up cast
+[1:59:18.2]  Or you can force the data type to be what you want, even though the contents suggest that this could be very well, Honore off integers or how to do to the national umpire Rays
+[]			 And so so to me, folks, this is very straightforward
+[1:59:24.2]  That's the part that I don't want to get too boring more than usual because it's really, really straightforward, right? So can you create a race from scratch? Yes, of course
+[1:59:38.2]  You may say I already created a bunch of a reason scratch, but there's some library functions for things such as Honore, filled with zeroes or an array off once, or an array with the same exact value in this case 3
+[]			14 across in this case, three rows in five columns
+[]			 So these are numb by methods or functions that you can use to create such things
+[2:00:17.0]  Numb by a range is similar to the range function in basic python, and basically it, in this case builds a collection off values, starting at zero, going in increments of to stopping short off 20
+[]			 All right, this is an extremely useful function to keep in mind
+[2:00:28.5]  Lynn Space Linearly Spaced Elements
+[2:00:32.9]  There's a function of exact same naming math lab who have math lab knowledge
+[2:00:41.5]  So basically here, I'm saying, I want Honore off five elements equally spaced between zero and one 0 1/4 half 34 It's one very straightforward all right, nothing to it
+[2:00:55.5]  And there's a chance two hours from now, two days from now, two months from now, you will not remember that the name of this darn thing is laying space
+[2:01:01.3]  But you know there's such adoption and go to a T cheat or something, and you figure it out
+[]			 Let's talk a little bit about random
+[2:01:11.6]  You will create random arrays in a number of circumstances, and there are a few things that are worth mentioning here
+[2:01:25.0]  The m p dot random not random is basically will produce a collection off randomly picked values between zero in one off course, I have to beginning here
+[]			 Where is the important? Here you go
+[2:01:46.4]  The important players in peace
+[]			 We can run this thing again
+[2:01:49.2]  Clear
+[]			 If you run this again and again and again, the values will be different
+[2:01:54.7]  So little tidbit here
+[2:01:57.3]  If you want your go to be reproducible, you have to learn how to fix that seed off the random number generator so that every time you run it produced exact scene values
+[2:02:11.8]  This is fundamental for testing your code and eventually for sharing it with others
+[2:02:18.2]  Because you have, of course, it shouldn't Onley work with those rallies
+[2:02:20.6]  That's not the spirit, but at least there's a consistency in the values it produces
+[2:02:25.3]  What is the same tax for seat? Is it simply an p dot seed and then you choose a number I don't know
+[]			 Looks like it isn't Okay, so numb pie doesn't have an attribute to seed
+[]			 So what does one do? You can continue guessing
+[]			 Maybe it's m p dot random
+[]			 That seed which happens to be correct
+[2:02:46.6]  And then we can run this a billion times and you get the exact same nine values, and that's fine
+[]			 If I didn't guess, right, I would go through online documentation or something, and I would figure it out
+[2:02:56.4]  All right, But the concept is there
+[2:02:58.5]  Every suitor, random number generator in any language has the ability off locking the seed
+[2:03:14.2]  Okay, What else is important about random number generation? The default function random produces a uniform distribution between zero and one
+[2:03:27.4]  If you want a godson or normal distribution, you have to call and Peter, right? I'm not normal, okay? There are some variations of random number generation such as Rand int, which tells gives you get ready to say one random integers, as the Inter suggests between zero and 10 in a three by three Array is enough
+[]			 And of course, since this is interactive, you can say, OK, what, between zero and 100 run this thing again just for the fun of it, just to make sure that you understand what you're doing here
+[2:03:56.2]  Okay, uh, identity matrix one into the agonal zeros elsewhere is so called
+[]			 I function that is present in math, lab and other packages
+[]			 And if you want an empty, uh, array off size in this case three, it will be created
+[]			 Let's do three by six
+[2:04:18.3]  Okay, Um, why doesn't this work doesn't need another pair of parenthesis? Perhaps Now I'm missing branches that with that work, yes, that's what it waas
+[]			 So if you run into those types of syntax issues, there's a chance you will guess it right right away
+[]			 There's a chance you have to stop and go to the documentation
+[]			 There's nothing wrong with that
+[2:04:35.0]  I'm falling flat on my face here
+[]			 It's part of the deal
+[]			 Okay, so interesting enough
+[]			 It has whatever values were their memory before
+[2:04:46.5]  So it's garbage
+[2:04:49.7]  Remember? Good old introduction to microprocessors or something like that
+[]			 There's no such a thing is empty memory positions
+[]			 Even if it has all zeros, it means something, right? There is no empty
+[]			 Okay, be mindful of that
+[2:05:06.2]  All right, then comes the part where okay, Which data types? Thus numb Pies report
+[2:05:09.6]  As you would expect, integers off different sizes unsigned into just floats, straightforward stuff
+[]			 Let's move forward
+[2:05:18.0]  And if I'm going too fast or too slow give me some indication
+[2:05:25.7]  Okay? This stuff here, the basis often, Umpire rays, which in the textbook, goes by the number all the sections on number
+[2:05:27.8]  So anyway, it's basically sexual to point to
+[]			 This is phenomenally important
+[]			 Do you hear me? This is phenomenally important
+[]			 This section alone will help you figure out how to find out the size shape off a race index
+[2:05:48.6]  Individual elements slice reshape converter one by nine into a three by three joints split
+[]			 And so So let's take a look at this section, perhaps more carefully
+[]			 So in this particular set of examples from the textbook, we're gonna have three numb fire race to begin with its one extra next tree
+[2:06:18.2]  X one is a one dimensional array off size six, which you can think of a one by six array Excuse two dimensional X tree is three dimensional
+[]			 Um, there's gold
+[]			 Here, too, indicates the number of dimensions, shape or size off X three
+[]			 So let's see what these things are by their
+[]			 The contents are not important
+[]			 They are random numbers
+[]			 But if you feel so strongly about um printing the contents, you can say print text three right here, right and you will see which numbers were generated
+[2:06:52.5]  Okay, that's the beauty of interactive nature
+[2:06:56.1]  Off my pies on Jupiter Notebook, you're basically writing notes on the book, but making them come to life
+[]			 All right, so what about x three
+[2:07:09.5]  How many dimensions doesn't have three? What is it? Shape
+[2:07:16.7]  The shape aspect is very important for numb pyre raised in panda's native frames, which are specialized them by a raise, if you will
+[2:07:25.0]  So it's a three by four by five, and the size 50 60 comes from the product of three times, four times five
+[2:07:36.1]  I'm very straightforward, right? If you go one step further and you ask, and what is the data type? It says integer 64 which means 64 bits, which means eight bites
+[]			 So not surprisingly, if you ask what is the item size, it will say eight bites
+[2:07:48.4]  And what is the total number of bites of this very well occupies its 60 here times the eight 480 vice very straightforward, accessing elements
+[]			 Okay, so how do I access an element from Honore? Say X one
+[]			 I can access it by its position, so it's zero based, as we have seen already
+[]			 So the zeroth element is actually the first element for human purposes, so it's very straightforward
+[]			 And here again, of course you know
+[2:08:24.6]  Okay, 012345 What happens if I tried to access something that doesn't exist? You get an error in X six is out of bounds, as you wouldn't
+[]			 Virtually any programming language
+[2:08:30.3]  You want this type of your hooker
+[2:08:32.9]  You don't want to be led into thinking you're accessing something that exists
+[]			 And the point is just moving beyond the end of the day
+[]			 All right
+[]			 So very straightforward
+[]			 Nothing to it
+[]			 Um, Now, this may be new
+[]			 Okay, How to access the last or the second to last elements
+[]			 You have the negative index index negative one Ming's last negative to Ming's
+[2:08:56.2]  Second to last
+[]			 And so that's new to you
+[]			 Make a note
+[2:09:00.7]  Mental note
+[]			 Whatever it is
+[2:09:03.8]  Of course, this applies to two dimensional Israel is three dimensional or multi dimensional Race
+[2:09:14.3]  How do I write a new value into a position in your ate? The most straightforward way Put the position in brackets the name of the array and right on the right, inside of the assignment operator
+[2:09:25.9]  What you want the new value to be? I couldn't be more straightforward
+[]			 All right
+[]			 No, this is interesting
+[]			 What if it's an array of integers and you try to assign a floating point? Very tree it
+[2:09:39.1]  It will be truncated
+[2:09:50.7]  So the mind for that when we did the append to list off integers with afloat and then we promoted to a numb pyre A in the creation of an empire? A
+[2:09:53.1]  It promotes the values to be whatever they need to be after it has been created, say is an integer
+[]			 If you try to simply replace with afloat, it will
+[2:10:01.4]  Downgraded to an integer all right, off course, you can try other things
+[2:10:16.3]  You can try to put a string here, see what happens Then you get an error because there's no obvious way by which you can take the string test and cover to an industry based them, which kind of makes sense, right? So, so far, very straightforward now extremely important arrays slicing similar scene techs to math lab
+[2:10:36.6]  You can say I want just this portion of the re starting at this point stopping this point and with the option off stepping by a value by an amount different in one
+[]			 Let's take a look at it
+[2:10:45.0]  So you have a one dimensional ray going from 0 to 9 If you want only the 1st 5 elements
+[]			 Look at the scene
+[2:10:48.3]  Takes X brackets Semi colon
+[2:10:52.9]  Sorry, Colin
+[2:10:53.8]  Five
+[]			 Look at his scene
+[]			 Thanks
+[2:10:57.9]  Here, start Colon
+[2:10:58.3]  Stop Colin
+[2:10:59.1]  Step implicit if you don't put anything and started
+[]			 Zero is the beginning of the array implicit
+[2:11:06.4]  If you don't put anything at the stock, it's the Anna, very the size of the rate
+[]			 And if you don't put anything in step, it's buy one
+[2:11:19.4]  So if you say call him five, it basically means from the beginning until the fifth Element
+[2:11:23.7]  All right, so the 1st 5 elements in the 01234 If you say I want after index five, you can say five through the end with the same things like that
+[2:11:42.4]  Does that make sense? Okay, um, if you want between the fourth and the seventh, it's always implicit here
+[2:11:48.7]  Excluding the second member
+[2:11:53.4]  So four column seven means before the fifth and the sixth element
+[]			 So it's up to the seventh
+[]			 Excluding the seventh is happening sense
+[]			 All right
+[2:12:07.8]  If you want every other element, you can leave the start and stop empty and just say everybody but starting from the beginning and skipping every other element, Yes
+[]			 Three
+[]			 There
+[2:12:18.0]  Oh, it would if I ran the thing correcting Okay
+[]			 No, no, you don't have to be sorry
+[]			 So then you would change this to, say every third element, right? Okay
+[]			 Every other elements starting at one or index one
+[]			 Be careful with this
+[2:12:42.0]  This example is a little bit, uh, less than ideal, in my opinion, because to make it easier in some way, the index matches the accountant
+[2:12:44.7]  But there's a part of you that wishes maybe they were officially 10 11 12 or something to make the distinction a little bit more clear
+[]			 All right
+[]			 No, Look at this one here
+[2:12:56.1]  X Column column
+[2:13:00.5]  Negative one is basically means from start to end in steps off negative one
+[]			 So it's basically things
+[2:13:03.6]  Traverse it in reverse order
+[]			 Not the most obvious Syntex
+[]			 But once you learn, it works, it's it or this one
+[2:13:12.2]  Start at position five and go back two at a time
+[2:13:16.8]  So go 531 End of the story All right
+[]			 Good
+[]			 No, um, trying to see just one thing here
+[]			 Okay
+[]			 All right
+[2:13:38.5]  Motor dimensional separates
+[]			 Same story
+[]			 I will not spend too much time granted
+[2:13:49.3]  If I were in the business off asking trick questions, I would have many opportunities that with larger race
+[]			 Look at this one here
+[]			 X two is a two dimensional ray
+[]			 I could ask what is X two colon column? Negative
+[2:14:01.0]  One comma colon coordinated
+[2:14:03.3]  One basically means reverse each road and reverse the columns
+[]			 So look at what happens
+[]			 You go from the bottom
+[]			 Most right
+[2:14:20.6]  Most item 7761 And then 8867 And then 4 to 53 or 12 because it was replaced with 12 in in some point here, right? Mmm
+[]			 Three
+[2:14:30.8]  If I run it again because I didn't know that replacement
+[]			 Okay, so easy enough
+[]			 No
+[2:14:44.4]  If you want just the first column off something, you can say all rose coma, zeroth coal, which is the first column
+[]			 If you want only the first row, you can say zeroth row, comma, all columns
+[]			 But be mindful that Let me just do this with your real values here when you get X to zero
+[2:15:03.0]  Throw all columns you're actually getting
+[2:15:09.0]  They calm the role Contents 35 to 4
+[]			 Okay, which is what you expect
+[2:15:16.3]  But if you ask for a column such as 371 you get a row vector as a result
+[2:15:26.7]  All right? Hey, if you want that to be a call of a column vector, you'd have to call
+[2:15:27.6]  It's transpose, which in Mumbai you from that mistaking simply got t which didn't work so well in this case
+[]			 Have to see why
+[]			 Okay, Does anyone know why we have to check? Make a note of that? I'll figure out later
+[2:15:56.7]  Sometimes when we want on entire row, you can simply say x two in this gaze
+[]			 Zero first role
+[2:16:01.1]  You don't have to do this slightly less
+[]			 Nice scene
+[]			 Thanks
+[]			 Good
+[]			 Very important
+[]			 What comes up? Next sub A race as no copy views the attention to this
+[]			 Here's our next to which happens to be three by four
+[]			 Very small, very manageable
+[]			 But it could be huge
+[]			 So what if you want to do something I say this I raised so large it doesn't fit in memory
+[2:16:30.1]  It's reasonable to say that's taken several re do some processing on it
+[2:16:38.1]  And what would you hope? That happens in this summary that whatever you do in it reflects in the actual rate
+[2:16:42.4]  And that's the default behavior off numb by race
+[2:16:50.8]  So it thinks off those sub arrays as views rather than copies off the radiator
+[2:16:53.2]  That is advantageous for a number of reasons, including this one
+[]			 Sometimes you it's your only option to handle something more manageable
+[2:17:04.7]  And of course, there are other advantages, such as point a redirection, discreet and write and women
+[2:17:19.3]  So if you say I want a sub array from X to basically the 1st 2 rows and the 1st 2 columns, you're basically drawing a correct angle here
+[2:17:22.1]  3576 So you get that if you replace, say this value three
+[2:17:39.5]  With the value 99 and you ask how this X to look like even though you did that as a summary level, it's reflected in the large, fiery, very straightforward, but something that you need to know
+[2:17:46.6]  At some point, Subba raise our views off the larger radio, not copies
+[2:17:50.6]  All right, if you want a copy, there's a coffee method
+[]			 You could have created an ex to sub copy
+[2:18:01.8]  In which case, if you replace that 99 with 42 it changes in the summary Copy
+[]			 But if you ask, has it being reflected on the larger ray? The answer, of course, is no
+[]			 You were working on a copy
+[]			 All right
+[2:18:10.4]  It may remind you off
+[2:18:11.2]  Early programming classes off
+[2:18:13.9]  Passing by
+[2:18:15.0]  Value passing by reference
+[2:18:17.5]  Working copy
+[]			 Off the value off the off
+[2:18:22.2]  The terrible war pointed to the actual thing
+[]			 All right
+[2:18:25.1]  Reshaping off array is a straightforward thing
+[2:18:28.7]  So you have a Raiders three by three or what's the matter here? I'm sorry
+[]			 Say, having a rate that is one by 10
+[]			 I'm sorry
+[]			 One by nine, and you want to reshape it to three by three
+[]			 You can creating array with the numbers one through nine and immediately called the reshape method to reshape it to become three by three
+[2:18:53.9]  This chaining off methods being called with the doctor patient Is this then their thing that you may remember from Java script or some other languages? All right, if you are not very comfortable with that, you can always do something like this
+[2:19:10.7]  Print the grid before Oh, okay
+[]			 it was won by nine
+[2:19:15.3]  Bring this guy back in
+[]			 Remember that? Now you either have to put it here, or you have to call it here
+[2:19:27.7]  And oh, you have to
+[2:19:32.4]  After sending back to grit in this case, that's why you did not do not have this city type off cold
+[]			 Right? Okay
+[]			 Or of course, you could print the fire thing
+[]			 But remember what we saw in the first day of classes
+[2:19:49.7]  You're goes to produce readable cold when you do your, um, python coding
+[2:20:02.8]  So don't try to be overly smart by writing these types of things
+[]			 Okay? It should work at sea
+[]			 Yeah, but it's much less clear than what we had before
+[2:20:17.6]  Okay? Reminds me off back in the day when there were this international competitions off How complex a problem in C language
+[]			 You could write in one line of cold or something
+[]			 Okay, It's not my thing
+[]			 I like kind of the opposite him, or it's cold for teaching
+[2:20:34.2]  It's cold for prototype
+[]			 It's called for date understanding
+[]			 Even in real world
+[2:20:40.9]  If you understand you model, show your customers this works
+[2:20:44.4]  Chances are there'll be another round of software development before it's put into production where things will be re factored, optimized and so on
+[]			 This is not the time to do it, all right, not even in the sense off cryptic Syntex, or let's make it more memory efficient
+[2:21:04.0]  Let's make it more her bust or making faster, except for a few things for Easter's victory ization off loops as opposed to using for Oops
+[2:21:09.7]  That's not an option you use of accusation
+[2:21:11.6]  You will not write for groups if you find yourself writing for ropes, toe array based manipulation, major experience manipulation, linear algebra, calculations, you're doing something wrong
+[]			 There's no need to do that
+[]			 And I'll get to that in just a little bit
+[2:21:26.2]  Concatenation
+[2:21:32.9]  There's a method called Con Captain eight, which works as you would expect if the two razor one by three What I don't get it
+[]			 It can only mean put one after the other
+[2:21:51.8]  All right, what if the arrays are to the national? It becomes more interesting because you may have to specify when you say I haven't already like this and I want to congratulate with a copy of itself
+[]			 It's legitimate to ask below it or to the right of it if it's below it
+[2:21:59.5]  It's the simplest Syntex that comes first
+[2:22:06.1]  If the right of it, you have to specify as a septic on perimeter access
+[2:22:08.1]  And this appears all the time in a pie excess ones, one means that you wanted column white
+[2:22:20.3]  In other words, you want to the right off the original re
+[]			 Does that make sense? Okay, Um, no access doesn't take negative
+[]			 You would have to switch the names off the variables here
+[]			 In this case, they're the same, of course, but he would have to go get a comma, be become, become a all right
+[2:22:45.0]  Uh, since concatenation or stacking is so common, there are specialized versions off those con kept
+[2:22:53.3]  One is called V stack, which, as the name suggests, stacks things vertically
+[2:22:55.8]  And the other one, of course, is H stack
+[2:22:59.7]  Be mindful off dimensionality issues, right? What happens if these array here has an extra column? Say it will say, I'm sorry
+[2:23:09.9]  All the input of ray dimensions, except for the concatenation access must match exactly
+[]			 All right
+[2:23:17.5]  Makes sense
+[2:23:25.1]  How would think? I Okay, at least you got something out of today's action
+[]			 All right? Okay
+[]			 Good to hear it
+[2:23:33.4]  Okay? Splitting off a race
+[]			 Very useful as well
+[2:23:36.6]  Extremely useful
+[]			 And P split has a syntax that may take a little bit getting used to it
+[2:23:48.0]  You basically think this array X one dimensional 358 elements
+[]			 And you say I want to split into three
+[]			 Some a raise if you want to call them that
+[]			 And the way I want to split is, um, at index three and at index five
+[]			 In other words, before three, the next two, and then the rest
+[]			 I don't find it to be the most obvious syntax, but I can think of a better Syntex myself
+[]			 So made me may think a little bit of time getting used to it
+[]			 What if you mistakenly add another, uh, item here? Well, it will split as it says in spirit
+[2:24:35.5]  Points leads to end
+[]			 Plus once of a race
+[]			 So this would require four variables on the left inside
+[]			 I believe we're gonna get it
+[2:24:44.5]  Never too many values to impact
+[]			 I expected only three
+[]			 All right
+[]			 If you create 1/4 variable, it seems to work
+[]			 But it doesn't
+[]			 Oh, yes, because I'm not printing X four
+[]			 Thank you
+[2:25:02.5]  See, so good to have people that are still awake
+[2:25:04.2]  Yeah, wonderful
+[]			 All right, So that's the type of interactive play expected to do so
+[2:25:17.4]  And there's some nice things, such as vertical split in horizontal street, which are analogous to vertical stack and horizontal stay
+[]			 Very useful functions
+[2:25:22.5]  I believe you agree, basically says that in whatever way or shape or size you get your empire A you can come
+[2:25:29.6]  Captain Eights lice reshape
+[2:25:40.2]  Okay, now comes something even more interesting, which go by the name off universal functions
+[2:25:47.1]  And that's the point in the textbook, where the author will introduce the notion of vector rise loops
+[]			 I'll keep it simple
+[2:25:59.4]  When you use numb by race, you will never, ever, ever, ever write a four loop like this for I in Range, Tara toe something element by element
+[2:26:06.8]  It can do those things at an element level, bypassing the name of the array alone
+[]			 Let's take a look at this piece of cold to see if we're comfortable what it has so he can understand the rest of this section
+[2:26:22.3]  Basically, there's a function of your called compute underscore receptacles, which thanks on the ray, a one dimensional ray, presumably And that's what creates an empty allocates, an empty array for the results
+[2:26:39.3]  And then in the classic O, C
+[2:26:52.6]  Or C plus plus language, fashion goes one element of the time in a four loop and compute the reciprocal off that element stores in the copy in the area and then returns there, resulting Yuri
+[]			 I think wrong with that, except that it's slow does their job once again
+[]			 Here I find the examples from the textbook
+[]			 Sometimes it really cryptic because it takes me some time to figure out what were these random images that were generated before the reciprocal took place
+[2:27:16.6]  Of course, I can do the opposite of that and start figuring out right
+[2:27:19.2]  This was probably a 6144 Nate
+[2:27:31.9]  But if you I want to be less cryptic than that, you can split this line into, or you can do a print here on the factor of values
+[2:27:37.1]  So you know that this is indeed what if after contained all right or the array okay
+[2:27:56.4]  By the way, I used the expression vector, as in the mathematical sense off the word vector, to refer to a one dimensional race and occasionally used the expression matrix in the mathematical sense to refer to the or motive dimensional, numb Pyrex
+[2:28:10.4]  A bit of a problem with that because there is a numb pie matrix, and soon enough, the textbook in more or less forceful way
+[2:28:18.1]  Will you don't worry about matrices do with a race, but they mean matrix in the number pi sense not in the mathematical
+[]			 At this point in the textbook
+[2:28:31.7]  For the first time, you will see your textbook author computing the time it takes to do certain things so you'll see this magic percent time it to compute
+[2:28:46.7]  How long it would take this four loop based function computer reciprocal to go through an array not off size five, but off size one million instead
+[]			 Okay? And it thinks 1
+[]			68 seconds per loop
+[]			 If, however, you used just 1
+[2:29:00.2] 0, divided by values, which is the umpire way of saying, do this element wise, you will get the exact same result
+[]			 And if you do that for that same big array off one million elements, your average time for loop would go down from 1
+[]			68 seconds to 1
+[]			75 milliseconds
+[]			 so roughly in this case, 1000 times faster
+[2:29:25.4]  Never, ever take those time measurements as the truth from God Almighty or something like that
+[2:29:36.9]  Okay, they valued they very depending on a million things, including other processes running on your computer or whatever computing set up you have, which things are cashed and so on
+[]			 All right, So if you want just for the sake of argument, let me run this one again
+[]			 We had, what, 1
+[]			68 seconds Not too long ago
+[]			 Let's see how much it changes
+[]			 1
+[]			71 Not much
+[]			 This one waas 1
+[]			75 milliseconds, which, if we run again, we'll go to 1
+[]			61 So the relationship roughly 1000 times faster remains the same
+[]			 If you're really into these types of things, you can say, Oh, is that relationship with the size that's make it the 100 things smaller and see if their relationship when I was 100 or whatever be my guest
+[]			 I don't want that
+[]			 Okay
+[2:30:47.5]  No, this is a nice thing about, um, no by So just as math lab and other packages a race not by raise our first class objects, You can go on operation on a ray, which basically is interpreters on all elements of the array
+[]			 So if you have Honore ex, let me print X here
+[2:30:54.9]  Like when he throws these things and doesn't show you what it is
+[2:31:00.9]  So on a ray x 01 through eight, shaped three by three And you, if you ask two to the Power X, it creates an array of the same shape and size where the contents will be 23 power 01 to the power 12 to the power to for And so with that much cold in C
+[]			 R
+[2:31:20.5]  C plus Plus, he will do a four loop in this case, a double for group, and you don't do that at all
+[]			 That's the name message here, all right, and gets nicer
+[]			 So say you haven't array
+[2:31:32.7]  How do a print tax year? 0123 All right
+[]			 Oh, there was already one
+[2:31:46.7]  If you say X plus five, what do you think it interprets is your desire to add five to each and every element of X? All right, this is implicitly broadcasting operation, which we'll talk about in a minute
+[]			 You may say, How come we are adding one number to an array of four integers? What is going on behind the scenes? There's something called broadcasting
+[2:32:03.1]  It broadcast at five to as many positions as needed, and it does the equivalent of 505 plus 15 Must fire possibly make sense? But it's interesting
+[2:32:15.2]  Right? X minus five means subject five from each and every element of facts
+[]			 And that could be true for multiplication division division with the four
+[2:32:27.4]  In other words, rounding down I'd truncating and the same for the negative or the urinary negation explanation she ation remainder or modelers and so on
+[2:32:41.3]  So you can write very complex looking formulas like this
+[]			 Well, you think the value of from array element by element, to multiply by something at something
+[2:32:49.1]  Think the negative raised willpower and you get an array of the same shape and size with point where point competition Good deal
+[2:33:02.6]  Right? So, uh, this is something that you may remember from other programming languages as well, Often times, including math lab
+[2:33:10.5]  The plus sign is the using c++ partners, the overloaded operator
+[2:33:13.7]  So it's basically a function called Add that for your convenience exists in the form of the plus sign
+[2:33:22.8]  Be careful, though, because plus means addition IN and P Array an umpire? A
+[2:33:29.4]  But it may mean something else in the case, off quiet on a race or pie from lists for sure
+[]			 Okay, what is a common use for the plus sign in many programming languages? I want to say that concatenation right, so sometimes it's can't get anything contents, not adding contents
+[2:33:49.0]  So here's a table that shows that for every operator that we saw before, there's other beaus function
+[2:33:58.2]  If you want to use that for any reason, then there's nothing about absolute values, including calculating the magnitude of complex numbers
+[2:34:02.0]  We can skip that trigger metric functions exponents, logarithms And so, in other words, for just about anything that you can do to weigh the miracle value
+[]			 Individual integer afloat
+[2:34:21.6]  If those things are organized in a dump, irate there should be four specialized function that does that across all the islands
+[2:34:21.9]  Neary Good
+[]			 That's the main message
+[]			 This is a little bit, uh, to a specific
+[2:34:31.3]  I'll skip this specifying out, but it's optional for now, and I will, however, mention aggregate
+[]			 This is really cool
+[]			 Okay, uh, let me just bring tax here, show you what it is
+[]			 So you have this array off numbers between one and five
+[2:34:57.6]  If you say reduced to one number, which is the addition off all the elements you can do MP, that air not reduce past the array name, so basically adds up all the numbers
+[2:35:02.2]  Similarly, you can do a multiply reduced, so one times two, which in this case of course, is the same as the definition of a factorial
+[2:35:17.8]  And if you want to know how this sums or multiplication is accumulate, you can use the accumulate function to see how things are ended up or multiplied up, which is kind of meat
+[2:35:21.4]  Outer products can be used for something such as multiplication tables
+[]			 If you use with multiply
+[2:35:27.0]  If you use with Ed, it's a little bit more boring, but you get the idea
+[2:35:32.4]  It's basically computing the output off all pairs off two inputs with each other
+[]			 Okay, just a little bit further
+[2:35:56.8]  There's a lot of material on them pie in the book, and I want to go step by step on some of this stuff with you because I want you to feel comfortable with how things are evolving in, as opposed to just a power point with bullet points saying all the operations apply to the whole thing
+[2:35:58.6]  Great
+[2:35:59.3]  Didn't see the cold
+[2:36:01.5]  I don't know how that please out time lies or something
+[]			 All right, so, um, a few more things
+[]			 You have the building
+[]			 Some function we just saw in p dot some
+[]			 And we saw MP about some, uh um before so that's okay
+[]			 Uh, minimum maximum
+[]			 All these things are built in
+[]			 I will skip that because there very straightforward
+[]			 Once again, when it comes to two or more dimensions
+[]			 So you have a to the national rate, three rows for columns
+[]			 If you say some, it will think you want add everything up, which is a legitimate way to think
+[]			 But if you say no, no, I want some across each row or across each column
+[2:36:48.8]  Guess what? You have to specify access X zero
+[2:36:56.6]  That's interesting, right? Because X 00 is for rose
+[]			 One is for columns, and this is a little bit off a tricky thing with another pie
+[]			 Syntex
+[]			 When you specify x zero, you're basically asking for this
+[2:37:16.4]  Um across each column seems unnatural if X zero means rose, but the interpretation of them pies which they mentioned, you want to collapse, so you want to collapse the rose
+[2:37:30.4]  So this, um, automatically becomes some over the columns? Does that make sense? So it's a type of thing that you can only get confused once in your life because once you realize all that's the way it interprets, okay, then you kind of get used to it
+[]			 So x zero here for the minimum basically means column wise, pick out the minimum of this column, the minimum of this column, the minimum of that column, and so on X is equal one means for each row, go and find the minimum, all right
+[2:37:57.2]  And, of course, they're all sorts of other things, including variance and so far, very important
+[]			 Um, there is a not a number safe version of things
+[2:38:17.9]  Okay, so what if things say you have incomplete a race or not a number inside an array? You can do the notting numbers safe version off the computation, and it will save you from some types of errors
+[2:38:36.1]  Average height off U
+[]			 S
+[2:38:37.2]  Presidents
+[]			 Does that look from either
+[]			 Yeah
+[2:38:44.2]  Okay, so maybe maybe on Lee, maybe there's something here
+[]			 Okay
+[]			 Never saw that
+[2:38:50.6]  How about that? Two minutes before the end of the class, huh? On the eve of a hurricane, Huh? All right
+[]			 Yeah
+[2:38:59.8]  Feel like winning? Right
+[2:39:01.7]  I think our recording will cut off in any minute now, so I will have to stop
+[]			 This stuff about broadcasting is important
+[2:39:11.1]  This is where we'll continue officially next week, Maybe picking up to speed a little bit
+[]			 There will be no new assignment until then
+[2:39:16.9]  But by all means, if you have the time invest time doing this type of thing yourself
+[2:39:20.7]  You if you comfortable, you feel confident
+[]			 It's a great learning curve
+[2:39:23.5]  Trust me
+[2:39:25.7]  See you on the weekend
+[2:39:27.1]  Stay safe with Dorian and all its implications
+[]			 Thank you
+[]			 Yeah
+[]			 Yeah
+[]			 Okay
+[]			 One

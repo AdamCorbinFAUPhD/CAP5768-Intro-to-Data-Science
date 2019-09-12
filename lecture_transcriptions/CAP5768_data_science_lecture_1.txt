@@ -1,0 +1,1336 @@
+[]			all right
+[0:00:07.5]  I have to know everyone and welcome to intra data science
+[0:00:13.9]  It's nice to see a class room packed with people
+[]			 I haven't seen that in a while
+[]			 I have been thinking too many online courses
+[]			 It seems I'm happy to be here
+[]			 And I hope you are enjoying the first days off your fall semester and then everything is going home
+[0:00:47.4]  Well, um, who spent the first few minutes of this lecture going over the usual introductory stuff to make sure that we are in the right class to understand what the course is going to be all about? Talk about syllables, assignments and, perhaps more importantly, spent some time today talking about the big picture of data signs before you get into the nitty gritty of non pipe and as psychic learn by fun debugging and et cetera
+[]			 All of which will be part of the deal, of course
+[0:01:14.3]  So I thought I should start by asking you some questions so typical off a professor, not a pop quiz per se
+[0:01:18.6]  But let's ask ourselves some questions that have to make it more in corrective than just going through
+[0:01:36.7]  A sequence of power points lives, which is definitely something horrible, especially more so in a three hour long block, which is kind of what we have mine is a few minutes, right? So let's ask some meaningful questions to ourselves, the colleagues, instructor to the class and see where we go
+[]			 That good deal
+[]			 Okay, first question
+[0:01:53.0]  Who am I? Well, Steve, I think I got his life from my metaphysics
+[0:01:53.8]  101 class
+[]			 Let me see if I have to change that
+[0:01:59.1]  Uh, no sooner is it
+[]			 It's just an excuse
+[0:02:00.8]  Tell you a little bit about myself
+[0:02:02.5]  You can hook on me
+[]			 You can go
+[0:02:11.8]  You can see I have being a professor here after you for a little bit more than 18 years now, all together being around South Border for 22 years
+[0:02:18.7]  I came to ask for you to do my PC under Dr Borg effort, and I ended up staying here, and I am now a tenured full professor
+[0:02:24.0]  Have been for a while in the Department of Computer and last engineering and computer science
+[0:02:30.8]  I am an engineer by training, not a mathematician, not a computer scientist
+[0:02:35.7]  But of course, over the course of my career, I had to wear many hats
+[0:02:44.6]  So I have been moving around multiple fuels under the big umbrella computer and electrical engineering and computer science not only in terms of the course they teach, but books I wrote research project I get engaged in and so on
+[0:03:02.2]  My research interests have mostly being for the past 30 year, 30 years Since I started calling myself some sort of research apprentice, they have been under this umbrella off intelligent processing of visual information
+[]			 Um so basically, um, I have been doing some sort off a eye for image type of data for the past 30 years or so
+[0:03:22.0]  My master thieves is back in the remote year of 1989
+[0:03:42.9]  It was about optical character recognition OCR and how to train a no see our algorithm from a set of examples giving good and bad examples off what it is to have a letter, a letter B or the number two and learning more precise descriptions off where they are
+[]			 This is up goes these days by the name of machine learning
+[0:03:48.6]  Mostly so supervised learning, if you will
+[0:03:50.8]  It hadn't quite caught up with that name back then, but that's basically what I was doing 30 years ago, so I'm being around for a bit
+[0:04:04.7]  I have worked on topics that normally fall under this list off raises such as a I image processing, medical image analysis, computer vision, human vision, machine learning and, more recently, of course, deep learning
+[0:04:27.3]  So that has been my field off interest, perhaps my field of expertise, to the extent that one can only be an expert on the subset off those topics, since the feud is ridiculously large, my work has appeared in a number of books
+[]			 These air, some of them
+[0:04:36.5]  And if you look at their title, they normally have thinks that his image processing, video processing villa databases, visual information retrieval, optical flow, image retrieval, something like that
+[]			 So that's basically what I have been doing more recently
+[0:04:46.2]  I am committed to working more closely on the intersection of a I and medicine
+[0:04:52.9]  And the three publications that you see on this light are definitely not mine
+[0:05:00.1]  Clearly not, but they are good recent indicators off how popular and relevant this field has become
+[0:05:12.5]  From left to right on the left, you'll see the cover page off a new journal called Radiology column Artificial intelligence by the R
+[]			 S and a
+[0:05:19.2]  What is the RS And A, you may ask, is the Radiologist Society of North America So their regular communities so engaged into a i efforts in radiology that they have created an entire journal for scholarly papers In this intersection of radiology and a I
+[0:05:35.6]  The first edition of the paper came out generally of this year
+[0:05:46.5]  The second cover picture that you see there is Nature Medicine magazine Off Generate 19 also its 25th anniversary
+[0:05:59.1]  And the cover story is medicine in the digital age, thereby suggesting that that's where you're going and on the right Inside a book by cardiologists and Scripps Research, Um, extraordinary researcher Eric to pull a book Oh, Deep Medicine that came out in March of this year and has appeared in a number of interviews and media appearances and so forth
+[0:06:17.1]  If you go go Eric Topo Deep Medicine
+[0:06:20.5]  You may see Dr DePaul being interviewed about his book everywhere from CNN to MSNBC to Fox News
+[]			 You name it
+[0:06:28.9]  So Eric propose Book is a great book
+[0:06:31.8]  It's written for the general Onions, and it covers not only the technical aspects off A I deep learning in medicine in general and radiology in particular, but also how much of this can eventually impact the way we treat patients
+[]			 We being medical doctors, I'm not one of them
+[0:06:56.6]  But you get the idea the way medical doctors treat patients, they waited health systems, work, healthcare systems work and how much a
+[]			 I can help into the mix
+[0:07:23.0]  So because of my interest in this marriage between a guy and medicine and my it's experience with image analysis, clearly my point of entry is medical image analyses, anything that has to do with either images from pathology or radiology or skin lesions or anything that can be visualized in whatever form it
+[0:07:34.7]  CT scans, MRI's and so on, so that just as a teaser, the our department has just had a new master's program approved yesterday or the day before
+[0:07:41.4]  It's a masters in artificial intelligence
+[0:07:44.1]  It has been approved by the Board of Governors
+[0:08:03.8]  I think the first courses will appear hopefully as soon as the spring, and in that program, I have an entire semester own, aye aye in medicine, a graduate level course to cover these in much detail This is not what we're going to talk about here in this course, except perhaps tangentially here in there
+[]			 All right now, for less philosophical questions and questions that have more to do with our course, I think off course there's a question that I want to ask you, and it's in my script here, which is why you're taking this course
+[]			 But before you go there, I want to talk about a few things around the topic or the name or the buzzword, if you will
+[]			 Data science
+[]			 Okay, what is the size? And here's his lights
+[]			 Oh, that's the part where he should have removed this guy
+[]			 Okay, Good
+[]			 Or put it in presentation mode
+[]			 They think with presentation mode in this recording system is that if you want to get out of presentation boat, it takes sometimes 10 or 15 seconds
+[0:08:51.0]  It's really annoying
+[0:08:53.0]  That's why I'm doing this rudimentary thing or some port
+[]			 But I will change that
+[]			 Okay, so the blank space on the right hand side of this light basically means I want to hear from you
+[0:09:04.0]  Told you takes a while, and it will take just as long going back to regular view I don't know why
+[]			 Oh, it's got okay
+[0:09:13.4]  Got it
+[0:09:23.8]  So in no particular order and without picking on anyone, the bar she That's a problem of being repeat customers in my classes
+[0:09:26.7]  Especially if I've known you from none online courses
+[]			 Because then I know your names
+[]			 I know your faces
+[]			 And I start picking on you on the first day of classes
+[0:09:39.4]  So can you volunteer? Not necessarily a complete definition, but maybe some cures
+[0:09:44.8]  When you think of data science, you take off my name yourself saying, dealing with data
+[]			 Okay, So what? I am Mr and way data
+[]			 Interesting home
+[]			 Interesting
+[]			 Looks like
+[]			 Okay, I like your picture
+[]			 You can stop right there
+[0:10:03.4]  I like your pictures
+[0:10:05.2]  So we have this potentially large amount of data going through It can be tedious
+[]			 Can be boring
+[]			 Can be yucky
+[]			 So one way to make it less so is to come up with nice visualization too, So we can have insights into the nature of the data
+[0:10:25.2]  Is the physical properties of data, Opie Yours? 10 trans distributions whatnot through cleverly designed plots
+[0:10:32.4]  May be interactive gimmicks and so on
+[]			 I like that
+[0:10:42.6]  After all the part where the data can be unwieldy and yucky is point that who touch upon it's nice to have clean, sanitized data, but it's not always how things start
+[]			 And the part about visualization, of course, is a big component off this course in any course in data science worth of its name
+[0:11:01.5]  Few words that we can throw on the campus here street through the yucky data and wielded Rita individualization
+[]			 What would you ever mix? Ah ha
+[0:11:07.9]  Information extracting
+[0:11:14.8]  So basically, what I get from your input is that there's this perception
+[]			 I believe in most of your minds that data information and knowledge are three different things that you can extract information from data
+[]			 And hopefully, based on that information, you can model some type of knowledge
+[0:11:32.7]  Does that make sense as a rough hierarchy? Okay, good
+[]			 Thank you for that
+[0:11:42.9]  Someone on this side of this room they pick on from leader faces resisting that
+[0:11:43.8]  Angelica never stood quick
+[0:11:50.7]  All right, What else gonna be throwing this campus? I mean, you talk about a nearly data, perhaps large amounts of data visualization, extracting information from the data
+[0:12:00.5]  Alice analysis
+[]			 I like that
+[]			 Uh huh
+[0:12:12.9]  The analysis of data using machine learning techniques to make educated predictions, perhaps analysis
+[]			 Okay
+[]			 All right
+[]			 I like all that
+[]			 So are you telling me that there is an overlap of sorts between machine learning and data science? Yeah, absolutely
+[]			 The army
+[0:12:35.7]  That's where I may have Thio tell you to not go too far with that Because calling it an overlap is a safe way to put it
+[0:12:43.2]  If you decide to quantify how much of an overlap it is or if one is a subset of the other, really get into unnecessary trouble here
+[]			 Okay, so let's not go there
+[0:12:46.7]  Alright? Different people will say different things
+[0:13:02.3]  One can say that machine learning is a subset of the size it kind of agreement, because the data science umbrella phrase is general enough to cover a bunch of things underneath it, including eight of civilization, including data wrangling, including statistical modeling, including machine learning in all its subcategory
+[]			 So yeah, absolutely
+[]			 Okay, here's the definition from one of your tax books
+[]			 You know, we have two textbooks listed in the cells
+[0:13:24.7]  One is called Think Stats by Downey
+[0:13:26.9]  The other one is called Bite on Data Science Handbook
+[0:13:28.5]  Essential tools for working with data by Father plus 100 classes
+[0:13:34.7]  Book will often be referred to US Ex Book one and down his book Textbook, too
+[]			 Okay, so this is your textbook one
+[0:13:44.7]  So in there, early points of the book, maybe the profits or something, the author writes
+[0:13:51.4]  Data science is perhaps the best label we have for a cross disciplinary set of skill that are becoming increasingly important in many applications across industry and academia
+[0:14:03.5]  This is not a definition is just a way off trying to talk about it without quite offering a definition at this point
+[]			 And then, if you're ready, practice off the book already
+[0:14:25.1]  You will see that he refers to this van diagram that comes from Drew Conway's website that basically puts data science in the middle of thes three big circles and talks about what are the three fundamental ingredients one could say off successful data science practice, which are, in this diagram referred to as hacking skills, which we would call more politely coding or programming skills on the right top math and statistics and on the bottom, substantive expertise or domain expertise or subject matter knowledge or something like that
+[0:14:51.1]  Interestingly enough, the intercession of the three is data science, according to this diagram
+[0:14:55.7]  But if you get partial intersections, if you do a lot off statistics and coding, you get machine learning
+[0:15:10.7]  If you do statistics and expertise in a certain domain, you get traditional research, which does not sell innings competition models
+[0:15:12.9]  And interestingly enough, we call it the Danger Zone, where you have hacking skills
+[]			 You have domain knowledge, but you don't know the math, and you don't quite know what you're doing
+[0:15:31.6]  So this diagram somehow mirrors my understanding of what a successful recipe for Davis signs should be, which all sharing another's light coming up
+[0:15:34.0]  And it reflects the notion that you basically need those three big circles there
+[]			 You need some math and statistics, and that's why one of our textbooks thinks that's book is mostly about that
+[0:15:54.7]  You need some programming skills, and that's why everything we do starting today is basically running python code interactively on either i pi phone or dripping in old books, and you need to know what the problem is all about
+[]			 Interestingly enough, no, you know, the problem is all about is much more important than people often give credit you have to write, you have to to ask the right questions
+[0:16:24.0]  You have to spend time with the problems, remain with the data before getting into any of their statistical analysis techniques or the coding tricks to massage his realized clean up process, the data and so on
+[]			 And I will go back to this topic of getting again
+[0:16:36.2]  I almost added, having some sort of common sense as part of the recipe for police accessory
+[]			 In this field, you have to be occasionally not very technical
+[0:17:03.6]  And yet brother looking in terms of the problems all about what is the data? What are you trying to best or model? Or predict or analyze as you look at the data? And so this is another diagram that suggests that day that science is indeed on interdisciplinary field
+[0:17:15.8]  So in this diagram, all those um, ovals around the diagram point towards data science in the middle, and it names in the overalls include things such as data engineering, math statistics, advanced computing, hacker mindset, domain expertise and so on
+[0:17:27.8]  Not a very rigorous diagram, I would say, but still a reminder that all those key phrases around the world data science could have being thrown onto our campus a few minutes ago, and we did come up with some of them searches
+[0:17:42.2]  This realization, for instance, okay, the next bit off, Not quite definition, but yet untapped to frame the go and size and scope of data
+[0:17:58.7]  Science comes from a book by Kelleher and Journey that was published by M
+[0:18:01.3]  I T
+[0:18:03.9]  Press last year called the the Science and in the Profits
+[0:18:11.5]  Or so they say things such as they go off Day for Science is to improve decision making by basing decisions on insights extracted from large data sets
+[]			 And later on, he says, are
+[0:18:19.9]  They say it is closely related to the fields of data mining and machine learning
+[0:18:29.6]  But it's broader in scope once again, speaking of the overlap without, um, quite being too picky about it
+[]			 Good
+[0:18:49.9]  So what does this collection off diagrams and quasi definitions lied to? It basically puts us at ease with our notion that this feud of data science is not constrained by very precisely drawn lines
+[]			 And yet the combination of math statistics, advanced computing, programming skills, domain expertise and so on is more and more needed
+[0:19:14.9]  These days and will soon ask, Why is it more relevant now than it was perhaps 50 years ago when the expression data science was first coined? We'll get to that in a minute
+[]			 So presumably people who do data science are called
+[]			 But the scientists, What is the date? The scientist, So that's hear from you
+[0:19:31.1]  Get Warner two definitions
+[0:19:46.6]  A data scientist is person who I maybe man and data intersect in a way interesting
+[0:19:55.6]  Someone who knows how to use math, statistics and data to intersect and be applied in a vast number of the mains
+[]			 Interesting point
+[0:20:17.1]  Very good indeed, because it also reminds us that part of the goal in this course or in anything, the science course is to build our own to box of sorts in other words, to know certain techniques that even though we may have practiced them with a cassette, A are likely to be used in data sets B, C and D or problem lemmings X, y or Z
+[]			 Very good
+[0:20:28.4]  So there's this sense that yes, use Matthews statistics
+[]			 Use your hacking skills, but you create the knowledge off an array of techniques that can be applied in multiple cases
+[]			 Very good
+[0:20:45.4]  Another idea of what is a data scientist or what goes kidneys? Yes
+[0:20:50.6]  Wait
+[]			 Ah ha
+[]			 Someone who can use those techniques
+[0:21:00.1]  I like the word present and can present data in a way that iss consumable Good
+[]			 It could be understandable
+[]			 It could be, um, you could put the number of words
+[]			 They're beautiful
+[]			 Uh, there's a person that comes to mind every time I see this type of definition, and you may know him
+[0:21:19.2]  He passed away a few years ago
+[0:21:20.5]  Unfortunately, his name is kinds Crossing the Gentleman from Gap minder
+[0:21:25.7]  Get minor dot org
+[]			 He was one of the best examples that I've seen off someone who could take data
+[0:21:48.0]  In his case, he was devoted to a number of issues related to health here, too, poverty to the contrast between so called developed countries and developing countries or third World countries is sometimes they would be referred to
+[0:21:57.2]  And he and his team came up with some of the most compelling ways of visualizing data and making them presentable, understandable, consumable in a way that people would understand how the date according form, say public policy in health or education or something like that
+[]			 I'll make a note off his work and put something for you on
+[]			 Yeah
+[0:22:20.0]  Nervous
+[]			 Very good
+[0:22:26.7]  Okay, so let's get some definitions from the dictionary order
+[]			 It's a sure or something
+[0:22:35.9]  This, um, comes from a paper called 50 Years of Data Science by Professor David Donahoe from Stanford
+[0:22:42.1]  Yeah, gave a talk in 2015
+[0:22:44.8]  The talk resulted in the first version of the paper
+[0:22:49.2]  The first version of the paper was dissected and critiqued and criticized and destroyed him, praised by a number of very things, people in the field
+[0:23:02.3]  So about two years later, he produced the final version of this paper, including kind of panics where he addresses some of the most meaningful beats of criticism you got
+[0:23:17.6]  And I posted the paper on canvas for your convenience is, Well, it's, um, roughly recorded YouTube videos off Elektra
+[0:23:19.2]  He gave referring to this type of issue
+[0:23:34.9]  So in this paper, just before I go back to the definition of what is the date of scientist, Donahoe addresses in a much more detailed way than I have ever seen this entire deal em off
+[]			 What is the scope of data science? Is there such a thing, such as old data science and new data science
+[0:23:47.6]  Is there a way that you can make, uh, some sort off universal curriculum for teaching the science very, very meticulous 1,000,000 phone footnotes and 1,000,000 references? It's quality by excellence
+[0:24:03.0]  It's not perhaps the easiest read, although it doesn't have any math or anything intimidating like that
+[0:24:10.4]  But it's very good for those of you who want to get a little more deep plea into this debate off
+[]			 What is that? The science and whatnot? Okay
+[0:24:17.5]  Oh, you needn't be concerned by the fact that these lines were not showing you the money for their
+[]			 I hope this is not problem with the recording
+[]			 That's it shows that recording to think
+[]			 OK, good
+[]			 That's all for the best
+[0:24:34.9]  So in that this paper don't afore mentions the data scientist
+[0:24:38.2]  According to the Data Science Associations Professional Code of Count, it is someone who uses scientific methods to liberate and create meaning from raw data
+[0:24:52.4]  Interesting choice of words, um later, in the same paper, he produces amore snarky definition person who's better at statistics in any softer engineer and very soft engineering than any status I like this definition a lot
+[0:25:13.1]  I know it's half joke, but it's kind of a good mental picture to have, right, So I believe we have ah, wide right of backgrounds in this class
+[0:25:18.6]  I haven't checked your student introduction posts on canvas yet if you choose to introduce yourself there, so I wouldn't be surprised if we have professionals
+[0:25:23.9]  Statisticians are mathematicians in this group
+[]			 That's fine
+[0:25:28.5]  I wouldn't be surprised if you have hard core Python software developers
+[]			 That's fine
+[]			 And I wouldn't be surprised if we have people who know more about statistics and programming than I do, which is great
+[]			 No problem
+[]			 But there's a great possibility that we are way
+[0:25:43.1]  Identify with this definition coming from the computer science, soft engineering and beefing up the statistics and the American methods
+[0:26:01.9]  And the data analysis methods to be better at statistics than the computer science folks who did not take this class and yet better program in the statistician who is not as fluent in, say, Python and the Python data science stack as this combination of numb pie pandas snap what lib and psych it learn is often referred to
+[0:26:17.1]  Okay, so fill in the blanks data scientists, by definition, big data and use data to do what we kind of address that
+[0:26:28.9]  But I want to see if we can come up with a laundry list
+[]			 You can take the data and use it to make decisions
+[0:26:34.8]  Has had that Thank you
+[]			 Make decisions, make insightful analysis
+[]			 Okay, let's have a couple more least as many as the and people
+[]			 It's two more
+[0:26:51.0]  Make associations
+[0:26:52.1]  Inferences
+[0:26:54.0]  Good correlations
+[0:26:59.2]  Good discover new patterns
+[0:27:00.7]  Discovered things that were heating, the date, the soapy speak that were never noticed before
+[]			 Good
+[]			 Let's go
+[]			 A couple more
+[0:27:15.7]  Predict what predictable to happen to that system whose historical data has been collected
+[0:27:19.9]  Right? This isn't repeated
+[0:27:23.2]  Stock market, right? We have historic accounts off certain stock or certain index, and we want to predict how it's gonna look like tomorrow
+[0:27:32.2]  What else? Great to train machine learning models
+[]			 Good
+[0:27:35.3]  Did you pick up my next life? I know you didn't
+[]			 Okay
+[]			 All right
+[0:27:42.6]  What else? To make pretty graphs
+[]			 Okay too
+[]			 Make the data more presentable
+[]			 More easily consumable
+[0:27:50.7]  Understandable in a way that is, that strips it from its raw, dry nature and hides the statistics by which the grafts could not be necessarily read it about some ever
+[0:28:09.6]  Um, summary statistics say he's programs to give a simple exam
+[]			 Okay, here are some of my answers in the next life you things you mentioned a few things you may not have the one on the left top test hypothesis is right In the scientific method, you have hypothesis, and you have to test them
+[0:28:30.9]  Use uh, but every day that you have available to model processes to predict outcomes to the attack, anomalies to train, machine learning models extract information and eventually knowledge
+[]			 And I put something that has a little bit more philosophical to explain the world
+[0:28:45.6]  It's a a little bit more ambitious goal to have but a noble one nonetheless
+[]			 Okay, what is the recipe for success in data science? I think by now my answer is clear
+[0:29:01.3]  I can't kind of gave it away a fuse lights ago, all right? And this is not exactly the recipe for success in the course, because that list could include keep up with the reading, keep on eye on canvas, don't list their lines, ever be it
+[]			 But in the professional practice of data science, I would say it's a mix of those three things that we saw it
+[0:29:22.0]  Slightly different name in the vent diagram from Drew Conley
+[0:29:26.2]  A few slides back
+[0:29:28.8]  You have to be strong in math and statistics
+[0:29:35.1]  You have to have good hacking slash coding skills, and you have to
+[]			 I understand the problem at hand
+[]			 It doesn't mean you yourself must be the subject matter expert, but you need to at least have access to that type of knowledge
+[0:29:50.3]  You have to know how to interact
+[0:30:03.1]  If those people who have that knowledge, in other words, you have to understand the problems remain before trying to use any of these things on the left to explain, predict test model, visualize it center
+[0:30:15.4]  Okay, so this course clearly covers the 2/3 on the left, and it refers to the expertise or the domain knowledge on the right to agree that is needed to understand certain problem
+[0:30:21.6]  So in some cases it's relatively trivial
+[]			 In some others
+[0:30:37.7]  It's a little bit more involved and who have plenty of examples coming up with all sorts of data sets from the heights off the American presidents, the census data to ovarian cancer, date a real estate market toe yes or no fuel consumption in different cars of different characteristics and so much more
+[0:30:55.0]  Okay, there's a question that I hinted at earlier, but I decided to ask officially
+[]			 Now what is driving? One could say the interest in data science or the feud off date assigns these days
+[0:31:12.8]  Can you help me throw some bullet points on the right hand side of this campus? Why is this area so popular? Why are you here? This is officially a question coming up in a couple of lives, but still it points to that
+[]			 Right
+[0:31:36.7]  So what is driving data science today? The proliferation of the time, The speed off processing power
+[]			 Very good
+[]			 So let's break it down into the two parts off your answer
+[0:31:42.7]  Proliferation of data
+[]			 Let's stop for a minute there
+[0:31:47.9]  Um, because I want to clarify a few things
+[]			 Absolutely correct
+[]			 No question about it
+[]			 So interesting characteristics about this proliferation of data
+[0:31:59.4]  One, perhaps, that it's quite pervasive
+[0:32:05.3]  It goes from the types of things that your Fitbit or apple watches correcting aboutyou
+[]			 Thio stock market data, too
+[0:32:10.3]  Traffic cameras on the intersections, off roads to you
+[0:32:14.2]  Name it all right
+[0:32:25.6]  I think of all the data that Tesla car's air collecting with their, um, self driving autopilot type of capabilities and all of that
+[0:32:30.3]  The other aspect, of course, is that it adds up quite quickly
+[0:32:33.0]  So we're talking about huge amounts of data
+[0:32:40.0]  No wonder the phrase or buzzword data science often correlates with the phrase or bus word, big data and all types of variations
+[0:32:45.0]  Big Data analytics, business intelligence, big data business, intelligence analytics, you name it
+[]			 Okay, that's very much on point
+[]			 The other one is that we have enough computing power, too
+[0:32:58.0]  Process that data to some extent, of course
+[0:33:06.4]  In other words, there's still a need for clever solutions to summarize data
+[0:33:10.5]  Select date that it is useful for further processing and so on
+[0:33:16.1]  Think about video surveillance footage, right? It's boring for most of the time until something happens that requires action
+[0:33:30.8]  So there are algorithms out there that alert a human or machine intelligent algorithm that someone may be attempting to break in, or something that may be a useful way of taking enormous amounts of data that contained virtually zero information times when nothing's happening and slice up to the point where there is information and actionable information at that good
+[0:33:52.4]  The computational power is not only highest ever, we know that we always hear those stories
+[0:34:00.1]  You have more computing power on your smartphone than an answer computer that put the family room by However many times, I don't even know the number of times, but you always see those things
+[]			 But it's not only that, it's that there is such, um, availability of computing power
+[0:34:19.3]  But it is in a certainly more easily accessible than ever before, from things that you can run embedded devices to all computer solutions with everything in the train so really interesting time to be doing these things, in other words, just to pick up on your answer, and I will hear from other ah people in the cause
+[0:34:42.5]  But the combination of these two is really explosive because you have never had so much data being collected, which may carry a lot of information and lead to knowledge and models that can predict what's gonna happen tomorrow and so on
+[]			 But you also have the computing power, too, to do something with that data
+[]			 So that is, of course, a great great combination
+[]			 What else is driving? Data science
+[0:35:11.7]  The effectiveness off models that might be able to make or beautiful, insightful analysis that perhaps better than a human would make
+[]			 Okay, Interesting point
+[]			 Very well said
+[0:35:35.7]  And, um, a tough cells and times, Especially when you deal with communities that don't even want to hear anything along the lines off my eyes
+[0:35:38.3]  Better than your human, uh, colleague or something like that
+[]			 But very good
+[]			 Absolutely
+[0:35:59.4]  It goes back to what was mentioned earlier that sometimes machine learning algorithms are able to pick on trans or patterns or, um, hidden nuggets off information within the date that that humans would overlook
+[]			 What else is driving data Science? Sophistication of tools
+[0:36:08.3]  Can you elaborate on that For sentence or two, Right? Uh huh
+[0:36:27.6]  Sophistication in terms of higher dimensionality
+[0:36:30.1]  Hi, Resolution
+[]			 Excellent
+[]			 It could be in a number of different ways, but I get it
+[]			 Okay, good
+[]			 What else? Yes
+[0:36:42.9]  You're our Ha ha
+[0:36:43.6]  The affordability
+[0:36:46.7]  What? I will call lower barrier to entry
+[]			 I think that's along the lines of what you're suggesting
+[]			 So here are my answers
+[0:36:58.1]  Norma's availability of data Typically raw data, open source tools and sophisticated ones at that easy access to cold and data set
+[0:37:02.5]  So reproducible research has never been easier
+[0:37:10.1]  If someone says I can I have this super duper are within the text later said predicts
+[0:37:10.9]  These are classifies that or estimates that typically they published their code and the data set so you can compare your solution to the years, and it can reproduce their work noodles Use cases
+[0:37:24.6]  If I ask you the easiest question to ask in our upcoming intern examines, please cite three areas in which data science can be used
+[0:37:38.9]  Okay, it could be three or 30 or 3000 and you wouldn't run out off use cases, right? The other one, which was mentioned, of course, faster and ubiquitous computing platforms
+[]			 And the last one is along the lines of what you said lower barriers to enter
+[0:37:47.4]  There are, yes, computing platform is available, but it's not something that you have
+[0:37:50.9]  Three
+[0:37:52.2]  That's the $1,000,000 or hire an army of people and so on
+[0:38:00.5]  Which brings us to there interesting question that I have been postponing but kind of itching at it
+[]			 Why did you sign up for this course? So I don't want to hear it worked well with my schedule
+[]			 I don't know here because I have to take a 5000 level course
+[]			 Okay
+[0:38:18.9]  I don't want to hear these types of logistic constellations
+[]			 I would like to hear something that has to do with this subject matter
+[]			 Okay? No, no
+[]			 Here
+[0:38:27.0]  I heard you give ace to everybody
+[]			 Not entirely true
+[]			 Okay, So none of that morning, the technical side
+[]			 Why did you sign up for this course? Why? Data science? In other words, R
+[]			 B Yes, Go ahead, please
+[]			 No of my All right
+[]			 Okay
+[0:38:58.3]  I always enjoy
+[0:38:59.2]  Hold it
+[]			 Why? I My minor was in computer science
+[]			 You're all that works
+[0:39:23.5]  Running's the science is a nice I know that you want to learn wonderful, Wonderfully said beautiful
+[0:39:30.1]  With a background in math and a minor in computer science and your bachelor's, you are transitioning towards the hot stuff of machine learning deep learning
+[]			 And you see that the science is an interesting bridge because it does this marriage off the true
+[0:39:40.9]  Before things started, take more life of their own
+[]			 Beautiful are the reasons for signing on for this course
+[0:39:54.4]  Yes, Overnights
+[0:39:55.6]  All the lakers
+[]			 Okay
+[]			 The language being python so that we ask you a follow up question
+[0:40:05.9]  Then if the course have being taught in our, which is a very popular yeah, you would still be signing up for it
+[0:40:17.4]  All right, So I used nap out there, which I could use for this course off
+[]			 Uh, we can talk more about that
+[]			 Okay
+[]			 Very good
+[]			 All right
+[]			 Okay
+[]			 Yeah, yeah
+[]			 We'll talk about that special to get to numb pie and stuff like that
+[]			 Good
+[]			 Thank you
+[0:40:38.5]  India
+[]			 Oh, all right to learn
+[]			 All right
+[]			 Very good
+[0:41:09.0]  I'm waiting for someone to see something a little bit more pragmatic
+[]			 A little bit more
+[]			 Let's see if I can
+[]			 Interesting
+[0:41:37.3]  Appreciate your your inside there used the words my negligence off traditional statistics in the past
+[]			 Maybe writing back
+[]			 It's a chance to catch up with that and put it all in a nice package
+[]			 Use my computer science skills and use making the best of these apply statistics side of things Good
+[]			 Yes
+[]			 No
+[]			 Yes
+[]			 Ah ha
+[0:42:08.8]  So you are already working in the field, but you have been trained in the classical traditional sense
+[]			 So you are looking at this course is a possibility to structure the knowledge somehow
+[]			 Interesting point
+[0:42:27.8]  I am glad we have someone with this profile here because one of the things that has become more more difficult for people like myself, instructors, professors in the traditional college setting is to make a convincing case for structured course like this, as opposed to boot camps and certificates and course era Nana degrees or udacity micro degrees or whatever they call, which are all fine
+[]			 And I've taken quite a few of those myself, so I appreciate your input
+[]			 We can talk more about that, but I really, really do
+[]			 No, you are working
+[0:43:05.3]  Is it eight scientists? Is anyone here thinking off applying for a position in the job market? Whose title is data scientists? Have you considered that? Don't be shy
+[]			 Few hands go up good, cause I thought someone would say that maybe you were too shy to see that
+[]			 And that's a very legitimate reason for 100 plus people signing up for this course
+[]			 I thought it was a top three reasons is not top reason
+[]			 Maybe you're just being too shy
+[0:43:27.5]  Data science is indeed a Hartfield
+[]			 Have a few quotes for you on that
+[0:43:32.1]  This is a Lincoln Workforce Report from August off last year's or roughly at one year old
+[0:43:37.6]  It talks about skills, gaps
+[0:43:41.5]  The men for data scientist is off the charts
+[0:43:46.5]  This data science skills shortages are in the neighborhood off 150,000 people with particularly acute shortage in big areas such as New York City, San Francisco and Los Angeles
+[]			 This is what's on year ago
+[0:43:59.4]  It might be making seven figure salaries they're getting, but you are well aware of that
+[0:44:05.1]  If you establish yourself as a data scientist these days, you will be rewarded
+[0:44:12.3]  You will be sought after and this was through one year
+[0:44:16.6]  Agos remains true today
+[]			 There's, ah, 2019 version of it
+[]			 I think that might be the science report by Anaconda will talk about Anaconda
+[0:44:29.5]  Is this huh? Eh, Kage, that handles Ah, a number of python based APS in libraries and packages in your computer
+[]			 They just came out of this thinking 19 version of the report
+[]			 I put the pdf from campus if you're interested, and I collected a few highlights from that report for this discussion
+[0:44:54.9]  This is an interesting one that no one has explicitly mentioned here, but in a way or another, we kind of thrust upon it
+[0:45:02.1]  Data science is impacting just about every area of human activity
+[]			 So there are medical doctors trying to be good, and it assigns their marketing people
+[0:45:12.9]  There are pathologists, salespeople, political scientists, you name it who are trying to add this type off skill set to there, uh, overhaul background
+[0:45:32.5]  So 47% of the people who responded to this poll said they want to apply data science in the current role
+[0:45:38.8]  33% say they want to be a data scientist and 18% of those who just wanted already with scientists
+[0:45:52.0]  And there's a breakdown off people in certain areas off human activities, say accounting, finance or the sales, marketing and the percentage of those in those fields who say I want to apply the other signs to my role, whether it's financial analyst or accountants or something like that
+[0:46:09.9]  Another bit of this infographic that I thought was interesting to share with you the top language for data science on the left
+[0:46:17.1]  The diameter of the circle is proportional to the importance roughy five on three, still a big chunk off by thumb, too, because the transition has been slow, and they wanted the bought on this car and on the right inside the ID's our notebooks do colonel books, which will use extensively our studio, which are using the courses that we teach using our and PC here stands for pie charm
+[0:46:40.6]  The jetbrains I d that U S f Asians can get for free if you want to
+[0:46:49.3]  Okay? And this last bit of infographics talks about how the migration from python to Python three started quite slow
+[]			 But it's such that if you're doing Python these days, you should be doing Python three roughly
+[]			 That's the message he fed
+[0:47:09.8]  These people from Anaconda are so, um, convinced off the need to address the shortage off later science professionals and so on that they have also come up with a webinar a week from today
+[0:47:25.7]  Well, technically lesson that on Wednesday of next week, free webinar you can get the link and sign up for it
+[0:47:49.0]  Where the CTO and co founder of Anaconda and professional developer Advocate Jetbrains the makers Off by charm will talk about how to overcome the talent shortage in data science in 2019 which I think is a great motivation for taking the course regardless of everything else
+[0:47:59.7]  I trying my best to teach in every question, teach whenever possible, skills that you can probably add to your resume
+[]			 So as soon as it took introductory, we're programming with me
+[0:48:07.6]  Ended up with a portfolio they can tell their potential employers hiring managers, significant others
+[0:48:18.1]  Go to this, your L, and you'll see what I did in that course, I have accomplished our existence
+[0:48:19.5]  We got internships and jobs just by showing that sometimes in an informal setting, a lunch or a cocktail party
+[]			 If I teach courses in machine learning, I have students to complete projects they can tell
+[0:48:35.1]  I know how to build a piece of software that can tell dogs from cats based on images
+[0:48:38.8]  Something like that are classified tumors as benign or malignant, and in this course I want to do something along the same lines
+[0:48:46.1]  I want you to finish the coursing
+[]			 I knew this much off python
+[0:48:54.8]  Now it has gone up by however much I knew very little or nothing about numb pie or network lib or pandas or psychic Lorne, or did techniques and math concepts behind the things that we're going to do and say, I can see how much I have grown and I'm confident enough to say to after my resume the so called data Science Python stack I am
+[]			 Maybe you can call yourself fluent or knowledgeable and, um, get a job in this area if that's what you want
+[]			 Good
+[0:49:23.2]  That switch gears quickly to the syllables and stuff
+[]			 Um, I I want to go over a few things that making back your decision of taking the course or not
+[0:49:37.5]  I hope at this point, most people's minds are made up, but still a few things one of them has to do with what with this course teach
+[]			 And it should be clear in the course description, the syllabus
+[]			 But it's also here in this light, so I am making no secrets about the fact that this will be a hands on course
+[0:50:12.5]  I'll be teaching it mostly on Drifter notebook, Google AB I Python, then whose lights for some toppings, there will be those lights whatsoever
+[0:50:17.2]  So I want you to be able to use contemporary tools to develop a data science work floor pipeline to be comfortable with all these things that are listed here
+[0:50:25.1]  Starting today, I will teach math and statistics background behind data analysis, using the things that book as the primary reference
+[0:50:38.2]  I will teach you the basic machine learning algorithms for regression and classifications, and I will hope to teach and or inspire you to develop critical thinking perspective in a broader view of data science problems
+[0:50:50.4]  I think this nontechnical component, if you will, is extremely important
+[0:51:05.4]  What will the course not cover? It will not cover five from programming, although it will give you pointers to either catch up if you are rusty or learning from scratch
+[]			 And by learning from scratch
+[0:51:16.7]  I basically need people who already know one or more programmed languages and may not know this in tax off python or the specifics of Python and I will give you a very clear path to go from whatever knowledge you have of C C plus posse
+[0:51:29.6]  Sharp job scraped off two workable knowledge of python
+[]			 Okay, um, I will not teach advanced machine learning algorithms, whatever that means
+[0:51:41.7]  This'll is just a way of saying there's a vast spectrum of machine learning
+[0:51:42.8]  Algorithms will make a cut at some point because I don't want to step into many people stoves
+[0:51:51.8]  You have credit level courses on machine learning on neuro networks on deep learning, on rushing, ready for computer vision and so on
+[]			 So I need to make sure this course works well as this 5000 level course
+[0:52:04.0]  That is kind of informal prerequisite for all these more specialized 6000 level courses that could follow it, including courses on your own apples, deep learning so and I will not cover anything related to big data tools framework
+[0:52:22.9]  So no, her group in large clusters in multi petabytes of data or something like that
+[0:52:37.2]  I believe the tools that we learn here, including tools to make her cold run faster, to scale up when needed, will be useful and helpful enough
+[0:52:50.2]  And if you do get a job in a position where the the set off tools in good, uh, the likes off her group say there's a good chance the company will change you in the first couple of weeks
+[]			 And where they cannot make up for is the conceptual background in the medical background that I hope this course will help question
+[]			 Oh, yeah, okay
+[0:53:16.7]  And I will try to avoid any type of task in which training a model or something will be a a nightmare
+[]			 I have already made progress
+[0:53:19.6]  If you took my interview
+[0:53:20.9]  Yeah, course in the summer
+[0:53:25.0]  I know exactly what you're talking about, okay? And I am deeply regretful
+[]			 Okay? I know how these things get
+[0:53:47.5]  It's It's an interesting thing, because even though I mentioned lower barriers to enter, let's be honest, everything else being equal in machine learning in general, the one with the biggest amount of data wins or putting in the exciting different way everything else being equal, the one with the most expensive and powerful GP use win
+[0:53:55.7]  Okay, so there is a little bit off, uh, mismatch there
+[]			 I mean, it's indeed easier to enter than many other fields, but there are times in which you may need more computing power than you have available
+[]			 This will not be an issue of this course
+[0:54:10.1]  Okay, so a few minutes trivia items on, please
+[0:54:14.9]  This is a time to ask questions about things such as exams, assignments, video recordings late to submission off assignments may go over a few of those and then see if I cover most of them before I take your questions
+[0:54:28.5]  So this costs has a life section of Thursday's that, ideally, is being video recorded
+[]			 Or so it seems
+[0:54:39.8]  And if you the recording becomes available, primary to those in the other section the distance learning section, but in practice to everybody
+[0:54:43.5]  So if you miss a class one day or if you come late, you have to leave early
+[]			 You don't have to send me a note
+[]			 You don't have to worry about anything
+[]			 You can just watch the video or the part of the video that you missed
+[0:54:55.6]  If you need to refresh something, for example, for an assignment, you can go back to the recording and watch it all good
+[0:55:13.6]  The reason I said this is not a fully online course in my welcome message on canvas is just to remind folks who took fully online courses that the FAA you terminology, unfortunately is very imprecise
+[0:55:20.6]  I think they call it fully online if you rested for the other section, but that's a misnomer
+[0:55:26.7]  The other section is basically a convenience for those who cannot be here on Thursdays from 4 20 to 7
+[]			 That's what it is Okay, so the course happens mostly here
+[]			 Most of the questions are asked in cause you raise your hand
+[0:55:37.7]  Answer your question
+[0:55:41.6]  I go to the board or to the document projector, orderly computer and I draw
+[0:55:44.2]  Write something
+[0:55:46.3]  And, of course, I supplement that by going to discussion boards on canvas and what's not
+[]			 Okay
+[0:55:56.7]  So that's why the canvas part for the course doesn't have the traditional model one and the period of time and then movies that they had? No, because those things are taken care off in the class
+[]			 So if you go for it and look at the canvas for this course, you'll see that it doesn't even have a fancy welcome to the course thing
+[]			 I think the home page looks like this
+[0:56:18.4]  There is a welcome to the course module there, just so you know, a few basic things about syllables and textbooks in my office hours
+[]			 But the rest of it is basically just a bunch off folders, if you will, where I put stuff
+[]			 There's one called papers, e books and other materials
+[]			 You'll find the 50 years of data science paper here, as well as the links to the YouTube videos
+[]			 In case you're interested, it is one with you
+[]			 2019
+[0:56:47.6]  State of the Science on a Condom report
+[0:56:57.1]  And there's one with book for catching up with the Python part called Over one tour off Python, where the book is available online and the cold is available
+[]			 One on Get up
+[]			 I'll talk more about that again in a minute
+[0:57:15.8]  Then there are course documents will talk about this guided tour in a minute and a placeholder area for different note books, such as this test notebook or something else
+[0:57:22.0]  Start a cold for assignments and so on
+[]			 And there may be other folders coming up or blocks
+[0:57:28.7]  Whatever you wanna call these collapsible things here
+[0:57:34.4]  Okay, so it's basically a repositories off materials, a place where I make announcements
+[0:57:41.5]  I do like to communicate things across the board through announcements, sometimes even in reply to spins email
+[0:57:56.7]  If someone says, I didn't find this and then I get three or four e mails from the same thing, any replies saying Please see announcement to the whole class
+[0:57:59.3]  Are people asking for deadline extensions? It happens
+[]			 I don't know why
+[]			 So sometimes, yeah, I can give another couple of days and then I give to the whole class
+[0:58:07.0]  Of course, never grant extensions on individual basis
+[]			 It wouldn't be fair
+[]			 There are discussion boards for a number of reasons
+[]			 Well, the most important reason, perhaps, is that I want to develop a community off learners
+[0:58:33.4]  This topic is so vast, so hot, so dynamic that we are always catching up or with the illusion that you're catching up with what's happening out there
+[]			 So in topics such as data science A
+[0:58:52.4]  I and several other topics that I teach courses about, it's become very clear that we are not in the old traditional model where the professor enters the room
+[0:58:55.7]  The professor has the knowledge the professor communicates in our history class, and now there has been a transfer of knowledge
+[]			 It's basically the opposite of that
+[]			 The knowledge is all around us
+[0:59:04.1]  I have to be more competent than the average bear in terms off curating knowledge, finding what is useful if you want to catch up on python residency
+[]			 Oh, Google Python
+[]			 How to catch up? That would be silly
+[]			 I can tell you this book is particularly good for this day
+[0:59:21.0]  Isn't that reason that courses were taking it
+[0:59:33.6]  That water is not and so, but there will be a million things over the course of the semester, including nasty bugs here and incompatibility issues
+[0:59:36.2]  Packaging falls, versions off this and that that will be best handled with open discussions on discussion board, then a million emails to me or something
+[0:59:50.1]  So and not only when things get romantic, but in the general sense of sharing our knowledge
+[]			 So even though there's a place here for general questions and discussions, which I presume will be mostly questions Number one, it doesn't have to be so Number two
+[1:00:06.7]  There's a distinct possibility that you get a very good answer from a classmate often times before I pitch in and answer it myself
+[]			 Which means the collaborative learning component is working
+[1:00:26.7]  I have another discussion board for useful links, and resource is where you find something you think is of interest to everybody across you posted there, and there's one for the student introduction, which is a common staple in fully online courses
+[1:00:30.1]  I decided to bring it here because we have roughly 2/3 of the class who never see face to face like we're meeting today
+[]			 It would be a good way for those 2/3 of you who are watching this video after the fact to introduce yourselves
+[1:00:45.8]  And so it would be too goes in the classroom
+[1:00:47.9]  And ofcourse, canvas over the years has become the official gateway for great submission and whatnot
+[]			 So that's another reason for having a canvas component here
+[1:00:58.1]  Yes, sir
+[1:00:59.1]  Holding on on top of I didn't see that yet
+[]			 It's a common thing to have his lack group
+[]			 I don't object to that
+[1:01:14.2]  I know I don't subscribe because otherwise my slacks starts exploding
+[1:01:20.4]  I have more slack groups that I belonged that I can't quite handle right now
+[]			 But I have no problem with that whatsoever in case you want
+[]			 Oh, we have one of the most back
+[]			 I see
+[]			 That's wonderful
+[1:01:40.1]  Congratulations to the professor for being one of the most active participants
+[1:01:46.1]  I used to be like that when I was younger
+[]			 Okay, very good
+[1:01:51.0]  I hope the conversations will flow
+[1:01:53.6]  I hope you will not get stuck for any silly reason for longer than it's reasonable
+[1:02:00.9]  And I believe that having the anchor every Thursday life lecture will help
+[1:02:09.2]  I have been teaching the fully online courses for quite some time, and I am not the biggest fan
+[]			 I understand why we do it
+[1:02:14.2]  I understand the convenience for all constituencies
+[1:02:23.6]  But there's a lot that we get from meeting in the same room, seeing each other life face to face that doesn't quite translate into full your life
+[]			 Okay, so that's about the canvas
+[]			 Part of the other course
+[1:02:32.1]  We spoke about the video recordings so going reporting to the syllables myself, was his kind off week
+[1:02:37.9]  That's a polite way of putting it
+[]			 Okay, it's, ah, not as detailed as some of you wanted it to be
+[1:02:50.0]  And I'll tell you what are the two most common complaints that I have been getting already? Complaint number one
+[1:02:57.6]  Um, the assignments are state in a very vague way and with no mention off dates
+[]			 Okay, I will fix both aspects, so just give us some insight
+[1:03:09.9]  Homework assignments will be hands on assignments in which you will be given particular task
+[]			 Typically, I started code
+[]			 I started notebook with spaces for Enter your Cold here, Internet cold here in several places and questions that you have to answer that show understanding off what the code is doing and so on
+[1:03:35.1]  And as a result of doing that type of assignment, you'll submit to files your version of the director notebook with your cold
+[1:03:45.1]  No other words Fill in the blanks for the enter your cold here portions and a pdf off a very brief report where you summarize what you learned, the answers to the questions relevant plot stables and something like that
+[]			 So there will be between four and five such assignments
+[1:04:16.7]  And there will be very much in the spirit off homework in the sense off being used to ensure that you have covered a certain block off the course and understood what was important about it and that, hopefully, the assignment of response that block of the course is representative of what you could use as a starting code for something else
+[1:04:26.3]  Okay, so 3 to 5 more, most likely four, perhaps five
+[1:04:30.6]  The 1st 2 will be individual
+[1:04:34.1]  The last two or three will be groups off maximum
+[]			 He didn't, so you can start thinking about who you would want to work with
+[]			 If you just working groups
+[1:04:45.6]  The midterm exam may happen a little bit border into the semester
+[1:04:48.9]  It's called a midterm exam just to distinguish from the final project and to make sure it doesn't happen in the final week on the final exam week
+[1:04:56.6]  So it will be halfway, maybe 3/4 of the way off this master
+[1:05:03.8]  It will be fully online on canvas, true or false? Multiple choice type of questions, which are self created
+[]			 Easy for you
+[1:05:11.3]  Easy for really great insight, not always on the preparation side, but it pays off because the greeting becomes automatic and it's a way off heading
+[1:05:18.5]  If you grasped the conceptual aspect as you should, your final project will be a group product
+[1:05:46.0]  Maximum three students will be due a few days before the final exam week, and it will be a complete and to end solution to a problem consisting off, eh Publicly available data set with a number off milestones such as interpreting the data, visualizing um uh, designing a model, training a more testing a model, comparing our model against another model, presumably your own baby against other groups, solutions and so on
+[1:06:10.4]  So I believe and hope that the collection off 4 to 5 homework assignments and final product We'll give you enough exposure to the hands on components and four or five bits off work that you can proudly display to whoever wants to see them
+[1:06:27.9]  And the example captured the, um, ability through process the conceptual mathematical components, the non hands on part off the class
+[]			 Okay, so that's one part where the homework are
+[1:06:38.2]  The syllables was very vague, and I apologize for that
+[]			 Yes, uh, for homework and final project
+[]			 Basically for everything you'll be asked
+[1:06:52.0]  Theo, you'll be a provided everything you need, the leader said
+[1:06:56.7]  Or a link to it, Or a library function that loans it
+[1:06:58.7]  It started gold and so on
+[1:07:06.5]  Right and go Collab abused extensively
+[1:07:07.6]  Thanks for that
+[]			 We'll talk about Google
+[]			 Have after break
+[]			 Absolutely
+[1:07:11.3]  Everything will be Google Collab based if possible
+[]			 Okay
+[]			 All right
+[1:07:23.7]  I'm not trying to do anything too fancy because it's my first night using Google called AB in the class
+[1:07:27.8]  I thought off doing crazier things, but I think that's good enough for this time around
+[1:07:38.7]  Okay, That was one criticism off the syllabus that I have received already
+[1:07:40.2]  And I hope I have addressed another criticism
+[]			 Or maybe not, because you don't know this yet, but this week, one week to think, is very tentative
+[]			 These things may change
+[]			 So don't criticized me
+[1:07:55.3]  If I do Week One stuff next week or weak Christoph today or something, just a rough Oh, and increases were here
+[1:08:00.3]  Also, I should have mentioned toe which book and chapter each of these things map
+[]			 I will try to produce such a list input on campus
+[]			 Okay, so you kind of switch reading from book
+[1:08:14.4]  Want a book, too? But it will become quite evident
+[1:08:19.2]  Certain things only exist in one of the books, and it's almost obvious which work or chapter we're talking any questions about
+[1:08:23.9]  Jesus? Yes, you probably I'll do it on canvas on Lee
+[]			 Okay, Yeah, probably on campus on Lee
+[1:08:37.7]  So soon enough, there will be placeholders for the assignments with dates
+[1:08:46.5]  So you have the classical list on canvas saying Miss assignments are coming up, even though the description of themselves may be pending until a refined a few things
+[1:08:51.3]  I need no secret about this being the first time in patient, of course, I'm gauging the audience as I go
+[]			 I think it's best for you the opposite off that would be
+[1:08:59.2]  I finished preparing this thing back in April
+[]			 I don't care for anything happens
+[1:09:06.9]  It will be, as I said it would be back in April and the heck with everything else
+[1:09:09.5]  So that lack of flexibility, I think would be much worse than life
+[1:09:12.2]  Extremely flexible approach
+[]			 OK, so the week by week schedule is tentative
+[]			 The assignments will be hands on, and the exam will be fully online
+[1:09:21.5]  It's worry about Proctor ring or something
+[]			 Go
+[]			 All right
+[1:09:27.0]  When was like, No, just one that asks any further questions
+[]			 If not, this is a good Oh, yes
+[1:09:36.7]  How larger large data sets for the sake of this cost
+[1:09:43.9]  I I don't know if I can give you a member of this point
+[]			 Let me bracket that question
+[]			 Okay? I have to have to think more carefully about it
+[]			 Um, yeah, because you pay the old you depends on the problem On the dimensionality of data set
+[1:10:01.6]  I don't want to risk saying tens of thousands off rose versus everybody columns or something, because it might not work out that way
+[1:10:13.4]  What I meant to say when I refer to big data into computational constraints is that we will prioritize data sets that are representative enough so that they don't constitute toy problems in which part off the insight gets lost because it's the simplistic
+[1:10:36.2]  And on the other hand, I don't want anyone to incur into situations where they run out of space or they cannot keep up with the computing power needed to do whatever you need to do
+[1:10:53.5]  And so Okay, uh, so the question do you want to be able to run on your computer? I am hoping that everything you can do will be a group called Air Base, in which case how much power you have on your Uncle Peter will not be an issue
+[]			 That's my hope
+[1:11:03.5]  And I'm spread expressing it as a hope because I'm new to the whole equal system
+[1:11:18.1]  So try it progressively with the first few assignments and then explore GPU and TPU options and make sure that everything we're trying to use is covered by our academic Google account
+[]			 And so it is right
+[]			 Okay
+[1:11:27.7]  I don't want anyone to have to swipe their credit card for GPU time, Otherwise they don't finish the final project and they don't pass the course right? Right do you have to? You have to queue happen? Yeah, yeah, And they are
+[1:11:47.4]  I don't know if you got is already, but when you're using Google Collab recently, sometimes the cervix pops out
+[1:11:56.3]  And they say, If you were to create a premium model where you would have certain such, um, bits of functionality or improvements, would you be willing to pay for it without? So again, that's not a good sign
+[]			 No, but, you know, we get so used to free stuff out there that sometimes we only realize that's why it's free when it starts hitting us
+[]			 I'll give an example
+[1:12:18.1]  You've I use over he's dot com for collaborative latex editing, the scientific publishing softer I've been using overly for quite some time now
+[1:12:28.2]  Happy it's free
+[1:12:32.0]  Never hit any constraint until yesterday, when I was doing massive up loads of figures from for an upcoming book
+[1:12:41.8]  And after however many uploads 40 files each, it said, there are clothes must stop now we have to throttle you, and, uh, that's when free becomes costly
+[1:12:54.5]  All right? Same with Google Collab
+[]			 They throttle you, they make you you up or something like that
+[]			 Yeah, free is never exactly free
+[]			 You have a question or comment? Okay
+[1:13:08.5]  We'll get to debt after the break, John or my Yes, and I'll get more into that after the break
+[]			 Yeah, but I do
+[]			 I do recommend that book, and I will explain why in more detail after the break
+[]			 So let's get started
+[1:13:24.5]  Rocket icon in all
+[]			 All right, let's take a break
+[]			 That's got started by taking a break
+[1:13:31.4]  Okay? And when you come back from the brink will officially get started
+[]			 Okay, fine
+[]			 Okay
+[1:14:22.2]  So I better mute this guy
+[]			 Okay
+[1:14:36.9]  Hospital days
+[1:14:49.7]  Our souls relation
+[]			 Okay
+[1:15:44.8]  I just I don't thank you that I know over now
+[]			 Yeah
+[]			 No, I saw it
+[1:19:35.2]  But they No, this I don't Yeah, yeah, I just I love my heart
+[]			 Okay
+[]			 Why? One
+[]			 Yes, right? Yeah
+[1:19:56.5]  Two
+[]			 You like? Yeah
+[1:20:25.3]  Like my mom
+[1:20:34.3]  Really? I don't know
+[1:20:54.0]  I will be teaching I next month, but it's ah, special course
+[]			 It's just for people in the professionals
+[]			 Yeah, okay
+[]			 It's, like, really good work
+[1:21:58.2]  Hey, don't tell him I Yes, Yes, yes
+[]			 All right, let's get back and let's get officially started
+[1:22:38.9]  So this is officially Lecter One? Yes
+[1:22:47.9]  Spurred the syllabus and the question I got the most frequently already today
+[]			 Very including is about Python
+[1:22:52.8]  So I've been approached by people who say I haven't programmed in Fife before Period
+[]			 What do you suggest I do? Okay, so there's good news here
+[]			 Uh, first of all, by phone is a very friendly language to get to, Which may be one of the reasons for it
+[1:23:13.5]  Tremendous popularity
+[]			 The other good news
+[]			 Is there plenty off? Very good resource is off there
+[1:23:22.0]  And I believe I have already curated some of the best ones for you
+[1:23:26.6]  And when I say a curate knowledge, I implicitly mean I try these things out myself, uh, took a number of online courses they recommend
+[1:23:36.5]  Read the small book by Jake
+[1:23:40.0]  Father applies that I'll mention in a minute
+[1:23:46.0]  So another piece of good news is I know how it feels
+[1:23:47.9]  I came to buy some very late in my life after having learned a number off programming languages over the years
+[1:23:57.2]  So I know how refused to come from other programming languages to python
+[]			 Not a bit of good news is this is not a programming language class, so one will need to know Python
+[1:24:27.9]  To the extent that you can make very precise comparisons in terms off, how does it do garbage collection or dynamic? A location of memory? Or this or that compared to Java, JavaScript for serious c++, or how much of it is actually kind off layer on top off C based implementation under the hood
+[1:24:31.0]  With very few exceptions, which we'll get to in a few minutes or hours, or maybe in a week, you don't have to worry about that
+[1:24:41.4]  Another bit of good news is that even though we dismissed the expression hacking skills, it's kind of what you need to go through this course
+[1:24:55.0]  You don't need to write the most beautiful, the most elegant, the most efficient, optimized, scalable, reusable cold out there, you need to write calls that is correct
+[1:25:10.5]  You need to write cold that is readable to yourself and others and maintainable
+[1:25:22.2]  You need to ripe code that gets the job done, and you have leverage so many snippets and best practices and pieces and bits that we thought the respect that will not be a whole lot of room for original cold
+[1:25:31.5]  The type off blank canvas woke up in the morning and I started writing code
+[]			 It's not quite like that
+[1:25:39.7]  Okay, so and another peek bit off
+[]			 Good news is your knowledge of python doesn't need to come all at once
+[1:25:53.9]  You may understand a little bit today, a little bit more tomorrow, and then you start trying your hand, say, in a week's time in the same number one, and you realize you understand the concept, but you don't quite get the syntax, and you will by then have developed the ability off doing interactive python stuff
+[]			 Looking up testing, checking that the answers will come from trying out stuff more than reading
+[]			 A number of books are taking a number of courses, so in general there's nothing to be concerned about
+[]			 But you need to put the time in the effort to catch up with it
+[1:26:25.8]  It's implicitly a requirement here, so a few bits about python
+[1:26:29.5]  It's an interpretive language, which allows a number of interesting things to take place
+[1:26:40.1]  You can do python programming in a drifter notebook or I Python set up similarly to a JavaScript console
+[1:26:43.6]  If you come from Java script or a metal command window is you come from Matt 11 other ones
+[1:26:47.9]  You can try a little snippets of colder little commands and see the results right there
+[1:26:53.6]  So you are free from this cycle off saving, compiling link, everything debugging, et cetera
+[1:26:57.0]  Anybody may always be there, of course
+[1:27:03.6]  Its design philosophy emphasizes called readability and some of the things they did when deciding on the syntax for the language, such as making white space relevant, getting rid off Carly braces and what not makes it more readable, then maybe equivalent code and see your C plus pas
+[1:27:25.2]  One could argue it allows you to write clear, logical code for large or small projects
+[1:27:31.3]  It takes care off a number of things behind the scenes for you, including garbage collection and the dynamic typing, which, of course, has to be handled carefully
+[1:27:42.1]  Basically, means you don't have to declare available is integer or string
+[1:27:52.3]  It figures out what it is for you, and it supports multiple programming paradigms from object oriented procedural functional
+[1:28:02.8]  So it's a type of language that is worth getting into because it has this tremendous breath off obligation
+[1:28:07.2]  It can go from small to large, from Web development to data science to scientific computing in general
+[]			 So it's it's definitely worth spending time getting to learn it
+[1:28:23.2]  And there are many statistics are there that shoulder the growth off by thumb continues to be quite visible, so it's definitely not a fed or a language that will soon go away and be replaced by something else
+[]			 You'll notice at the bottom of this light a reference to Part four off the so called guided tour
+[]			 So let me go to the guided tour document to tell you what it is and what is the philosophy behind it
+[1:28:51.1]  And even though it's kind of weird that the first, like Napster part for, it's just because I thought I should talk about Python before everything else in the context of the class
+[]			 So, uh, let me just see if I can
+[1:29:16.7]  Okay, so the guided tour, which you can find under modules, course documents It's basically an evolving document right now
+[1:29:26.6]  I have released the 1st 4 parts, and it's meant to be what the name suggests
+[]			 Uh, step by step
+[1:29:38.0]  List off what you should be doing in what secrets? To get certain things checked off and make visible and meaningful product
+[1:29:49.0]  Chris in the class
+[1:29:56.0]  I was kept apart for to talk about how you can learn or refresher knowledge off the basics off by phone
+[1:30:06.1]  And I tell right here that you can skip this party if you have already taken programming classes or have used by him professionally
+[]			 I do, however, recommend even for those who few confident enough with Python that you check out the book
+[1:30:18.6]  Bye, Jake 100 Plus, who's, um, entire text is available online
+[]			 If you go to that second link, it looks like this
+[]			 It's the entire book
+[]			 Uh, you can probably find a way to get a PdF of it if you like
+[1:30:55.7]  So basically, the entire text of the book is here, and the code is available on Get Hub If You Go Toe Jake
+[1:31:12.6]  Other pluses Get Hub, which for some reason I can't quite let me go in and copy
+[1:31:20.8]  Deadly
+[1:31:45.2]  Think it'll be easier? The entire book is their worst did Book is was written as a series of Dr No books, just as your so called textbook number one
+[1:31:57.7]  So you can go from here and go through the book in an interactive way, stopping at any point where you can do something in the in the Jupiter notebook itself and doing that something yourself
+[]			 Okay, so I'll get more into that in a in a in a little bit
+[1:32:13.4]  I forgot to mention that before the break
+[]			 But both off the books for this class are free and available online
+[1:32:28.0]  So the things that's book can be downloaded as a knot very nicely formatted
+[]			 PdF it doesn't matter because the contents are there
+[1:32:36.1]  You can read the book online, and you can get the code from the get hub repository that is linked from that page
+[]			 In fact, you can get the entire book here and run some sort off publishing commands to build the book again or something like that
+[]			 You don't want to do that
+[]			 Okay, so the same thing with Jake 100 plus book that we use it's not only available fully online, but also the code is now on
+[]			 Get her
+[1:33:17.2]  I'm sorry on Google Lab, so we can read and run the examples in the book as we go through as well do shortly
+[1:33:22.0]  So, uh, just to organize our thoughts here, you will soon build a kind of an ecosystem consisting off your computer where you will be running
+[]			 Most likely you'll be running a terminal window or two with I python or your local local host Dr Notebook set up
+[1:33:47.4]  You will have downloaded the A companion code for whatever books are using the course
+[]			 So you have this ability to work off line
+[1:33:55.7]  If you ever desire another part of the puzzle will be your Google Collab set up, and the other part of the puzzle, which is optional, is your pie charm or whatever
+[]			 I d for python
+[]			 If you want to have such a thing, you might not find it necessary for the most part
+[1:34:16.6]  So even going through the material in the books, whether the so called Textbook one, which we're looking at here, or the so called textbook to which we're looking at here going through the book basically means doing it on your computer, doing it either solely on the drifter notebooks or switching back and forth
+[1:34:40.3]  I'm a mold guy, so I like to switch back and forth
+[1:34:48.2]  I have the pdf off the book on my pdf Reza, which I can do things such as highlighting and stuff, and after I'm done reading a chunk off stuff that I say
+[]			 Okay, I think I understand this, but I'd better play with it
+[]			 I go to my doctor notebook locally
+[]			 If the case or the go will have
+[]			 If the case and I start playing with it to make sure that the examples come to life and I understand what it is, you'll see me doing that in a few minutes
+[1:35:24.1]  So, um, back to them guided tour the idea of the guided tours to help you figure out what is important, what's not
+[1:35:31.9]  So when it comes to Python, with all due respect to everything from steps two through six, they're not necessary if you want
+[]			 And you like this type off interactive, online, self based courses
+[]			 All of these courses are good, I think, in most of them, not all of them
+[1:35:51.8]  And but the world Wind Tour of Python by Jake Funder Plus is excellent, and one reason why I call it excellent is because it it was written for people like most of us who are coming to by some with two
+[]			 This is how the PdF would look like if you have it
+[1:36:33.3]  It's reading for people like most of us who know other programming languages on one end and who have very specific needs for using python, which is basically the needs of this course in the short term
+[1:36:36.2]  Okay, so Jake Thunder Plus does a phenomenal job doing that because he's an expert in data science and a highly knowledgeable individual and terms of the python language and supporting packages and what not So what? He thus here he provides his nice bridge between what you probably know from other programming languages and what you will need to know for python in the context of the science
+[1:37:08.4]  So you will not feel, uh, wasting your time with things such as What is an if statement or what is a variable or something like that? On the other hand, it will call your attention to things that are very typical of python that you may not have found in other languages
+[]			 So, um oh, Goto one example, silly one
+[1:37:33.6]  How do I specify a comment in the source code? Okay
+[1:37:39.9]  Different languages have different Syntex rules for comments, single line, multi line comments
+[1:37:45.9]  So there you go, because I don't have any Semtex for multi line comments
+[]			 Apparently, it does not, but you can't do that
+[]			 Um, you can
+[]			 You can find a way to get around that
+[1:38:01.3]  What about how does silly things such as? Why do their statements? Don't have a say my column, Marion, And why occasionally do? Okay, so these types of things are legitimate questions coming from other
+[]			 The language is our packages
+[1:38:15.5]  Those who did math lab may remember that You forget to say my comb
+[1:38:19.1]  Sometimes you get a gigantic amount off information echoed back because that's a meeting off
+[1:38:25.4]  Uh, not putting a semi column at the end in Python
+[]			 It's kind of the opposite
+[]			 Okay, so those things are important
+[1:38:35.1]  Okay, so when do you use the same McCollum toe? Optionally terminate the statement
+[]			 Very important
+[1:38:38.5]  White space matters
+[]			 This is something that you see, uh, very early in the process
+[1:38:48.1]  And there are some, uh, controversies about it
+[1:38:51.8]  And whether you come from c R
+[]			 C plus plus our job, our job script, it doesn't matter
+[]			 You'll have to get used to that
+[1:39:04.4]  And eventually things will become, uh, look like second nature to you s o enough
+[1:39:07.4]  There'll be discussions of all things such as a raise and lists and dictionaries and so on, all of which are relevant, All of which make you say, Oh, okay, so I remember in C or C sharp or job script
+[]			 This was like that
+[1:39:31.5]  So how is it in by thumb for many off those questions? The answer may be in this short booklet because he was extremely good at summarizing the things that matter
+[1:39:35.3]  So he will talk about variables and the objects and pointers and scene techs aspects and, uh, so on
+[]			 And he will soon make things transition from the basics off the language, too
+[]			 Data science oriented skills
+[1:39:59.2]  In fact, if you look at this book, let the ruin tour of python and the first rather the second chapter in our textbook one
+[]			 There's a quite a bit of over left right there
+[1:40:10.9]  So they're multiple ways off reinforcing what matters and making you not think off Python Syntex as an obstacle to your learning
+[1:40:22.3]  All right, hope that clarifies it because of her balls
+[1:40:24.0]  Way of saying I got you covered
+[]			 Okay
+[1:40:30.0]  But you have to put the time in the effort and not overdo it
+[1:40:44.7]  Okay? Amongst the class, I am sure there are professional software developers who can write beautiful, elegant, efficient, scaleable cold
+[]			 And I will be able to appreciate that
+[1:40:50.8]  But this is not an expectation that is a part of the class
+[1:40:58.7]  Okay, all right, back to their slights
+[]			 So Python is one big piece of the puzzle
+[1:41:14.3]  It's the language that we use for everything in the scores and cannot be, oh, overlooked good, the next piece of the puzzle and a very recent one for me personally
+[1:41:26.4]  And in general, it's a relatively new product from the folks that Google is the Google Collaborative Ori or simply Google Collab, which is basically this combination of Jupiter notebook on the cloud no set up needed
+[1:41:43.0]  If you have a Google account, you can get started quite easily, and we'll do that right away, following part one off the guided tour or simply clicking on this link here, which is where everything begins
+[1:42:03.6]  Um, so if you open this link, you'll be you will land at Page, which contains uh, Dr notebook called Welcome to the Laboratory
+[]			 If you have more than one Google account to be mindful of which Google account you're using, this is my non FAA you Google account
+[1:42:29.2]  It's a bit off a pain to be switching accounts, but since there will be a Collab Notebooks folder on Google Drive that talks to the Google have interface quite naturally, you want to be logging consistently with the same account in my case with the after you credentials
+[1:42:39.4]  So I can go to welcome to Google Collab on another browser instance where I have my effort
+[]			 You account for some reason, and that's fine
+[1:42:48.5]  Okay, The gentleman who you see here smiling is he is is none other than Jake Funder, plus from the Textbook one
+[1:42:58.3]  And The Python Book is a professor at University of Washington currently on leave working for Google, by the way, a common trend
+[1:43:08.4]  We spoke about the data science in machine learning market being hot for the helpers
+[]			 It's also hot for people in academia
+[1:43:19.4]  There's a vast number of people in the top players off the machine learning world who are professors in prestigious universities but currently working from for the likes of Facebook, Google, Amazon uber and so on
+[1:43:32.0]  Okay, and Jake is one of them, so I will not wash the three minute video with you here
+[]			 It would be selling to do so you can watch it yourselves
+[1:43:39.2]  But basically, it's a nice overview of what Google call Abby can do
+[]			 And rather than watching the video, I will try to put you into the mind
+[1:43:46.7]  Set off what will be our environment for a significant portion of this Mr
+[1:44:01.2]  We'll be in a Google call lab set up reading, interacting with a juvenile book whose name appears on the top left portion off the screen, which is Ah, life document
+[1:44:26.6]  Basically, a document that combines roughly speaking text and cold clearly allows for more than that, including YouTube videos, as you can see here and plots and links in a number of other HTML constructs
+[1:44:53.2]  But the important thing for us is the combination off text and code, and soon enough, by spending time with doctor notebooks on Google collab or off line on your computer, you will get used to this ecosystem and hopefully and quite quickly, starting joining it, enjoying it
+[1:45:10.0]  Okay, so one thing that director notebooks allow me to do and is to have code snippets inter leave with text and to run those code snippets independency when you look at a drifter notebook that has the cold and the result
+[]			 It basically means if you work around this cold is the result he would get
+[1:45:22.6]  You can run you called yourself by pressing In the case of the Google Collab interface, this play button in the General case of Dr Notebook, you hit any point within this cell and do the shift
+[1:45:33.6]  Enter shortcut, and you're basically running that cell
+[]			 And the nice thing, Yes, this is an interactive document
+[]			 If you say no, the number of seconds in a day is not that it's time 30
+[1:45:43.6]  Of course it is wrong
+[1:45:57.2]  But just to see this number change, you can do it right then and there so you can play with whatever it is that you're happy learning to learn right there on the spot
+[1:46:06.0]  And you'll see me doing that later to the day because it's part of the learning process for by phone for Dr Notebooks for a the Saints and 40 course at large
+[1:46:09.9]  So what I told you to do in part one of the so called guided tour is, too
+[1:46:19.7]  We're going to Google using your effort, your credentials
+[1:46:31.4]  Goto that welcome, pays and watch the video now low that there's no book that is available on campus to your computer and then immediately after, upload to your area on Google Co lab and make sure in your Google drive you can see your Collab Notebooks folder and you can see the test not i python notebook that you have just uploaded and see if I can Oh, uh, look at my Google drive from here, huh? Their options to save on get hub and so on
+[1:47:12.4]  Um underhand Oh, here is Here's my Google collab, uh, called Have notebooks folder
+[]			 So now I have the test
+[1:47:30.8]  Oh, uh, drifter a notebook and a few other notebooks that I was playing with They're so so enough everything you do in Google Colorable show up on this folder which, of course, you can then handle everywhere, everywhere where you want
+[]			 Okay, so far, so good
+[]			 So it's a very, very straightforward ecosystem and that's all for part one
+[]			 So basically, if you can get something say on canvas, upload and run it
+[1:48:00.4]  So how would you run such a thing? That's tried to do the part where we run it, right? So assuming that I uploaded properly So once I have it here, um, I can go with Pardon me? Yes, I can open with Google Laboratory
+[1:48:38.0]  Okay, So it will open that Dr Notebook, which is welcome to this course type of thing with a little bit off cold and link and, uh, one piece off cold for plotting something that is good
+[1:48:47.2]  Looking enough to make you feel like you're doing data visualization, including the ability to to zoom and pan and so on
+[1:48:58.7]  All right, so basically, just an excuse to show that you can master this process off getting somebody's notebook, uploading, running and what not? And of course, there's an edible document
+[1:49:18.3]  So one thing I like about teaching courses like this is that I tried to set the bar at reasonable height, but typically disguised the limit
+[]			 If you clear the bar, you can say OK, have 15 minutes left
+[]			 I want to know which data set is this
+[1:49:31.4]  Apparently, I got some cars data set with information on things such as horsepower and mpg
+[]			 I wish I could know more about this car's variable
+[1:49:39.6]  I wish I could see how many rows and columns air there
+[]			 What he called I could I wish I could plot other things
+[]			 All right, go ahead
+[]			 You can with a combination off
+[1:49:54.8]  Uh, just, uh, sheer luck or experimentation Or the occasional Google searches
+[1:49:59.1]  You can create additional cells
+[1:50:02.5]  You can do all sorts of things in addition to what is here, or you can even say or the professor should never have started with something so complex
+[]			 You should have started with something simple
+[1:50:11.0]  So you go here, click plus code
+[1:50:12.8]  Meaning insert a code cell between this selling this cell, he should have started with something
+[1:50:18.3]  Such a sprint
+[]			 Hello
+[]			 Okay
+[1:50:22.5]  And then you run that prince Hello and say, See, that would be a better notebook
+[]			 And you can start writing bad things about the professor
+[]			 Don't do that
+[]			 But you never know
+[]			 It's only cloud
+[]			 Yeah, Okay
+[]			 But you could do all sorts of things you could say
+[]			 OK, I want to use This is my sandbox
+[]			 I want to use that for documenting my learning experience throughout the course
+[1:50:43.6]  Okay, so you changed this and you instead off
+[]			 Welcome to you can say, um, let me go
+[1:50:49.6]  Modric can headed it by the book
+[]			 We can it I presume Yeah, you start learning about the markup language
+[1:51:02.7]  So this, um, pound sign here clearly means something in attack cell That is different than comment in the cold cell
+[]			 This is a markup for heading
+[1:51:14.1]  Type off, huh? Text
+[1:51:16.2]  So you could say I'm gonna turn this into my own notebook
+[1:51:18.4]  No exclamation marks
+[1:51:20.0]  The professor loves that
+[]			 That's silly
+[]			 Okay, Okay
+[]			 This is my projector notebook or this semester, OK? I just made mine
+[]			 All right
+[]			 Beautiful
+[1:51:34.4]  And then you can ad removed weak play with it
+[]			 As you wish
+[1:51:38.5]  Once you're done, you may want to keep the original one, and you can say save a copy in Dr
+[]			 At which point it will create a copy and save it there
+[1:51:54.9]  It would have this silly name copy of tests, but you could call it my notes or whatever you wanna call it and go from here
+[1:52:02.5]  I don't want this thing anymore
+[]			 I want to start with print
+[1:52:07.3]  Hello? I don't like this comment about don't touring about
+[]			 They're not worry about that
+[]			 Whatever it is
+[]			 Okay
+[]			 There's no book on things
+[1:52:20.9]  My notes and sides
+[]			 A boat, of course
+[]			 Whatever it is when they're still there I believe
+[]			 I think I should have made the copy earlier
+[]			 I have a feeling I'm not sure what happens if I just close this without saving
+[1:52:49.2]  I believe it has bean auto saved, but I can double check
+[1:52:54.1]  I can do things such a saving and pinning a revision
+[1:52:57.3]  So I keep a rough version ing system, and then I can look at the revision history
+[]			 I could have done that as well
+[1:53:07.8]  So that was a very rough and so presumably I could do a bunch of hunt who's here, which would be silly and eventually get it close to what it used to be, I think
+[]			 Okay, I don't know if it will complain when I close the tab
+[]			 I don't think it will know
+[]			 All right
+[]			 Okay
+[1:53:21.6]  And if you make a mistake in this case, of course, it's easy to fix
+[1:53:32.0]  And, uh, those things are meant to show you how much off a sandbox truly interactive play along type of thing you can you can have
+[]			 And by the way, if you wonder, how did you come up with that plot? I gave you the link, But the way off getting those things is basically from this library off code snippets that you can access on the left
+[1:53:54.3]  Here I went to something such as visualization, interactive, scatter, plot or something
+[1:54:00.0]  And that's when I got I kick in the butt and said saying Insert And I got the entire thing for free as it is
+[]			 Okay, so it took me two seconds to insert that beautiful plot, including the code for important data set and so on
+[1:54:26.9]  All right, so I hope this gives you an early introduction to how this will be, indeed, hands on indeed, interactive and how soon enough you will be going in all types of direction
+[]			 So part of my job will be true
+[1:54:31.2]  Call you back to the main trail here and working certain things finished
+[1:54:36.0]  Certain assignments hit certain checkpoints, but on the other hand, there will be more than happy to see you venturing in a million directions, figuring out stuff, sharing what you find in a variety of ways
+[]			 You can share through, say, posts on the discussion board
+[1:54:59.7]  But you can share your notebook itself using the shirt button here with the classical way by which is shared Google documents or something like that either by enter the name, entering the name of people or getting a share of a link and so on
+[1:55:10.6]  So I want to develop this highly collaborative, friendly, constructive, forward thinking, community, off learners type of mentality
+[1:55:18.1]  OK, there's nothing, and I'm hiding from you
+[1:55:23.2]  There's nothing that I'm tryingto pretend doesn't exist or shooting from you
+[]			 Nothing like that
+[]			 All right, So that's your Google Collab set up
+[1:55:38.3]  It will be your best friend for most off the course of this Master the next bit off our two box is this combination off by charming Anaconda
+[]			 In fact, I don't know why I put them together
+[1:55:42.3]  They're pre much separate things
+[1:55:46.1]  But anyway, Anaconda is a python distribution environment that I strongly recommend
+[1:55:59.8]  But, uh, I give you a pointer toe YouTube video where a much more experienced I think the science individual gives his take on whether Anaconda is the best python package manager or if you should use something else
+[1:56:29.8]  Basically, python is great, but python will come to life thanks to a number of packages and packages that need to be installed need to be occasionally updated
+[1:56:35.2]  And Anaconda does a good job at handling some of these things for you, including creating multiple environments when you need such things
+[]			 Sometimes you need multiple environments for handling multiple versions of python to point something in three point something
+[1:56:46.4]  Sometimes, if you do deep learning multiple versions of tensorflow are carolers on top of cancer flow, so there are many use cases for multiple environments and Anaconda is that quite well? If you don't want to use Anaconda, you can still do your papers fall and be happy
+[]			 If you know basic command lines, you will be fine
+[1:57:10.7]  So I personally recommend ANA conduct
+[1:57:14.5]  And in case you want to do buys on coding outside of the doctor notebook environment, you may want to get a nice fancy I
+[1:57:23.8]  D E and the by charm product, which is free for effort
+[1:57:28.3]  Houston's is highly regarded by the professional community off python developers as one of the best ideas out there
+[]			 So you may want to get that as well
+[1:57:47.6]  You may not find me using pipe charm at all throughout the entire semester because duper notebooks weather in the Google AB or outside will probably get the job done for us
+[1:57:52.3]  Speaking of which, we spoke about
+[1:57:56.2]  I python injured journal books but didn't give a proper introduction to those
+[1:58:04.0]  So we're gonna do that right now, And the best way to introduce these guys is too actually use them
+[1:58:09.1]  So I path understands for interactive python so basically away, by which you can run bits and pieces off python code on the command line
+[]			 Oh, in a command line, type off window or interface
+[1:58:26.1]  And eventually it evolved into the different notebooks idea
+[1:58:32.0]  Then the Doctor project took a life of its own
+[1:58:41.2]  So now, technically, there are two notebooks for other languages such as Julia, or are It's no longer only for Python, and he can still use the eye pie from set up as well with the Jupiter set up
+[]			 Let's take a look at that together
+[]			 So basically what we're gonna do, we're gonna go to the chapter one off Textbook One, and I'll tell you how to explore this chapter properly
+[]			 I will use a combination off
+[1:59:10.2]  Everything's basically one is the actual book, which I have on a pdf reader here That's optional because in Tyre, book is available online
+[1:59:22.9]  Reason I did that is because I'm a node guy
+[1:59:29.6]  And because I occasionally like to see things with a slightly better formatting, I'd like to highlight things and so on
+[1:59:32.8]  Fine
+[1:59:40.5]  Second piece of the puzzle is the entire set off trooper notebooks that you can clone or down low door from Get up to your computer
+[]			 I suggest you structure your python folder, whatever where you call it in a place within your computer that you can find what you have
+[]			 So in my case, it simply has, uh, name Python on my home area
+[]			 That's way starting point for python related stuff
+[2:00:27.6]  So if I open the terminal window here, I will find the names off folders relating to the two textbooks for this course and a few other things
+[2:00:49.1]  So if I go to the Python Data Science Master and eventually took the notebooks folder, I will have all the high python notebooks corresponding to the chapters in sections is off the book right then and there
+[]			 All right
+[2:00:58.6]  So what can I do with this? Siri's off notebooks
+[]			 I can open them locally using dropped her notebook
+[2:01:14.6]  Yeah, or I can, in this particular case, go to the equivalent links on Google collapse
+[]			 So Let's go to the Google Collab version
+[2:01:29.7]  So if I go to the Python Data Science Handbook on Google Collab, I will find a table of contents linking to each section in each chapter
+[2:01:41.6]  And if I hit the name of a chapter, see, I will get on interactive version with the entire text and figures and tables and links, plus the ability off running the code right then and there
+[2:01:52.2]  Since this particular chapter talks about I python, I found it convenient to try certain things on the actual high by thumb shell
+[]			 Okay, so I will do that with you in a few seconds just to show you how this would play out for understanding I Python and doing so in the spirit off the first textbook chapter, one of the first text
+[]			 So basically, you have the book either here or in my case, also hear one place is enough
+[2:02:26.9]  In fact, I have 1/3 version, which is in the local version off the doctor
+[]			 No books
+[]			 That's way too many versions
+[2:02:44.0]  So the important thing is to switch back and forth between the book and the part where it says, Why don't you try this for instance, Why don't you type II python on the command line? See if you get something like this
+[]			 Okay, with that, you're ready to follow along
+[2:02:52.4]  So I put there criminal window here
+[2:02:58.3]  Pipe
+[]			 Hi, Python
+[2:03:00.2]  Cross my fingers
+[]			 Hope for the best
+[2:03:04.4]  And yet I got something similar
+[2:03:09.9]  It has information about the python version here that wasn't quite there, but that doesn't matter
+[]			 Hi
+[]			 Python version and so on
+[]			 And we are ready to play
+[2:03:20.6]  We can skip the launching the jitter notebook part because we're gonna do that later and go straight to the exercises in hi python
+[2:03:34.5]  So the first thing it teaches you to do is how to access help type of information
+[]			 Try to make it available about the same time so I don't have to switch back and forth too much
+[2:03:51.1]  So it says if you type help in the name off, say a built in functions such as land, you will get the information you need right there
+[2:04:01.8]  Land as in length returns the number of items in a container hit Q to quit and you're back here and you'll notice that every time you enter some commands into the eye python shell
+[2:04:15.9]  There lines are numbered
+[2:04:20.6]  You will see things such as in and then one in script records, too, and so on
+[2:04:28.6]  So enough, we'll see out one or two or whatever, and you learn more about it as we move forward
+[]			 Another way to get help is to type the name of the function in this case and a question mark
+[]			 And you get quick, um, help type off information right there if you have
+[2:04:48.1]  And this is why I want to make a quick pause and see it says Right here
+[2:04:50.5]  The notation works for just about anything, including object meth
+[2:04:57.4]  It's so and then it says, Why don't you take this? L Square brackets, one space common et cetera
+[2:05:14.9]  23 At this point, if you're new to Python, you may say, What did I create? Exactly? Is it a list? Is it an array that matter which, which methods does its report? So here, folks, you have to be strategic
+[]			 If you want to finish learning the basics off I Python and getting through this section in the Chapter one, you can bracket this question
+[]			 I think it's a list
+[2:05:26.9]  Looks like a list has the name El
+[]			 Interesting
+[]			 Okay, maybe it's a list if you actually just look at this
+[]			 It says right here the insert method off a list object
+[2:05:40]  But even if you think of it as an array or if you think listen, razor exactly the same thing, it doesn't really matter
+[]			 Your goal here is to get some I python familiarity, and you can bracket those questions
+[]			 You can write them down for later and come back to those when the time is right
+[2:05:54.8]  Okay, So lists support a number of methods such as insert
+[2:06:06.9]  So if you do l dot insert question mark, you get help on how it works, you learn that it takes two parameters and index and an object, and the object to be inserted will be inserted before the position indicated by the index
+[]			 All of which are not exactly relevant right now because you're trying to learn about the help system
+[2:06:23.0]  Not about they're the structures or list methods or anything like that
+[2:06:34.8]  So, um, you can get help on the objects themselves if you ask what is L huh? Look at that
+[]			 Not about your answer
+[]			 It's a list which in string form looks like this has a length of three, etcetera, etcetera
+[2:06:46.0]  And in this style off Jake Funder
+[2:06:53.6]  Plus, you will be doing things that, especially those of you who are just switching to Python, may feel quite foreign, such as this next step here
+[2:06:57.7]  Death Space Square
+[2:07:02.1]  Okay, say, Michael, I'm sorry
+[]			 Cold
+[]			 Okay
+[2:07:08.1]  What am I doing here? Looks like I'm defining a function
+[2:07:13.6]  How did I get those? Dot dot dot column, dear I Then I'm gonna hit
+[]			 Enter here
+[]			 That's it
+[2:07:16.2]  Ok, good
+[2:07:19.8]  OK, three cents off quotes
+[]			 I don't know why
+[]			 Okay, I'm gonna type it anyway
+[]			 Okay
+[2:07:25.0]  Returns to square off, eh? Loco coat
+[]			 All right, enter
+[]			 All right
+[]			 Looks like her comment
+[]			 Maybe not like a help documentation description
+[2:07:42.6]  If you've done Matt Lab, for instance, or Java docks and job over something you have been exposed to something like that
+[2:07:46.6]  Right, then the code off their function Self return
+[2:07:50.3]  Weird
+[2:07:51.2]  No parenthesis
+[]			 Is that right? Okay
+[]			 You still go play along
+[]			 Okay
+[]			 How do I get out of this? Maybe just an answer
+[]			 Yeah, it worked
+[]			 Who? Okay
+[]			 So at least to reproduce the example
+[2:08:11.7]  And there's tremendous merit in typing things up especially at this stage in the game
+[2:08:12.5]  Eventually, you made dragon drop things or copy and paste chunks off code, of course, but there's tremendous merit in doing that
+[2:08:41.1]  So what do you think you just did? You created a function called Square Takes on parameter that you call a It returns the square off that number, right? So what is the goal of doing that in the context of learning I Python and its help and its documentation, its toe tell you that if you write a function with provisioned for this online help documentation, it will produce such documentation when you type, say, the name of the function, followed by a question mark
+[]			 All right
+[]			 Interestingly enough, if you try, type the name of the function with two question marks, it actually gives you the source code of the function
+[]			 Then it can say that's really need
+[2:09:03.1]  So let's go back to that length Eliane function
+[2:09:08.4]  Can I see the source code for that, huh? No, it's a building functional method, all right
+[]			 And just as it said, it would be all right
+[2:09:25.1]  So there's no better way off learning about I python where the I stands for interactive, then interacting with the darn thing
+[2:09:31.2]  All right, so at the risk of sounding a little bit too dramatic, don't fool yourself into thinking
+[]			 Oh, I read chapter one of the book yesterday, Uh, by the pool or something
+[]			 I didn't have a computer, but I have the physical book, I think understood everything
+[2:09:47.5]  Probably understood most of what you need it
+[2:09:52.4]  But there's no replacing doing this interactively as we are emulating here
+[]			 And the story goes on, I don't know how much I'm gonna go into this, because you can certainly do it yourselves
+[]			 But I will hit a few points here because I think they make it to some insight
+[2:10:23.6]  So this self completion type of help where you type l dot and then tab and it gives you a list of methods that the list objects reports
+[2:10:28.1]  And if you type the letter C and tab again, it narrows it down to methods that start with C
+[]			 R
+[2:10:53.4]  C all or something like that, uh, good to know type of thing, nothing extraordinary, or if you go a little bit further, I was kept those step completion because they are a little bit too simplistic uh, the use off wild cards you're looking for Warning
+[2:10:56.3]  Die both name spaces
+[2:11:06.4]  So if you do wild card warning and question mark, you get all sorts off name spaces that end with the ward's warning
+[]			 Then you go to the next section in the book just by hitting a link there
+[2:11:13.9]  Keyboard shortcuts
+[2:11:24.2]  Okay, again, a Louboutin is to show each and every one of them in class, but strongly recommended, uh, nonetheless, be mindful that since these doctor notebooks were produced as individual entities, there's a possibility that every time you hit a new section in the interactive book the numbering off the eye python blocks our cells resets the one where is, in your case, they keep growing because you're still in the same section
+[]			 You can always do a control D and quit and start I python again
+[2:12:01.1]  If you feel really strongly about having the in one here matching the in one there, your choice all right
+[2:12:06.4]  Things will get more interesting when you get to the next, uh, subsection in Chapter one
+[2:12:23.4]  The magic commands subsection that will introduce you to smart ways of doing certain things, such as basting cold into the eye python shell and not everything you do here may be exactly the same when you run
+[2:12:40.2]  This is one example The textbook author will tell you that if you copy this what would be the use of copying this? You want to copy the code for the function? Nothing, right? Suppose it's a very long function or do nothing to take too much too
+[]			 Type it up
+[2:12:57.0]  You want to save some time, you want to copy the function, but what you want is definitely not the prompt or the ellipsis here
+[]			 You want just the code of function
+[2:13:00.7]  There's no way to select that
+[2:13:13.8]  So if you do a copy here and a paste a regular pieced, um, it says in the direct paste interpreter is confused and so on and so forth
+[2:13:18.5]  Or maybe a copied more than I should wait a sec
+[]			 It doesn't look right
+[2:13:25.7]  You see what I did here? Invalid Syntex
+[]			 Okay, let me try again
+[]			 Because if you do this in the version of I Python that I'm running here, it doesn't complain
+[]			 The way the author said it would
+[2:13:48.0]  The example of using percent based still works if I go percent based Next it copies perfectly and gives the exact same, um, results as in the book
+[2:13:57.4]  But the error that you see here apparently is not being reproduced here
+[2:14:07.1]  Okay, In fact, I know the reason why I can anyone tell me why Percent paste as well as well, as many other percent Something in my python are cold magic commands
+[2:14:25.0]  Okay, there is something that we will see coming down the pike called Otto Magic
+[2:14:47.2]  Let's see if I can find it are related Hedrick A man's I think it's live
+[2:15:00.6]  It's further down the chapter teacher about debugging profiling
+[2:15:05.3]  Let me go to the actual book here just so as I can locate the magic thing
+[2:15:20.9]  Okay, Yeah, Okay, if you'd like percent out of magic on I python toggle between on and off, As you can tell When I typed it, it says Now it's off
+[2:15:32.1]  In other words, some so called line magics required the percent prefix
+[]			 When out of magic is on, they're not required
+[]			 Let me do this again
+[2:15:41.4]  Let's assume it's to list the contents off the rectory
+[2:15:50.8]  Um, you normally would have to use them say that percent are the explanation L s to list the contents of the rectory
+[2:15:57.5]  But in my case, if I do simply alas, it works just as well
+[]			 And the reason is because all to magic was on
+[]			 If I do it when out of magic is off, it says, I don't know what you're talking about
+[2:16:15.7]  I don't know any command such as L s list directory contents from within the eye Python shell
+[]			 So I believe the reason why that example with the based worked the way that before is because my auto magic was on
+[]			 I can try that again
+[2:16:33.3]  I still have this in the buffer here
+[]			 Try a regular paste
+[]			 It still works
+[]			 So it may be another reason I don't think so
+[]			 As you can tell from this early example, off chapter one in the first book, these things will take time, will demand a certain level off attention
+[2:16:58.5]  And we'll also demand a certain level off awareness off what it is that you're tryingto learn here
+[]			 So you have to budget your time
+[]			 You have to budget your resource is and your attention basically
+[2:17:18.1]  I mean, what is it that I'm trying to learn here? So there's a fire chapter basically tries to make you fluent in my python, which some of you could claim
+[2:17:35.4]  You may not even need to use so extensively, because soon enough you're going to switch to drop the notebooks and maybe never looked back, I would dispute this is not entirely true
+[]			 There is merit in learning
+[2:17:50.1]  I'd python shell commands just as there is married in learning more about this index of language and learning things outside off your immediate needs
+[2:17:52.2]  So my suggestion to you is if you can go through the entire set of examples off Chapter one in Textbook one just to have this warm, fuzzy feeling that things work as expected because some of these things will be used in the context off Jupiter notebook cells
+[2:18:15.7]  And it's a type of knowledge that will never, ever hurt to have so far, so good
+[]			 And that's part of the philosophy that I'm trying to inspire here
+[2:18:28.1]  And that's also part of why sometimes the Electra form it gets a little bit difficult, because if I keep doing these things, you say, Oh boy, uh, there's hardly anything more boring than watching you type these things, so I have to be mindful off, giving you highlights that matter and telling you about maybe the occasional traps around or on the road so you don't trip and fall, and you keep making progress as you as you advance in this case in Chapter one of the book
+[2:19:05.2]  And that's essentially what this lecture one is all about
+[2:19:17.4]  So basically what we did Waas send you on the hands on adventure now, where you explore I Python doctor notebooks and Google Collab by yourselves, get comfortable with the whole process
+[]			 I didn't show you how to do Dr Notebook on your, um, terminal, but it's very straightforward
+[]			 Yes, so, basically, you goto whatever folder makes sense
+[]			 My case
+[2:19:47.5]  I like to go to the Spieth unfold er, because it's easier to goto folder further up and that'll get down, then the opposite in the drop her notebook interface
+[2:19:59.6]  So if you have dropped her notebook all the prerequisites installed in your machine and and the references that I give you, including the book itself, you will see what you need to do in order to make it happen
+[2:20:09.7]  It's a simplest type injector notebook on the command line interface and what it does
+[2:20:25.6]  It opens a local host colon, some port number in this case 8888 And it builds a tree off your directories under that folder
+[2:20:35.5]  So since this is my python sandbox, I have things from textbook one for discourse
+[2:20:39.3]  Textbook to for this course, the world wind tour off python courses I took before it udacity or course era, other books, other examples and so on
+[]			 Okay, so if I'm doing the will win tour off Python, I can hit that
+[]			 I can go to a specific, um, chapter in the book and everything I do here will run locally so I can make this cold come to life, and I can do all the things that I mentioned before
+[2:21:25.3]  I can change this to a positive number just to see that this thing works and how it prints 15 is positive as opposed to what it was doing before, which was to say, minus 15 is negative and sore
+[]			 So that's your playground, folks
+[]			 This is where you're gonna live for the rest of the semester
+[2:21:45.3]  This combination off director notebooks running locally director notebooks running on Google Collab, whether your own or somebody else's then interactive versions off the textbook
+[]			 Textbook one is on Google Collab
+[]			 I'll try to see if I can put the textbook to on a shared folder on Google
+[2:22:00.8]  Philip just We'll standardize it all right? Or if one of you wants to volunteer and do that, I would appreciate it
+[2:22:10.9]  And basically some note taking strategies
+[2:22:12.1]  It could be a pen and paper
+[]			 It could be a separate notebook where you start documenting your understanding, saving meaningful snippets and plots and what have you
+[2:22:34.7]  And, uh, this is the playground sandbox, the ecosystem from which everything will eventually evolve
+[2:22:39.9]  All right, it makes for difficult lecturing because I have to go to a million places
+[2:22:51.4]  Hope that you can see that the phone to make sure I don't get caught into any rabbit hole and so on
+[2:23:00.7]  But I might go starting next week, particularly, is that we find a good balance between things you do on your own and insightful things that we do together in class to ensure that we're hitting the right notes that we are understanding what's happening, especially when we get past this early stages off familiarity with the language and the environment
+[]			 So Yes
+[2:23:37.5]  What? Which flask thing? Oh, here
+[]			 Oh, okay
+[]			 Okay, Try now
+[]			 Thank you
+[]			 Let's see
+[]			 Okay
+[]			 So Okay, so let me have the new cold here
+[]			 Let's try, um what? And for almost everything that you have saved the option of doing here
+[2:24:14.2]  You also have options on the menu and so on
+[]			 And so enough you get fluent with the shortcuts and whatnot
+[]			 So you're saying things such as I have a okay
+[]			 Oh, yeah, of course
+[]			 I could say very long
+[2:24:33.1]  Terrible name
+[2:24:36.2]  No kidding
+[2:24:50.0]  Okay, so? So even if I go here print and you know you have the instant complete their beautiful All right
+[2:24:54.4]  And that's one of the experimental future that you enable when you hit this beaker
+[2:25:01.5]  Okay, So very cool
+[2:25:03.5]  I can stay opted in
+[]			 All right
+[2:25:05.8]  Do you know of any other feature that is available in this option here? Okay, Right, right
+[]			 And that you can do on Jupiter notebooks in general
+[]			 I see
+[]			 I'll get to that in a second
+[2:25:33.3]  Let's see if we can simulate that
+[2:25:34.0]  Although we don't have a neat trick
+[]			 But just to answer my own question, there was a link here saying learn more about it
+[2:25:42.7]  More info
+[]			 It takes it to this page
+[2:25:45.9]  So it shows what new features are those? The automatic completion that you spoke about? Q board bindings and Richard syntax highlighting
+[]			 That's basically it
+[]			 Let's go
+[]			 That's good
+[2:26:02.8]  And you said something about run time change one time to ah, different hardware accelerator as opposed to the standard
+[2:26:07.0]  Okay, Eriko or different versions off life
+[]			 Beautiful
+[]			 Excellent
+[2:26:29.9]  When you do drop her notebook locally, you should have steaming our options for things such inserting or run all etcetera
+[]			 But not that
+[2:26:37.5]  Because, of course, it's associate with the infrastructure that is making made available to you
+[]			 Uh, well, well, well, well
+[2:26:51.5]  You can you can do something here, Which, for some reason, it depends on how it was defined
+[2:26:54.4]  Yeah, our quest
+[]			 Go ahead
+[]			 Yes
+[2:27:02.5]  Call Lab is running entirely on Google servers
+[]			 You can use their deep use for free with a catch
+[2:27:10.1]  Your job will be cued up
+[2:27:11.3]  You may be throttled or something
+[2:27:19.9]  You In fact, this connects you even if you're doing silly stuff like we are without a GPU
+[]			 Yeah, that's one
+[]			 Oh, yeah
+[]			 I don't think you have to go back to the end of the queue again
+[]			 I see
+[]			 Right? Yeah
+[2:27:33.9]  Does that interest you? Okay, Cool
+[2:27:39.7]  So it is my hope and I'm calling it hope right now because there's a smallmouth of certainty in the whole process that the Google Collab setup work nicely throughout this master with no surprises
+[2:27:53.0]  Not on the technical side, not on the being hit with a credit card request side
+[2:27:56.3]  And that depends on things that are completely outside of my control
+[2:28:02.1]  If Google says it was nice to offer these things for free folks, but now we'll charge for this or that
+[2:28:04.0]  We may have to revisit that
+[]			 And yet I want you to be self sufficient
+[]			 That's why I tell you to
+[]			 Yes
+[2:28:09.4]  Learn I python? Yes
+[]			 Get your doctor No book set up on your local host
+[2:28:18.5]  Make sure that if you lose Internet connections, say you can still do a whole bunch of stuff, uh, by yourself be sufficient in terms off or self sufficient in terms off, acquiring knowledge, getting the books you need, getting the example
+[2:28:51.7]  Notebooks you need and start, Um, making sense of this jungle off new concepts and tools and languages and libraries progressively so I hope I'm not giving a message off, overwhelming you with too much stuff to do and pushing you to the deep side of the pool or anything depend on it, people
+[2:29:04.1]  It's my hope is quite the opposite that you know that we have a plan
+[]			 We have path
+[]			 You have to do your fair share or else it will not work
+[2:29:11.9]  But you will not be, uh, drowning in more lines off python or pages of books than you can handle at any given point
+[2:29:26.6]  I got a good deal coming up next week, the so called lecture to which is numb by panda psychic learn math, plot, lib
+[2:29:32.9]  And hopefully I will have the guidelines for the first assignment
+[2:29:34.3]  Ready
+[2:29:35.8]  So once we finish the lecturer, you will apply all that into your first assignment right away
+[2:29:40.7]  Between now and then
+[2:29:41.7]  Spend as much time as you can this ecosystem and send questions over discussion
+[]			 Border campus
+[]			 Thank you
+[]			 Not then assignments yet
+[]			 Yes, you may have missed you getting and you don't know how you doing
+[2:30:22.1]  It's probably the very first few pages off the first exit book
+[]			 Yeah, I didn't show you happens
+[2:30:29.0]  Call it Because if you if you go through the anaconda path, guide you through the whole process
+[2:30:33.1]  So maybe your best bet is to go to Anaconda
+[]			 Don't get me started back, manager
+[2:30:44.2]  Bring everything
+[]			 Yeah, Okay
+[]			 Thank you
+[]			 No problem
+[2:30:51.2]  Yes, Darwin
+[]			 And remember, you're going? Yeah
+[]			 I wanted to see the another class right now
+[2:30:58.8]  Finally developed a dissertation
+[]			 Okay
+[2:31:03.0]  Not officially signed up for this
+[2:31:09.7]  No, it's fine with me, Er, but we are at the fire marshal capacity level here
+[2:31:14.1]  So in the event that someone who's registered for the class that's making a fuss off not having a seat, we may have a problem
+[]			 But right now we don't
+[]			 Okay, okay
+[]			 It's tough because they need the access to campus
+[2:31:29.2]  Be through the register's office
+[2:31:32.3]  I cannot add your two canvases
+[2:31:34.6]  I would be able to do it in blackboard
+[2:31:36.9]  So maybe you could try it informally
+[2:31:40.4]  The marshal or someone have them extend pdf success
+[]			 Okay
+[]			 Thank you
+[2:31:49.5]  Is my charms by Jupiter are, you know, as hard work
+[2:31:58.7]  So if you're trying to, you know, if it has wept hardware acceleration
+[]			 Uh, I I don't know
+[]			 The answer is I don't Yeah, I don't sorry or course good
+[]			 Good
+[]			 Yeah
+[2:32:33.1]  It should be very straightforward for your first assignment, at least so I I might if I can get it done in time, show you the assignment before I showed the rest of the class money double checking on it or something
+[2:32:38.8]  Actually, that part, you know, like
