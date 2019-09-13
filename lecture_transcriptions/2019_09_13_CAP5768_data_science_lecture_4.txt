@@ -1,0 +1,1334 @@
+[]			Yeah
+[]			 All right
+[0:02:09.3]  Good afternoon, everyone
+[]			 Let's get officially started
+[]			 Um, first question of the day
+[0:02:19.6]  What is the best way to learn this early stuff off the lump? I SciFi map
+[]			 Look, lib, Pandas stack Call my cell phone for help
+[0:02:32.1]  That's one of the worst possible answers, but I appreciate the sense of humor
+[0:02:37.1]  All right, What is Stack overflow? Interesting
+[]			 It's part of the solution, but I wouldn't call it the best way
+[]			 Why thanks
+[0:02:53.8]  It's time consuming, and there's a distinct possibility that you are going there again and again and again, hitting questions that you don't know where they belong in the big scheme of things to hit stack overflow
+[]			 To find precise answers to specific questions is a good thing
+[0:03:04.9]  Everybody and their dogs do that
+[]			 So that's okay
+[0:03:18.5]  But you cannot make it your primary choice or your primary source off learning, or else even if you get a good answer every single time you go there, it's fragmented knowledge
+[]			 You don't know where things belong, right? But it's part of the solution
+[]			 What else gonna be part of the solution? Yeah
+[]			 All right
+[0:03:30.3]  Actual practice
+[0:03:37.9]  Let we You brought that up, okay? I would say nothing replaces sitting in front of the damn computer and putting the hours
+[]			 This is true for programming
+[]			 This is true for math
+[0:03:47.8]  This is true for many other subjects that you take in your course of studies
+[]			 There are many things in this life that you don't
+[]			 You cannot simply say I get it
+[]			 Yeah, I saw this thing
+[0:04:00.1]  Yeah, Cynthia's looks good
+[]			 Yeah, I said it before the after I got it
+[0:04:09.9]  You may have got it toe a consensual level, I hope you did say, when we give explanations based on examples from the book or slides or other people scold or we try our hand at writing some code snippets here there
+[]			 I hope you got it
+[0:04:24.3]  But it's a far cry from mastering it from knowing how to reproduce that knowledge when you need it
+[]			 So you need to put our our else
+[]			 It's not gonna work
+[]			 What else works
+[0:04:50.8]  So stack overflow time in front of the computer actually doing things, and when you allocate that time, what is the best way to use it in many ways, But what would be potentially good ways of using it? Trying to avoid the best thing
+[0:05:12.8]  It's too much pressure taking online courses, absolutely going through every single damn example in the textbook, absolutely mortify examples that you believe are worth streaking so that you understand a little bit better and enjoying the interactive nature off my python doctrinal books that make it so easy to do that, absolutely reading up on the textbook It's a good way to use your time absolutely reading Blawg posts on somewhat reputable places such as towards their science or Katie Nuggets or something like that, Absolutely watching YouTube videos related, it is course, absolutely subscribing to and listening to podcasts in this feud
+[]			 Absolutely
+[0:05:49.0]  There are lots of ways you can definitely invest your time wisely and get some knowledge in the process
+[0:06:00.4]  Some are better than others at the point that we are where we want to try to get the mechanics of these things more naturally expressed in our everyday work
+[0:06:26.5]  In other words, my feeling as re enter assignment to is that a different pace and starting from different starting points, you are all getting there are trying very hard together, and by their I mean to the point where you have this comfort this freedom, this confidence, whatever word you want to use to say Okay, I know that if someone gives me some data, I can answer questions I can test
+[]			 I put the second plot stuff
+[0:06:43.9]  I can infer stuff to the degree that is still at this point in the game
+[0:06:49.2]  Exploratory, not building models on the training
+[0:06:56.6]  Classy fires are not fitting meth medical, say regression curves or Paulino meals
+[0:07:04.7]  But I know fair amount off python a Pie, Pandas etcetera to produce meaningful answers to questions that I know have their answers within the data itself
+[0:07:16.0]  So if this sounds repetitive, it's because it is
+[0:07:23.6]  I've been saying these things for two or three weeks now and is the last time sing the mantra off exploratory data analysis is, Let's get this hands on thing going
+[0:07:43.1]  Starting next week, we'll go to the so called other book thinks that's and move to a little bit more conceptual meth medical issues while keeping, of course, all this python stuff in the background
+[0:07:52.2]  So the Net today we have the last official chance to wrap up all these early topics, and we'll do so using a number off resources one resource is assignment number two, which I posed it
+[]			 I believe yesterday or the day before canvas
+[]			 Some of you may have taken a peek at it already
+[]			 If not, I'll go over it step by step
+[]			 Another resource is, uh, Siri's off slides for what I call a lecture, too
+[]			 I posted the PdF of that on canvas before coming to class
+[0:08:15.9]  So if you go to canvass, it should be able to find the PdF of that 61 slides
+[0:08:21.6]  Slide deck
+[0:08:26.3]  And I will try to intersperse with, uh, references from the textbook, whether it's the heat book version or the Jupiter notebook version and whatever else we can do to get the core message across
+[0:08:45.9]  Okay, so let's start from this script like, um, slide set or it's like deck and quickly recall where we have bean
+[0:09:03.9]  We started by looking at numb by which in one word could be described as or in one sentence
+[0:09:13.8]  Rather could be described as a computational library for python excellent, which allows us to do certain things more easily, more elegantly and with more computational efficiency on under the hood, which we can hint at bye, say measuring the time it takes with certain things, as the textbook author likes to do in this chapter to quite a bit and, uh, number
+[0:09:41.5]  I should at some point become second nature
+[]			 In other words, as useful as by phone lists and python dictionaries are and python a raise, if you will
+[0:09:57.9]  Numb pie will make array manipulation matrix manipulation, matrix arithmetic much easier than if you were to use basic buys on
+[0:10:13.3]  And then we went through a number off specifics off how this is down, including the very important aspects off broadcasting in that same asking, fancy indexing and so on
+[0:10:19.1]  And when we were approaching the end of the Dump I chapter in the book for our review of it, we hit that last section were we saw that number
+[0:10:31.4]  I support something called Structure the Rays, but it's somewhat clumsy, and that gave us the motivation to enter the next chapter, which talks about pandas
+[0:10:47.9]  We have been using pandas, probably from day one, and we'll continue to do so until the end of this master
+[0:11:01.3]  It is the Data analysis library for this course, and it's extremely rich, which basically means that just as I have mentioned in previous conversations with you
+[]			 It's okay to go through Chapter three of the book from beginning to end and try to get us much pandas knowledge as you want
+[]			 But what will happen in practice is number one
+[0:11:16.4]  You realize that not every subsection is equally important, and not only that the textbook author has his own by sees in his own preferences
+[0:11:31.1]  So he may spend more time doing something that you either don't want to bother about now
+[0:11:34.4]  Or don't think it's important or think it's trivial whatever and make Army not come back later
+[]			 So there's there's married in going through Chapter three and trying to learn as much pandas as the textbook gives you
+[]			 But two things will happen
+[]			 One is that in many points you will realize it's more than you actually, uh, wanted at that point
+[0:12:13.8]  And secondly, you realize that even though you understood certain things when you need to use them, you have to go back to that part in the book that explain them because you probably missed something or the same tax or some me degree detail is kind off stopping you from making progress, say in your assignment, and that's perfectly fine
+[0:12:19.6]  Is the book or it's Dr Notebook equivalents? The best reference for quick look ups after the fact
+[0:12:28.2]  You tell me if you think it is fine if you like, she cheats better
+[]			 Fine
+[0:12:31.9]  If you like to go to the official documentation for pandas on the pandas website, fine
+[]			 If you want to do stack overflow, that's fine, too
+[0:12:50.3]  At that point, if you know what you need and you know you're only missing it because, um, Syntex mostly is preventing you from getting it right
+[]			 Then look up is fine
+[]			 And so is looking at, uh, second overflow and whatnot
+[0:13:03.5]  Okay, so Penders is a ridiculously rich topic effect
+[0:13:11.1]  Um, our book spends a fair amount off pages on it, and there are entire books, Not surprisingly, on pandas alone
+[]			 I will go back to this topic later today
+[]			 But rather than following the book step by step, I will do more in the context off assignment number two
+[0:13:35.4]  And then, if time allows, I'll go back to highlight a few things based on this slide set that you find in the book
+[]			 Now that everybody has the slides, you can see which things made the cut in my summary
+[0:13:52.1]  And presumably if I did a good job picking the important things, these are important
+[]			 The ones that I chose not to say much about are probably less so
+[0:14:06.9]  Okay, that third part of this light said talks about meth was Liam and math
+[0:14:13.7]  Lesson in the book follows a similar pattern
+[]			 There's an entire chapter for it, but it's something that we have already used in a matter of fact type of way, and that you can choose to not learn much about it until you need to
+[]			 So it's a plotting library
+[0:14:48.8]  So just as important as it is to know which type of plots his support, it is perhaps even more important to know which plots to use for a certain case, how to interpret what the plots are displaying
+[]			 And that's part of the deal in assignments
+[0:14:56.2]  One end, too, and occasionally if you so desire customizing, improving tweaking and making them nicer so clearly in the metal of lib
+[0:15:15.7]  Part of this early portion of the course, you have much more freedom than in pandas or in some pie, because you can really learned very, very basics and look things up when never needed
+[]			 OK, after all, much of what you will do using map lot
+[0:15:28.7]  Libor, it's Seaborn AP
+[0:15:34.0]  I will be driven by what you need, say, in an assignment or in a project or something like that
+[]			 If you are really into visualization, then it's a different story
+[]			 We can have a separate conversation because math what live is just the beginning
+[]			 You may want to go beyond Seaborn
+[0:15:48.2]  You may want to go into much deeper waters to learn about visualization or scientific visualization
+[0:15:58.8]  That may be more precise in python, but that's not something that recover in any death here
+[0:16:29.6]  Okay, so I have adopted on approach in which the 1st 2 assignments in the claws are meant to give you work, not busy work, hopefully meaningful work, occasionally even fun work to get these things going toe test your understanding of whether you are keeping up with the expected knowledge of these languages libraries, etcetera or not
+[]			 And if you're not, we're here to help
+[0:16:38.5]  So assignment number one has been around for sometime
+[0:16:41.4]  Maybe half of the class has submitted already
+[0:16:42.9]  I think it's due in two days or so and I believe there should be very few questions about it
+[]			 But this is the last chance you have to ask a question about it in class
+[]			 Go ahead
+[]			 Yeah
+[]			 Yes
+[0:16:57.4]  The question is, do I want both the pdf and Egyptian notebook? Yeah
+[]			 The answer is yes
+[]			 I won
+[0:17:06.8]  Both They live link to go collapse completely optional Google app is not as friendly as we hoped
+[0:17:09.8]  Or maybe it depends on who you ask, and it's clearly not a requirement
+[0:17:21.0]  Okay, um, the reason I want the I Python notebook, of course, is because I should be able to run your code or my ta
+[]			 The reason I wanted pdf is because either might year myself can quickly glance it
+[]			 But you did see the results, the plots
+[0:17:33.2]  And if I trust it, it's the call that you have there that produced the plots that you have immediately after, which presumably is the case
+[0:17:38.7]  Then I haven't easy way to assess how well you did And to read the fun part about hypothesis is conclusions, observations, bonus things you did and so important
+[0:17:53.3]  It came to my attention that the outta magic conversion to later is not a straightforward in some configurations
+[0:18:04.7]  And apparently the best way to go about if it doesn't work in your computer is to first mover to Asian female and then run some HTML to PdF online
+[0:18:09.4]  Free converter
+[0:18:21.5]  Okay, The reason why I work so easily on my side and I overlooked it is because I have used latex forever, and I have the late IQ backbone installed, which is a requirement for this
+[0:18:30.7]  Behind the scenes with Digital Notebook is doing is creating late that cold, which is then compiled and rendered into pdf form
+[0:18:41.2]  And if you don't have the tech process or you you have issues, you get error messages and what not? Well, ah ha interesting
+[]			 I didn't know that
+[]			 No, I see
+[0:18:48.5]  Can you post the brief note about it on the discussion board and you have a chance? That's really cool
+[0:18:51.9]  Speaking of the discussion board, I don't want to sound harsh when I say that, but the best place for technical questions is the discussion board doesn't think I will not help you, he suppose them
+[0:19:19.5]  Their chances are they get those more quickly than through direct messages, and most importantly, there's a distinct possibility with 100 people in this class working the same assignment, that the trouble you're having today your colleague had yesterday and your other classmate who have tomorrow
+[0:19:27.7]  So in my experience, I spoke about developing a community of learners
+[]			 And this is not code for what The professor doesn't want to do anything
+[]			 No, it's not
+[]			 It's because in my experience, the students who are little bit ahead of the curve are usually very generous
+[0:19:43.9]  And you have some examples in this course already, with people helping out boasting detailed messages and what not and those who are a little bit behind benefits from that and sometimes the tide turns
+[0:19:52.8]  And depending on the topic, the one person that was helped at some point in time becomes the one that provides help
+[]			 And that's fine
+[0:20:02.5]  Those things are not confidential
+[0:20:03.7]  They're not sensitive
+[]			 That's perfectly fine
+[0:20:07.4]  There's no academic code of ethics being violated
+[0:20:15.4]  Even if you won't run into difficulties with specifics neighborhoods, it's okay to post on the discussion board for, say, assignment number two
+[]			 I'm at this point of the assignment, guys, and this is my cold, and this is what I get, I don't know what I'm doing wrong
+[0:20:28.7]  Someone will jump in and help you
+[0:20:30.3]  It might be meat for me
+[0:20:32.6]  Be someone who's quicker than me together that please make it a habit off doing that
+[0:20:41.2]  We start developing collective intelligence, and this is good for everybody
+[0:20:46.8]  In fact, this issue with the Pdf conversion, this one who brought it to my attention, said I gave that student a certain A list of things to do
+[0:21:02.9]  It didn't work, and then in the discussion board for him, there was a solution with the HTML work around that I had overlooked when I replied to him
+[0:21:07.1]  So it's a great way to document the knowledge of things we found to be problematic
+[0:21:18.7]  And so it's also a great way for me to issue brother messages about what to do, what not to do, corrections hints and so on
+[]			 All right, so let's keep the conversation going
+[0:21:34.1]  I know discussion board forms, especially if you have taken some other online courses, may have gotten a bad rap because in the online practices off f you many fully online courses assign a participation grade that is based on writing on discussion board forms and the rules for such posts are sometimes not so fun from the students point of view
+[0:21:58.3]  They include minimal number off awards were characters or something
+[0:22:03.0]  They require that to reply to at least two of your classmates comments
+[0:22:12.8]  Sometimes they require that you are the first person to post an original comment or thought about something which in some crosses makes users race against the clock
+[0:22:18.0]  Basically, they know the professor's gonna put the discussion board up one minute before midnight
+[0:22:21.3]  They stay up late and midnight
+[]			 They post something because they at least know they're things gonna be original
+[]			 Okay, I'm not doing any of that in this course, okay? There's nothing like that
+[0:22:37.0]  Discussion boards are being used more in the sense of technical forums as opposed to participation assignments, where you have to write about stuff that maybe don't want to write about
+[0:22:57.1]  You're busy enough doing the assignments, okay? So don't let that bad impression that he may have got from other courses in other discussion boards, too, Um, make you less interested in contributing this time around
+[0:23:06]  So final round of questions for assigning the number one if no further questions are presumed that everybody's on their way to wrapping it up and still for technical questions
+[]			 Discussion board is the place to go
+[]			 Yes
+[]			 Yeah, folks
+[0:23:21.1]  Okay, Force and yeah, Okay
+[]			 Let me see what we're talking about
+[]			 I talk about fuel efficiency, European cars, American Japanese
+[]			 Okay
+[]			 Okay, so All right
+[]			 I, um Okay
+[]			 All right
+[]			 So I'm glad that you brought it up
+[0:23:51.8]  Gives me a chance to make two observations
+[]			 Actually, one observation in one correction
+[0:24:03.2]  The one correction I need to make For those of you who are really, really picky, I kind of confused
+[0:24:04.0]  Few consumption with you efficiency in some points
+[0:24:07.8]  Clearly, one is the reciprocal off the other
+[]			 And mpg is a measure off consumption or efficiency efficiency
+[]			 So the higher the better
+[]			 Right? So if you see that I used consumption when I meant efficiency
+[]			 Don't be too harsh on me
+[]			 Just make sure that what you're right makes sense
+[0:24:31.0]  And if you also make the same mistake and you call a car with worse fuel consumption also the worst fuel efficiency, I will understand this is not serious
+[0:24:54.3]  The second observation is I asked you to produce box plot that put up provide good answers to these questions, but I should have been more careful here because those answers can be given without necessarily using plots
+[]			 So here's the thing
+[0:25:04.0]  If you get the answers and the plots are still not quite great, or whatever happens, you get partial credit for sure
+[]			 Okay
+[0:25:11.7]  And effect in the sense off providing cold that answers the question
+[0:25:17.0]  You may be better off with something that is analytical that is quantitative rather than graphical
+[]			 Let me try to to organize my ideas here, um, at me show a possible solution here
+[]			 No
+[]			 Okay
+[0:26:01.7]  Um, these two first assignments are built upon the assumption that when we produce plots, we are basically giving Ah, human observer, human data scientist, if you will, A chance to visualize aspects of the problem that are there but that come to life through properly chosen plots, type of law variables, the range or under other parameters, but superhuman component
+[0:26:07.5]  In other words, if I throw a plot a box plot that shows then Japanese cars being more fuel efficient than American and European ones, that plot doesn't speak by itself
+[0:26:31.1]  Someone would have to interpret it if, however you compute, some figure off married from the data and you say, by doing simple pulling off information off mpg, poor origin, and that mpg four Japanese cars is mean or medium better than European or American ones
+[]			 You answer the question in a much more meaningful way
+[0:26:48.9]  Some could argue because there's no room for interpretation
+[0:26:50.9]  Got the data you applied some very basic summary statistics
+[]			 You got a date? All right
+[0:27:01.2]  I'm glad you asked that because, um, the question should be having worded differently
+[0:27:04.5]  Plot should be optional, and the analytics or the summer statistics should be required
+[0:27:27.1]  Okay for the getting more efficient overtime plots are particularly nice because you can see the trend and you can see if you go box plot that the worst cars on the higher on the right side of the plot are typically better than the best cars in earlier years
+[0:27:35.1]  So there was a trend not only on the average, but also in the court tiles
+[]			 Okay, so I think that answers it right
+[0:27:40.4]  Any other questions are common
+[0:27:46.0]  Still on assignment able one, I've started to see some submissions, and I like very much what I've been seeing their insightful observation
+[]			 So you are getting it
+[]			 And that's good
+[]			 All right
+[0:27:57.2]  Okay, so let's talk about the sign of the number two there
+[0:28:14.6]  Okay? Also, exploratory data analysis also in parts different data sets, but this time important, it's not organized in a gradual level of difficulty going up
+[]			 In fact, the first part is quite time consuming
+[0:28:21.1]  The 2nd 1 is kind of a break, and then the 3rd 1 is an intermediate one
+[]			 I think so
+[0:28:30.8]  The idea is to keep increasing our familiarity with the data science stack, exploring, manipulating, summarizing visualising data sets testing have brought this is and what not
+[0:28:35.8]  Quick comment about number of points
+[0:28:38.4]  Reason I put the number of points is to give you a measure that within that assignment, out of 154 points, certain things are worth whatever they are
+[]			 Eventually, this great gets posted on campus is a percentage, you get a great between zero and 100
+[0:28:55.7]  And this break now is never recalled ever again
+[0:28:59.4]  So don't think that because these guys 150 points the other one there was 300 something that this will be worth half as much as the previous one
+[]			 They were one assignment Okay, so it's just for the breakdown within the assignment
+[]			 Okay, We start with the movie lands one million data set, and this is basically a data set off movie ratings from her into thousands late 19 nineties, and I hope you will find it fun to work on
+[0:29:34.1]  It's approximately one million ratings from approximately 6000 users on approximately 4000 movies
+[0:29:43.9]  And if you hit this link, you will get more information about the group lens dot org's Web site
+[0:29:46.8]  You will see that there are variations off this data set, including one that is 20 times as big and a number of other data sets in the family
+[]			 Okay, I just happened to choose the one million data set, which is old
+[0:30:05.1]  As you can tell, it's more than 16 years old
+[]			 Nothing to worry about
+[]			 Uh, I got imports First, I remind you that you have to get data from movie lands
+[0:30:17.8]  That's their filing canvas, and when you unzip it, please make sure that it gets stored in a folder called Movie Lands, which presumably has already three Data 1000
+[0:30:30.5]  We'd be following it that this is under data folder
+[0:30:41.2]  That's a recommended path which is a sub folder under the place where you put your python notebooks
+[0:30:49.4]  If you do that, of course the bath, such as data under a slash movie land slash Name of the firework
+[0:30:51.2]  You should don't follow those recommendations
+[0:30:56.2]  You can either move things around in your Windows, Explorer or finder, or you can tweak these paths in the coat
+[0:31:00.7]  The raceway question
+[]			 Okay
+[]			 All right
+[0:31:06.3]  So that's not running this gold here to make sure that everything works life
+[0:31:14.8]  Okay, so basically, when we read those three days of followers, we build three data frames, users, ratings and movies
+[0:31:24.3]  We are using a different primitive read underscore table, not reading the score, C
+[]			 S
+[]			 V in this case
+[0:31:43.1]  And this data set comes with a read me file that contains the code book, as we call it, and a few other things acknowledgements You are Ellis
+[0:31:58.9]  And what not important things, of course, are code book related, especially things that you wouldn't be able to guess that age is actually a number representing the early limit off a range off ages
+[0:32:12.2]  So one means presumably 0 to 17 18 means 18 24 and so forth another thing that you couldn't have guessed by looking at the data alone is what those numbers in the occupation column ing
+[]			 And by looking to read me file, you have the cold book for that
+[]			 All right, so the questions I ask are pretty straightforward
+[0:32:34.8]  They will probably be answered with things as simple as that shape that describe that something like that
+[]			 Okay, so not had and things like that
+[0:32:48.2]  So how many users are in the user stable and what information is stored for each user? How many movies and what information is stored? How many ratings and how are the user's movies end rating related
+[0:33:01.3]  If it took a database, is quote Klaus
+[]			 You may already know the answer to this question without even writing any cold, right? The same way you make two or more tables related to another in a database system
+[]			 You use the I
+[]			 D
+[]			 S in this case, the user idea in the movie I D to build ratings or entries in the ratings table that show that this user has rated this movie with whatever it is that the ratings parts stores, and that's basically it
+[0:33:37.5]  It stores ratings on a five star scale host our ratings on Lee
+[0:33:51.2]  So this can be sport is an integer, Whether it is or not, you can check, and it has a time stamp, which is seems a bit cryptic because it's in operating system time in seconds, but basically gives you a measure of how recent or where in time was that movie X rated by that user
+[]			 Why we don't make use of the time stamp in this entire assignment, by the way, all right
+[0:34:17.9]  So once you get the basic understanding of the data frame or later set, which is a collection of the frames in this case, I ask questions such as What is the occupation that maps to most of the users? Chicken answer
+[]			 Bye
+[0:34:30.2]  Writing cold
+[0:34:32.9]  It selects that column and finds the maximum and optionally plot a hist a gram
+[]			 So once again, going back to your question
+[0:34:45.3]  Same number one um, plotting a Houston Graham and reporting the size of the largest been is a human visual way of doing it
+[]			 You don't need a history, Graham
+[0:34:53.4]  You don't need to think of Ben's Percy
+[0:34:55.7]  Each occupation is been in this context, each count of how many people have
+[0:35:05.5]  The occupation is have been But, uh, I used a gram is a nice touch
+[]			 Okay, Part of me
+[]			 Oh, a very good point
+[]			 It's a bar chart
+[]			 It's not a history
+[]			 You're absolutely right
+[]			 Okay
+[]			 Thank you
+[]			 So here's here
+[]			 No, you're right
+[]			 You're right
+[]			 You're right
+[0:35:31.0]  Oh, it's not a variable
+[]			 It doesn't have a at the many off a distribution to it
+[]			 It's a bar chart
+[]			 Yeah, you're right fixed
+[]			 Okay
+[0:35:39.3]  I might upload modified version
+[0:35:42.0]  How effective will go on Better than that
+[]			 Look, optionally brought a bar chart
+[]			 Okay
+[0:35:54.0]  Something like that
+[]			 Because it's not required to answer the question
+[0:36:02.0]  All right, what percentage off users are 50 years old or older
+[]			 And again put optional here optionally blood
+[0:36:12.6]  My chart showing all percentages
+[0:36:15.8]  It's kind of an excuse to try to see how this map with Libor Seaborn, huh? Allow you to block by charts for business
+[]			 Which movie received the highest number of ratings and how we're such ratings distributed
+[0:36:42.1]  In other words, you know the deal, right? Not every move you watch, you are motivated rate so clearly some movies, either because they are ridiculously popular or because they elicit this desire to rate when I am TB or something
+[]			 Those movies will have the highest number of ratings
+[]			 Which one got the highest number of ratings? That's the question and how we're such ratings distributed
+[]			 Basically, this would be a nice, uh, bar chart as well
+[0:36:58.8]  Orb are blocked, uh, showing how those ratings were distributed
+[]			 And what is the average rating for all movies in slash users? Does anyone want to comment on this question? Number eight? I mean, guide you How used for is this information this piece of information that I'm asking in Question number eight? Not very
+[]			 You're very polite
+[]			 Thank you
+[]			 The less polite answer is uses this
+[]			 Okay
+[0:37:33.3]  It's kind of fuse this
+[]			 Okay
+[]			 What does it mean? The average rating for all movies slash users
+[0:37:38.1]  Can you computed? Yeah, sure
+[]			 This is me
+[0:37:40.6]  Anything? It doesn't mean a thing
+[]			 Or does it? Some people seem to that different right across all users across all movies across all users
+[]			 Okay
+[]			 Yeah
+[0:37:59.2]  So I am claiming this information is virtually useless
+[0:38:02.3]  Okay, maybe if I sliced it on only one dimension, it would be a different story
+[]			 What was the average rating off a certain movie across all users
+[0:38:13.5]  Interesting tells you how popular the movie is, how it was perceived as good or bad or something if I asked
+[]			 All users for the same movie gives you a measure of which users air pick your than others
+[0:38:27.7]  This is particularly important in recommendation engines, the likes of Netflix Challenge and what not because it gives you an idea off users who are very picky
+[0:38:38.7]  Where there distribution will be tilted towards lower ratings or very generous and give 45 starts to everything that comes their way
+[0:38:46.8]  That would be useful combining the two
+[0:38:48.6]  I personally don't see a use, and I put that there on purpose to have this discussion with you
+[]			 But you have your hand up, so maybe you have a different insight
+[]			 Oh, okay, I get it
+[0:39:04.8]  But still, if you always lice it if you always likes it, one
+[0:39:09.7]  And yes, if you slice it in both dimensions, it's kind of weird
+[0:39:13.8]  I mean, because I don't know if it's the movie is Bear is good or the user's generous
+[]			 You only know that it's higher than this number
+[]			 Okay, You had something else you wanted to add that is useful
+[]			 Oh, that is useful
+[]			 That's what I said a minute ago
+[0:39:39.4]  If you ask what is the average for a certain user? Across all the movies that person has seen, that's useful information
+[]			 Not only the average by the distribution, because it shows how picky that person is
+[0:39:47.7]  Conversely, the ratings for a certain movie across all users very useful
+[0:39:54.5]  That's what gives it the average on IMDB or something, right? The average off, too, doesn't seem to be very useful
+[]			 Yeah, so but again even
+[0:40:12.4]  And to add insult to injury, we are using the most infamous summer statistic of all, which is average right, reminding of the guy who goes to the bar to play darts, hits half off the charts, closes sealing half close to the Flores says in average, I hit the bull's eye right, which is true, All right, so it's not good at all, So I put there on purpose
+[0:40:35.9]  So it's a hint for something can write in the conclusion you can write
+[0:40:37.8]  Start writing the completion already
+[0:40:42.0]  Question Number eight is off dubious value, although this team professor thought it would be interesting to have it there because all the things you just said
+[0:40:50.5]  All right, moving forward
+[0:40:55.5]  Now I give you some cold to merge all three tables into a unified data frame
+[0:40:59.2]  But be careful, and I try to prevent any a mistake down the road
+[0:41:04.8]  The fact that now you have something with a generic name off data, which is the merge off the user's
+[0:41:12.3]  The ratings and the movies is convenient to some extent, but is not something that you use from now on without ever looking back to the individual data frames
+[]			 And I'll give you an example of when this is so in a minute
+[]			 So this is pretty convenient
+[]			 It has more than a million rose
+[0:41:29.6]  Are we doing Big Date already? Okay, Has more than a million rose The user i d
+[]			 The movie idea rating
+[0:41:49.9]  The times them the gender off, the use earned age range, the occupation, these it cold title and genre or you're a squirrel, even though I didn't show you those three tables separately
+[0:41:51.5]  Now that we have a chance to stare this combined data frame here, you can see a number off interesting things on the title column title and year
+[0:42:11.2]  Our combined so If you need to do things related to title along or the year alone, you may have to use some string manipulation tricks in order to do that
+[0:42:23.5]  I don't think I require anything like that, unless, perhaps in a bonus point in the glamorous column, you see that when a movie is considered to be comedies
+[0:42:27.1]  Last DRAM Eyes Last Western
+[0:42:37.3]  They put the three genres in this case and string separate by the pipe symbol, which means if you wanted to the something related, individual runners would have to manipulate this a little bit for all right now, the next bit off code teaches you a little bit about people, tables and group by two of the most in location luck three of the most useful things in pandas
+[]			 So this is a good exercise to understand what this code is doing regardless
+[0:43:05.6]  So we are taking this gigantic table building by 10 and we are asking to pivot based on raging, aggregating the information, using the mink value and producing the titles of the movies as in This is a rose and the gender values as columns
+[]			 So once again, if you tell me all these Syntex doesn't come to me a second nature yet
+[]			 That's perfectly fine
+[]			 It means you haven't practiced with this stuff long enough
+[]			 That's why
+[]			 But if you mean if you say I don't understand a thing off what's going on here, then we have a problem
+[0:43:59.9]  Okay, so basically, I'm asking, can you put all the titles? Their list them as industries is rose and next to them you give me information on the from the gender, Kahlan or classified by gender rather off which ratings those movies got
+[]			 And in order to aggregate those ratings, you use the mean off the ratings
+[0:44:26.5]  So by writing these line off cold, you are aggregating the ratings separated by gender, one title at the time, using the means
+[0:44:39.0]  All right, then you're grouping the ratings by title here before this group by used to have them, huh? Separately
+[0:44:55.5]  Then you are performing oh, named Axing, by which you select only movies with 250 ratings or more, which presumably means statistical significance in some way, selecting the rose on that index
+[0:45:19.3]  This is something silly, but I added, because this particular movie has entries with two is likely different names and finally you are sorting by the values assigned to those movies by female viewers in descending order and printing the top 10 values
+[0:45:31.2]  So this entire chunk of code here is meant to show the top 10 films among female viewers in decreasing order
+[0:45:38.2]  So the highest rated movie by female viewers in this one million reviews database is called a close shave, and it got an average of 4
+[0:45:45.6] 64 2nd is wrong trousers and so on
+[0:45:47.2]  Comparatively males gave, for the most part clothes enough ratings
+[]			 But of course we don't know if this even gets to the top 10 for the male side of things, but it's an easy thing to tweak it, and that's exactly what I ask you to do
+[0:46:09.7]  So I asked you to modify the cold to display the top 10 favorite movies among male viewers, selecting only movies to 50 or more
+[0:46:16.1]  So what do you think? Copy paste Great, and you sell, replace female with male
+[]			 That's pretty much it
+[0:46:20.8]  Yeah, it's to boost your morale
+[]			 Okay? It's to have a feeling that you're getting things done
+[]			 Okay, so you come here
+[]			 You would I think this entire thing off course, you don't need to do the entire thing because this has bean done for you
+[0:46:40.5]  Right? But if you want just to make the cold kind off self contained, you could presumably copy this place here, replaced with male
+[0:46:49.0]  Instead
+[0:46:50.2]  Run this cell, and now you can see that it's the Godfather
+[0:46:55.9]  Seven Samurai Shawshank Redemption
+[0:46:58.0]  The males in the class are starting to chuckle because they recognize all that's more of my taste
+[0:47:01.0]  Typical male thing to the okay
+[]			 And it's in descending order
+[0:47:07.3]  So it looks like this simple copy paste replace one character worked And again, if you're pregnant, IQ, I want to get this assignment out of the way
+[0:47:12.7]  Move on
+[]			 If you're saying I want to really understand what I did here, take your time
+[]			 I always give you those options, right? So yes
+[]			 Waited
+[]			 Waited by what? Good
+[]			 Good question
+[0:47:40.7]  What if I want to give more weight to ratings that were operated by a higher number of people? You would have to tweak the code for sure
+[]			 I wouldn't know exactly how to at this point we would have to think about it
+[0:47:53.3]  See if there is our You would probably define an auxiliary function called weighted average
+[]			 And instead of aggregating using a built in functions such as mean, you would pass the name off your function
+[0:48:04.8]  That's one of the beauties off the people table concept in panties
+[]			 So just to answer it a conceptual level
+[]			 Okay, I can't even point to where this is in the book
+[0:48:23.2]  When you do dear the people tables and you is may take a while, Fred, with, like this let me search for it
+[]			 A G You could You could use your own function
+[]			 I can seem to find you can't even pass different aggregation functions for different columns off your off your data set as the author doesn't this Titanic example here
+[]			 So, yeah, of course, there are options to do that
+[]			 Yes
+[]			 Okay
+[]			 The most elegant seems to be to find your own function
+[]			 Call it weighted mean or something in to it
+[0:49:08.6]  Okay, that could be a nice bonus item
+[0:49:09.3]  It didn't occur to me, but good idea
+[]			 All right
+[0:49:16.1]  What else is what else am I asking you for? Displayed a top 10 movies among young viewer 17 or younger, selecting only movies with 300 ratings or more so a little bit more work
+[]			 The filter now is 300 ratings
+[]			 It's not simply gender
+[]			 You have to people in a different way, but gradual from the previous one
+[]			 You should be fine
+[0:49:42.4]  Our bonus right python code to display the most divisive movies
+[0:49:46.3]  In other words, the movies that had the greatest rating difference between men and women
+[0:49:56.3]  So talk 10 movies so that we can see which ones were preferred by women
+[0:49:59.6]  And conversely, the top 10 movies, where the grating differences in the opposite direction so here's a little hint can create is a convention
+[0:50:15.0]  At least you can say mean ratings def as indifference be the difference between the mean ratings for males minus the mean ratings for females
+[0:50:22.9]  So if this is negative, of course, it means movies that were favored by female viewers and positive means movies that male viewers rated higher
+[]			 All right
+[0:50:50.0]  So in case you are a movie buff and you are curious to think which ones were the most controversial, um, you sure you give you a peek off movies that you've probably seen that part of the solution there? Um, year
+[0:51:01.7]  Biggest difference in favor of males females
+[0:51:04.7]  30 dancing
+[]			 Okay
+[0:51:12.6]  And then, uh, in the favor off men rating higher the good, the bad and the ugly
+[0:51:15.2]  And then dump in number, which speaks poorly off man in general, cable guy
+[0:51:23.9]  And so all right, so just to satisfy the curiosity of the movie buffs amongst you all right now, another bonus question
+[0:51:37.8]  Bright Python called displayed the top 10 movies that listed the most disagreement among viewers independent
+[0:51:39.5]  Off gender identification
+[0:51:45.7]  What is the spirit of the question here? The highest variance
+[]			 The highest standard deviation
+[0:51:48.5]  So ignore gender
+[0:51:56.8]  Now, which movies had the most dramatic spread in terms off the probabilistic distribution or statistical distribution of the ratings? So we're talking about controversial movies
+[]			 In case you're curious
+[0:52:06.4]  One of the movies that should show up is the Blair Witch Project
+[]			 Okay
+[]			 All right
+[]			 Which I now realize came out before many of you were born
+[]			 But still, some of you may have seen it
+[]			 All right
+[]			 Not a bonus question, right
+[]			 Python code to answer the question
+[0:52:28.1]  What is the most popular movie genre? Okay, hit two remarks
+[]			 Um, one
+[0:52:42.7]  You have to use the original movies data frame before they emerge or else, you will, um, distort the answer
+[]			 All right
+[]			 You want to know a lot of movies alone, regardless, off users, regardless of ratings
+[]			 And there's generous, which runners are more popular
+[0:53:01.4]  And also, you have to do some string manipulation on the run run column to take those wipes out, split those strings and, uh, deal with it
+[]			 Somehow there are more elegant ways of doing it
+[0:53:11.7]  But as I always advise you first try to do something that works
+[0:53:21.3]  In fact, you can even try to do something in a smaller data frame and create yourself just to check mentally that it worked
+[0:53:23.4]  Well, you know the account
+[0:53:24.9]  I have receipts, Rose
+[]			 If you generous, really pipe without the pie, if the cold works, there should work on the larger one, and then you can worry about making more elegant and what not? All right, Okay
+[0:53:40.8]  After dealing with movies, we will deal with it very well known Titanic data set, which is available in a number of different places
+[]			 We're gonna use the built in data set that comes with the sea born
+[0:54:01.8]  So that's why we can load it with a simple library call like that without having to download a Caesar, the file or anything like that
+[0:54:11.1]  If you go to this link on cargo for code book, you will get something that is a tiny bit inconsistent, but still okay when it comes to explain in the cold book or the data dictionary as they call it here
+[0:54:23.4]  Okay, it will help you with understanding the names of variables such a speed clause which is basically the ticket cost, or sib SP, which is basically a number of siblings or spouses off that individual, which are not very obvious when you look at there names alone
+[0:54:58.6]  Okay, so the Titanic data set contains information about people who survived or did not which class ticket they had there gender age, whether they traveled with siblings or spouse, is parents or children
+[0:55:11.5]  How much they paying for the affair in which town they, uh, you started your journey from which class ticket they had and do it
+[]			 That information will get you that information in a minute and a few other things
+[0:55:34.3]  As you can tell by the way it's done in sea born, it has a number off columns that are one could call redundant or already post processed right, for instance, this alone calm here is false
+[]			 If either siblings, spouses, parents or children, his one, it's only true and both are zero
+[0:55:55.6]  So this type of massaging off the data has been done for you prior to you being able to do anything about it
+[]			 All right
+[0:56:12.9]  Same thing with men and woman, as opposed to male and female, which is just another way of encoding the same information or adult male, meaning the intersection of mail and age greater than presumably 18 and so on
+[0:56:27.0]  All right, so questions 11 through 14 are the classical early exploration questions
+[]			 Now, by now you're starting to get used to this
+[]			 How many female passengers did not survive regardless of their class? How many first class female passengers did not survive? How many male passengers did not survive regardless of their class? And how many third class male passengers did not survive? And to give you a hint off people table that can start helping us? I understand the problem
+[]			 This is a way to people to data based on whether the individuals survived or not based on their gender and the ticket class that they got
+[0:57:23.5]  What is the meaning of margins equal? True, in this context, what would happen if I changed that false Anyone? The all column and all row woods then disappear
+[0:57:32.7]  Okay, so if you want to simply see how many first class ticket holders that were female survived, you have the answer here, 96
+[]			 But if you want to know, females in general are first class in general, you don't have that information here if you bring back the margins
+[0:57:48.8]  True, you have the marginal computation
+[0:57:51.3]  So females in general 74% of them survived first class passengers in general, 62% of them survived, all right or 62
+[0:58:07.9] 96 All right, so these people table helps you gives you hints about the ways you can organize supplies
+[0:58:08.8]  Combine your data
+[0:58:19.1]  Clearly, it's not the answer to the question, for starters, Um oh, interesting, I said, expressing the amount in percentage terms where, in fact, I meant in absolute terms
+[]			 But it's okay
+[0:58:25.8]  I'll leave it like that
+[0:58:29.0]  All right? My solutions do it in absolute terms, but it's no big deal
+[0:58:50.9]  All right? I also give you, uh, cap plot a category plot based on this similar type of breakdown where you look at the bars in the error bars on survival percentage based on gender and class
+[]			 So clearly, the question that I ask here about first class female passengers and third class male passengers is basically Can you give me exact numbers? Um, effect
+[0:59:15.8]  How will change that? This would be, in absolute terms, an actual head count
+[]			 Okay
+[]			 Can you tell me how many people survived or not? All right
+[0:59:31.7]  No, There's a interesting thing about where these people were in the boat or in the ship
+[0:59:36.0]  So which deck did they get? Accommodations
+[0:59:44.3]  And so there were seven possible vex coded A through G
+[0:59:49.9]  And this is a plot that shows that in serving backs there were only ticket people with ticket off a certain class
+[]			 And I think that's part of the plot of the movie
+[1:00:00.7]  Somehow, if I remember vaguely, Um, And here I'm basically asking you how many passengers in deck a survived Or before that, how many passengers were there for dex slash class? This is a way to get a visual estimate, but we want to call that produces actual numbers
+[]			 How many passengers on deck a survived and how many passengers in that he survived
+[1:00:27.9]  And what was the break now? Index keeper class
+[1:00:36.0]  We know that there were three classes represented that can you write cold that shows that it was, however many percent first cause and then second
+[1:00:45.5]  All right, So what I'm doing here with questions that have the plot, is reminded that if there's a human observer here, they will eyeball it
+[]			 They look at the plot and they will eyeball it
+[]			 I don't want you to eyeball it
+[]			 I want you to produce a number, all right? Or write code that will produce the number
+[1:01:04.1]  Uh, finally, as a bonus, How many women traveling a long did not survive? How many men 35 years old or younger, did not survive? And what was the average for fair birth class? Again, this is basically practice
+[1:01:16.9]  It's taking a relatively small data set a few 100 rose times 10 12 columns, several of which are redundant
+[1:01:33.2]  And can I ask how many, huh? Exactly
+[1:01:44.3]  Oh, not identical
+[1:01:50.2]  Hey, 891 entries, 15 comes, Okay
+[]			 All right
+[1:02:01.9]  Their last part, baby names those of you who took my introduction to Internet computing class may recognize this set up
+[1:02:08.9]  It's basically the Social Security administration of the U
+[]			 S
+[1:02:10.6]  That keeps track off how many babies were born and what were their names since 18 80
+[]			 In the context of death clause, we do something with this data here
+[1:02:23.7]  We'll do something else altogether
+[1:02:26.0]  So pay attention in the way you're gonna get the data, because this is different than anything from before
+[1:02:32.7]  It's not a Nazi
+[]			 Yes, we file
+[]			 It's not a building to a library thing
+[]			 It's not a serious off dot that files in the zip
+[]			 It's a serious off T X T files in a zip
+[1:02:43.9]  Where's the zip? Two places is their fathers called names that zip
+[1:02:52.4]  You can get it from this link, or you can get it from campus, which I presume is easier
+[1:02:58.4]  Once you get it from canvas, make sure that when you explode, expand extract whatever you call the Name's folder containing all those texts files with names such as Ear Off Birth, Y O
+[1:03:10.9]  B and the ear, not t X T
+[1:03:12.7]  Make sure that it exists in this folder under Data Folder and That means you don't have to play with this line of cold here
+[]			 Okay? Once again, you should know what you're doing
+[1:03:27.2]  You can place the different folders and just just this one line
+[]			 Of course
+[]			 So we're gonna read all these, um, files and produce a table containing almost two million rose and four columns
+[]			 Okay, so it's a roughly two million by four
+[1:03:59.6]  They the frame, which basically says that Mary female are 7000
+[1:04:00.6]  65 babies called Mary were born in the year 18 80
+[]			 And so All right, question
+[1:04:18.4]  This confirms that there are five names, male names, Melbourne babies called Z Z Y Z X
+[1:04:22.0]  Pronounce it any way you want
+[]			 Born in 2018
+[1:04:26.2]  It was a crazy year, right? I mean, come on
+[1:04:32.3]  We are all I mean, who who hasn't thought of given XYZ IX, uh, as a name, their first child
+[]			 Come on
+[]			 All right
+[1:04:39.5]  So I hope this will release its some interesting questions because it is real data
+[]			 And it's, uh, one that you can use for a number of interesting things
+[]			 Not sure what I did is interesting, but I think there's a bonus option for you to try some hypothesis
+[]			 Yes, there is
+[]			 So here you go
+[]			 First thing I'm asking into this too, right? Python code to compute the number of baby boys and baby girls born each year and display the two plots over time
+[]			 So we're going to get something like this
+[1:05:15.9]  It's basically a measure off birth rate in general regards off gender
+[]			 Well, both are represented and names in the U
+[]			 S
+[1:05:23.1]  Saw you when you see expressions such as baby boomers you can recognise in the in the plot
+[1:05:32.7]  Or you can see the effect act off recession and war and what? Not in the way these went up and down over the years
+[1:05:46.0]  All right, now we're gonna do analysis off naming trance
+[1:05:49.0]  So we're gonna try to analyze the top 1000 most popular baby names per year, and I give you a fair amount off cold here to get you started
+[]			 So let's see what we do
+[]			 Here we are
+[]			 Okay
+[1:06:27.4]  First, we are creating our own, um, function to add a property that is called prop as in proportion or percentage, which basically, um, thous relative to that year
+[1:06:35.5]  How many kids were called? Whatever name they were caught
+[1:06:51.0]  All right, so it's a measure off proportion relative to the number of births in a certain year, which basically means, no matter how for pop or dumb this curve we are
+[]			 We can measure the popularity off a name relative to how many babies were born on that year, not in absolute terms, all right, because it makes sense
+[1:07:04.8]  So the proportional prob or, uh whatever percentage is a measure of popularity off the name in a certain year
+[]			 Then we group the data by ear and sex, and I had the column to each group
+[]			 That's still line number four here
+[1:07:26.9]  We will then extract a subset of the data
+[1:07:30.9]  There's a sanity check here, informal one
+[1:07:34.5]  There's a better way of doing this, and this is a crucial part
+[1:07:36.5]  We're gonna defined a function that returns the top 1000 most popular and names in each year and produce, uh, table
+[1:07:56.3]  That has, of course, now a fraction off the number of rows 277,000 plus as opposed to a million 900,000 and 5,937,000
+[]			 So we by removing the names that were not popular enough to make the top 1000
+[1:08:20.9]  And one year we made the table roughly Oh, 1/4 of the size, right? Actually, 1/8 of this size
+[]			 Okay
+[]			 Uh, no, we will
+[1:08:53.8]  What's the percentage off babies that were named Joe? I forgot that we were spirited 1000 names into buying grow portions
+[1:09:00.3]  Where is the code for doing that here? Very straightforward
+[]			 Just indexing
+[1:09:02.7]  Based on the sex when we did the top 1000 he didn't care
+[1:09:07.0]  Maybe 600
+[1:09:09.0]  Our boys names 400 on girls
+[1:09:11.2]  We don't know when this varies from one year to next, and we'll build a people table off the total number of births by year and name
+[1:09:18.4]  There's a fundamental, um, operation here
+[1:09:38.4]  So and we use this to ask how many births per year were there off babies with certain names such as John Noah, Madison, Lorraine and we'll part the results
+[1:09:54.3]  And as you look at the results here, you'll see that the name John was particularly popular between the 19 teens in the 19 eighties
+[1:09:56.1]  Perhaps Noah is a more recent phenomenon still going strong
+[1:10:01.4]  Medicine has reached its peak in 2000 early two thousands, and it's on the way down, ever since Lorraine was popular in the twenties to sixties not so much anymore
+[]			 In fact, when you see data points missing here, what does that mean? It didn't even make it to that top 1000 in that year
+[1:10:26.7]  Don't say there's nothing because there's always Isaacs okay or whatever it's pronounced
+[]			 Okay, so if you see those gaps in the plot, it's not your code
+[]			 It basically means that it wasn't even in the top 1000 names for a certain year
+[1:10:49.8]  All right, so pretty cool, right? And you could spend the rest of the evening trying other names coming through this part here and say, OK, I think this name is ridiculous and popular These They say Liam is very popular these days, but maybe it wasn't all the way over time
+[1:11:30.0]  And you can see that the data shows that quite clearly all right, or that the names such as Abigail may have bean up and over time more popular in there early two thousands coming down a little bit is then and you can try all sorts of ideas right When you see Darwin or not, why not? Okay, it has oscillated over time see interesting distribution, darling
+[]			 OK, go ahead
+[1:11:40.6]  I'm gonna say, Oh, and bass events on time
+[]			 Maybe so important people
+[1:11:46.1]  00 yeah, of course
+[]			 Of course
+[]			 Yeah
+[]			 I mean, yeah, of course
+[]			 So this being the US, we would have to to be mindful
+[1:12:03.7]  I mean, how many kids call John work? Given that name, thanks to JFK, one could argue that maybe that explains some of the popularity in their late fifties early sixties, right? Or Michael Jordan, for that matter
+[]			 But the thing is, Michael has Bean perhaps very popular across time
+[1:12:17.2]  But you can see that indeed
+[]			 And there from the sixties onwards has bean quite popular, not so much into two thousands
+[1:12:28.7]  If this was in my home country, in Brazil, we would look for Romario and other famous soccer players
+[1:12:34.2]  And the the curve would be so characteristic
+[1:12:37.4]  There will be hell areas, maybe in India or Pakistan
+[1:12:38.7]  We look for cricket players or something like that
+[1:12:45.2]  So in the US, and not surely people so keen on naming after baseball or football players, maybe, maybe not
+[]			 You had a question coming? Yeah
+[]			 It means in those years it didn't even make the top 1000
+[]			 So there's no data to plot
+[]			 And I think I chose a on option for plot that doesn't interpret that
+[]			 Okay, smooth things a little bit
+[]			 Yes, like not the original
+[1:13:39.1]  Uh, I don't know if it makes sense, because you wouldn't find a correspondence in the top 1000 so you would have Hi, you could you could you could you could do it in two step made it
+[1:13:59.8]  But then you would sacrifice on entire name because off one year gap, I don't know if it's a good idea
+[]			 We can talk more about it in detail
+[]			 I mean, there may be elegant ways off massaging this a little bit further
+[1:14:15.1]  This is meant to be just a quick glance and to inspire you to do exactly what you're saying
+[1:14:24.7]  Maybe going back to the question I think names such as Lorraine had gaps in the plot, which suggests that since in the late nineties or something, it hasn't even made it to the top 1000
+[]			 That's what it means
+[1:14:34.2]  Where he had one that had plots in the middle of it
+[1:14:41.7]  What was it, Um, from my original list medicine, we think
+[]			 Yeah
+[]			 So that basically needs it for quite some time
+[]			 It didn't make it
+[1:15:00.6]  And what do you mean for now? But you can you can do something more Uh uh, systematic about it
+[1:15:13.8]  Or you could even if you want to really show off, you could for these points rather than plotting you, you would notice that they didn't make it go and find the actual counter percentage
+[1:15:21.9]  And here we're talking about absolute count and make a on an irritation on the plot, saying that it was only that you are that the rank would not be among the top 1000 or something like that
+[1:15:33.7]  You can get this fancy as you want Bono's
+[]			 It's time to test hypothesis just as we did an assignment
+[]			 One hypothesis is one which I gave to you and you have to write code to test it is there has been an increasing naming diversity
+[1:15:52.2]  Over time, people started getting more creative, including those combinations that he saw earlier
+[1:15:57.6]  Okay, how can we measure this creativity? Okay, so the hint is to find some metric that consists off the number of distinct names taken in order of popularity from highest to lowest and to do it in a cut off, saying the top 50% of the birds and plot that metric over time
+[]			 If you do for a different percentage, you'll get a different plot
+[]			 But what you should see is that if you went back in time to 18 80 took that got 50% most popular names, there would be less than a 50 female names and less than 20 male names
+[]			 So every other person you would meet would be called
+[]			 What would be very popular names back then? Probably John
+[]			 I think we saw it as significantly popular
+[]			 Then we can pull that from the data and see
+[]			 All right, if you ask the same question
+[]			 2018
+[1:17:01.1]  Good luck figuring out what the child is called because of diversity has grown significantly since the 19 eighties
+[]			 All right, Yes
+[]			 Yeah
+[]			 Now this one is different
+[]			 This one
+[]			 There's no way it will not be there because basically says they got 50%
+[]			 I mean, measure of popularity off a name based on the percentage per year
+[]			 So you slice it per year
+[]			 You do the relative count for which you already have code
+[]			 It's there
+[]			 Uh, how many births in that you're divide by the sum
+[]			 OK, so say Mary back in 18
+[]			 80 had 7
+[1:17:58.0] 8% of the girls were called Mary to point 86% were called and a 2
+[1:18:01.6] 2 were called Emma and so forth
+[1:18:17.2]  So if you look at if you rank those numbers and then you make a cut and use only 50% okay, and you use some measure off, uh, disparity, if you will, you will
+[]			 Um Oh, you don't need the measure of the spirit of the length of that is enough
+[]			 All right
+[]			 Okay
+[1:18:36.8]  In fact, it begs the question if shorting the popularity from highest to lowest is important well, it is because we want to the number of popular names in the top 50%
+[]			 Okay, you know
+[]			 Okay, So in 2018 there were more than 250 distinct baby grows names in the top 50% most popular
+[]			 All right, You know what I mean here? Because as the diversity goes up, you sort by popularity
+[]			 But of course, when you do, they cut
+[1:19:13.5]  The absolute number will grow proportionately did
+[1:19:16.7]  50% is just on arbitrary cut
+[]			 You could do that
+[1:19:18.3]  Four all or other cuts? You can't even do that as a bonus off a bonus, if you will again
+[1:19:35.6]  Correct
+[]			 The thing is, that wouldn't even be so many names back
+[1:19:41.7]  Yeah, questioning
+[]			 Make more look at how many needs
+[]			 That's basically what this measure this metric is trying to capture
+[1:20:01.6]  That's why I said that this bit about taking in order of popularity may be irrelevant
+[1:20:03.6]  After all, I think that's what you're hinting it
+[]			 We're trying to measure the length off
+[]			 You were trying to build an array of distinct names per year and measure the land basic right after the cut off
+[]			 The only thing the only um reason like this makes sense is because it can see among the top 50% most popular names
+[1:20:30.5]  Diversity was a such in other words, if you don't go this, it would be diversity in the general sense
+[1:21:01.8]  You would get a long tail off names that were given to babies, but we're not popular enough, and that's not as good a measure as how likely you are to go toe kindergarten today asked the kids names and realized that there are a much wider variety off names at a young men or young girl in the in the classroom may have
+[1:21:14.1]  Okay, so we're basically removing the long tail by doing the ranking and the cut off
+[]			 That's what you're doing, right? Okay
+[]			 No boys names that became grows name
+[1:21:29.9]  So this is an interesting, uh, realization
+[1:21:38.2]  Some names, such as Leslie, used to be boys names, and over time, they became girlsnames
+[]			 You have called to look at how this happened
+[1:21:55.2]  And this is a plot that tells the story up until 1940 something, give or take it waas Clearly a man's baby boy's name with the few occasional girls being called Leslie
+[1:22:00.9]  And then around 1945 or so, this flipped completely
+[]			 And if you find a baby today called Leslie, there's a distinct possibility that it's a baby girl, not a baby boy effect
+[]			 Okay, the data, even from 2000 onwards, we probably have been your boys zero
+[]			 All right
+[1:22:21.2]  I don't know the historical reason for that
+[1:22:25.5]  I can really think off actor Leslie Newsome as an example of a male Leslie born before 1940
+[]			 And if you know more about the history of the U
+[]			 S
+[]			 or something
+[]			 You may know more about what this means
+[]			 All right, Okay
+[1:22:50.6]  And again, you have code to give you some chances, including things such as how to get the unique names or how to do very simple
+[1:22:58.2]  I wouldn't even call it regular expression because it's not
+[1:23:00.4]  It's more like a pattern matching
+[1:23:02.5]  So you capture more than one spelling off the name Leslie
+[1:23:08.0]  The most popular one having 378,000 occurrence, is the second most popular, having 1/10 as many and a few others being represented as well
+[]			 It also gives us some hints about how to do certain plots to certain options and what not? And that brings us to the second hypothesis, which is after you
+[1:23:32.2]  I give an example saying that the name Rees has experienced kind of the opposite
+[1:23:37.9]  It's anonymous
+[]			 Oh, not the opposite
+[]			 Uh, the hypothesis is that it's the same phenomenon
+[]			 It's more popular among girls than boys since 2000
+[1:24:00.0]  So I'm being very audacious in my hypothesis here, choosing a name, picking a potential flip in the preference off, naming boys or girls after that name and trying to give an estimate off a year where this is so This is just an example
+[]			 You can come up with you on my brother
+[]			 This is
+[1:24:13.6]  Or if you want to really get some points out of this, you can test mine, get some points, and then test yours and get more points
+[]			 Okay
+[]			 By the way, I think this is true or false
+[1:24:28.4]  If you meet a baby called Res these days, it is more likely to be a boy or a girl
+[]			 Some people think of chocolate
+[]			 You see a please
+[]			 You think it's true? Um, here's if you try this
+[]			 This is what you get
+[]			 It's a very interesting plot
+[]			 It was a male name, simply a male name until late nineties
+[1:24:57.3]  And then it dropped precipitously and grease as a baby grows
+[1:25:02.0]  Name started ascending just as deeply
+[1:25:06.5]  These Witherspoon, maybe
+[]			 I know, boy
+[]			 Probably
+[1:25:23.3]  Okay, So for those of you who are into pop culture, sports and whatnot, this final part of the assignment will give you a chance to figure out many potential interesting correlations
+[]			 And you can call them my part
+[]			 This is
+[]			 And if you find one or two that you want to put here, it's your your call, all right, questions on the same number three in terms of scope and complexity
+[1:25:43.6]  So what do you think it is? It's not more off the same because it would be busywork
+[1:25:47.8]  But it's conceptually your second official opportunity to do what we call exploratory data analysis
+[1:25:56.5]  So, uh, why are we calling it exploratory data analysis is and not bake a science, Percy
+[]			 Anyone? Because the one could answer the question by starting with because the book off data Science consists off using data to draw conclusions
+[]			 We can draw conclusions here
+[1:26:36.4]  All right, so that would still make this data science e, which it is, but to statistically draw conclusions again, tricky way toward it because we're using summary statistics here and there
+[1:26:47.5]  So it's a rough aggregation here in there, but not statistical modeling
+[]			 Percy
+[1:26:58.7]  So use data to almost making site for observation inside for subjective
+[1:27:02.6]  And you can say that this reasoning that I pulled out of my hat is phenomenally insightful, or so I think
+[1:27:07.1]  And yet it's not very advanced
+[1:27:13.4]  We can observe distributions already
+[1:27:15.0]  We are drawing history grams left and right
+[]			 It's not quite it
+[1:27:19.8]  The Book of data science is used data too
+[1:27:23.6]  Making first someone
+[]			 That's good
+[1:27:26.3]  Inferences is good
+[]			 Another word that could go after make decisions
+[]			 That's very good
+[]			 Okay, we're Ah ha
+[]			 Thank you very much, sir
+[1:27:39.3]  See, we are on the same wavelength here
+[1:27:40.2]  Except for the res chocolate
+[]			 I didn't get that way
+[1:27:43.4]  Should rehearse for next week
+[]			 Okay, so All right
+[]			 Yeah
+[]			 To make predictions, that's a big thing
+[]			 Okay, We're not even close to making predictions
+[1:27:53.1]  We are not making inferences as much
+[]			 What was the word that was used decisions? We're not making decisions as much, right? We're not deciding
+[1:28:21.9]  In fact, we can tweak, uh, almost every bit off the two assignments so far into that there's a part of me that is still deciding if for assignments 345 however many we want to go back to some data sets just to give that warm, fuzzy feeling that we have played with the data before and ask different questions
+[]			 So what is a question in the movie lands? Um, they said it would be more data
+[1:28:36.7]  Science e help a person Baker decision in terms off which movie they want to watch tonight or they want to recommend to a friend
+[]			 Right? So that would be in the category off
+[]			 Recommend her systems how to recommend her systems work in general
+[]			 What is the simplest? Recommend her system
+[]			 You could get out of these exercise already
+[1:29:02.6]  Go to those top lists and say, Have you seen the Godfather yet? No
+[]			 You should see it
+[]			 Look at this
+[]			 So many 1000 people cannot be wrong
+[1:29:09.7]  It must be a goddamn movie
+[]			 Good movie
+[]			 Okay
+[]			 It's a very naive, rough recommended system
+[1:29:23.0]  But it is a recommended system, right? Where What is missing? Many things with what is missing
+[1:29:29.7]  Demographic information
+[]			 That's why
+[1:29:39.7]  And you see that we are trying to hint at those things by asking you to do the manipulation that would be kind of the first few steps towards that
+[]			 One could say, Come on
+[1:29:46.9]  Are you telling me that to recommend a movie without checking if the person is male or female, their age, perhaps their occupation, perhaps their past preferences tastes that wouldn't make for a good recommendation system so it can go to this assignment again and say only a second? I forgot your young lady
+[]			 No
+[1:30:06.7]  Don't know about father for you for you
+[]			 I recommend whatever right based on the ones that were more popular among females are more, a little bit more likely to be correct, and it's still very rough
+[]			 Recommend er system one that you can claim your road already and take the code for this assignment and pick the top one or it all three or five
+[1:30:27.2]  And you have a recommend her sister, all right, but it's a far cry from being something that would compete in the Netflix charged
+[1:30:34.1]  You remember that fixed meeting dollar challenge from a few years ago? I'll go back to that in a few weeks
+[1:30:42.1]  It was a challenge by it affects the company for data scientists
+[1:30:42.8]  Machine learning experts are there
+[]			 You can read about it
+[]			 Just Google Netflix Challenge and you go to the official website
+[1:30:49.8]  You can say the names of the companies that, um well, it's called Netflix Prize
+[]			 Yeah, but if you go good, come second, Okay, Just completed
+[1:31:06.7]  It was completed 10 years ago, but it's still the topic off data science courses in books everywhere
+[1:31:09.1]  There was a winner who got him a lower price
+[]			 There were other prices along the way And you know what happened to the hours? And it was never used by Netflix
+[]			 Yeah, Interesting
+[]			 In fact, uh, the algorithm that want the competition is a fascinating story
+[1:31:36.2]  I may or may not be able to have a chance to tell you entirely later in this master, but it's fascinating, because if you look at the leaderboard, uh, these teams Bell course pragmatic chaos, the ensemble grand price team
+[]			 These were not the teams that started competition
+[1:31:47.2]  Competition started with many more teams that eventually realized it would be better off joining forces and split the part
+[1:31:56.7]  And that's part of the dynamic of the Netflix Prize
+[]			 But I digress
+[]			 What I wanted to say was, number one, uh, this is serious business
+[1:32:08.9]  So much so that affects put a million dollars into it back 10,000 years ago
+[]			 Nothing house 10 years ago or so, secondly, and this is something that people use in in different ways
+[1:32:19.2]  But I'll just state the facts
+[1:32:20.6]  Fat number one
+[1:32:23.6]  The winning solution was not implemented, not deployed to production fact number two
+[]			 I only have it from one source, but I trust that source
+[1:32:45.7]  It's a not really famous book offer the second or third best solution WAAS put into production because even though it waas uh, a little bit less great in terms off whatever figure of marriage figures on merit are here, uh, it's called test score
+[]			 So whatever that is so it's almost a tie
+[1:32:56.0]  If you look at four significant digits here, this is it looks like a tie
+[]			 Okay? And by the way, that's another thing this guy won by Make it 10 minutes before the second team
+[1:33:14.3]  So reminding us off the story off the telephone patent
+[1:33:15.3]  Alexander Graham Bell and the other guy
+[1:33:20.1]  Does anyone remember the name off the gentleman who missed patenting the telephone for a matter off? Think hours or days back in the day, I had the same exactly invention so we wouldn't have Bell Labs
+[1:33:33.5]  If the other events or had patented are very, it would have been called something else
+[1:33:36.4]  Anyway
+[]			 I digress
+[1:33:38.4]  OK, eso in third thing
+[1:33:40.1]  Here's the show Number one
+[]			 It's serious business
+[1:33:47.9]  People invested a number off hours and CPU and GPU cycles, too, to get the best results
+[]			 Not the best result got adopted, but apparently the second best
+[1:33:57.4]  And there was a clear benchmark
+[1:34:03.7]  The price would only be given if the winning team got a 10% or higher improvement over the ongoing algorithm
+[]			 So Netflix already had their in house solution
+[1:34:09.9]  They wanted to improve it by a factor of 10% of Yes, sir
+[1:34:15.8]  Say that again
+[1:34:17.9]  Marley didn't overfeed to know
+[1:34:20.5]  Apparently this 1st 1 is too complex, too computational
+[1:34:24.3]  Demanding for what? It gifts
+[1:34:30.0]  Where is the 2nd 1 which is technically same gains
+[1:34:30.9]  Computational, simple apparently got put into production
+[]			 All right, so I can at some point tell you more about, um, this
+[1:34:47.1]  But it's just in the spirit of showing that even the things that we do at an early stage here may evolve into something differently
+[1:34:49.5]  More complex, one could build a recommend her system out of these movie lands, one million data set or its siblings the 20 million equivalent
+[]			 And so on
+[]			 Uh, the Titanic
+[1:35:02.0]  Is that a bit too sad to talk about? So I don't want to You say much about it
+[1:35:19.9]  Um, but for the baby names, you can use the statistics to say, What is it? Probably that your child born saying 2000 12 or save Tall, 2016
+[]			 Still not in kindergarten year will have kindergarten classmates called Liam or Mary or Lorraine
+[1:35:34.3]  Okay, so it's basically picking into the future
+[1:35:35.8]  Bye bling
+[1:35:41.8]  What, Roughly speaking, Looking at plots like this and extrapolating
+[1:35:45.2]  In fact, in this case, it's almost cheating because that person will have been born already
+[1:35:50.0]  It would be a simple look up, but if we shift the years a little bit, say your child who is to be born next year
+[1:35:57.3]  What is the likelihood off their kindergarten class having 10% or more people called Liam? OK, then you go to your Noah because we have it
+[]			 Here you go
+[1:36:10.1]  Well, if Noah keeps becoming us popular as it is not dropping dramatically next year, you can do some computations and arrive at a certain probability
+[]			 All right, so we would be making predictions there
+[]			 It would be making recommendations
+[]			 We would be making decisions and these things were not making yet
+[1:36:33.5]  But we are massaging the data that allows us to have enough confidence in our programming skills and enough insight into what the data is or is not telling us to eventually get into those things
+[]			 Okay, All right
+[]			 Good
+[]			 I think this is a good point for our break
+[]			 Once we come back, I will try to wrap things up by looking at specific pieces in bits off some pie pandas and map lot lib from examples
+[]			 Let's take a break
+[]			 Yes, sir
+[1:37:33.5]  Was appreciated
+[1:37:35.6]  Way interesting that you brought it up
+[1:37:54.8]  I will fix that
+[]			 A lot of people
+[]			 Yes
+[]			 Thank you
+[1:37:58.5]  Thank you for bringing that up
+[]			 Do me a favor
+[1:38:01.0]  Be proactive in MASH unit in the discussion Broad
+[1:38:08.2]  So underscore Table should be replaced with discourses
+[]			 Okay
+[]			 Thank you
+[]			 It works the same thing so far
+[]			 It's all right
+[]			 Thank you
+[1:38:14.2]  Appreciate it
+[]			 Okay
+[]			 When I somebody time work alone
+[]			 The pdf, the Jupiter? Yes
+[1:38:21.5]  File
+[1:38:34.8]  How does have to save in a certain way? Wait, Loaded home, straight convention like, Well, good
+[]			 Yeah, a plus
+[]			 What? Okay, we're okay, like I see
+[]			 Okay, So you're not all right? Uh huh
+[]			 Yeah
+[]			 Good
+[]			 Oh, all right
+[1:43:48.9]  So during the break, I was told that the table was actually being duplicated in Python 3
+[1:43:57.6] 7 and read C s View Works, and I had overlooked it, so oh, changed letting the starter code
+[1:44:06.1]  And I asked the student, Kindly post a note on the discussion board for the benefit off everybody, and I'll update the starter
+[1:44:11.4]  Golden Cam was sharply after the end of the class tonight
+[]			 See that again? That I have a place where I call it Houston
+[1:44:20.2]  Grandma should be bar charge
+[]			 Okay, general accounts
+[]			 No, you don't have to be sorry
+[]			 Okay
+[]			 Is that what you meant? Probably
+[]			 Right
+[]			 Let's see
+[1:44:35.8]  There's another currents off Instagram
+[]			 There's one left
+[]			 That's serious
+[]			 Well, well, well
+[1:44:56.8]  Did the left over or not? Says you're okay
+[]			 So we're good
+[]			 All right
+[]			 Should change call or something
+[1:45:04.5]  Okay, Good for the remainder off the day's lecture
+[1:45:09.9]  I want to go back to this lie deck just to remind you off a few things and maybe pull a few examples
+[]			 Oh, I wanted to recommend something
+[]			 Um, I haven't
+[1:45:23.1]  Bean given much emphasis to the things that are in the so called guided tour
+[]			 And by just making a note like this entire part of the guided tour
+[1:45:35.9]  I'm not being very convincing here in terms of telling you guys should go there and see what they have there
+[1:45:58.9]  One of the things I was going back to the courses and online resource is that I suggest you take a look at in the guided work and I invested some time looking at a course Quote Intermediate Python for data science from the folks at data camp
+[]			 Let me It looks like this
+[1:46:23.2]  And, um, as with the most courses on data camp, they give the first module, which happens to be Matt Blood live in this case for free
+[]			 But the others are not
+[1:46:25.7]  However, that's important
+[1:46:32.9]  I found a PRA vision by reading the fine print on pricing and what? Not by which I can create a classroom with my fate
+[1:46:37.3]  You credentials
+[1:46:46.8]  And once they approve that, I can't invite you threw that classroom so you get to take those courses in their entirety without any investment s
+[1:46:53.9]  So as soon as I received that email or something, I will try to configure this, maybe ask a couple of you to test it out just to see if it's working
+[1:46:59.3]  And the extended to the entire class for those of you who are still new to bison is a very nice course
+[1:47:18.4]  Um, and if you go around, you will get the entire countenance off the cold examples that you can try, uh, yourselves, Poole said
+[]			 Bye
+[1:47:28.9]  Third party individuals who took the course and decided to write a block post about it with all the cold in too refined with text
+[1:47:45.0]  Um, for those of you who are more experienced, you may think this is too simplistic or you may find the pace to be a little bit too slow
+[]			 But for the ones that are probably new to python, don't be intimidated at all by the word intermediate
+[1:47:57.6]  It's just a more elegant way of saying just the python you need for these types of things
+[1:47:59.7]  It's not basic python inessential
+[1:48:01.6]  What is an if statement infact it gets to that part in some point anyway, Good stuff he met what lip that you can try right away
+[1:48:11.5]  Regardless off my configuring off this classroom is rapidly cool
+[1:48:18.3]  And one thing I like about your met partly module is that they they motivated by that I assure you it is lives for that model
+[1:48:33.8]  If I can find it here, you got this lies in pdf
+[1:48:35.3]  It's really nicely done
+[1:48:44.1]  Okay? And again, I know that every time I suggest additional resource is I have to lift carefully
+[1:48:47.4]  First of all, I don't want to invest extra money
+[1:48:48.8]  You already paying tuition for this cause I know that
+[1:48:51.4]  Secondly, I'm not trying to say I'm not teaching this stuff
+[]			 Go ahead and read it yourself
+[]			 I am teaching it
+[1:49:02.3]  But as I have mentioned multiple times, there are multiple styles off learning multiple ways of doing things
+[1:49:17.6]  So one thing that I like about this particular map blood lead model is that they go back through some of the most famous plots by Hans Rosling, whom I mentioned
+[1:49:30.3]  I think, for the classes in this case, the famous, um, map off wealth and health off nations that correlates life expectancy on the why Exes with the Judy Peeper Kopita on the X X is you're not awards for however many countries
+[]			 I don't remember how many in this particular plot in shows
+[1:50:03.7]  Not only what is your life expectancy if you were born in India or China or Japan say, but also how life expectancy and Jeannie Peeper Carpenter are correlated
+[1:50:06.9]  And not surprisingly, there is a direct correlation between the two
+[1:50:29.3]  What is fascinating about the style off bloods that Hans Rosling made popular, among other things, is that he and his team became famous for aggregating more information with the same plot without making it impossible to read
+[1:50:33.5]  Sometimes Difficult can acknowledge that, and eventually by doing animations that became very famous in his Ted talks and whatnot, making those spots come to life well, what is the one of the key things here is to make the dots for each country be proportional to their population
+[1:51:07.6]  So in addition to being able to tell that in 2010 if you were born in, say, South Africa, your life expectancy will be between 50 and 55 years of age
+[1:51:17.9]  In a country where the GDP per person stand $1000 you would see that this is comparable GDP per capita to Brazil, even though in Brazil your life expectancy is more than 20 years better
+[1:51:36.6]  And in spite, perhaps we could say off a larger population, as expressed in the radius or the amateur area of the circle compared to the circle for South Africa
+[1:51:42.6]  Moreover, by Golding continents and collars, you can tell right away if we're talking about African countries as we are here for the most part, or if we're talking about European countries as we are doing here and here and so on
+[1:52:02.0]  So they use this as a motivation to teach you how to do a similar plot using Met blocked Liv and Seaborn
+[1:52:10.7]  Uh, and they get minder neighbors it
+[]			 Okay, so I don't know if it shows up in this lives or not
+[]			 Yeah, it's after you do the actual practice, but I can show you the dropped your notebook or that, and I can guide you through the process if you want
+[]			 It's basically reading a get minder dot C S V file that is very easy available and plotting
+[1:53:02.0]  Uh, variation off his scatter plot in which, in addition to a plotting the GDP for a cop Ito X axis vs the life expectancy
+[1:53:23.6]  Why exes? You use a property off scale which is based on the population, so you have larger circles for bigger countries
+[1:53:31.0]  This one also teaches you how to do a logarithmic scale for the X axis because it makes more sense for Ligety people capita
+[]			 Of course, it will make any sense at all for life expectancy here
+[1:53:41.5]  Lee, how to customize it ticks Where you want them to be is our so called major takes
+[1:53:52.6]  The major minor takes for access all those little details from that bluntly and here, more importantly, if you have an array of colors, which scum person here
+[]			 But it basically maps a country through the continent from which it comes
+[1:54:11.6]  You can do the color coding by using another parameter off this scatter function, which gives a color index and color map, if you will
+[1:54:25.7]  Coming in this case from your own choice of colors, not from a default color map such as age is your rainbow or heat or whatever they call it in
+[1:54:31.8]  Matt Barkley of Different Visualization Platforms called them differently
+[1:54:40.1]  So with a little bit off effort, bless you with a little bit of effort, you can do the color coding by continent
+[1:54:54.5]  You can even label to off the countries India and China in this case, and you have from raw data, uh, very similarly looking plot compared to the one that you started off with, which is the official get minor blood
+[1:55:08.4]  One of the difference, of course, is that this is data for 2007 the other one is for 2010
+[1:55:15.1]  So I was reviewing this course recently, and I enjoyed the style very much, and I think it will appeal to many of you
+[]			 So you have a chance
+[]			 Take a look at that
+[1:55:39.2]  Um, and, um, when I get the official information, I will send it over to you
+[1:55:52.9]  Okay, So now one of the things that, uh, makes it a little bit tricky in the beginning to learn this combination of Mumbai
+[1:56:18.1]  And as I thought under the hood, Matt Lipsey born and eventually psych it learn little bit of Sai pie, perhaps, is that even though we use a very good textbook and he could have used another book and the argument would still be valid there are things that par not very clear in terms of their importance or scope or complexity
+[1:56:36.0]  When you first look at them, he thinks actual needs in our case, the needs made clear by the assignment questions to say, Oh, I need to figure out how to God's ears and figure out how to do that
+[1:56:44.8]  And that will bring you back to some portions off the book more frequently than others
+[]			 um, so one thing that you absolutely need to learn how to do yes, and you get it
+[1:56:56.1]  Aggregation grouping group by and your table's
+[1:57:03.9]  There's no escaping that
+[1:57:17.3]  Okay, and one way to have practiced into that is to the assignment, a portion of that refer to it
+[1:57:25.1]  Another one is to go to that particular part off the book, saying the version of the book that is on Google Collab aggregation and grouping, say and try out the example
+[1:57:49.7]  See understand that evening and sore, um, less of the planet's example together here, Built in data set from Seaborn 1035 roll six columns containing Method Number Orbital period mass distance in here
+[1:58:09.6]  It's basically a information about discovery of planets by astronomers around the world and the year English
+[1:58:23.8]  We were discovered information about the plan itself and the method, which turns out to be important in some examples off aggregation that drink from the replies will give us 100 plus knows a lot about astronomy
+[1:58:28.6]  So his bias towards that I still think it's a good topic
+[1:58:36.9]  I was reading another book these days called pragmatic Aye, aye, and the author is obsessed with Brazilian jiu jitsu
+[]			 And then all of examples are with Brazilian jiu jitsu, which I think appeal to a smaller percentage of the population than astronomy
+[]			 But that's just me
+[]			 Okay, so all right
+[1:59:02.1]  So Jake 100 plus, uh, starts in the simplest possible way with a serious off five random numbers aggregating them by using summaries that this thing such a sum or mean
+[]			 No problem there
+[1:59:12.4]  Basically, it's technically a panda, Siri's
+[1:59:18.6]  But you could almost think of it is an empire A In terms off its very essence
+[]			 It's only a miracle
+[]			 Nothing to it
+[1:59:22.3]  Things start to get a little before
+[]			 Interesting
+[1:59:33.9]  When you have a date, a frame, cause here we can say we want the mean for cone, which is implicit in this index off D f dot mean if DF has been built with two columns A and B
+[1:59:48.4]  So basically you're asking for the average value off column A and probably with a very, very Kansai eyes syntax
+[1:59:56.1]  If we want to do it aggregating by row, we can do that specifying X is equal columns as the dimension that you want to collapse
+[2:00:07.1]  All right? No, he cleans up the planet state a settled with two drops, um, an ace and then uses the plan
+[2:00:21.5]  Is data set later for some of the examples? One thing that I like about his style is that he alternates between realistic data sets
+[]			 We'll see
+[2:00:26.6]  The Seattle Bicycle Dipper sits in a few minutes and simplistic data frames that you can create with one or two lines
+[]			 Of course, such as this one
+[2:00:39.4]  All right, where you have to call XKE and data and you have six
+[2:00:43.0]  The Miracle Venice because you're in five in the data column, which are indexed by off a miracle Keys, A, B and C
+[2:01:04.2]  Okay, if you ask the group by key, you get on object off type data frame group by, and you can apply methods through that objects such as some, which basically means I may have to make this a little bit smaller so we can double check the numbers that when you group by adding things up, the data portion here will be, of course, for everything that has a as a key
+[2:01:22.6]  Zero plus three equals 31 plus four equals five and so on
+[]			 That's what I meant earlier when I said that this is not a bad idea as you work on your assignments
+[2:01:34.7]  If you want to know if your saint experts nothing is correct, do something that you can easily visualize six by through a P by 45 by five whatever and that you can double check yourself
+[2:01:48.1]  You can compute the calculations yourself, and so and that works
+[2:01:55.7]  Then you can get the confidence to go to the planet status, etc
+[2:02:08.4]  And do something such as the median off the orbital, huh, period for all those planet discovers indexed by method
+[]			 So basically, we don't know how many planets look at This is something that I hope will be an interesting insight When your group by method you're basically saying okay, I want method to be the index
+[]			 So just by looking at this column here you can as a human, you can answer the question
+[]			 How many different methods air there
+[]			 All right, you can count
+[2:02:35.7]  Okay, there are 12345 6789 10 different methods
+[]			 Of course, you could write code for that, but that's not the point here
+[]			 The point is, once your group, my method, you look at the other columns and you say OK, per method
+[2:02:53.8]  I want to know what is the er Ming are standard aviation or whatever statistical property off the orbital period column
+[]			 I already have that across the board just by doing a describe
+[]			 But what I want is per method
+[]			 So Okay, I don't understand the first thing about astronomy, but presumably this can lead to our insight into certain methods
+[2:03:22.3]  We're used successfully too
+[2:03:30.4]  Learn about new planets that have very small less than one orbital periods, as opposed to other methods that have been used for the discovery of planets whose orbital period is ridiculously large
+[2:03:39.5]  97 1005 100
+[]			 All right, in days
+[]			 That's the unit right here
+[]			 Okay, so All right
+[2:03:58.3]  Uh, if we translate this to, um, customer segmentation market analysis, target advertisement, these things presumably would be better understood because they wouldn't require any knowledge off solemnly
+[]			 See, But you get the idea
+[]			 So be mindful of these things
+[2:04:15.2]  So when you do a group by or people table and uses memorization statistics, you're basically trying to answer a question that you should be able to oppose in plain English
+[]			 And that's kind of the game
+[]			 We play the science
+[]			 We ask question in plain English, and we hope you'll come up with answer in Python
+[]			 Okay, so now what is this grouping by, uh, helping us out with what happened inside
+[2:04:58.9]  Do you have from this type of grouping your grouping by methods and you are asking for the methods name and the group shape, which is an indirect way of saying Can you tell me how many planets were discovered using method? Right
+[2:05:14.7]  So the Peredo Radio velocity method is the most popular one, followed by transit and their methods that were used just a handful of times for his date
+[]			 You can do more with group by and see if we can Oh, make it smaller
+[2:05:38.2]  Doesn't have a bookie
+[2:05:56.3]  What are we doing here? We are basically asking to do what? Grouping by method
+[]			 All right, Okay
+[]			 And then we are taking the ear property and running a describe on it which, as we know, gives those summary statistics
+[]			 So after doing the after producing the count, the answer to how many planets were discovered with each method, we're basically doing a described on the year
+[]			 So we're having the average year off discovery off planets discovered with Method X and so on
+[2:06:34.3]  All right, so that gives you another ring sight on insight, perhaps suggesting that post our timing
+[2:06:40.1]  Waas used mostly before 2000 and presumably WAAS replaced with methods that are more popular since then, such as radio velocity or just about any other
+[2:07:06.6]  All right, that's looking back at a small data frame for some other aggregations and filters and so on
+[]			 So once again, when you look at a small data frame, it's much easier to make sense off something that is kind of cryptic
+[]			 This is a nice example, I think
+[2:07:24.2]  Do you have grouped by key, not Aggregate Men? Comma NP Medium comma Max
+[]			 What are we basically saying? We are basically asking for the minimum, the medium and the maximum values per group
+[2:07:40.0]  Burke called him
+[2:07:43.5]  So what? He produces a summary table in which there will be a CZ many rose as the number off different keys
+[]			 That's what he grouped by
+[2:08:07.5]  And then we're aggregating data but producing not simply the means or the mean imam or the maximum, but instead of three different huh? Summary statistics, and this is kind of a showoff to show that Python understands minimal in quotes, maximum without or vice versa
+[]			 It understand the empire a version off those methods because it's an empire
+[]			 100 the hood
+[]			 So is to show you that you could play with these things
+[2:08:22.0]  If you want to try MP that max or remove the quotes from men, it should work just fine
+[]			 All right
+[2:08:31.3]  Just show you that in this particular case, there's a flexibility in terms of the syntax
+[2:08:38.4]  What about the aggregate? So basically, you're saying grew by key
+[2:08:41.0]  Okay, so you know how this thing shapes up
+[]			 But when it comes to aggregating the data from the column data one, I want to aggregate by the minimum
+[]			 So I go to all I have that here already
+[]			 I pulled that zero from data to I want to pull the maximum
+[2:08:57.2]  I pulled that fight
+[2:08:59.8]  So one and 7 to 9 saying Okay, this this is also a little bit tricky when you first look at it
+[]			 And for those of you who started think wait a second
+[2:09:18.3]  This group by syntax is getting a little bit complicated as I go further
+[]			 Well, that's one motivation for using people table
+[]			 You can make it make similar things happen with, uh, more straightforward Syntex
+[]			 So look at what's happening here
+[2:09:33.3]  Get anyone
+[2:09:34.4]  Try and explain to me what's going on
+[2:09:37.9]  In fact, there are three displays here
+[]			 The original data frame
+[2:09:44.1]  What happens after the group by he dot std and what happens after the group by key dot filter with a customized filter function
+[]			 So one step at a time you date a frame
+[]			 Okay, the data
+[]			 Now, if I say group by keys standard deviation, it goes to A B and C
+[]			 It takes very such a zero and three finds a standard deviation to 0
+[]			12 and so on
+[]			 Fine
+[]			 There's a two similar thing
+[]			 Nothing to it
+[2:10:14.7]  What about here? It's basically saying Group bikey, but wait a second
+[2:10:17.2]  I was expecting that group by key, would give me a B and C is before has given me a B C B C
+[2:10:26.8]  That's strange what's happening because it's applying that filter function that says that I want you to return the values from the for the entries in which there data too
+[2:10:44.9]  Standard deviation is greater than four, so if you look at the standard deviation for all columns
+[]			 It's only greater than four for data to four groups
+[]			 B and C
+[2:11:01.3]  So basically, what this is doing, one could say it's exploding the all the rose in the original data frame that gave rise to the summary statistic
+[2:11:17.6]  12 rows for B 12 rows for C and producing their original values 10 for 7 to 35 miles
+[]			 If you ask me, that's not exactly obvious
+[2:11:23.9]  When you first look at it, I would agree 100%
+[]			 It's not okay
+[]			 The syntax is such a sorry thing that it doesn't quite
+[]			 Uh uh
+[2:11:37.9]  I love you, too
+[2:11:43.6]  Guess without running too cold and taking your sweet time with it
+[]			 In fact, what I find particularly problematic
+[2:12:12.7]  But maybe we'll say just your professor Being naive is that as soon as we started getting used to group by key, meaning everything gets collapsed and all the things that belong to the same key appear in one row by virtue of this specific customized, um, filter function, we are challenging it because we're asking for the actual data to be returned
+[2:12:23.0]  Okay, you're asking for the data points that corresponds to the standard deviation in column data to be rated for
+[2:12:42.0]  All right, okay, one could almost say, I'm going back from some summaries, that these things that helped me to the actual data that corresponded to the case that I'm interested almost like
+[2:12:46.8]  Let me look at this more closely, which, of course, I could aggregate in a different way in the next step
+[]			 All right, this is an interesting example
+[]			 Also, to remind you off what Lambda function is in python
+[2:12:59.3]  What is a language function? It's a Why would one writer Lambda type of function, instead of a regular function like we did a minute ago with the death and Return and everything when what you want to compute is simple, straightforward? You can do it on the spot, right? It's kind of funny in line function
+[2:13:30.3]  So basically, there's a function here that says, Take whatever value X, subtract the mean from it and return the result
+[2:13:42.1]  So what you're doing here is you're asking to group by key, transforming it by subtracting from the Ming off that column
+[2:13:49.0]  So, not surprisingly, if you resulting values, they should add up to um zero you're basically making it a zero mean distribution, right? And of course, they will be based on the original values for the other one
+[]			 And either, too
+[]			 Is there any sense? Okay
+[]			 Okay
+[]			 This is another interesting one
+[2:14:19.6]  Where do you take this data frame? On the left
+[]			 And we say group I keep so far so good, but apply more by data too
+[2:14:36.0]  So basically, you are running a customized function that changes the contents off data
+[]			 One column based on the statistics of data to column
+[2:14:43.7]  So it's normalizing the values in data one based on the statistics of data to if you want to do a hand check on this one
+[2:14:52.9]  Pen and paper check
+[2:14:55.0]  It's a little bit more involved
+[]			 Okay, So I have to group by key, for instance
+[2:15:11.3]  Um say, um a You have to add up the contents off he a column Data to five plus 38 Then you go to this guy here and you say, OK, you are whatever you were before
+[]			 Zero divided by eight
+[]			 Of course, it's zero in this case here
+[2:15:22.3]  Three divided by eight
+[]			 That gives you the 80
+[]			375 Then when you go do the same thing for B
+[]			 You have to be mindful of the key
+[2:15:36.4]  So this some off the values in data to that have a key off being zero plus 77 So one divided myself at this 10
+[]			1 for two and so on
+[2:15:45.4]  All right, which is not exactly easy to debug
+[2:15:52.0]  If you have 1,000,000 by Millen Data frame even a billion by two
+[2:15:54.0]  Okay, Barrel to do it in a small get a frame, see if it worked and then you apply to your larger date of rain
+[]			 Okay, Um, this is another interesting one
+[]			 Where you group
+[]			 Bye
+[2:16:15.0]  Using an array that gives you the grouping keys
+[]			 So basically, see if you can understand this one, it's kind of tricky
+[2:16:30.6]  You're basically saying there will be a new group 01 into and the way the groups will be built, who will be by aggregating information from the original data set in those roll numbers
+[2:16:45.9]  So l 0101 to 0 means that the new key are the new roll index
+[]			 Zero will be made off
+[2:17:05.8]  Whatever was there in the original first row zero and five third rule two and three last row Ivan Line
+[]			 And that's how you get to seven and 17 regardless off what index names they had
+[]			 Because that's the grouping rule
+[]			 That's the new set of keys that you want
+[2:17:25.0]  Okay, Not saying this is the most elegant are readable way of doing certain things
+[]			 But at this point in the game, it's important that you play with these options, understand what they can bring to the table
+[2:17:41.5]  Okay, this is a nice example because you use a dictionary to decide how you want a group that makes more semantic sense, if you will
+[]			 You may say, you know what A
+[2:17:49.9]  B C R either vowels are constants, so I can have a dictionary saying A's of all
+[2:17:54.4]  He's a constant and so on
+[2:17:57.2]  Of course, it could comprise the entire alphabet, and I want to basically regroup or remap
+[]			 I want to say combined in this case, it's natural to use somebody could be anything
+[2:18:12.4]  So what is this? Some off the consulate's our balls based on where they belong as dictated by a dictionary, all right, and what will happen as you go through these examples, I believe, is a combination of two things one good one
+[]			 Not so good
+[2:18:39.5]  The good one is the whole business off a raise and data frames in Siri's and dictionaries becomes less, um, off a mystery because they keep coming up again in different formats
+[2:18:49.5]  And no one at this time, I believe, is intimidated by the syntax off a dictionary fightin or this in tax off a list in python or this index off a customized function in python or this index off a simplistic lambda type of function
+[]			 Even though you technically did not see that in a pipe on course in the scope of this class, okay, because they're showing up in a way that you understand where they belong, they're not
+[2:19:21.0]  So nice thing is, you see that the complexity is growing, and sometimes to figure out the exact thing you need to do to accomplish a certain goal may take a little bit longer
+[2:19:49.7]  This is a nice example back with the astronomy, where the years are around it to the decades in which these things happen and you ask, what was the total number of planets discovered by a certain method in a certain decade? Really cool summary table that shows that certain methods, such as radio velocity, are not only tremendously popular but the king later in the game compared to um, well, this one was around the whole time
+[2:20:04.8]  That was a bad example proposal, timing that was popular and didn't produce as many discoveries after awhile or whatever other distribution we want to show you
+[]			 All right, let's go quickly to the people table section of the book because this stuff is ridiculously important and it's a Titanic
+[2:20:23.3]  What about that? How auspicious
+[]			 Let's take a look
+[]			 So is a Titanic version off later set from C
+[2:20:29.9]  Warne, just as your lazy professor used in the assignment number
+[2:20:34.3]  Too lazy or generous, it's up to you, Okay? And it has called for things such as how many people survived based on their gender, in percentage or based on sex and class and so on, most of which you have seen already
+[]			 This one is something I didn't show you so that because it's not in the assignment, I could have put it there
+[2:21:17.1]  But he chose not to Is the use of the cut method from pandas for pandas, data frames that allows you to divide, say, age ranges into our ages into arranges, say, 0 to 18 18 to 80 or something like that
+[]			 So extremely useful
+[2:21:29.6]  And in this case, the cut means you choose the boundaries
+[2:21:33.1]  If you want something, uh, automatic, like computing
+[2:21:41.3]  Uh, um, person tiles or any type of quintiles you can use
+[2:21:42.3]  Cue cut
+[2:21:51.0]  And And you can say how many such cuts you want, and it will do a computer automatically for you
+[2:21:57.1]  Okay, so here we are, cutting the ages in a way that makes sense
+[]			 Let's see, not adults and adults
+[2:22:08.0]  And here we are, splitting the price off the fair or using the Quintiles right here in this example
+[]			 In the book, you may find, uh, pieces and bits of cold that will help you with your assignment
+[]			 Okay, we have the margins
+[2:22:34.8]  Truly
+[2:22:35.2]  Deputies exported and saw
+[]			 The next one is the birth rate
+[]			 Um oh, I think I have to on this year
+[]			 Oh, maybe it's in a different place
+[]			 I should have that in my doesn't work here
+[2:23:21.3]  I will go to the honey
+[2:23:27.7]  I worked Well, here's a census information about birth rate that we also used in a different way in our assignment
+[2:23:41.0]  So you see similar trans in terms of total births per year
+[]			 But the data set is different
+[]			 Be mindful that
+[2:24:15.3]  Okay, this is the Center for Disease Control data set That doesn't care about names, but has, uh, the data about basically on each day off a year? How many baby boys and baby girls were born in us? If you're really into this type of thing, you can download this data set and do some comparative analysis for the assignment number two with the birth rates of the birth names data set just to see there's a disagreement or something
+[2:24:28.5]  What are the odds off there being a disagreement? I would say they're not natural defect
+[2:24:33.3]  That they, too, are kept by official entities in the U
+[]			 S
+[2:24:35.9]  Government doesn't mean that it ate
+[]			 That has bean exactly double check perfectly against each other
+[2:24:48.3]  That's a very common rhea world problem in the science, right leader, consistency and so on
+[2:24:52.0]  Just talk about electronic medical records and the conversation will take us into some interesting things
+[2:25:09.6]  Right? Okay, So here's a on example called to aggregate How many births were there for decades to plot the ups and downs off births over the years
+[2:25:24.9]  And so Okay, um, and their additional, um, examples off quarries and so on that you may find useful for your, um, for your assigned number to be careful, though, because you cannot do this part here where you can try to ask which day off the week is more popular
+[2:25:56.5]  All right, So this data set because it has one data point per day, allows you to see that there are more births in week days than there are in weak hands
+[2:26:08.7]  Our birth names that the set doesn't allow that because it doesn't have this level of popularity, right? It's one entry per name for ear, not one entry birthday
+[]			 All right, um, couple more things on pandas here
+[2:26:20.0]  We are not pushing the time serious things too strongly
+[2:26:22.7]  Yet we will in upcoming assignments
+[]			 We are Are you using trying serious plots when they make sense is really over the baby names, right
+[2:26:36.1]  But the examples in this chapter of the book are very cool, Especially when you get to the Seattle Bicycles example that we just run the imports here before it starts giving me a hard time
+[2:27:00.0]  Let's keep a bunch of things which hopefully I haven't forgotten didn't mean imports
+[]			 I want to get this Seattle prices, for example, which is extremely, extremely cool
+[]			 Yeah, so that's this works
+[]			 So far, so good
+[]			 Oh
+[]			 Ah
+[2:27:39.5]  Here we are importing data that shows how many bicycles cross the Fremen Bridge in Seattle
+[2:27:47.7]  I'm not familiar with the area, so I don't know more than what is here
+[2:28:01.9]  So basically, you have time stamped data points showing that his many bicycles were accounting on the east or the west side of the bridge or going easy going west
+[2:28:19.0]  Whatever the convention, baby and the author off, the book uses that to visualize interesting patterns
+[2:28:34.1]  Okay, again, miss those imports from simply cells
+[2:28:38.7]  This is one example the hourly bicycle count, Um, as you see it through the year
+[2:28:53.1]  So what? What is this plot? Basically telling you that using your bike is probably more popularly summertime than wintertime or something to that effect
+[]			 Another example
+[2:29:01.0]  This is wonderful
+[2:29:02.3]  Less dense
+[2:29:02.9]  Makes it more clear
+[2:29:05.0]  The transitions between years wintertime accounts go don't
+[]			 And then you can I do
+[2:29:23.6]  The alien Alice is against both the plots by using rolling windows and computing the smooth girl Soon a version of that
+[2:29:32.5]  For those of you in signal processing, this is equivalent complying a Gaussian filter this signal here and getting the smooth, no past components off the filter
+[]			 And it gets you tonight more nice
+[2:29:44.6]  In my opinion, when you start to look at a time off the day and you can see that in the morning hours, there are more people going east, same people who basically go back home in the evening hours
+[2:30:06.1]  And the opposite happens for people going west or whatever the convention, maybe, and that in weekdays, clearly the traffic is higher at beginning and end off, huh? Regular working hours
+[]			 If you look at it, the absolute number
+[2:30:21.1]  Weekdays versus weekend, it falls significantly weakened, suggesting that people usually bikemore for work there for leisure and so on
+[]			 Eventually getting to the point
+[]			 Here
+[2:30:46.0]  We have some warnings okay, where you can do the plots side by side for the pattern in week, days in the pattern, weekends being substantially different in a number of ways, and whatever inside you get from that, so we'll have a chance to play more with time
+[]			 Siri's later in the course
+[2:31:07.6]  And if you want to do something in the same number two a thank you cannot use the birth Native evenings, data satin
+[2:31:13.7]  Maybe there's something that it Okay, smoothing those trains over time is one possibility
+[]			 But I don't think it's the best way to invest your time
+[]			 All right, So he went much beyond that
+[]			 And look at some examples in the book, which yeah, brings us to the chapter in the book about math
+[2:31:33.5]  Lovely
+[2:31:37.2]  That's one of the chapters that I could easily say, You know what? Skip it and use it as a reference when you need it
+[2:31:41.2]  And I wouldn't be saying anything too absurd because it's entirely after you
+[2:31:54.0]  How much you really want to learn about it as opposed to okay, when I need a plot of Type X, whether it's a line plot scale apart, a bar blow out his the Graham
+[2:32:00.4]  I will call the right functional look at example, and we get accordingly and you would be fine with it
+[2:32:14.1]  Um, we have been using Sea Born again is a metal effect higher level a p I on top off map lately with altering about the technical details, and you can, um, explore that a little bit further on your own
+[2:32:24.9]  That's one thing, however, that I want to mention, because it could be overlooked
+[2:32:28.4]  It's one of the nicest things in this map lot lib chapters, which is configurations and style sheets
+[2:32:42.3]  Okay, for those of you who care about the looks off your plots, chances are you're not very happy with the way they look by default
+[2:32:46.2]  And then you're faced with that typical dilemma
+[2:32:55.6]  Should invest time learning about ticks and colors and legends and where to put them and all that isn't their equipment off css file, for We have designed some sort off template or customization option that I could apply right away
+[2:33:06.4]  And the answer is yes, there, ISS
+[]			 Okay, so here's an example
+[]			 Look at that
+[]			 This is from the book
+[2:33:11.8]  You get your playing his diagram
+[2:33:13.2]  You say mayor doesn't look so great
+[2:33:15.8]  Then the vest
+[]			 I don't know why it isn't working
+[2:33:21.9]  Sorry about that
+[2:33:38.3]  You invest some time learning how to tweak their ground color, great color line style, right? 15 20 lines off python code so as to get to and see if I can go back to the tech security
+[2:33:39.0]  Just bear with me
+[2:33:51.2]  Just assure this line, of course, that since the life version is not cooperating Yeah, ardor and customization
+[2:34:16.8]  It comes very late in the chatter
+[2:34:23.1]  By the time where you may be tired of all these specifics off, let's put a piece of text in this coordinate or something to go
+[2:34:31.4]  Who has the time for this? And as you really need to produce, the most important plot for the most important presentation here is So you start with this boring Instagram
+[]			 You're right
+[]			 A significant number of lines off bye from cold, and you get presumably a nicer one and say, Hey, great
+[]			 It was worth it, right? Well, maybe, maybe not
+[2:34:53.0]  I would say what is perhaps more interesting is to be aware of those style sheets that exist, and in Seaborn and two use them in your plots
+[2:35:03.8]  So here I am, getting all sorts of errors for some reason
+[2:35:06.5]  But if you look at ecstatic version to text book, you can make the same exact plots in this case history
+[]			 Graham and life plots look like they do by default
+[2:35:18.0]  If you like Nate Silver's FIVETHIRTYEIGHT website famous for predicting election results and what not
+[2:35:24.5]  You can simply call the fivethirtyeight context, which is built into Seaborn
+[]			 And your plots look very much like that site
+[2:35:31.0]  Much nicer I would claim than the default
+[2:35:46.9]  If you like the G plot package from are, you can call the G plot contacts and you look more like our DJ plots, if you like the style from a book called Probabilistic Programming Invasion Methods for Hackers
+[]			 Guess what? There is a context for that, all right
+[2:35:53.7]  Whereas you like dark backgrounds or great scales or whatnot with just a proper, uh, call to the context, Uh, a tribute off the style in Met Blood leaves last seaboard
+[2:36:08.8]  Okay, so that's worth mentioning because it may make a world of difference with just a freaky few keystrokes
+[2:36:16.8]  So that officially concludes our discussion of this early stuff
+[]			 It took us four weeks
+[]			 I thought it would take two maximum three
+[]			 But that's okay
+[]			 This is natural for right
+[2:36:30.7]  But that's okay by now, you should be starting to remove your proverbial training wheels as it is
+[2:36:35.0]  Be somewhat more comfortable with your assignments one and two and everything
+[2:36:39.4]  We do From that point onwards will be war on the conceptual scientific method
+[2:36:44.1]  Medical side with python examples all over the police
+[]			 Thank you
+[]			 I'll see you next week
+[2:37:08.5]  Give me just a second just to collect
+[]			 My long is here
+[2:37:30.7]  Christ
+[]			 All right, that's a question
