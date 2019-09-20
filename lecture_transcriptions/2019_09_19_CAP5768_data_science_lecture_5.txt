@@ -1,0 +1,446 @@
+[]			go
+[]			 All right, let's get started
+[0:00:36.9]  Good afternoon, everyone
+[0:00:38.3]  Welcome to the day's lecture
+[0:00:41.3]  As you may have noticed from announcement I posted earlier today, this will be a shorter session because there's a Google event on DDE
+[]			 I hope it will be something that some of you will be interested in
+[0:00:59.3]  And therefore, for those of you who are interested, we can walk back to the rebuilding the E 96 building in about 55 minutes or so
+[0:01:06.8]  If you're not interested, you're just in luck
+[0:01:10.1]  You go, there's something else and the claws will be equally short
+[0:01:15.9]  So how about you go event? I don't think it was advertised very well
+[0:01:19.6]  I believe some of you may have received some word about it using software that the career Center uses
+[0:01:27.3]  What is it called? Handbrake or something like that? Handshake, handshake, handshake
+[0:01:32.7]  Did you get something about that via handshake? No canvas, no regular email
+[0:01:39.2]  Know how many of you did not even know about it until my announcements from earlier today? A few hands going up
+[]			 Okay
+[0:01:45.0]  How many of you are interested in joining me when I go back to the building? 12340 good
+[0:01:49.5]  More than half of the folks who made it to the class great
+[0:01:58.0]  I had lunch with a group of faculty members and the two young gentleman from Google who are here, and I learned a lot in the course of the one hour long lunch
+[0:02:07.2]  I will not spoil any surprises because so many things I learned
+[0:02:11.2]  I think they will tell you during the course of the event
+[0:02:25.4]  And I can only say that it's a great opportunity after you count itself lucky to be selected because these folks select a handful off universities every year to go visit and do this type of explicit outreach
+[0:02:33.0]  They're not here to aggressively recruit you, but mostly to improve your chances of being recruited by Google by giving you pointers, holding mock interviews, resume critiques, hackathons and what not between you and I
+[0:02:52.0]  I wish I knew about all of the details later, earlier, so I could have announced to you in advance, and you could have participated on other things that happened yesterday
+[]			 But better late than never, and for those of you who are interested, will walk there and see what they have to show you
+[0:03:07.2]  I don't need to say anything about Google being potentially great company to work for
+[0:03:14.8]  And when you hear about salary and perks and all that, in addition to the reputation of Google, it will certainly make you think All right, back to the business Off capped 57 68 For those of you who remember that we have two books in this class, Okay, we have been using one of them, which we call Textbook one
+[0:03:34.3]  That's Jake Funder classes book, and we're basically done with the 1st 4 chapters
+[]			 That's where we are
+[0:03:39.6]  Whatever that puts us in page count, I can't remember the exact page that responds to the end of Chapter four
+[0:03:47.7]  There's a second book, Downey's Think Stats, and we're starting to talk about that book and use its examples today
+[0:03:58.5]  So today we are making an important transition in the scope of the course
+[0:04:00.6]  We are basically transitioning from analytics to statistics, and words can only go so far
+[]			 So in a little bit I will show you a video that will try to make the difference between two perhaps that a bit more clear
+[0:04:21.4]  Up until now, we have bean exposed to what usually goes by the name off the data science work for So basically, this diagram comes from yet another book in data signs
+[0:04:35.7]  But it's something that you can easily understand
+[0:04:49.9]  Basically, what we learned to d'oh in Great Part, is to write programs or snippets off programs using dropped her notebooks interactive style that basically consist off importing data, tidying it up and then entering this grade box here in the middle, where we are cycling through the process of transforming the data visualizing not quite yet
+[0:05:20.8]  Building models will do that soon and then going back around again and again, which basically consists off understanding the data and eventually extracting information and ideally, knowledge from it
+[0:05:28.1]  And we are getting started in the art off communicating our results right now
+[0:05:36.0]  We do that through the report version off our notebooks and the things that we write in the notebook itself, including conclusions and whatnot
+[0:05:47.0]  So one could say that this diagram summarizes the everyday work off a data scientist
+[0:05:52.9]  And, of course, depending on the sophistication off models and the amount of data and how untidy they are when they originally imported, you may invest more time and effort in some parts than others
+[0:06:07.7]  Very popular statements out there claimed that the vast majority of time is spent where but you think most data scientists allegedly spend most of their time percentage wise, tidying things up, understanding, cleaning up and organizing the data You read statistics that claim it's 60% of the time, or 70% or something along those numbers
+[0:06:39.6]  Is that your experience, by the way, as a professional in the field, fighting and communicating? I'm so glad you brought that up
+[0:06:46.7]  I will make the communicating component more important, and we can have enough line discussion to see what's the deal
+[0:07:09.2]  I'm glad that you brought it up because it's so funny that especially coming from computer science and some people come to their science for math or other hard sciences, we tend to think of community communicating part as a soft skill and give it a little bit less often importance than it really deserves
+[0:07:11.5]  Right, So you think No, no, no
+[0:07:15.1]  You need to be hard core Python programmers
+[0:07:19.8]  We need to build complex models who need to derive very complicated equations, and the communicating part is easy
+[0:07:23.5]  Well, it might not be so easy
+[0:07:30.5]  And on top of that, it's crucial if you don't communicate what your findings based on the data based on your models, based on insights that it arrived from your models
+[0:07:47.7]  If you don't communicate what they're telling you, you may be out of a job ultimately, or you may not to make your value clear to stakeholders, including boss clients
+[0:07:53.4]  And so so here's a verbose definition of what each of those blocks mean
+[0:07:59.7]  So important typically means taking data that exists in the file someplace or database or through a Web
+[0:08:05.1]  A P I call and typically loaded into what we call a data frame
+[0:08:15.6]  Fighting it up is the part where we clean things up store in a consistent form that matches the semantics of data set with the way it is stored
+[0:08:23.3]  And once the data has been tied up conventional data, that is, each column becomes available, or attributes or feature, and each row is an observation transforming me, narrowing in on specific observations of interest, creating new variables, calculating summary statistics and the combination off tiding and transforming is often referred to as data wrangling, an expression that you see being used quite a bit, and this is basically what we have been doing with a little bit off visualization in the mix
+[0:09:04.2]  Modeling, which will start doing quite soon, is step worry start to build their very to make predictions and inferences based on the data
+[]			 And communicating is the part where you share the results
+[0:09:13.3]  You get feedback, you promote reproduce ability, and programming is the glue that keeps everything together and presumably the skill set that gets you a job in this field
+[]			 All right, so this is an exploratory process
+[0:09:44.6]  That's why even the book that we're switching to right now things that has exploratory data analysis in its subtitle is a result off being primarily focused on this cycle with the occasional cursory look on importing and tightening and little or no emphasis on the communicating piece
+[]			 You may have seen this name before Cassie
+[0:09:58.6]  Cozy Cough
+[0:10:00.3]  She's the chief decision
+[0:10:00.7]  Scientists at Google
+[0:10:07.4]  Her YouTube videos medium dot com posts are very popular, and they were suggested to the cause at large by one of our students and discussion boards
+[0:10:16.6]  I decided to pick this very short video from Cassie, too, illustrate the transition between analytics, which is what we have been doing mostly so far
+[]			 And statistics, which is what we want to focus on
+[0:10:28.2]  Moving forward
+[]			 Let's take a look
+[]			 I'm Cassie
+[]			 Welcome to my course on statistical thinking
+[0:10:36.6]  The course was recorded with a live audience and maybe not the best Mike's, but I hope you'll enjoy being a part of it
+[]			 Let's find out what statistics actually is
+[]			 So are you ready to show some signs of life to learn some statistics? Some
+[0:10:55.2]  All right, So my first question for you is how many Fisher in this fish bowl? What do I hear? I hear four
+[0:11:00.2]  I agree with that four fish in this fish bowl and let's call them goldfish
+[]			 Is it possible for goldfish to be of different colors from one another? Yes
+[0:11:11.3]  Andi, is it possible for goldfish not to be gold colored? Yes
+[0:11:13.1]  Are these questions about data? Yes
+[0:11:18.9]  If you're having doubts, feel free to put the information in a spreadsheet
+[0:11:19.9]  Congratulations
+[0:11:20.9]  You have datum already is statistical questions, and the answer here is no
+[]			 And here's why
+[0:11:32.0]  Your first inclination might be to think that statistics is about going beyond of the data that we have at the moment
+[0:11:38.3]  And so the first question fails
+[0:11:39.5]  I asked you how many fish are here? You told me for There's no going beyond the data, But then the next two questions
+[]			 They're not about only these fish in this fish bowl
+[0:11:49.8]  They are about old goldfish in existence, so they go beyond the data
+[]			 You have the questions not statistical, because that you can answer them with certainty
+[0:12:02.2]  And when you can answer a question with certainty, all you need are the skills that you have used to deal with this fish bowl
+[]			 You look at what's there and you say the answer
+[]			 It's only one
+[]			 We're going beyond the data, and we cannot know the answer for sure that you're going to talk about today
+[0:12:14.2]  So what is statistics? Statistics is the science of making decisions under uncertainty when it is not possible to know the answer
+[]			 For sure, I like to think of statistics as the science of changing your mind
+[0:12:28.9]  Beijing and statisticians change their minds that beliefs frequent pistol classical statisticians change their minds about actions
+[0:12:36.9]  You'll meet both of those in the course, but if you're curious to learn more follow the links in the description below or on the slights
+[0:12:42.3]  If you like what you saw, please do share it with a friend
+[0:12:43.1]  See you next time
+[0:12:47.6]  Okay, so either course is available on YouTube
+[0:12:55.5]  If you just go statistical thinking, you'll find a playlist off, you know, seven or eight videos and I I like her style
+[0:13:03.9]  You may like or not, but it's technically very solid and very good
+[0:13:08.9]  So what are you? Take out the takeaways from this very short video
+[0:13:12.2]  What is the main difference between analytics and statistics effect If you paid attention, there are three types off information that one can derive from data, and she used the example of the fish bowl with far goldfish in it
+[0:13:35.1]  So what is the first time quantitative, Certain data driven, such as How many fish are there? That's Nate analytics
+[]			 The second type, something about goldfish in general can be a different colors
+[0:13:52.9]  The data supports that because they do have official different colors in the boat fish bowl
+[]			 But it's more general knowledge
+[0:14:03.5]  It's knowledge that you may acquire outside of the data itself, and in fact, for this type of generalization, when relevant, question data Science is how representative is your population
+[0:14:21.7]  Is your sample all right? If we had carefully selected four identical orangish collard goldfish for this slide, if she had the question off, can they be of different color? Could not be helped by the date
+[0:14:39.2]  You could still be answered based on prior knowledge, but not observing the data
+[0:14:41]  And the third type of knowledge is the one where you cannot say things with certainty but with some degree off a confidence, which is where statistical modeling comes into play
+[0:15:05.2]  So what we have done so far is in in the language off carry analytics, we have basically, uh, extracted answers to questions and the answers came straight from the data
+[0:15:13.8]  They did not require extra knowledge effect
+[]			 When you do a same into which most of you are working on, try to refrain from that type of knowledge
+[0:15:24.2]  It's good if it Moz motivates you to be curious about something
+[0:15:35.6]  So is the name Liam as popular now? Is it waas 10 years ago or something like that? That's a good motivation to look for a specific question, to ask and to get the answer from the data But the answer will emerge from the data without any type off modeling, any type off uncertainty, any type of statistical treatment, except for what we call summary statistics, which we have used, by the way, in a very loose and relaxed way
+[]			 And it's time we start changing that
+[0:16:17.8]  So starting today with the chapters from down his book and for those of you who are doing the data camp path for those two last courses in the path statistical thinking, python or whatever they're called, we are becoming more strict on definitions as simple as mean very in standard deviation, medium but, uh, more complex once, such as, um, coin's effect size or Pearson correlation coefficient
+[]			 So you want to get those things right
+[0:16:35.6]  We want to know what is the mathematical formulation, and we want to get everything as strictly stated and computed as we possibly can
+[0:16:47.8]  So that's a transition we are embarking on right now
+[]			 Um, yes
+[0:17:01.3]  If you are looking at the book by Downey, we are Ideally, we would go through the 1st 4 chapters today, but since the cause is going to be cut short will go through whatever point we have to stop, Okay? And we'll continue from whatever it is that we stop there
+[0:17:17.3]  And I will refrain from being too critical about the book after I chose it when I think it has married
+[0:17:26.0]  But it has as everything in life some aspects that are not ideal
+[]			 Um, two aspects come to mind
+[]			 One
+[0:17:31.9]  It seems to spend a little bit more time on certain things than it would need to
+[]			 Let's find maybe for some of you this will be just the place you want
+[0:17:43.2]  If you find the place to be a bit too slow, any fuel, you find yourself going through it quickly, especially early chapters
+[]			 That's fine
+[0:18:10.5]  Second thing is, the author created his own, uh, class thinks that's too in python and a number of objects and methods for many things that are available in standard numb by psychic learn Matt Blunt, lib pandas and what not and he alternates between using his on methods and the Mumbai or met blood lead methods
+[0:18:19.2]  But I will do is a compromise
+[0:18:28.0]  When I go through examples from the book using the get her people code from the book, I will refer to whatever it is that is in the python code, but without making the cold itself our focus
+[0:18:36.7]  I find it hard to justify, for instance, that you should create your own class for plotting history
+[0:18:41.6]  Grams, as the author did when there many built in ways off plotting, hissed a gram in numb pie itself in Pandas and Met lately
+[0:18:56.2]  Upsy born and so So without further ado, let's take a look at the book and its examples
+[0:19:02.5]  I will alternate between the PdF off the book and the examples injector notebook
+[]			 So that's that
+[0:19:21.1]  Pdf of the book is here more visible, of course
+[0:19:30.2]  And the jumped her notebook, is he? And I'll make it more business, boys
+[]			 All right
+[]			 Okay
+[0:19:59.0]  So first chapter, which is also the subtitle of the book, is called Exploratory Data Analysis
+[0:20:02.3]  And the name Azi name suggests it will go over things that, for us will mostly be a review
+[0:20:10.6]  Things such as requiring data cleaning update, putting things into data frames, doing some basic visualization
+[0:20:36.5]  And so, um, I will go over some highlights within the book as we go through, just to remind you of things that I think a particularly important the 1st 1 for sentence of the first chapter is the thesis off the book, and the thesis of the book is that data combined with practical methods can answer questions and guide decisions under uncertainty
+[]			 You saw these words in the short video
+[0:20:47.0]  You have heard me pronounce those words before, and you will hear them again and again and again
+[]			 Data decisions, decisions under uncertainty
+[0:21:05.0]  And so, and he motivates the analysis by some question that had some personal interest, which is due first
+[0:21:11.1]  Babies tend to arrive late, and he claims, if you go in, there re lots of discussion
+[0:21:24.5]  And so we have seen this scenario this set up before I have in fact encouraged you hear there, too occasionally, think off questions that tend to be controversial in the absence of data
+[0:21:32.6]  And rather than engaging debate, go look at the data and see if you can find compelling reasons to argue one way or another as the late hunts
+[0:21:43.7]  Rosling, whose name has been mentioned before, famously said, We live in a world that there is too much Microsoft Word and not enough XL
+[0:21:52.4]  Okay, many debates, many fancy wards, and sometimes we should spend more time on the date asking what is the data telling us? So there should be a data driven way to answer the question
+[0:22:06.7]  Do first baby stand to arrive late? Okay, so in other words, we like to go from anecdotal evidence, too hard evidence to the degree that we can call something hard evidence
+[0:22:24.6]  And this is an important, uh, caveat
+[]			 We cannot, one could say, but that gets very philosophical very quickly
+[]			 One can can argue that nothing is 100% sure 100% of the time
+[0:22:46.4]  I don't want to get too philosophical about it, But let's make the safe assumption that for most things that we say that we are certain off in this course, certain off basically means there's enough evidence there is compelling evidence to show that this is such and in the best spirit, off science
+[0:23:12.1]  If new data comes about, new evidence is found, we will go back and test a hypothesis or adjust our theories and so on
+[0:23:26.9]  So what is the problem with anecdotal evidence? One big one is sample size, typically small number of observations, and you get that in everyday dialogue all the time
+[]			 Some people say off course
+[0:23:30.9]  Our neighbor had two kids, and the 1st 1 arrived late
+[0:23:35.5]  My mom had to kids, and the 1st 1 arrived late or whatever comes from a very small number of observation
+[0:23:46.7]  The other one and we could have a future lecture on cognitive biases and follow sees and things like that
+[0:23:51.3]  It's a fascinating topic, but I don't want to get off on a tangent here
+[0:23:54.6]  Selection
+[0:23:55.2]  Bias There's a great possibility that while selecting your case is you consciously or otherwise introduced some bias OK, consciously is easy to understand
+[0:24:12.3]  What would be a way to inadvertently introduced selection bias, say scientists with best training
+[0:24:24.0]  Perfect character, No conflicts of interest
+[0:24:29.0]  Mace to introduce selection bias in the study
+[0:24:34.0]  How so? What could be a factor? Yes, environment where they work or where they got the data from right
+[]			 Sometimes the environment
+[0:24:45.3]  Sometimes the convenience
+[0:24:50.8]  It's convenient to get data in a certain way, sometimes even the tradition by which certain data is collected
+[0:24:54.8]  I don't know if you've ever been to the behavioral sciences building in our camp was where the psychology majors hangout, the bulletin board's still have towns off fires
+[0:25:05.7]  With that little piece of paper that you can full of peace and go and sign up for experiments
+[0:25:22.2]  Because cycle is experimental psychology, cognitive psychology lives to a great degree on experiments using freshman year psychology majors
+[0:25:26.1]  If I remember correctly, there's a degree requirement for distance to participate in X number off experiments as subjects to get whatever credits
+[]			 So is their selection bias, of course
+[0:25:41.6]  I mean, these are psychology majors in a school that has whatever so show economical profile effort
+[0:25:45.7]  You, interestingly enough, is famous for its diversity, and it's one of the reasons they go
+[0:25:52.1]  Folks are here, by the way they want to reach out to the university's with good diversity records
+[]			 But there's a selection bias
+[0:25:56.8]  For starters, you're getting college educated or about to become college graduate folks
+[]			 That's not general population
+[0:26:04.8]  You're getting the demographic distribution off the psychology majors at F
+[0:26:15.0]  You all right, so his selection bias and there's nothing, uh, dishonest about it, all right
+[0:26:17.9]  The other one is confirmation bias
+[]			 That's a big one
+[0:26:25.9]  And it's something that everybody is aware off these days, with huge mismatches on just about every topic off public debate and the possibility that a person who believes X or the opposite of X may live in a bubble
+[0:26:38.5]  All the news feeds their Twitter accounts
+[0:26:43.1]  Their Facebook feeds reinforced those same convictions, whereas the person who believes the opposite has other Twitter feeds, watches, different news channels and so on
+[0:26:50.2]  Reinforcing those things therefore, uh, confirming their biases
+[0:26:57.9]  And that's problematic
+[0:27:01.1]  The only thing, of course, is inaccuracy
+[]			 And that's something that is obvious in anecdotal evidence
+[]			 There's a big chance that the story is actually being told by a person who heard from another person who heard from other person and so on
+[0:27:17.3]  But these unfortunate is also true in hard science in the way data is collected
+[0:27:28.3]  Noisy sensors, for instance, or poorly trained technicians
+[0:27:30.9]  And, unfortunately enough, it's also true in terms of what happens after the data is collected
+[0:27:40.8]  So every now and then, you seem to use those scandal type of headlines say, however
+[0:27:43.8]  Many studies in prestigious papers could be wrong, because there was a bug in this statistical software package that everybody and their dogs used over the course of the years
+[0:27:56.1]  So then there's nothing inaccurate, necessarily with data but buggy after that, so this statistical approach to counter the and a daughter alternative is too
+[0:28:13.0]  Be mindful of collecting the largest amount off repeatable data for the problem at hand
+[]			 In this case, we're gonna get something from the so called national survey
+[0:28:27.6]  Off family growth are simply N S F g, which is related to the CDC, the U
+[]			 S
+[0:28:30.9]  Centers for Disease Control and Prevention
+[]			 We will learn how to use summary statistics, too
+[0:28:45.0]  Performed come size observations about things such as mean various etcetera, percentiles and so on
+[0:28:56.1]  We will do exploratory data analysis which you have started already since they want, and soon enough will be able to make certain estimations, predictions and so on
+[0:29:04.4]  And we'll get into the formal hypothesis testing aspect, which is Chapter nine
+[0:29:09.7]  In the book, I had a brief discussion with one off your classmates who doesn't seem to be today
+[0:29:12.0]  Last time
+[0:29:20.8]  Our hypothesis testing right now is very much informal
+[0:29:26]  We are basically showing or writing things such as there's data to support the hypothesis that the name John was popular during the sixties and then he plots something or you show something
+[0:29:48.4]  Yeah, there's data to support that, but this is not yet the classical testing off the no hypothesis giving a degree of confidence with which the hypothesis was confirmed or not
+[]			 So we we will get to that
+[0:29:54.0]  We haven't talked about statistical significance
+[]			 We haven't talked about, uh, many things that will start talking about today
+[0:30:01.0]  That was all done on purpose
+[0:30:08.5]  Because, as you may remember, from when I laid out a plan for the class, I wanted you first to get comfortable with tools and the overall process off data wrangling before getting into the math, which is what we're doing now
+[]			 Okay, so this chapter in perhaps a few chapters after that, if I remember correctly, follow the data set from the N S f G
+[0:30:44.5]  The national survey of Family growth and basically, what is it all about? There idea is, um, to get information on family life, marriage, divorce, pregnancy, infertility, use of contraception, men's and women's health, and so on and guide some health public policies in and what not? All right, this is important for general knowledge
+[0:30:57.1]  It's a cross sectional study as opposed to a longitudinal study
+[]			 So cross sectional study
+[0:31:04.5]  As the name suggests, you take a snapshot of a group at a certain point in time
+[]			 The opposite, if you will
+[0:31:09.7]  Your thug, you know, type of study is the longitudinal study
+[0:31:19.0]  You take a group of people and you look at him over the course off many years, sometimes decades
+[0:31:34.1]  This particular study has being developed in a number of cycles, and we'll use a particular cycle called Cycle six, which happened to be in a specific period of time, which is the most part irrelevant for what we're gonna do
+[0:31:51.7]  It talks about a population, and in this case, these are female individuals ages 15 through 44 which commonsensical way matches the age range that you would expect from, uh, mothers
+[]			 And as with most, uh, such data collections, it comes from a subset of the population, which is called sample
+[]			 In other words, it's made up of people who responded to a survey which are called respondents
+[0:32:24.5]  One important thing about cross sectional studies, especially the ones that rely on samples off the population, is whether the sample is representative
+[0:32:39.4]  So and look at it paragraph that I have highlighted on the screen right now, it says, in general, cross sectional studies are meant to be representative, which means that every member of the Tiger population has an equal chance of participating
+[]			 But look at the next paragraph
+[0:32:43.8]  It says The NSF is not representative
+[0:32:46.7]  It is deliberately over sampled
+[0:32:59.3]  The designers off the study recruited three groups Hispanics, African Americans and teenagers at higher rates, then their representation in the U
+[]			 S
+[0:33:08.4]  Population in order to have enough samples coming from those subgroups toe be statistically significant
+[0:33:14.2]  In other words, to be able to draw valid statistical inference is okay, so there's a word of caution right there
+[]			 In other words, it's not the break
+[0:33:26.1]  Now
+[0:33:39.2]  If you have the chance to see how many of the respondents are from those groups in this particular data set and computer those percentages, they wouldn't map the They're representativeness in the general population
+[0:34:00.0]  That's the idea, right? Just as with the earlier example off experimental studies on psychology students, you also have over sampled on whatever level off studies college students correspond to, or whatever demographics the psychology majors, that effort you correspond to
+[]			 So this is an important point
+[0:34:09.1]  The drawback of over sampling is that it's not as easy to draw conclusions about the general population based on statistics from the surface
+[0:34:18.4]  Okay, The neck
+[0:34:20.3]  The last paragraph in this topic speaks off the idea off a code book for which you are ready
+[0:34:25.7]  You already knowledgeable off
+[0:34:31.8]  So it's basically a place typically website or read me file the documents, the design of the study, the encoding off the responses and so on
+[0:34:42.8]  Those of you who were doing the movie lands database, for instance, had to see that one doesn't mean one year old movie viewers, but instead people younger than 18 based on their code book
+[]			 All right, important fact
+[0:34:58.3]  If you didn't know it yet, the cold and the data for the book are available from Get help you're welcome to and encouraged actually to download or clung whatever you prefer to your to your set up
+[0:35:11.2]  Okay, I will skip through a bunch off Space Python code that is specific to the way the author implemented certain things because they're not extremely relevant
+[0:35:21.5]  And when it comes to a data frame being the fundamental data structure provided by panels, it comes as no surprise
+[0:35:27.1]  We're quite familiar with, um, Band is already, but you have to be careful from the very beginning with cold, such as and s f g dot read fem prag hasn't read female pregnancies
+[0:35:48.2]  Um, and because this is a library function whose code appears here that will look for a specific files
+[0:35:59.1]  In this case, a dictionary and a data file will read the information, decompress, call another function that cleans up the data and eventually return returns a clean date of rain
+[0:36:15.2]  So be mindful that in calling this very convenient function called read them preg you are being spared from doing a number of things
+[0:36:20.6]  All right, so there's the importing and the tiding up implicit in these innocent looking five lines off python code
+[0:36:26.5]  After you do it, you should get a date, a frame that is 13,000 plus rose times 244 columns
+[0:36:38.9]  So I'm going to switch to the trooper notebook that comes from the gift of report here just to see if we get those things right
+[0:36:54.8]  So here's the part where we have the call to that library function, and these are the 1st 5 rows and the data frame
+[0:37:08.4]  So 244 columns, and by the way, a bunch off any ends that you can see already, which means that whatever cleaning up that auxiliary function does, it wasn't cleaning up in the sense of handing and the ends because probably handling other types off anomalies
+[0:37:19.9]  We would have to look at the code, and this is a bit off a distraction right now, so we'll do it at a later time
+[0:37:40.2]  And clearly the names off the columns may not be exactly obvious, too, huh? One that is important and we'll come up all the time is preg or the R Pregnancy order, which basically tells if that particular baby wasn't the mother's first or second and so on
+[]			 So this is a number between one and however many babies
+[]			 The mother with the most babies in this study hand but many other things
+[0:37:57.9]  You're not obvious unless you look at that cold book enough
+[]			 That's the way typically, yes, If you ask for the names of the columns, you will get those names here
+[0:38:15.7]  There's no, uh, surprise here, and one column that we're particularly interested in is the total weight in pounds
+[0:38:18.3]  So remember this whole story started with their anecdotal evidence that first babies late Or actually wait is not so important
+[]			 It's actually the length off the pregnancy
+[]			 The wait may be important in some other cases, but not in this case
+[]			 Okay, good
+[0:38:44.0]  So the pregnancy order being a column is off type panda
+[]			 Siri's no surprises here
+[0:38:47.8]  I think we have got grown
+[0:38:48.3]  Used to think off Data frames is collections of Siri's
+[]			 And this is how the pregnancy order would look like if you decided to print it or 13,000 plus cases
+[]			 All right
+[0:39:09.2]  And of course, you can do things such a selecting a single element or slicing or using fancy indexing and so on
+[0:39:12.4]  This is where it starts to get interesting
+[0:39:29.6]  Where we look a tte that pregnancy, the number off time each value occurs which gives a measure off firstborn second
+[0:39:35.2]  And so and this is uninterested ing piece of code to look at the Bert birth weight in pounds and sword
+[0:39:54.0]  Um, break them down into what already looks like a hist
+[]			 A gram here, just based on the count
+[0:40:02.6]  So an easy a way to have a few for what is the typical weight in pounds for a newborn baby
+[0:40:07.9]  So you would I think it's somewhere between six and £8
+[0:40:16.2]  Based on this date, of course, you can compute the mean with one line of code if you so desire
+[0:40:23.7]  Okay, let's follow the highlights from the book just to make sure we don't miss anything important
+[]			 I'll skip some, uh, simple stuff, and I'll go to some things that are specific to this data set
+[0:40:37.1]  So we have Kay's idea and pregnancy order, which are important
+[0:40:45.5]  We have pregnancy left prg length, which is the interviewer duration of pregnancy
+[0:40:49.3]  In weeks, we have outcome, which may be important in some cases, one meaning that it was a life birth, which basically means there's a database about pregnancies
+[0:41:00.0]  Whether huh taken to full term or otherwise pregnancy order, we already figured out Ah, birth order for the life births, which is a subset off the number of pregnancies
+[0:41:25.8]  It shows if it's the first child and so on the weight in pounds and ounces and because off the way the imperial system works, it's convenient to put them into separate college
+[0:41:32.0]  This was in kilograms
+[0:41:41.9]  You would have just a floating point number, the age of the mother at the end of the pregnancy and the statistical weight associated with the responding the respondent
+[0:41:47.9]  This is very tricky
+[0:41:52.7]  In a data said that deals with actual waits in pounds announces the weight of the baby
+[0:41:58.0]  Here is a statistical wait, a floating point value that indicates the number of people in the U
+[]			 S
+[0:42:02.3]  Population that this responding represents
+[0:42:20.2]  What do you make of this observation? Here it is a whiff somehow showing from a small sample size how we can extrapolate to the complete population particularly useful because off the problem off, deliberate over sampling that we spoke about a few minutes ago
+[0:42:33.3]  In other words, since you cannot simply rely the statistics or 10% off the mothers in this study were Hispanics
+[]			 Therefore, that's the population at large
+[0:42:46.1]  You would rather look at the final WGT property to have that information
+[]			 Okay
+[]			 All right
+[]			 Um, this is an interesting point toe
+[0:42:55.3]  Observe If you'll read the code book carefully, you'll see that many of the variables are re colds, which means they are not part of the raw data collected by the survey
+[0:43:06.6]  They are calculated using the raw data
+[]			 No surprises here
+[0:43:17.9]  Many data sets have that in fact, if you looked at the data set for one of these assets for a Sandman number two, the Titanic won
+[0:43:23.5]  It had a bunch of recalls, right for adult males calling them man or something like that
+[0:43:28.4]  So that was a recode that already came in the Titanic data set
+[]			 All right, all right, so there are some examples about that, Uh, and this is an important sentence
+[0:43:52.4]  Also, recalls are often based on logic that checks the consistency and accuracy of the data, and I'll try to introduce more of that into my starter code for upcoming examples as as again
+[0:44:06.0]  All right, so the next step up is transformation so, or data cleaning
+[0:44:12.3]  And here's where the author describes his absurdity function clean Fem brag that his plenty on using
+[0:44:30.5]  So basically, the understanding off this function rather cryptic, especially when you look at this line of code, depends on understanding the code book
+[0:44:44.6]  So the code book says that there are special codes for things such as not ascertained or refused to respond or responded
+[0:44:55.6]  Us don't know, and the textbook author makes a very good point that you better be careful about these things because If you don't handle them properly, they may generate bogus results
+[]			 So look at this
+[0:45:05.9]  These are values that could appear in the birth weight in pounds
+[]			 Uh, call him
+[0:45:16.0]  So if you don't pay attention, you may think there are £99 babies out there
+[0:45:21]  When this is not a wait anymore
+[0:45:23.3]  It's just cold for Don't know
+[]			 All right
+[0:45:30.0]  So I will not bother you with specifics off this date ascetic and read the book
+[0:45:35.5]  You can look at them at the cold yourselves, but it's important to be mindful off the fact that, um, clean female pregnancies the function that you implicitly called when you called read female pregnancies in the beginning off the notebook here
+[0:45:57.3]  It already took care of that for you
+[0:46:08.0]  That's why when you print the weight in pounds, you don't find anything absurd
+[0:46:10.1]  Maybe some very healthy heavy babies, but nothing like £99 babies
+[0:46:20.4]  All right, so this is an interesting point from a conceptual point of view
+[0:46:29.6]  Um, it has to do with a trade off between how much subject knowledge do you have? How clear is the code book and how much time you want to spend understanding what is encoded where and how they may be
+[0:46:43.3]  The message here is number one Time spent with the data is time well spent
+[]			 No question about it
+[0:47:06.8]  In fact, I saw a student today who came to my office, have been called basically working, but just forgot to look at the code book for the movie Age ranges and was having trouble because the Python interpreter was not taking whatever amount because it wasn't coded to the age range is so clearly really cold
+[0:47:13.8]  Book is not a waste of time
+[0:47:22.1]  Secondly, because off the well, uh, widely infrequently commented fact that every data set, no matter how properly it may have been acquired and curated and maintained, may have room for missing victor points, ambiguity, redundancy, human errors and so on
+[0:47:45.3]  And sometimes they go through multiple people in multiple rounds, off review And what Not until you cash them and say, Wait a second
+[]			 This cannot be right, all right
+[0:47:54.8]  The other day I was sure something completely outside off female pregnancies here, just a show if I can find it
+[0:48:08.4]  Um, as you know, I deal with the image processing and stuff like that, so I was running some deep Nero network models for seen classifications
+[]			 So seen classifications, basically, is the process by which you give computer an image
+[0:48:24.3]  And you ask, Is this indoor outdoor or maybe more specific, please
+[0:48:28.8]  There's a beach sing forest, bathroom bed, bedroom and what not So I was training the simple, classy fire that only knows about eight classes
+[0:48:43.1]  And I came to a scenario in which this type of situation happened where my over has been predicted
+[0:48:53.6]  This would be a beach scene, and the label the one that is claimed to be correct is Hay Field, which I bet it's not okay
+[0:49:05.9]  So in some cases we have so called, um, non iconic images
+[0:49:08.6]  So this is technically a picture off a beach, but you'll be hard pressed to figure out it's a night scene
+[0:49:15.7]  There's some sign off the edge of the water at the sand
+[0:49:20.7]  There's a person in a non canonical perspective occupying most of this scene, So to guess a beach or an attic or anything else is equally hard
+[0:49:27.9]  No wonder my algorithm got wrong
+[]			 This one is interesting because it should be bedroom
+[]			 My algorithm predicted attic
+[]			 But if you look at it
+[0:49:35.2]  Slanted ceiling
+[0:49:41.7]  It's probably a bedroom on the attic, so but then again, if you're counting, the accuracy counts is wrong
+[0:49:51.8]  But this one was particularly interesting because it predicted beach, which I believe is correct, but the image was labeled as hayfield
+[]			 Therefore, it counts is wrong
+[0:49:55.8]  So as a data scientist or machine learning computer vision person, do you beat yourself up for a result like that? No, You claim covers and did well
+[0:50:07.9]  But this particular instance, Waas mislabeled
+[0:50:10.0]  If you have control over the labeling process, you go there and fix it and life goes on
+[0:50:14.8]  If you don't say it's a public challenge, will compete against other people
+[0:50:19.1]  You better take that point is a loss because you don't want to
+[0:50:27.3]  Two tweak your algorithm to get that one right and risk losing generalization, properties and whatnot
+[0:50:33.1]  So this is a repeatable data set, by the way, it's the M I T places 3 65 data set, very well known, curated and so on
+[0:50:42.1]  And yet there's room for mistakes
+[0:50:49.9]  So back to why I brought this up because we're talking about really cold book finding inconsistencies and whatnot
+[]			 You can never be too safe
+[0:50:54.2]  And there's a distinct possibility that despite everything you do, some issues will still, uh, sneak in
+[0:51:08.7]  Another thing that the author does is it takes care of the birth rate separated in pounds and ounces into different collins
+[0:51:22.6]  And it, uh, creates a new column called Total Weight in Pounds, which is a floating point value that combines pounds and ounces
+[0:51:34.7]  And interestingly enough, it's one case where the dark notation and dictionary syntax produced different results
+[0:51:44.0]  And you have been told before that using dictionary Syntex typically has no side effect, which is why I strongly encouraged to do that instead of the dark notation
+[0:51:50.1]  Then there are few things about very dating the data
+[0:51:55.0]  So one way to validate the date is to compute basic statistics and compare with publish results
+[]			 So if you look at the code here, we'll do that
+[]			 Yeah, someplace
+[0:52:06.8]  I thought I had it here someplace
+[0:52:40.3]  These are the exercises already on various, and if you look at it and look at the code book or some public statistics about it, if you're cold matches what is in the official website for the city's here, something you're probably in good shape
+[0:52:43.1]  By the way, where's this? There's a link in the notebook itself that shows that we are dealing with the N S F G cycle six pregnancy file, Section B and so on
+[]			 Not the words
+[0:53:17.6]  There are ways to look at them code book and find out if the numbers that you're getting with your code are consistent with the, um, numbers published in the code book itself
+[0:53:33.3]  So, in fact, to be brutally honest with you, I am prank of glad that we're getting to the so called second book after dealing with more easy to understand data sets President's Titanic and so on because these n S F G thing is a little bit intimidating
+[]			 If you think about it, it doesn't a large number of raw variables with not so obvious names
+[0:53:51.3]  It has a very large number off pregnancy based recode's, and it takes a while to, uh, to get the basic information from the code book, even for something as simple as this
+[]			 If I told you, go to the website now and find where this information is, it would take a little while to figure it out
+[0:54:14.0]  Okay, in fact, when you do, you may want to book market because it's not so obvious
+[0:54:19.2]  And see if there's a link here to where it iss in the notebook itself
+[]			 I don't think so
+[0:54:24.6]  So it would take you some fiddling around on the CDC n S f G website to find out this table here which, once you do, will map the names
+[]			 I'm sorry, the number that you get from the python code, which suggests you got everything right
+[0:54:43.9]  And, of course, also gives meaning to what? 123 etcetera Ming, in this particular case, all right
+[]			 Okay
+[0:54:52.2]  We spoke about the distribution of birth weights
+[]			 That's fine
+[0:55:01.0]  And escaped a few details here
+[]			 Yeah, um, here, the author will talk about, um, looking at specific, uh, respondents
+[]			 So we take a case
+[]			 I d for instance, case I d 10,239 could be anything
+[0:55:35.3]  And you ask to look at some pregnancy outcomes from that one single correspondent
+[0:55:45.1]  So if you know the meaning of 44441 it basically means this particular young lady had 123456 miscarriages before a successful life birth
+[0:55:49.2]  So that's the explanation of those for number
+[]			 I'm sorry
+[0:55:53.5]  Six occurrences of the number four before the first occurrence off the number one
+[0:56:04.5]  All right, so once again, I'm happy we started by less intimidating data sets and assignments one into because this one fuse a little bit like drinking from the fire hose
+[0:56:15.6]  If you're new to this stuff and I hope you're starting to see the method in my madness, right First to get good Python
+[0:56:22.0]  What? Not now we get two more seriously, two cents for more serious math
+[0:56:36.3]  And so So if you are curious about the exercises at the end of chapel one, the good news is they exist already in them in the director notebooks
+[0:56:39.4]  And I'm not sure if I had to copy and paste solutions
+[0:56:42.0]  I did that several months ago, so my memory's a little fuzzy on this
+[0:56:50.3]  If I had to do it manually, it means that you can do it yourself because there's a folder here conveniently called solutions
+[0:56:57.2]  Okay, so there's a possibility that I went to this notebook called Chapter Something s O
+[0:57:00.0]  L and copied and pasted some stuff
+[0:57:01.8]  Possibly can't remember if I had to do that Or if those solutions were already in the Chapter one X Files
+[]			 One way or another, you have everything you need right there
+[]			 So this is a good time to stop first, because it's time
+[]			 Second, because it ends chapel one in this so called second book
+[0:57:27.0]  When we come back again, we'll talk about distributions
+[0:57:28.7]  He's the grams probability mass functions, cumulative density functions And that fun stuff
+[0:57:33.4]  Quick show of hands
+[0:57:36.1]  I mean, if you have taken Dr Cooper's sarcastic models for computer science scores
+[]			 Ah
+[0:57:39.5]  Phew
+[0:57:42.4]  How many off you have taken this course with someone else? Okay, sorry about that
+[]			 Dr
+[0:57:49.1]  Cooper is probably my favorite instructor ever
+[0:57:51.3]  So our professor
+[]			 All right, great
+[0:57:54.0]  Let's go to the global event
+[0:57:56.1]  Just give me a few seconds to get it all set up, and I will walk with you back to the other
+[0:58:03.7]  Bill, if you're not interested, are unable to join us, enjoy the rest of your evening and continue working on the same number two
+[0:58:06.8]  Thank you
