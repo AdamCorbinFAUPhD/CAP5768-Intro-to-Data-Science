@@ -1,0 +1,1299 @@
+[]			all right
+[0:00:37.7]  Good afternoon, everyone
+[0:00:44.3]  And welcome to today's lecture before we get started with the bulk of today's topics, I wanted to go over some general ideas with you and see how well we're doing with the course so far
+[]			 This is the beginning of the sixth week of this master or the end, depending how you count
+[0:00:59.0]  It's Thursday afternoon
+[]			 After all
+[0:01:02.6]  It is our sixth meeting if I'm not mistaken, and so it's roughly there 1/3 of the way
+[0:01:08.6]  Point of the semester, give or take
+[]			 So maybe it's a good point
+[]			 Two
+[0:01:17.6]  Ask you a few questions rather than having those surveys and what not? Let me ask you what you think is going on
+[0:01:30.3]  And if you agree with my perception of what's going on and then for those of you watching the recording, you're welcome to give me your input via discussion board for him so I can tell what you're doing
+[0:01:46.2]  So basically, I wanted to quickly go over with you the over the course so far, and ask you, What do you think is going on that we can label as good and what we think is can be labeled under the column off there's room for improvement, to put it mildly
+[0:02:08.0]  Okay, As you know, I'm teaching this course with a certain philosophy in mind, and I keep double checking the contents, dislike assignments, whatever it is that we do here against that philosophy to see if we are departing from it or we are sticking to our plan
+[0:02:24.2]  All right, so I'll tell you a few things that I think are going on well, and then I'll ask you to indicate in whatever way you want if you agree with that or not
+[]			 And if you don't have a big discussion, Okay, so that's the line between the good and the not so good here
+[0:02:49.9]  So one thing that I like, uh, in no particular order is that students with Let's put it without I thought on et cetera that ground are catching up quite nicely
+[]			 It seems off course we're putting time to put in the effort, but it seems that there is a path for catching up
+[0:03:07.5]  There's a path for building the acknowledge the expertise that you need in order to at least handle the assignments and eventually expand that for other purposes that you may have
+[]			 Do you agree with that assessment? I don't know if you belong toe which group, but it feels that way
+[]			 If you belong to the group that is catching up, you were in a better position
+[0:03:29.7]  One interesting byproduct of this is the data camp learning path that I made available to you
+[0:03:36.9]  I'm very happy to see that some students are investing a fair amount of time and effort there
+[0:03:53.4]  And the other day I had stood in my office who waas in the top three off the either bored with more than at that point, I think 12,000 points to his name to course is completed and what? Not on date again
+[0:04:03.9]  And I told him that I will think off a bonus structure, uh, at the end of the semester, for those of you who achieve a certain number of points
+[0:04:12.1]  So if you want to put some time into the data camp courses, if your experience with python you can skip the introductory ones, go straight with statistical thinking part one and two, and you just fine
+[]			 If you want to go from the beginning, that's fine
+[0:04:22.4]  It's a way to wreck up some points, and I'm happy to see that this is working
+[0:04:27.9]  Anyone in this cross who was doing the data camp stuff or not? You are
+[]			 Some of you
+[]			 Okay, it will be there for as long as the courses up
+[0:04:40.0]  So I don't I don't think there's an expiration date
+[]			 And if there is one, it's certainly beyond the end of the course
+[]			 So for the whole semester, this will be available to you
+[0:04:56.0]  I may become creative and build a second track if I find that there are other courses that I didn't quite identifying the first time around
+[]			 This track that you have has eight or nine courses going from basic python to statistical thinking
+[0:05:03.5]  Part two
+[]			 There are a couple other courses out there that I may make available to you
+[0:05:09.9]  Which brings to another topic, perhaps the controversial one
+[]			 Um is the course being overwhelming to you at this point? I think not
+[]			 But of course, it's easier for me to this
+[0:05:26.3]  So okay on having if you disagree with me, you think we're drinking from the fire? Holes were losing sleep
+[0:05:30.9]  My wife left me and I lost my job
+[]			 And life has no meaning
+[0:05:36.3]  but I'm hooked onto this thing
+[0:05:38.5]  I don't think we're closed to any of those things happening
+[0:05:40.0]  Come on the bar
+[]			 She don't tell me you're doing that, Okay? It is challenging
+[]			 It's one thing to be challenging
+[0:05:51.6]  It's another thing to be overwhelming, but I think your input respectfully
+[0:05:54.6]  Of course, you were one of my oldest customers through the bar
+[]			 She has taken three or four courses with me before
+[]			 Over the course of I don't know, four or five years, perhaps
+[]			 And yeah, I think it
+[]			 It's challenging, and I hope it's something for the right reasons
+[]			 As an instructor, I have something that I tell students
+[0:06:10.6]  It's one of my mantra
+[0:06:13.1]  I deeply dislike instructors who make something that is potentially simple, look complicated just because they don't explain properly or because they make it completely chaotic to go about
+[0:06:23.9]  But there are certain things that are inherently complex, and if they are complex, the best structure can try to do is to make them seem simpler to give a learning path, and to that, students take their time and, according to their learning style, get to learn those things
+[0:06:42.9]  So I believe it's not overwhelming But again, I'm biased
+[0:06:44.0]  Potentially
+[0:06:44.9]  Deeply
+[]			 So, um, the only thing that I like about what's going on so far is that the assignment
+[]			 So one way that you can think Okay, it's a little bit overwhelming is because the assignments are large
+[]			 The 2nd 1 is particularly long
+[0:07:03.0]  I saw reports of since we submitted it and the reports in the range of 40 some pages
+[0:07:08.3]  And they realized Boy is a big assignment
+[]			 The second sign, Really? You just Oh, I put more stuff and of course it makes it good
+[]			 Okay, the third will be easier than the second
+[]			 So I have good news for you
+[]			 Okay
+[]			 So All right
+[]			 So I think the assignments are working well, in one sense, at least, which is the bonus points
+[0:07:34.8]  If you look at the great, of course, you know you're great for Osama number one
+[]			 I can see all grades and the number since we've got some bonus points is large
+[]			 Oh, make a very precise statement
+[]			 In the spirit of this course, the number since we've got some bonus points is large
+[]			 Okay? And this is good
+[]			 This is really good
+[]			 They're total points thing only only works for each individual assignments, and then they are converted to percentages, but the percentage is carry on
+[0:08:06.3]  So if your percentage great in the same number one is 110% those extra 10% are yours to keep and they will carry on, okay, they make up for a loss of 10% in a future assignment or whatever
+[0:08:33.8]  Okay, So I think the bonus structure is kind of neat in a sense that for those of you who are struggling to get in minimal stuff done, you still get a good grade in a good amount of learning, which is more important than the great for those of you who have the time and the curiosity to go above and beyond their bonus opportunities
+[0:08:37.4]  And I think that's in accordance to my philosophy, if you will
+[]			 Another thing that I like that is going on
+[0:08:51.9]  I see some meaningful discussions on the discussion ward and some people taking the timeto post very technical and detailed replies, for which I'm very thankful and this is good
+[0:09:01.5]  That's in the spirit off how we're gonna learn for the rest of your life anyway, if you don't become a good citizen on stack overflow or something of that, uh, nature
+[0:09:09.8]  And you want to stay in the fuel of computer science, you better, uh, rethink a few things
+[]			 So that's another good point
+[0:09:20.2]  Another thing that I have to say that is coming from the assignments is that I somehow like the idea that you're being exposed to different data sets
+[]			 And, um, as a result of this combination off assignments, data sets and so forth one of things that I really like And that's the one that I left to be the best for last, if you will, is I can sense that students are developing the right attitude towards the science
+[0:09:56.5]  In other words, I have a feeling that many of you are coming to the point now where you say give me a proper data, sets a meaningful question, adjust her notebook, my basic set up
+[0:10:01.5]  Maybe someone will have bought off Mountain Dew or whatever to give them going
+[0:10:06.6]  And I will hack into this
+[0:10:08.0]  I will crack the problem
+[0:10:09.3]  I will explore it
+[0:10:12.9]  I was lice and ice and plot and investigate and tweak and clean up and do whatever is so to me
+[0:10:31.4]  this is the the most fundamental go Ah, perhaps that I believe, is being achieved from what I can tell from class discussions, discussion boards, assignments and other types of interactions
+[0:10:36.7]  So and she's doing a lot of the preparation in testing off data sets and assignments almost in real time
+[0:10:43.1]  Since it is the first time teaching the course
+[0:10:48.4]  I'm not trusting off things from five years ago and re assigning them to you
+[]			 I'm doing the assignments a few days before you do
+[]			 Basically, I feel the same way
+[]			 I feel like if you if you get into this attitude, it always becomes second nature
+[0:11:01.7]  You start to enjoy this process off
+[0:11:04.5]  Okay, you have a problem for me to solve
+[]			 You have hypothesis for me to investigate or ideas or, um, I can't do that
+[0:11:11.0]  Give me the access to the data set to give me the Jupiter notebook libraries that I need and I will get something going
+[0:11:23.8]  I think that's really who do you agree with that assessment? Are you feeling moved towards this area and again every time? I think, of course, I also remember students that there's no way everybody will be passionate about every course and teach
+[0:11:36.7]  It would be ridiculous, including the fact that I teach courses in a wide right of topics
+[0:11:41.0]  And if you ask me, are you passionate about every course? A teacher? Of course
+[]			 The answer is no
+[0:11:43.2]  Course not
+[0:11:46.5]  I teach many courses because I have the skills courses
+[0:11:50.7]  It will be quite odd to have so many passions, actually, under the umbrella of computer science
+[0:11:53.6]  Computer science is such a broad topic as it is
+[0:11:58.0]  So if amongst however many percent of you that statistically I would expect to find in this course some people are truly developing some sort of passion
+[]			 But most important, the right attitude to our data science
+[]			 That is really great
+[]			 And I sense that this is happening
+[]			 Um, let me hear from you on the right hand column
+[0:12:22.3]  Where is there room for improvement already? Maybe something that I can correct the trajectory while there's still time
+[]			 2/3 of the semester to go
+[]			 Okay? Nothing like replaced instructor or something like that
+[]			 That's too drastic
+[]			 Okay
+[0:12:34.0]  What do you think we can treat for better? Don't be shy
+[]			 Yes
+[0:12:40.0]  Ah ha
+[0:12:40.6]  Reading assignments
+[]			 Thank you so much
+[]			 You read my mind
+[0:12:44.7]  We didn't rehearse that, but I was about to say I will
+[0:12:49.5]  I will post them on canvas and I will make the structure of which books may have to get a sight of chapters in books because you have to
+[0:13:00.9]  Which book chapters, map to which assignments and which ones are hot for the test
+[]			 You know, we have a test at some point
+[0:13:04.8]  It's an online quiz, whatever you call it exam and starting with the material from the so called book to the Thing Stats book
+[0:13:20.4]  Those are more test likely then the stuff from the first few chapters off under plans, which are basically information about the packages in the syntax and the concepts off python that you need
+[0:13:28.5]  I will not do things such as ask programming questions in a multiple choice format
+[]			 It's kind of ridiculous
+[]			 My opinion
+[]			 So, yeah, a good point
+[]			 I'll make a point of doing that
+[0:13:39.0]  So you expect to posts
+[0:13:45.5]  One is on basically an update on where we are, including a mapping, two assignments and dept coming
+[0:13:57.6]  Examine more test, whatever you wanna call it, and the other one is a reading list or schedule or something so it can be better prepared for the discussions in class
+[0:14:01.9]  Thanks for pointing that out
+[]			 All right
+[0:14:08.4]  The exam will be all multiple choice into in falls or false
+[]			 All online
+[0:14:11.0]  Conceptual
+[0:14:11.9]  Mostly conceptual
+[0:14:15.0]  Okay, we'll have plenty of time to discuss what is heart
+[]			 What is not give you ideas of things to go back and read more carefully and so on
+[]			 Yes, sir
+[]			 The term project soon
+[]			 Good point
+[0:14:28.6]  So out, Nick has room for improvement
+[0:14:30.0]  Discussed on project
+[]			 Okay
+[]			 It should be soon
+[]			 Okay
+[0:14:38.7]  Anymore, least of reminder, But, uh, in fact, to me personally, it's a mental note
+[0:14:41.0]  Oh, yes, we have a turn front
+[0:14:41.9]  So thank you for reminding me of that
+[0:15:02.5]  What else do you think can be improved while we're still at it? With 2/3 of the semester to go, I have a plan to make the grading scheme such that I will drop the Louis grade of the signs and the reason why I'm gonna do that enthusiastic response
+[]			 Okay
+[]			 It's his life
+[0:15:06.5]  Tweak on the greatest king
+[]			 And there's one reason for doing that
+[0:15:11.1]  What? Two, depending on Hong Kong, one is obvious
+[0:15:19.4]  If you have already missed one assignment or didn't do well in one assignment, it will be the one that's gonna be dropped
+[]			 The other one is I know life gets busy
+[0:15:24.4]  I know you have to make decisions in the remaining 2/3 of this master
+[0:15:29.0]  So push comes to shove off and you realize it is horrible midterm in this course or this big project get forced
+[0:15:35.1]  And I can drop one assignment here without any consequence
+[]			 You can do that
+[]			 All right
+[0:15:40.0]  And also gives me a little bit off freedom, too
+[0:15:41.4]  Push up
+[]			 Maybe a larger number of assignments
+[0:15:49.8]  And I first thought because end it will be n minus one that you are actually required
+[]			 What else? Yes, sir
+[]			 Right
+[]			 All right
+[]			 Okay
+[]			 Okay
+[]			 Right
+[0:16:22.5]  So this is clearly for future semesters
+[]			 Yeah, I'm calling it assignment
+[0:16:24.8]  Zeroing quote, referring to the tools
+[]			 Could be a combination of screen casts or something
+[]			 How to Yeah, how to with maybe screen casts or something
+[]			 Good, right, Right
+[]			 Yeah, right
+[0:16:51.7]  Dan, You wish you had just in the setup
+[]			 Okay, beautiful
+[]			 Thank you for your feedback
+[0:17:01.7]  That is always an issue in many courses that have a practical component and this one is no exception
+[0:17:04.5]  Yeah, I think we can handle that with a series of screen casts And what not? And maybe even call it assignment zero with a small weight on the on the great Just as a motivation, Right? Right
+[]			 Yeah
+[]			 Yeah, OK
+[]			 No, I, uh your point is well taken
+[]			 Absolutely
+[]			 Anything else? Yes
+[0:17:27.5]  What a night
+[]			 Okay, right
+[0:17:35.6]  Way
+[]			 We understand
+[]			 You think he's okay? Very being
+[]			 Are we gonna do by hand? Good
+[0:17:43.4]  Excellent
+[]			 Yeah
+[0:17:47.0]  I think that's part of the philosophy behind the course
+[]			 Uh, and I know how students work
+[0:17:50.6]  I've been teaching for you long enough, and, uh, I have a college age son
+[0:17:59.2]  I know from multiple perspectives how most of you think
+[0:18:02.2]  And that's why I tried to give this dream off assignments coming
+[0:18:15.1]  So that's why I sent the number three has been posted a few hours before the class because they know that if you don't have an assignment to work on and not an exam coming up anytime soon, there's a chance you're being kind of an open loop without finding the time to read and do other types of exercises to practice what you learn
+[]			 If you have an assignment
+[0:18:26.9]  Everything connects everything that I'm doing That is by design, actually, and make it is gonna be more August in the Simon over three, perhaps? Perhaps not
+[0:18:36.9]  Is I? Assignments are supposed to teach you new stuff
+[]			 In other words, they're certain things that perhaps you will learn during the course of an assignment
+[]			 That is no slide in no book
+[0:18:48.8]  And I haven't mentioned in Clark and gets perfectly fine because it's, ah, very realistic way by which we learn
+[]			 Is that okay? All right
+[0:18:56.7]  Any other suggestions for improvement? Yes
+[]			 No
+[]			 Yes, I see
+[]			 Okay
+[]			 All right
+[]			 Okay, okay
+[]			 Right
+[]			 Let's talk off line above this to see if we can find a good compromise
+[0:19:45.0]  There will be assignments coming up in which the issue of cleaning up will come up more heavily
+[0:19:47.9]  It did come up briefly here and there in a few of the questions off the 1st 2 assignments
+[]			 It will not come up at all in the same number three can tell you right away
+[0:19:58.7]  The latest that is a simple is more complete and straightforward as it gets, but it may come back up
+[0:20:09.7]  Uh, it will hopefully at a level of difficulty that makes sense
+[0:20:17.8]  Maybe we can talk a little bit more off lines if we find a good compromise between something that is still effective for teaching purposes and yet a little bit more realistic than the traditional textbook for online courses
+[]			 I mean, really think about it and maybe get some specific input from you
+[]			 All right
+[]			 Anything else? I think that's good
+[0:20:35.8]  All right, so that's kind of a status report
+[0:20:37.3]  Interactive
+[0:20:44.6]  Uh, assessment off where we are, which I think is always a good idea to have you got is a formal instruments that some people have no mid term survey or something like that Sometimes work sometimes
+[]			 And for once again, for those of you watching the recording, you're welcome to give me your input on these things
+[]			 The discussion board
+[]			 You can create a form for that
+[]			 If I don't do it before you start writing, that's all
+[]			 Good
+[]			 All right
+[]			 So what we have for today, we have a saying number three, which we'll talk about in a little bit
+[]			 And is that started or the solution they started? Okay
+[0:21:19.3]  And we have the We're gonna continue discussing what I called lecture threes that is ex parte one
+[]			 Never mind those numbers
+[]			 The only thing that has to make sense idea is that three comes after two and before for or something like that
+[]			 So if something has a part one part two, if I have to escape a chapter or so, just be mindful that it's all done in your best interest
+[0:21:40.8]  In fact, this is true for this coverage off the so called book Two Things That's by Downey I am covering today hopefully topics or chapters 234 and seven because they're the ones that match a same number three
+[0:21:53.8]  So I am skipping chapters five and six today on purpose
+[0:22:01.5]  So spoke about that last time just to put our minds in the right frame
+[0:22:04.8]  We are transitioning from analytics tree statistics
+[0:22:37.7]  Can anyone say quickly in their own words? What does that mean? Which types of things come up when it across the bridge, from analytics to statistics, inferences, further things, summaries, meaningful summaries, ations through statistics off, measure of central tendency or distribution and so on? What else? Extrapolation is a good word to use what else? Visualisation organization is already in the analytic sense
+[0:22:50.9]  But in the statistics sense, it will always be a helpful to absolutely what else? Prediction
+[]			 Yes, absolutely
+[]			 One could say uncertainty because it's ah, on important component
+[0:23:03.4]  When do analytics There's a certain degree of certainty
+[]			 The data is what it is
+[]			 You can slice and dice, but it is what it is
+[0:23:13.7]  With statistics, you have to quantify belief or uncertainty or likelihood or things of that type
+[0:23:19.6]  We spoke about this diagram here that shows the data science work flow from the perspective off another book
+[0:23:33.2]  I will not repeat that in the interest of time, and we also spoke about how much of what we do or we have done so far has bean transformation visualization of data
+[]			 We're starting to get in the part where we actually do the modeling
+[0:23:45.1]  And based on the feedback I got from one of you, the importing in tightening up of the has been made easier for us until now
+[]			 But we can make that a little bit more complex if it makes sense and when it makes things
+[0:23:57.4]  We then watched together this short video by Cassie causing corn
+[0:23:59.2]  I'm gonna watch another video off hers today
+[0:24:04.5]  Um, Justo Transition one
+[0:24:05.3]  Step further into the terminology off
+[0:24:10.4]  What is that we're doing now? This is a quote by John Turkey, who is highly regard this the main name in exploratory data analysis
+[0:24:24.4]  A statistical thinking perhaps, And he wrote far better on approximate answer to the right question, which is often vague, then an exact answer to the wrong question, which can always be made precise
+[0:24:34.6]  You couldn't interpret this statement in a number of ways, but the way we are interpreting in the context of this course, of course, is twofold
+[0:24:43.3]  Number one, we hope to be improving our ability to ask the right questions, and in fact, you can do that already in the existing assignments
+[]			 In fact, in a sign it over to even ask a stupid question that you can easily answer writing python code that makes no sense whatsoever
+[0:25:09.0]  What was that? The mean average off all movies bar all users in the movie lands one million data set
+[]			 You can compute that and you get the number
+[0:25:13.8]  I don't know three point something, if I recall correctly, and what does it mean? Nothing
+[]			 But if you think that question, it's a stupid question
+[0:25:20.6]  Of course, you will never say that to my face, but it was done on purpose
+[]			 I'm asking the wrong question
+[]			 Easy to compute, completely useless
+[0:25:29.3]  As a result, if you subtract one dimension, it becomes a meaningful question
+[]			 Off home movies
+[0:25:34.6]  Which one has the highest rating or the average? What is the average waiting for for all movies by one user? It makes sense
+[]			 Or for a certain movie by all users
+[0:25:49.2]  It makes sense in one sense, you kind off in percent about the quality of the movie
+[0:25:54.2]  In the other sense, you kind of for something about how generous that person is with their ratings
+[0:25:54.9]  Justice professor can be generous with giving better grades and so on
+[]			 But if your answer, if you ask the wrong question, if you even if you produce an exactly answer, which you do right in the line off by phone code, it's completely useless
+[0:26:12.7]  So the second aspect of his statement is the exact versus approximate nature off the answer
+[0:26:22.4]  As you may remember from Kasi's video that we watched last time in analytics, we get exact answers
+[]			 Things are where they are computed properly
+[0:26:30.4]  If there's no bug in your coat or something
+[0:26:37.5]  It's exactly answered in statistical inference is that these two go analysis prediction probabilistic modeling whatever phrase you want to put their, you'll get approximate answers to questions that we hope are meaningful, by the way
+[0:26:56.5]  For those of you who think off approximate answer in the context of statistical analysis and immediately jumped to the phrase statistical significance, hold that thought
+[0:27:06.3]  I'll get back to that with the vengeance in a few weeks time
+[0:27:15.3]  Okay, statistical significance is a sore spot and something that is often misunderstood, misused
+[0:27:20.4]  So hold that this is a diagram that I borrowed from a very good online course
+[0:27:25.3]  Wrong Stanford University
+[0:27:31.1]  And it reminds us off the ecosystem in which the exploratory Dayton houses that we have been doing so far or e
+[]			 T
+[]			 A for short exists
+[0:27:50.0]  So it also introduces some terminology terminology such as population, which is in this case represented by this large greenish circle with the butts in it
+[0:27:54.5]  Terminology such as exploratory teeth analysis, probability, inference and so on, and it shows the cyclical nature off this process
+[0:28:04.2]  We have been spending time so far going from what would you call this a smaller circle here
+[0:28:11.4]  Sample or sample data, Thank you very much
+[0:28:18.2]  So you're going from samples off a population and doing enough extra authority than else's toe
+[0:28:19.4]  Understand, visualize
+[]			 Make inferences, simple inferences, if you will, and answering in a formal way certain questions and testing
+[0:28:32.2]  Also in an informal way
+[0:28:33.3]  Certain hypothesis
+[0:28:46.2]  Okay, let's hear from Cassie one more time with another short video to get the terminology right in terms of population and to have her own unique style of emphasizing how important this concept off population is
+[0:28:52.4]  Let's dive into the language off statistics
+[0:29:03.2]  What comes to mind when the typical human thinks off the word popular lots of people and doesn't have to be people things, viruses, computers, hard disks? What have you so definition? Like all the things, Yes, that's what's coming to mind living like that, a collection of all the items that were interested in
+[0:29:13.8]  We've got this emphasis in the same place where you wanted to put it
+[]			 All the things
+[0:29:20.2]  Let's shift the emphasis to where it ought to be
+[0:29:26.8]  Here, the population is what we are interested in for the purpose of making our current decision in fact, this is gonna be a legal contract in statistics, in that sense off the truth, the whole truth and nothing but the truth
+[]			 The population, the whole population, nothing but the population is what is interesting for your decision
+[]			 Only the entire population is interesting to anything else but the entire population
+[]			 Yes, by legal contract
+[0:29:47.6]  Boring
+[0:29:53.2]  So P is make sure that all your definitions reflect this and that you have carefully and properly specified what is actually interesting to you
+[0:29:56.3]  So please make sure that you find your population to be that thing
+[]			 That is interesting for your decision
+[]			 Let's make a visual
+[]			 I love unrealistic examples
+[0:30:03.5]  All my grampa lt's unrealistic
+[0:30:05.5]  Here we have some first floating on some planes in space
+[0:30:06.9]  Cool
+[]			 These trees are our whole population
+[0:30:09.7]  So we are getting desperately excited about these trees
+[0:30:13.6]  Any trees that you don't see pictured here dead to you
+[0:30:17.8]  This tree right here, boring
+[]			 It is not your whole population
+[]			 Only all of them together are interesting to you
+[0:30:24.6]  What is a sample sample is any substance
+[0:30:36.4]  Any sub collection from a population like those trees labeled orange or those either is a sample, one might be a better sample than the other, or both samples on observation is one single measurement in the sample, like this blue one over here
+[]			 So So let's dive in
+[0:30:45.7]  Um, I think she makes the point
+[0:30:46.9]  She drives the point across quite nicely
+[]			 The population is everything we want and all that we want
+[]			 Nothing beyond the population is of interest to us
+[]			 But of course, typically, in order to make inferences about a population, we have to rely on subset simple
+[]			 And that's why certain aspects, such a simple bias reasons is so important
+[0:31:13.1]  That's why aspects such as remove off out fliers are important
+[0:31:25.2]  And so so in case you haven't noticed yet, we have switched officially to the so called textbook to a week ago or so, and we are going through it almost impurity
+[0:31:25.7]  Sequential fashion
+[]			 The first chapter off this book deals with exploratory data analysis
+[0:32:05.0]  We saw that together last time, and it also helped introduce the data set that the book uses quite a bit, which is the National survey, our family growth and S F G, which deals with the pregnancy rates and associated information births and um allows you to answer questions such as Do first babies arrived typically earlier than second or third babies from the same mother or something like that? In fact, in rephrasing this question, I am reminded off how questions have to be precise
+[0:32:14.5]  And if you are reading the book, you you may have picked up on what I just said
+[]			 If you go back to the beginning of the book Chapter one, you'll see something like that
+[]			 If he's off
+[0:32:29.1]  The entire book is that data combined with practical methods, can answer questions and guide decisions under uncertainty
+[0:32:36.3]  And then soon after that, uh, in the spirit off anecdotal evidence usually failing and a question of personal interest, the author points out of this question off
+[0:32:50.4]  Do first babies arrive late? We're already It doesn't matter how you ask, right? And then he spends a fair amount off space and time
+[0:33:18.7]  Number of pages, lines of cold, uh, answering that question in a way that is based on the entire sample and, interestingly enough, looks at the entire population and, um doesn't quite take into account whether the first babies in question car relative to their mothers
+[0:33:25.6]  In other words, it's a collection of first babies, not marry that mother had a second or third and a collection off 2nd 3rd 4th babies
+[0:33:46.9]  Never mind how the the math of the pregnancy off their eldest sibling turned out to be eventually in the exercise at the end of the chapter or so the author goes back to that question when the future chapter can't quite remember saying, Maybe I should have phrased, the question is likely differently
+[0:33:53.0]  And then he provides cold test The I bought This is informally as it is in that sense
+[0:34:00.8]  So what do you remember from the N S F G Psycho six data set that we were officially introduced to last week? It's a realistic data set
+[0:34:10.6]  It comes out off the CDC
+[0:34:13.4]  It exists in a government maintained website
+[]			 It has very clear goals
+[0:34:29.8]  It has, uh, what about the sampling? Do you remember anything from what we said last time? It over simple, certain demographics
+[0:34:33.3]  It's particularly interested in questions that are socially relevant
+[0:34:34.8]  Such a stink pregnancy, for instance
+[]			 In fact, when you go the plot off the hist a gram for age, you see a surprising number off mothers at a younger age in the sample
+[]			 And that's the on purpose
+[0:35:01.9]  Um, the book in this chapter provides your python code for important data doing exploratory days and houses, using pandas data frames, teaching a little bit of all data cleaning a little bit about validation and interpretation
+[]			 And we went through this notebook together last time
+[]			 If you missed the point, you can go back to the recording and double check
+[0:35:15.5]  Um, that's basically it is a recap for Chapter one Chapter two, 34 and seven O
+[]			 R
+[]			 There
+[0:35:39.9]  Once that introduce history grams probably thin as functions, unity of density, functions and a little bit about scary plots in correlation between variables, I have to say, as I always do, very frankly, that there are two things about this book that I'm not a big fan off
+[0:35:54.6]  One I mentioned last time this idea that the author chose to create their own classes for certain operations that one could easily d'oh without resorting to the cold provided by the author
+[0:36:07.0]  This has turned out to be a little bit of a problem creating the assignments because I want your ascendant Serbia's general is possible
+[0:36:11.7]  So what I did, starting with the same number three's
+[0:36:13.1]  Even if the assigned in matches concepts from the book, You are not to rely on any cold from this book
+[]			 And as you absolutely want to, you may have very good reasons to do so here and there
+[]			 But I don't think there's any reason in assignment number three
+[]			 Okay, so be mindful of that
+[]			 Uh, the other thing that I kind off I don't really love about the book
+[0:36:43.3]  I think it, uh, takes a while to go through something that I believe is pretty straightforward
+[0:36:46.1]  So stop Chapters 234 Could be, uh, perhaps margin in which after something
+[0:36:57.5]  But then again, each book author has their own philosophy for how they want to split, merge and what not
+[0:37:10.6]  So, um, let me go to the book and switched the chapter two, not 11
+[0:37:11.1]  Too early for that
+[0:37:30.9]  And go to the Jupiter notebook containing Chapter two's code one
+[]			 That's three
+[]			 And that's true
+[]			 Okay, so we can look at these things together
+[]			 All right, So, um, Chapter two talks about distributions
+[]			 Let me make one thing clear
+[0:38:04.1]  Um, we must be careful with our vocabulary in the scores, and I may be on offender off this policy here and there because I occasionally slip and years terms in a less strict way than they should be used
+[]			 But we should do our very best
+[]			 Two used the proper terminology to know exactly what we mean when we say certain things
+[0:38:23.7]  So let's start with ah, award
+[0:38:29.9]  That was already because for mild controversy in the past, the wording question is history
+[]			 Graham
+[0:38:33.6]  Right? So the definition of a sta graham is a graph that shows the frequency of each value in distribution basically a number of times that certain values appear
+[]			 And that is correct
+[0:38:50.9]  So if frequency means simple count, the author of this book calls it a history Graham if it's converted to normalized count
+[]			 In other words, probability
+[]			 It's called a P M f
+[]			 A probability mass function
+[]			 And for reasons that are beyond me, those things are to separate chapters
+[]			 Never mind, we can
+[0:39:07.3]  We can live with that so my going over Chapter two with you will be very critical off things that I think you have to absolutely pay attention and things that I think Wow, it was an author's choice
+[0:39:22.4]  You can go without So, for instance, do we really, really care about the authors on hissed class for representing computing his programs? We don't
+[]			 With all due respect, we don't
+[0:39:28.0]  There are enough resources out there in met blood
+[0:39:31.2]  Leave Mumbai
+[0:39:32.5]  Panders
+[0:39:35.2]  We're not that allow you to compute Teesta Grams without having to resort to the author's methods
+[0:39:39.4]  Same thing for plotting
+[0:39:47.2]  We care about times in which the author will bring us back to the N S F g verbose the NSF G data set? Absolutely
+[0:40:07.5]  Okay, so why What What would be the use of this data set in this context? So let me, uh So the first thing will be, um this should be in my in my power point
+[0:40:12.1]  I make them, um, came the secrets that I think is more natural
+[]			 Okay, this is ah, history, Graham
+[]			 As in the author's notion, that is absolute count, not probability or percentage off occurrences off births in which the available of interest is the birth weight in pounds
+[0:40:40.3]  And we look at every roll of data and we add up the occurrences in which the birth await waas six or seven or eight bonds and so on
+[]			 You should remember this, Data said
+[]			 There's a technicality in the original data set
+[]			 There's a column for pounds, a column for houses
+[0:40:54.9]  And in one of the modifications that the author proposes, a new column called Total Weight is Created
+[0:41:11.7]  Okay, so when you look at this plot, what does it remind you are? Does it bring to mind the distribution that you know by name Carlson or normal distribution? It does if it's purely Gulshan or normal
+[0:41:19.2]  In other words, if we were to estimate what is the meaning in the standard deviation and draw the analytical equivalent on top of the empirical, want to see how it matches? We can learn how to the debt we will learn very soon, but we can say, Yeah, it's approximately 1000 in shape
+[0:41:41.3]  Does it have a mode? Does it have a number of pounds that is clearly predominant? Yes, and that is £7
+[]			 So far, so good
+[0:41:46.9]  If you look at the residual, if you will, the component off the ounce part of pounds announces you see a distribution that is approximately
+[]			 This is reminding off another distribution that you know my name, uniforms, approximately uniforms without suspicious mode at zero, which is probably due to rounding up right
+[0:42:19.2]  So chances are, baby, that is £7 in a little bit, not quite announced
+[0:42:20.9]  His round 27 is opposed to 71 and so on
+[0:42:32.5]  So no surprises here in spite of the over sampling, because this has nothing to do with age, for instance, or demographic right in spite of the sample size
+[0:42:42.7]  So if you make comments such as the birth, weight in pounds is approximately destroyed in a normal for girls in fashion, you're not saying anything wrong
+[0:42:54.3]  If you make common, such as this doesn't surprise me being uniformed in nature, except for the part where the rounding up effect may take place
+[]			 And if you look at the bar that comes after the zero or before it, which is 15 they basically suffer the effects off the around the right
+[]			 They are the lowest bars of all, because you're rounding up or the rounding down it's up
+[]			 Some of the data points every access for you
+[]			 All right, Okay, Now you can plot history grams for other variables
+[]			 This one is an interesting one
+[]			 In the context of this study is the age off pregnancy
+[]			 Uh, and there's a technicality that you always have to ask
+[0:43:40.4]  Is that the age of the mother at the beginning of the pregnancy or, at the time off, successful birth or otherwise, a different outcome? If you read the book, it will say explicitly, which one it is
+[]			 In fact, it's right here the mother's age at the end of the pregnancy, whether successful or not
+[0:43:59.2]  Here, you see that the mode, the tallest bar, is at 21 years of age
+[0:44:08.4]  And can anyone here give a name to this distribution? It is positively skewed
+[]			 In other words, it is skewed to them, right? It has a long day on the right
+[]			 That's OK
+[]			 That's not quite in the name that I was thinking
+[]			 But it's a correct observation off its nature, its shape
+[0:44:40.5]  What else can we say about it? Does it reflect the over sampling aspects? Possibly one could say that the distribution off age of pregnancy may not be representative of the population off the US at large, you may find surprisingly high member off teen age pregnancies, and as you remember, this is part of the goal of the over Sampley
+[0:45:05.5]  And if you if you like to give names to to the distributions or to try to fit analytical models, good candidates would be exponential or really or other types of distributions like that, which we haven't covered yet
+[]			 Technically, the book they appear in Chapter five and they come back again in chapter age
+[]			 All right
+[]			 Okay
+[]			 They think that's it
+[]			 And another history
+[0:45:38.7]  Graham, here is the pregnancy length as a function of the history Graham of the pregnancy Live, which is measured in weeks and has, uh, the mode quite prominently in the 39 week been all right
+[0:45:55.1]  So is it house in like One could claimed that with a very small standard deviation in a very pronounced mode, but we don't need to call it by name
+[]			 Okay
+[0:46:01.6]  Finally, one could use history grams to compare sub groups within the data off interest
+[]			 In this case, the pregnancy left for first borns and others
+[0:46:18.5]  By plotting the Houston Graham's side by side and giving them different colors, the author will make a claim which would be quite easy to see in a few hours lights that for this type of comparison, instead of using the hist a gram or the probably mass functions
+[0:46:36.3]  Better to use the cumulative density function, and we see examples of their coming up
+[0:46:50.7]  But before we go there, what can you tell me when you look at this slide at this? Houston Graham, Can you say something in regards to our question? The question that motivates the book author, which is Do first babies arrive late? What early depends on how you ask the question
+[]			 It's in the spirit of the exploratory data analysis without running any test yet, Right? Um, if you look at the bars were first on other up to and including 40 weeks
+[0:47:30.0]  The number of first babies that arrive at 40 weeks or less see 40 39 38 37 is less than other babies
+[0:47:36.1]  If you look to the right of it, it inverts, it switches and the number of first babies arriving at 41 or 42 or 43 weeks, which is close to the point where medical intervention is needed
+[0:47:57.5]  Uh, it flips the number of cases in which pregnancies drag longer is higher for first borns than for other babies
+[]			 Clearly, we're not in a medical knowledge position to explain why this is so or anything like that, and chances are working as they the scientists
+[0:48:19.0]  We wouldn't give the expert in the reporting phase of that cycle that we have spoken about the elements they need to make such technical observations
+[]			 So far, so good
+[0:48:29.1]  We go back to the book room quick, just to see what else deserves, uh, highlighting out liars
+[]			 Our players, of course, are, uh, term that appear quite often in our discussions
+[]			 One reason why
+[0:48:52.0]  Let me ask you, what are the reasons why we talk about outliers or why does the book authors say it is always a good idea? I'm introducing the word always to check for outliers
+[]			 Why such a good idea? A couple of reasons
+[0:49:19.8]  Okay, so let me rephrase your answer by saying all fires are important gifts because they may point to some imprecision inaccuracy in the data collection, I agree
+[0:49:25.4]  One good reason to check for a pliers
+[0:49:29.3]  If kept unchecked, they may skew some of your statistics
+[0:49:37.1]  They may even buy as your analysis, or they may give importance to points that shouldn't be there to begin with
+[]			 That's a very good point
+[]			 Why any other reason why we should check for a liars
+[]			 I think those are very good ones
+[0:49:53.3]  Um treat Question
+[0:49:57.7]  Can you go about treating happier data, removing out flyers without any expert knowledge off what data set is all about? The safe answer is no
+[]			 So in this case here, we have an interesting example
+[0:50:12.2]  We have a list of pregnancy lengths for life
+[0:50:13.4]  Burt's successful birds and the 10 lowest values are zero for nine et cetera
+[0:50:18.8]  22
+[]			 So look at what the author wrote that is below 10 weeks are certainly errors
+[0:50:24.8]  None
+[0:50:29.7]  No one needs to be a medical doctor or an obstetrician
+[0:50:36.5]  To say that this is and they are values higher than 30 weeks are probably legitimate between 10 and 30
+[]			 It's hard to be sure some are probably are
+[0:50:43.2]  Some may represent premature babies, so very cautious way of framing the problem
+[0:50:49.9]  And, of course, this was just a assorted list off the smallest values for pregnancy length four life births in the data set
+[0:51:10.6]  So if you go to the other end of the range, you see that there are 4348 instances off pregnancies that lasted 43 weeks
+[0:51:13.5]  46 at 44 weeks and so on
+[0:51:16.8]  And once again, most doctors recommend induce labor if a pregnancy exceeds 42
+[]			 So some of the longer values are surprising
+[0:51:26.5]  In particular, 50 weeks seems medically unlikely
+[]			 Here, folks, you're learning how to write your reports
+[0:51:33.2]  You are touching upon the reporting phase somewhat those air correct and carefully chosen words to use when it comes to that
+[0:51:44.6]  So look at the other remark
+[0:51:46.7]  The best way to handle liars depend on domain knowledge, information about where they come from and what they mean
+[0:51:52.4]  It depends on what analysis you're planning to perform, so sometimes you will do
+[0:52:06.3]  Okay, How do you handle all liars? Okay, I think many people in this room myself included the first idea that comes to your mind
+[]			 This
+[0:52:09.7]  Remove them, replace them, get rid of them
+[]			 It's not necessarily the case, at least not in the drastic sense
+[0:52:19.1]  In fact, one has to be careful both out Flyers in cases where, say, there's one column missing a date, a friend
+[]			 But the row in which the column is missing is of a rare event
+[0:52:27.8]  You don't throw away the entire occurrence of that rare event because one column is missing have better that we'll go back to their
+[]			 So here the author makes a decision
+[]			 I will focus, says the author on pregnancies longer down 27 weeks
+[0:52:51.7]  So what this means is that they chose last data in 27 weeks or larger, sometimes is lice in just for the sake of plotting, sometimes creating additional variables, They're counting on Lee that subset
+[0:53:06.2]  All right, So for those of you who may or may not have paid attention to the X X is in the history, Graham comparing first another that I showed you earlier it is truncated between 27 46 weeks, even though their data points to the left and to the right off those which the author claims are not likely to be meaningful
+[]			 All right, Okay
+[0:53:22.6]  Going back to vocabulary
+[]			 These are things that will be on the test, by the way
+[0:53:29.3]  You need to be comfortable with terms such a central tendency
+[0:53:43.0]  Do the values stand to cluster around a particular point modes? How many clusters or humps or groups are there clearly distinguishable in the history Graham spread? How much variability is there? in the values tales
+[0:53:53.3]  How Billy probably drop off as we move away from the molds out fliers are their extreme values far from the moats
+[]			 In order to capture some of these things, you have what is known as summary statistics
+[0:54:09.7]  And in this book, the author introduces mean, very straightforward concept to express central tendency describes the use of the word Ming has been better than average, so let's try to stick to that as well
+[0:54:19.2]  Talks and defines mathematically what variants and standard aviation are and what they do
+[]			 Basically measure the spread all of its or, I believe, well known factors and doesn't go much further depending on the book or the course
+[0:54:37.7]  You would continue with the summary statistics and do things such as secure nous or courtesies or things like that, in this case only means that a deviation of arians and moving on to something else or go back to those ourselves later
+[0:47:30.0]  So, um so it's easy to look at, say, the the life birth subset, and say What is the mean in terms off length in a number of weeks and you get something such as 38
+[0:19:52.9] 6 weeks What is the standard aviation? 2
+[]			7 weeks
+[0:55:07.7]  What is the problem with parents? Various is hard to interpret because the units in this case will be weeks squared or squared weeks, and it doesn't make much sense
+[0:55:20.7]  Standard deviation is easier for human interpretation of the one is simply describe it off the other
+[]			 All right
+[]			 The next bit of discussion in this chapter is the effect size
+[0:47:30.0]  So the main pregnancy length for first babies is 38
+[0:47:30.0] 601 for other beings is 38
+[0:55:37.5] 5 to 3 in weeks
+[0:55:39.8]  If you do the conversion, this works out to 13 hours
+[0:55:51.4]  So basically, in this rough early analysis first baby stake in average 13 hours later, more longer than other babies to arrive
+[0:56:01.9]  Is that reasonable? Is that significant? I'm using the word significant, uh, carefully here
+[]			 Okay, so one way to see the size often effect is toe compute
+[0:56:38.1]  The coin's D value our deep statistics, or Cohen effect size, which is a simple um, computation, which takes into account the average is off the two groups and combination off the products off various times, size or length, divided by the sum of the lens
+[]			 So there's a python implementation of Cohen effect size for you here
+[]			 And if you do that for this particular case, you'll see that the difference in means is 0
+[]			29 Standard deviations
+[]			 So basically, this is a great way to normalize the difference not in hours or weeks, but in how many standard deviations
+[]			 And just to compare with something that we all understand is this
+[]			 Wow, it looks small
+[0:57:10.5]  Tow us
+[0:57:15.8]  But what is the difference? Say, in standard deviations in height between men and women? According to Wikipedia, that's 1
+[]			7 standard deviation
+[]			 So clearly, 0
+[]			29 is probably not significant enough to say
+[0:57:27.8]  We have affirmed conclusively that first babies do indeed arrive a little bit later, then other things you can say that they do
+[]			 You can say that they do, in average 13 hours or so
+[]			 These are backed up by the data for this sample
+[]			 But the significance of that is to be discussed and look at the bit about reporting results
+[]			 So how significant is that? 0
+[]			29 standard deviation
+[0:57:58.1]  It depends on whom you ask
+[]			 So the author makes this in my opinion useful comment by saying that if you want the spirit off science in general, you may be interested in any really effect, no matter how small
+[0:58:22.9]  And then you run some statistical significance tests to see if it is worth reporting if the community, the scientific community at large, will accept it
+[0:58:26.6]  A doctor, however, might only care about effects are clinically significant
+[0:58:28.3]  In other words, differences that effect treatment decisions a woman of pregnant or pregnant to be woman might be interesting
+[0:58:36.9]  Results are irrelevant to her, like they probably took delivering early or late
+[0:58:47.0]  So we have to be mindful off what the effect size Cohen statistic computations amount to
+[0:58:57.7]  Yeah, significance depends a lot on who is the entity very waiting that does that make sense? So we'll probably have an assignment four or five something, too, to flip the question around
+[0:59:13.7]  In other words, to ask, Am I better off doing X or why? Okay, and then you you look at past data in that domain and you say OK, there's enough evidence to say with this degree of significance that X is better than why
+[0:59:42.1]  So I will probably do X instead of Why? All right, uh, the exercises in this chatter are not Oh, that inspiring
+[]			 But still, I will have, like, a couple of them
+[]			 Um, this is an interesting one
+[]			 Uh, based on the results of the chapter
+[0:59:54.1]  Suppose you were asked to summarize what you learned about whether first babies arrive late
+[1:00:05.6]  Which summary statistics would you use if you wanted to get a story on the evening news and which ones with the use if you wanted to reassure an anxious patient
+[]			 So let's see if we get there Spirit of these two questions here
+[]			 So to get on the evening news, I don't know if you really want that
+[1:00:25.6]  Okay, What summary statistics would you use mean pregnancy left, plus reminders, distended aviation or anything else? It's 13 hours for the evening news
+[1:00:35.4]  Makes a lot of sense
+[1:00:38.6]  Okay, Now, how about reassuring an anxious patient who's more likely to be anxious first time moms Or first, my mom's right
+[1:00:58.3]  So if you know for a fact to read it, you can say that that first babies think in average 13 hours longer, you can Perhaps we assure an anxious patient that this is statistically common occurrence although the big scheme of things, the time the mother to be, maybe labor or something will make those 13 hours much less relevant than one would like to think
+[]			 All right
+[1:01:34.9]  Interestingly enough, I I found a link to a new story on this topic that that points to to this particular professor book author being interviewed
+[]			 I thought it was in my slice, but I didn't put it here
+[]			 Okay, The the other exercise its own was, ah, writing exercise here, if you are, see
+[1:01:51.4]  So Adams, who for more than 40 years ran a very popular newspaper column called Straight Dope
+[1:01:56.6]  You giving straight is it to read scientifically backed up? Answer to popular questions
+[]			 So if you were see So Adams and your job was to answer the question, the first babies arrive late
+[1:02:07.4]  How would you write a paragraph that uses the results to answer the question clearly precisely in honestly
+[1:02:12.6]  So those are good exercising, reporting, Okay, the other exercise that is worth noting ISS 2
+[1:02:30.7] 4, which is basically asking another question, do first babies way more than subsequent siblings? Are they lighter or heavier than others? And there is code for that in the notebook
+[]			 So let me go to that part off the notebook just to look at the code and to run it
+[1:02:50.5]  Yeah, here is See if I can make this bigger
+[]			 Okay
+[]			 With two
+[1:03:02.2]  Big
+[]			 So use the terrible total weight in pounds to investigate whether they are lighter or heavier
+[]			 Let me do a run all above to make sure that I got all these things after here
+[]			 Oh, here we are
+[]			 So the computation here is a simple step
+[]			 And you get that the first babies way in every 7
+[0:19:52.9] 2 pounds and the other 7
+[1:03:38.6] 32 58 etcetera
+[]			 So they are in average lighter, then 2nd 3rd babies
+[1:03:48.9]  Is this statistically significant? Or how the Cohens effect size work for this? You calling? In fact, size is negative 0
+[1:04:07.7] 887 What does that mean? So we just one example in the book itself for the going effect size for pregnancy Land waas Positive 0
+[]			29 Standard deviations
+[]			 Right
+[]			 That was considered small
+[]			 Here it is roughly three times is big in absolute terms
+[1:04:30.3]  And why's it negative? Because you are comparing a parameter that goes down between the reference first babies and the others
+[]			 So wait goes down
+[1:04:34.7]  Pregnancy land goes up
+[]			 That's the only reason, right? And, um, it's three times as significant as the pregnancy length question that we started off with
+[]			 Okay, that's all we can say
+[1:04:52.0]  Careful with extrapolating this by saying things such as, I am three times more convinced that baby's first babies are lighter than subsequent ones than I am that they arrived late or something
+[1:05:13.7]  It's not because something appears as a number and numbers are easy toe compute and compare that the computational comparison necessarily make sense
+[]			 Okay, so we'll go back to that when you get a statistical significance
+[1:05:23.8]  I'm just give you some glimpses here, There
+[]			 All right
+[]			 Okay
+[]			 That other exercises that only exists in the notebook not on the book itself, for some reason, one that has to do with the total income for the respondents family
+[1:06:14.5]  And the question is, what is the relationship between the income category and the it's taking forever to? Oh, you're here and the number off pregnancies in the data set, and here you will see that there are many more cases off women in the category labelled as 14 then elsewhere
+[1:06:20.2]  So first things first you have to know what for teaming
+[1:06:39.6]  So there's a convenient link here to that part of the code book, which, when you look at it, basically means that annual income has bean re coded so that depending on the bracket that the family total income is situated
+[]			 You get who called it with the value on the left hand column
+[1:06:56.9]  So 14 basically meant households that made 75,000 or more a year in the year of this study, which, uh, was whatever, whatever it costs 2000
+[1:07:05.2]  Do you think so? So that's any excuse program
+[]			 All right? Okay
+[]			 What can you say about that? Can see many things
+[1:07:14.5]  Get anyone venture a few comments about this
+[1:07:24.5]  It's one of those things you do An exploratory data analysis, right? How many samples are they're coming from? People in different brackets in terms of income
+[1:07:35.1]  What can you say about that? Over sampled on there, More affluent side
+[]			 It looks that way, right? There's always the bidding effect
+[]			 Remember that
+[]			 We'll talk about that
+[]			 I get it again
+[1:07:44.5]  Again
+[1:07:47.3]  So if the history Graham Binns, which in this case map one toe one
+[1:07:50.1]  The Benz in which the brackets off income were created were different points
+[1:07:55.4]  Would shift to the left or to the right
+[]			 Where they are in the instagram shape would be different
+[1:08:05.3]  I think that's you understand, But there will be an explicitly off playing with that in assignment laboratory
+[1:08:10.4]  Okay, so here you're basically reporting what? 0123 to 14
+[1:08:13.0]  But if the designer of the code book had created those brackets differently, certain points would fall in different brackets
+[1:08:20.8]  Different beans
+[]			 All right, now, this is about the age
+[]			 Remember when we said it's over, sampled on the younger side? So here's distribution off
+[1:08:35.6]  How many data points are the airport age at the beginning at the time off interview? Not at the beginning of pregnancy at the time of interview
+[1:08:55.8]  Okay, and here we have, ah, distribution that one could say, it's almost you reform, and you could say where the second Professor, he seemed to be contradicting yourself if this is almost uniform
+[1:09:08.5]  But you say, based on what the book says that it has been over sampled on the youngest side, what cop can I make sense of these two statements, but I'm saying in terms of distribution is that the over sampling on the younger side made the distribution look more uniformed
+[]			 Then it would have bean
+[]			 If you just sample from the general population
+[]			 Does that make sense? Okay
+[1:09:43.4]  And the other one is How big is the household? Okay, so how many people are there in the household? So you have a distribution with a mode off to people, with one and three being highly represented And, not surprisingly, it tails off to the right as families become larger and there are fewer and fewer such cases
+[]			 Okay, I think that's are good enough point to stop in terms off Chapter two in down his book
+[1:10:06.8]  Any questions or remarks once again don't overlook the glossary because these are things that we need to know and call by the proper names
+[1:10:17.7]  And we spoke about all these terms during the course of this review of Chapter two
+[]			 Good
+[1:10:20.4]  I stopped about Chapter three, then in Chapter three, the author
+[1:10:25.7]  Thus fundamentally one thing and what is that one thing he converts History grams, which have absolute counts, the length or the height of the bar is the absolute count into probability mass functions, in which case those bars represent not absolute counts, but percentages, proportions, probabilities
+[1:10:53.1]  Okay, so probability mass function, which is a concept that you probably know from courses such a stochastic models for computer science is basically that distribution of probably this from, in the case of the Catholic models, discreet, random variable
+[]			 And this is a point that I may want to go back to
+[1:11:21.3]  At some point, you may remember if you took that plaza any property class, that the expression probability has at least two different interpretations, right? One is what is referred to as the frequent ist approach
+[]			 Okay, a probability off
+[1:11:32.7]  Rolling a pair of dice and getting to one's snake eyes is won over 36 or 36 possible combinations, and this one is one of them, right? That's an expression of fact
+[]			 It's the frequent ist approach, if you will
+[1:11:55.3]  If you go to the weather forecast in your phone now and it says they probably died of rain
+[1:11:57.9]  Tonight is 40%
+[1:12:01.8]  It cannot be the frequencies approach
+[]			 It is a measure off belief
+[1:12:06.2]  Measure off confidence in some cases in this case, a measure of belief
+[1:12:13.5]  So it's believed that with 30% chance or whatever number I gave you, it will rain tonight
+[1:12:28.4]  Okay, so what is the case here? Are we talking about things that already exist? Are we talking about beliefs? Talk about things that already exist
+[1:12:37]  But they may not quite be probabilities themselves on as you find a way to model the problem in the traditional, discreet, random variable way which will see how to do next week or the week after that
+[]			 So here, basically, we're talking about probably
+[]			 They're simply the frequency expressed as a fraction off the sample size
+[1:13:01.1]  We're talking about dividing the account by the total number of items and calling this normalization
+[]			 I have to say I take a little bit of issue with the textbook author on this topic first, because it could have been introduced before second, because normalization means different things to different people
+[1:13:25.2]  So in this case, organization simply means converting to ah proportion
+[]			 Which, of course, if you add up all the proportions, you should get a total off one
+[]			 Okay, so nothing to it
+[1:13:41.2]  So if you plot PMs, what do you get? Well, you get Barbara
+[1:13:41.7]  What's similar to History Grams? And then, for reasons that I'm not a big fan off discussing the textbook author claims that in some cases when you want to compare PMS against each other, the step function plot on the right
+[1:13:59.8]  Of this figure, 31 is better than the side by side bar graph on the left of it, which you are likely to agree
+[]			 It's easy to say for a particular been which of these two values is higher, perhaps if they are displayed as a step function than maybe look at the length of the bar next one another almost a matter of personal opinion, if you ask me
+[]			 But that's okay
+[1:14:31.2]  Um, let me just go back to my highlights here
+[1:14:56.1]  So there's this issue off normalization, their issue of different ways off plotting, And the one thing that I found mildly useful is a reminder that maybe in the portion off the hist a gram or in this case now, since it has been converted to probably probably the mass function that you're interested in, you want to zoom in
+[1:14:58.0]  Nothing prevents you from creating other types of visualization, such as figure 32 which measure the difference in percentage points
+[1:15:10.7]  Bye week, which shows once again that the trend off first babies arriving late is true on one side off the standard length of 40 weeks for pregnancies, and it's reversed on the other side
+[1:15:29.4]  So the the effect that we saw several times already different plots becomes emphasized in this different spot
+[]			 Nothing to it, right? And then comes the most controversial
+[1:15:45.5]  Okay, then the author introduces data frame indexing in pandas, which by now you know extremely well, and it does only a sub fraction of it
+[1:16:01.8]  But before that comes perhaps the most controversial topic in this chapel, which is the class size paradox, and I suggest you read it because it's conceptually an interesting point
+[1:16:11.1]  But the way it's explained is a little bit confusing, so I made a point of that in my slides
+[]			 He effect
+[1:16:18.1]  If you go to the textbook authors think Base, which is another book material, you'll find the class size paradox explained there, perhaps even in a nicer way
+[1:16:27.1]  But if you look at the stock exchange discussion, the discussion reflects my thinking that even though the paradoxes one that one wants to understand the implementation
+[1:16:37.9]  The explanation is somewhat confusing
+[]			 Let me tell you what this class size paradoxes the way it's introduced is in a college in which there are, however, many classes with these number of students per class
+[]			 So there are eight classes that have very small number of students
+[1:16:55.8]  5 to 9 other eight classes stand to 14 students in it and so on
+[1:17:01.7]  And the thing of the colleges asked, What is the average number of students in your process? What is the demon to do? They could figure out what is the average by computing that they're eight instances in which the sizes between five and nine so we can call that 78 instances in, which is between 10 and 14
+[]			 You can call that 12
+[1:17:41.0]  So in the case of the book, they build a little dictionary here with the central value off the class size and the number off occurrences, and then asking for the built in PMF function, which is basically computing the instagram, heading up the council, normalizing off this and extracting the mean value which gives you 23
+[1:17:48.4]  So did the report to the provost or something
+[1:17:53.6]  The average size off our classes is 23 points, seven students per class
+[1:17:58.4]  Okay, then someone decides to asks to ask students, What is the average class size in this size is in the classes that you're in
+[1:18:14.0]  So can you see that there will be a bias there? So if you and the bias is relatively easy to understand, basically, if you are in a large claws or if most of the classes you take our large or if you do the proper averaging off the classes that you're in, you're going to get a larger number or putting it differently, it will be more likely that I will sample students who are in large classes
+[1:18:38.1]  Then soon's were not
+[]			 For the simple reason that students in small classes are hard to find
+[]			 They are small to begin with, all right, so there is the the paradox, the class size paradox
+[]			 So it's a very simple concept to understand
+[]			 But the way the book explains is, in my opinion, not so great
+[]			 And, uh, then the author introduces a python function to buy as the P
+[]			 M
+[]			 F on purpose, or D by as the P
+[]			 M
+[1:19:06.1]  f and I don't pour on bias, and I don't think we should go there
+[]			 Okay, Technically, you should know that it's possible to take that into account by us
+[]			 The distribution basically number since the class or reversed it by his effect
+[]			 But it doesn't doesn't add much value to our, uh, discussion
+[1:19:30.1]  So the the distribution of class size is observed by students in light blue differs from the one that is the correct count, and this can be plotted
+[1:19:48.3]  And of course, it reflects in the mean value that is computed, which you can correct for if you know the actual number of sins but a clause and sore
+[]			 Okay, let's see if the notebook for this chapter has a few other things that are off interest
+[]			 It is perhaps the least interesting chapter in the book so far
+[1:20:09.0]  Um, we saw most of its Useful East programs that we go to the bottom part where sometimes there exercises
+[1:20:17.9]  Yeah, there's an exercise that I didn't bother to to try
+[1:20:20.9]  You're welcome to do so, and it says sometimes the class size paradox appears
+[]			 If your survey children and as coming children and their family families with many children are more likely to appear in your simple and families with No children have no chance to be in the sample
+[1:20:43.6]  So that's the basic concept, and the idea here is if you so desire, go to the N S f G respondent data set
+[1:20:53.0]  Pick up on this variable and build the actual distribution off number of children under 18 in the respondents households and simulate what would you see if we surveyed the children? And so I think it's ah, with all due respect to useless exercise, I keep telling you that I don't like to give you busy work
+[1:21:06.8]  This would feel like busywork to me
+[1:21:28.5]  All right now, the second exercise in this notebook is the one that I mentioned earlier today when the author says, I started the book with the question, Our first baby is more likely to be late, and the way he addressed it wants to compute the difference in means between groups off babies, ignoring the possibility that there might be a difference between first babies and others for the same women
+[1:21:34.7]  What is a woman? Rather? Okay, so can you write code to address this version of the question
+[1:21:44.3]  Select respondents that had to, or more life births and compared the length of their first baby with their second or subsequent baby
+[]			 So here's the code
+[]			 And in case you're interested, um, the difference This is the the Ming off
+[]			 The be a math for the difference already will be in the negative point
+[1:22:19.3]  05 range
+[]			 Which means, uh, probably not significant
+[]			 Okay
+[1:22:29.8]  And still reflecting the same Trant
+[1:22:43.8]  Okay, the other one about races and races in the case off long distance race, I thought was not so great
+[1:22:49.2]  I would advise him not to to spend any time on it
+[]			 Okay, let's see what else is here
+[]			 I'm missing anything
+[]			 Yeah, that's basically it
+[]			 So that's your chapter three
+[1:23:07.6]  Him once again
+[]			 Probably the least interesting chapter in the whole book
+[1:23:11]  Certainly the least interesting so far
+[1:23:13.9]  Perhaps overall, that's what's next
+[1:23:17.8]  The committee of distribution functions
+[]			 And you may remember this from other courses you took, and probably their statistics
+[1:23:37.7]  Basically, what humility distribution functions do, in the case of discreet random variables, is head up the probability off the variable in question, having a very that is less than the veil that your computing it for so eventually it will go from 0 to 1 in a way that, depending on its shape, will reflect the actual distribution
+[]			 So perhaps one thing to keep in mind as we get started with this, especially for those of you who didn't take such courses before or who have taken them too long ago
+[1:24:02.3]  And these things are a little bit dusty
+[]			 Uh, humility of distribution functions are number one easy to compute, straightforward from the P
+[]			 M F
+[1:24:20.7]  Number too convenient in terms of the civilization, especially when you compare two distributions and if you will, redundant in terms of information with the P M F
+[1:24:26.8]  After all, we are just straightforward computations from the PML
+[1:24:30.2]  Does that make sense? Okay, so they waited
+[1:24:30.9]  Textbook offer motivates CDF is by showing what would happen if we were to compare the birth weights off children for all data points in the in the N S
+[]			 F G study
+[1:24:52.3]  Using as a visual tool, the side by side, he still grams
+[]			 It wouldn't be easy to make any meaningful analysis off whether first babies are always heavier or not, and so on
+[1:25:13.3]  So the motivation will be that if we convert those pdf So I'm sorry
+[1:25:18.1]  P m f c p d efs will come later for the street for four continues variables
+[1:25:29.3]  If we convert those pmf sto cumulative distribution functions CDF, we'll have a better, huh? Chance off comparing me to an occasion If you're too curious to see how this will turn into, you can scroll down to figure for four
+[1:25:54.6]  And this is how it's gonna look like to fairly smooth CDF blots, but showing that for basically any point in the range off more, um, frequent waits around seven pounds, give or take
+[1:25:59.9]  Indeed, first babies tend to be less heavy than second or others
+[]			 Okay
+[]			 In other words, the CDF for the first babies will always be to the left off the CDF for other babies
+[1:26:18.6]  Let's take a quick break so you can refresh a little bit
+[]			 And then when you come back, you look at C
+[]			 D
+[1:26:22.4]  Efs
+[]			 Well, look at relationship everything variables, and we're officially talk about the same number thing
+[1:26:30.3]  OK, let's take 5 10 minutes
+[]			 Thank you
+[1:27:32.8]  Go and then goes to the restroom with Malcolm
+[]			 All right, welcome back
+[1:31:45.5]  Before we go back to the book
+[1:31:59.0]  Uh, let me tell you a little bit about Sandra number three because they told you earlier I have always subscribed to the philosophy
+[1:32:06.2]  Hated Assignment should also teach things that are not necessarily in the book or his lives or notes, and I want to highlight some of those things as we go along
+[]			 So it's basically statistical analysis part one, meaning that will give our two
+[1:32:22.9]  And the goals are to enable, hopefully smooth transition from Data Analytics through basic statistical analysis to practice computing and displaying summary statistics percentiles P
+[1:32:34.3]  M s and C D EFS to expand upon your prior experience off manipulating visualizing small data sets to play with plots such as bee swarm plots and box and whisker plots, and to visualize and computer correlations between variables
+[1:32:47.6]  In a data set contrary to the previous two, there is only one block only one day per cent and the data set is the Irish data set
+[1:33:06.7]  It's ah very things data set in the future Pattern classifications, machine learning data science, which basically consists off Patil and supple measurements from three types of flowers from the Irish family
+[1:33:17.4]  Clearly, I know nothing about the subject matter
+[1:33:22.1]  I'm just reporting the names here so well, get used to versus Kohler
+[]			 First caller
+[]			 Suppose a in Virginia
+[1:33:40.1]  And there are basically 150 observations of each, um, our product 50 of each 150 in total, each of which has four features this supple length and with in centimeters and the petal lengthened with in centimeters
+[1:34:02.2]  And it data set is available in a number off places, including places such as, uh, Seaborn, interestingly enough, so you can go to this link at the thing was University of California, Irvine Center for Machine Learning and Intelligence Systems
+[1:34:04.6]  Uh, Porto for data sets
+[1:34:09.4]  And just as we saw before for the miles per gallon, I think itwas you can see more about the data set
+[1:34:20.2]  What are the attributes? Which papers it appeared in and so forth
+[1:34:25.4]  The original papers from 1936 no, I wasn't born at that point yet
+[]			 Okay
+[]			 All right
+[]			 So, interestingly enough, the data set is so popular that in my first cell with cold here, I used it
+[1:34:39.6]  Low data set option from Seaborn, but I could have used it from pandas and a number of other libraries because it's a very common data set to find
+[]			 So here we have it
+[1:34:53.0]  Species is a category type of terrible string containing either settles of Virginia controversy caller
+[1:35:03.7]  The other four columns are straight forward
+[1:35:04.8]  No miracle
+[1:35:42.5]  Positive real numbers with the measures in centimeters and the way we're gonna get started will be by plotting history, Graham, off a particular value available battle man for a particular species First caller just to get something going and you get ah, history Graham in the book sense of the word you not It was with count on the Why X is not percentages or proportions yet and with a number of beans that was selected by default by the hissed function off map lot lib
+[1:35:59.8]  Okay, so your first block off work that it is to write called the number one modify the hist a gram using a different rule for the number of Ben
+[1:36:05.2]  So it's a chance to introduce something new the square root root, which basically means choose the number of beans to be the square, root off the number of samples, okay
+[1:36:14.3]  And secondly, to modify the Houston Grand one more time now for the access to show probability or proportion
+[1:36:23.8]  In other words, make it a proper P M F and third computer being in standard radiation
+[]			 Very straightforward
+[1:36:25.5]  Few lines of python cold
+[]			 This feels more like an exercise than the previous two assignments, but I hope you'll be fine with it
+[]			 Think of it is a bit off a break now
+[1:36:45.2]  The next portion of Cold introduces the Bee Swarm plot, which doesn't show up in the chapters off the Downey's book that we're looking at today
+[]			 The be strong plot has a reason for existing
+[1:37:01.6]  I may spill out what it is, and if I do so, I will end up answering this question here, so I'll be careful in decide if yes or no, But here's what it is
+[1:37:26.3]  So if you have never seen a bee swarm plot and if I show you this, what do you make of this plot? What is it telling you? What correlation can make between this plot, for instance, and the history Graham that you saw earlier? Let's sell through that the points that were used to compute this history
+[1:37:36.1]  Graham, in other words, battle and for diversity collar family were grouped together than beans and as a result, displayed Azazel
+[]			 Where are those data points in this? What? The green ones
+[1:37:47.6]  They are agreements
+[1:37:56.9]  How many green dots to expect to find here? I don't need to count 51 Dr
+[1:37:58.6]  Burr Data point
+[]			 Okay
+[]			 Similarly, you expect to find 50 red and 50 blue points
+[1:38:19.1]  What is the advantage off looking at this bee swarm plot, say, as opposed to the his program that preceded it well, for starters were displaying three categories in one plot for the same feature
+[1:38:41.6]  But even if I focus on Lee on this middle part here, would you see any advantage in having this blocked as opposed to the history? What is it about the beautiful and plot that he stole? Gram doesn't capture Frances in any order you want to go over
+[]			 It gives you precisely the range of values for a certain attributes
+[]			 In other words, if this was an interactive plot, I could say that the battle length for diversity color species is no less than three centimeters and no more than five point
+[]			 Whatever this value is
+[]			 One let's say Okay, can you say that from the history? Um, not quite you can tell that there is one instance that was into this bin between three and something clear
+[]			 There's nothing below three
+[1:39:27.7]  There's nothing beyond around five ish, but because of the bidding, you don't know for sure
+[1:39:40.3]  The exactly is there any sense? What else can you see? A relationship between the density off points if you think horizontal slices and the bars in the history
+[]			 Graham, you should if you go from the bottom up, which is equivalent from left to right on the history
+[]			 Graham, you see fewer points as you do this
+[1:39:52.9]  License 12 to back the one back to 135 or six
+[1:40:00.6]  Whatever, which correspond to the counts that you have here with the advantage that there's no beating effect because you're looking at the actual samples
+[1:40:10.3]  So I hope you can find merit in using the bee swarm plot as a visualization to I hope you can also find the relationship between the points has displayed and be sworn plot and the summary that these program provides
+[1:40:28.2]  So your task will be to huh to make a bee swarm plot
+[1:40:34.0]  Yet to produce this play, I show you how it looks like you have to write a call to get here
+[1:40:50.7]  And then in the context of this discussion, I ask you to conceptual questions one to explain the bidding bias and to toe to answer why, What is the best foreign plot in which situations you will not use it escalating, cause I don't mind giving away the answers if they come from you first
+[]			 So why is he being bias in his program plots? In fact, he will be able to see that when you run the code for part two, where you used the the square root rule
+[1:41:09.3]  Okay, let's see if I have my solutions here
+[]			 So if you do the square root, it will figure out a different number of beans and the history Grandma look different
+[]			 Not surprisingly, fewer bins and different distribution
+[]			 Of course, it shouldn't change anything
+[1:41:28.3]  Dramatically
+[]			 Clearly, the mode is somewhere around 4
+[]			5
+[1:41:46.6]  No matter how you been it right, the distribution is skewed, right? As you we knew it has a a long tail on the left, so nothing dramatic should change, of course, but your perception off the distribution may change as a result of the building if you If you go toe some places online where you can play with the been count interactively and quickly rather than having to rewrite her colder
+[1:42:05.7]  If you want to write something very fancy with interactive visualization, be my guest
+[1:42:06.6]  Depending on the data said the difference is gonna be quite significant
+[1:42:29.8]  So what is the problem with the so called bidding bias, or what is it? Anyone? It it creates visual summaries
+[1:42:36.6]  Which What is he So, Grams, if actually effectively are that look significantly different from one another, depending on your choice off the size of the beans
+[]			 All right
+[1:42:50.0]  Can you make this history, Graham? Look close to a uniformly spaced this program with a bunch off gaps in between, Possibly depending on the viability of the data, you could almost get that
+[1:43:01.1]  Okay, eso depending on the number of beans that you have you In case you're curious, you can try that interactively
+[]			 The argument for the history Graham function has been equal something
+[]			 So you can go back to this call here and add bins equal
+[1:43:20.6]  It's a shown three, which is a ridiculous e low number
+[]			 And you get this or you can do beans equal 50 which is the number of data points
+[1:43:42.1]  And you get something like that, both of which are, I would say, poor choices to represent the general, um, behavior off the population
+[1:43:52.1]  All right, so there's a They are completely different pictures that come to mind
+[]			 Perhaps not so obvious in this particular data set, depending on your choice of beans
+[]			 Get it
+[]			 Do that again
+[]			 Yes, they did
+[]			 It is the same
+[1:44:06.1]  It's the way you group them into beings and then plucked the count and plot the bars that make certain things different
+[]			 And by the way, there are ways to make the beans off differently
+[1:44:17.5]  But I don't recommend you do that unless you have a very strong reason to see why you would do that
+[1:44:23.0]  About to be sworn plot
+[1:44:32.1]  Can you define it and tell me when you should or should not use it? Or maybe come comment on what you learned a minute ago about its usefulness
+[1:44:36.3]  So attempted the definition
+[1:44:40.8]  It's a visualization tour technique that shows it shows the distribution off actual data points, you know, way to preserve the original venues and yet, by by the bin by the trash bins
+[1:45:08.6]  That's one thing, in a sense, more accurate
+[1:45:18.5]  When should you not use it? Can you see situations in which the beast one plot will not be so great? Or conversely, can you see why this case? It was particularly nice? There's a good reason for that
+[]			 It was individual spread that is correct
+[1:45:36.7]  So it allows you to make comments about Can you see how the hist a gram for Sentosa would look like? Just look at this corner off you can
+[1:45:40.5]  It's narrower than the other two species
+[1:45:44]  The MoD is probably in the 1
+[1:45:57.9] 41 point five range because they're quite a few samples along those values, right? So it gives enough insight into how Instagram look like doesn't suffer from the beating bias
+[1:46:00.8]  However, their case in which it's not so great it works out here exactly
+[]			 It works out very nicely here because they have few data points
+[1:46:14.9]  So it's rather memorable
+[1:46:22.3]  If instead of 50 points, you have 50,000 by virtue of how this beast foreign plot is produced to see that throughout points do not overlap, they go to the side of existing points
+[]			 We have a measure of the length of the bars
+[]			 They would keep going
+[1:46:34.7]  Trying to occupy the horizontal space eventually will saturate
+[1:46:38.4]  You would have those big bands on the right and the left, and it would lose its point
+[1:46:54.5]  Hey, so I basically answered the question when you will be happy now the next part you write code or you'll be given code to produce the East CDF off a one theory of data the E in easy the f is empirical
+[]			 This is not a terminology that your book uses its one that the people from the data camp courses use
+[1:47:14.7]  And I like it because by reminding you that what we are doing here is based on the actual samples, we are contrasting the empirical CDF that you can park by looking at the data versus the analytical CDF that you can compute if you think this revision is by Romeo or normal or exponential in with whatever parameter is something that you look at next time
+[1:47:45.2]  So you are given a piece of fighting code to compute the IVF, and you are being asked to use that function to compute the CDF for the petal ants off first collar employees the result in the city
+[]			 So before you go back to the book where this is officially explained, this is the community of distribution function
+[1:48:27.2]  Applaud that goes mano a tonic Lee from 0 to 1 by definition and whose data points mean? What if I look at the data points such as, um, this one here, second to highest? What is it telling me? What type off question can I ask? Who's answer can be obtained by looking at this data point
+[1:48:29.9]  End the corresponding Vegas 5
+[]			0 And let's assume for the sake of argument 0
+[1:48:48.2] 97 something like that, basically saying what percentage off points in the data set have a value off metal length off this or less 5
+[]			0 hours
+[1:48:54.9]  And the answer is 97% or whatever it exact value is
+[]			 Similarly, you could say what percentage has say for 4
+[]			5
+[]			 How many data points are there that have 4
+[]			5 or less? And the answer will be
+[1:49:12.0]  In this case, of course, there's a range of failures, 60% being the lowest
+[1:49:18.5]  So 60% of the points have petal and lastly, and 4
+[]			5
+[]			 All right, so it's easy to compute those percentiles
+[]			 And that's why the topic off CDF in the textbook is associated with the definitions of person tiles in person
+[]			 Our ranks, which will look at in a minute
+[1:49:54.1]  The next part will ask to do the same thing off for three Ari's species, and you will see that they will reside in different areas off there spectrum of possible Patil lands for the same reason that you knew already from the swarm plot
+[1:50:04.1]  The longest plateau in this a Tosa family is a good centimetre, shorter than the shortest in diversity color species and so on
+[1:50:28.0]  So not surprisingly, when you look at these, there's no overlap whatsoever between blue and green and the modest overlap did you see between red and green here is comparable to this overlap here, right? The difference, of course, being the battle half years in the Y axis, and here it is back to the XX is does that make sense? So we're just visualizing things differently
+[1:50:38.7]  Saw the E C g f
+[1:50:41.1]  Of course, it's computer directly from the P M
+[]			 F
+[1:50:51.5]  Probably the mass function with the advantage that it's not being displayed in any binned fashion, but instead point waypoint
+[]			 Well, then talk about person tiles and how percentiles can be easily related to points in the e C d e f
+[1:51:10.2]  So I give you some cold whereby we highlight using red diamonds
+[]			 We highlight three points of interest the 25th 50th in 75th percentile
+[1:51:23.0]  So basically, we compute which battle and responds to the 25th 50th and 75th percentile
+[1:51:34.9]  This case, we only display those things visually, but clearly the information can be found in this array
+[1:51:40.0]  Uh, heat tiles underscore versus callers
+[1:51:41.9]  Yankees
+[1:51:46.7]  We want to know what is the value of this variable? You can always insert Mother cell by a terrible name and there you go
+[]			 So in case you don't want to rely on your interpretation, this is four point
+[]			 Oh, this is 4
+[]			35 and this is 4
+[]			 All right, easy enough
+[1:52:04.6]  Next
+[1:52:08.5]  Okay, your turn will be to compute the same person tiles for the pestilence for the all three are species straightforward
+[1:52:17.8]  Then we introduced walks and Mr Plotz, interestingly enough, you may say, haven't we seen those boss box and whisker plots and things such as the mpg they sat in the Simon one in
+[]			 The answer is yes, we have
+[]			 And we saw them with a very rough idea of what they meant
+[]			 Now you're giving names to every little bit of it
+[1:52:40.6]  So basically, the boxing whisker blots or simply box plots are built using the notion off percentiles, particularly the 25th 50th and 75th percentile
+[]			 That's why we have been referring to them already
+[]			 The difference between the 25th and the 75th percentile is called the inter quartile range like you are, and the way box plots are built goes more or less like this
+[]			 You could think of it this way
+[1:53:19.5]  You start by drawing this horizontal line, which is the value corresponding to the 50th percentile
+[]			 You extend above and below to reach the value corresponding to the 75th and the 25th percentile
+[]			 Then you go further by one and 1/2 like you are
+[1:53:51.5]  In other words, you reach the point where in total there will be two choir tiles relative to the to the 1,000,000 to the 50th percentile, and for everything that is outside of this range you call outliers
+[1:54:15.5]  So basically there's a relationship between the concept of person tiles did range as expressed in, uh Inter Kartal Range and the treatment off out liars
+[1:54:28.8]  In other words, the only data points that appear as thoughts in a box and whisker plot our route Liars, everything else is summarized in there walks in whisker part between these two limits off the extent of the data
+[1:54:47.0]  So you will write code two brought the box plots for the battle ends off all three species annual see that it blocked will look like that, which shouldn't come as a surprise
+[1:54:58.7]  In fact, for those of you who are, uh, paying attention, this looks quite similar in spirit to the the be sworn Plus if he saw before
+[]			 Okay, so if you could have the two side by side, you would see that they are quite comparable
+[1:55:24.6]  In fact, so much so that I have a bonus question here that I asked you to combine the beast foreign plot and the box of Mr Blot to have that information also available here
+[1:55:30.6]  In other words, you get the best of both worlds, thanks to the fact that the data set is small
+[1:55:34.0]  You have, in addition to the civilization provided by the box what you have, the actual data points over laid on top of them
+[1:55:55.0]  All right, so before you go back to the official definition of person 1000 percentile ranks, let's just talk about these outlines for a little bit, Um, and go back to that quasi philosophical discussion of how the name outlier has to be handled carefully
+[]			 Which of these three species has the larger number off out? Liars? In fact, it's a question in the assignment that's answer those questions
+[1:56:15.7]  Which species has the largest was Muller's standard deviation and which one had the largest or smallest number of all players? Start with dedication
+[1:56:20.3]  Which one is the largest? Jake? The 3rd 1 The red one
+[]			 The top one top right one? Yes
+[]			 Yeah
+[]			 And which one is the smallest? Easy
+[1:56:28.2]  This a toast
+[]			 All right
+[1:56:45.2]  Which one has more out liars? The 1st 1 Which one has the fewest zero? Technically, the Virginia now careful about throwing a real liars, for instance, right? Why does it those? I have a higher number of outsiders than any others
+[]			 Because of the very definition of the box and whisker plot
+[]			 Right? So basically, if you go the standard deviations fairly small, so 1
+[]			5 times a very small value is still very small
+[]			 So by definition, what falls outside of these range has be labeled as outliers and plotted as such
+[]			 That's what's happening here
+[]			 All right, so it doesn't suggest in any way that those points are useless or that they are measurement errors or anything like that
+[1:57:26.7]  And yet, technically, they're called all of lawyers
+[]			 Okay, So I hope that as our terminology gets more precise as we give more precise meaning to why certain things are called away, they are
+[1:57:37.6]  We dismiss potential confusion
+[1:57:39.3]  Thinking about liars is out
+[1:57:41.0]  Guests or errors or noise, which is how we sometimes think of them
+[]			 All right
+[]			 And okay, let's think break of this year, go back to the book and then come back for the scatter plots
+[1:58:02.5]  OK, so in the book CDF Sorry, Introduced in chapter for the motivation given by the author is a better representation than pmf
+[]			 So I'm fine with that
+[1:58:17.5]  And before I go any further, let's see if I'm not forgetting anything, okay? And the author uses the opportunity to introduce person 1000% Tell Rick I believe everybody here is used to the use off person tiles in every day
+[]			 Life, even if you are doing the data came
+[1:58:32.3]  Think you're probably getting a weekly mail saying Congratulations
+[1:58:43.6]  You made some progress and you are in the 80th percentile, meaning you have made more progress than 80% of the data camp users during that period of time
+[1:58:50.0]  So we know what it means, right? So the question that a book tries to remind us off is that there's the person telling the person that rink
+[]			 So basically that these are computations that can go either way
+[]			 And if you want to see python code for each of them, you have them in the book, so nothing to it
+[]			 The CDF is a representation off percentiles, if you will
+[1:59:23.9]  In the graphical sense, they see as in curative, some off the values in the a p N f
+[1:59:52.1]  So it will always be a moral panic function between zero and one and gift with enough practice, one can developed the ability to look at city FC and make inferences based on the plot the way they would perhaps make by looking at History Grams or the swarm plots or box plots or other visual representations
+[1:59:56.8]  So in this case here, the CDF of pregnancy length is standing us that by far the most common length is the one corresponding to the tallest vertical bar, which in this case is 39 weeks
+[2:00:05.9]  Something that we knew from before by looking at the mod off the you still gram for pregnancy left so nothing to it
+[2:00:22.9]  How do you go from this instagram for pregnancy length? Absolute count to this CDF number one
+[2:00:26.9]  We'll analyze
+[]			 This counts into probabilities that becomes a p N F number two
+[2:00:36.8]  We add up the pier, perhaps as we go from 0 to 50 and that becomes the Syria
+[2:00:41.9]  Simple like that once again, back to the example that motivated the treatment off city after the book for comparing things that is birth weight using CBF's
+[]			 The contrast here is comparison
+[2:00:54.8]  Looks like this has opposed to this
+[2:01:07.2]  No one in their right mind would say, Oh, this is so fun to look at, whereas no one in their right mind would find any problem with that
+[2:01:21.5]  All right, so the question I have for you is Can you answer the question Our first babies, heavier or not? Based on the CDF? Look at what happens if a baby is once a wing £8
+[2:01:35.9]  If it's a first baby, it's heavier than that's assume 78% of the other babies
+[2:01:41.2]  If it's a second baby or later, that's 8 72 just for the sake of argument
+[2:01:55.6]  So if if by being born with a certain way to put you at a higher person file, it means that their particular weight is less frequently found in the data, then not it's like getting your S A T scores or whatever and put him in a person tower
+[2:02:04.5]  Uh, Frank
+[]			 Okay
+[]			 Ah, two percentile, one percentile
+[]			 Of particular interest is the medium, which is basically the 50th percentile
+[]			 The midpoint in the distribution
+[2:02:27.8]  What is the difference between the medium and, uh, I mean, or in which says there similar? They're both a mirror off central tendency, and he says they are different in the way they're computed off course
+[2:02:35.5]  The median cuts exactly at the 50th percentile
+[]			 In other words, if you sort the data and you find the midpoint
+[]			 That's your median, right? The mean average is things out
+[2:02:50.4]  Which one is more robust throughout? Liars? The media? So it's a good motivation for using it
+[2:02:57.1]  Robustness Wildfires
+[2:03:05.7]  Which one is used for prices for houses on Zillow? If anyone is shopping for a house, they may have paid attention
+[2:03:12.5]  Media Media Oh, home price in this zip code or something is X All right, so you get rid of our flyers more easily
+[]			 What is the inter quartile range is just a fancy name for a difference between the 75th and the 25th person tiles called like you are
+[2:03:30]  It's just a measure off the spread of the exhibition, just as a standard deviation is a measure of spread, just as the variance is a measure of spread
+[]			 So here we have it the like
+[]			 You are as a measure of spread once again to understand how these things play out in the box and whisker plots
+[2:03:47.8]  We have this diagram, which I also copied to your assignment, and there's another one that comes from another book that shows how the actual values could look like in a distribution, how, by bidding them together and ending them up
+[]			 They could look like in a history
+[2:04:01.0]  Grandma rotated his diagram and how the box plot would make sense of it
+[]			 It would find a medium the 25th in the 75th percentile
+[]			 Extend one and 1/2 like you are to either side and eventually call anything that is beyond that
+[2:04:22.7]  Reach out liners
+[]			 All right, good
+[2:04:35.3]  This seventh chapter of the book and the last one that we want to talk about today explores relationships between variables in case you're wondering, why did escape five and six Cause infighting
+[2:04:38.4]  Six
+[2:04:45.4]  The author will go to the modeling off distributions, in other words, to the part where we larible common probably distribution such as normal, exponential and others
+[2:04:53.0]  And we establish the relationship between the empirical distribution that we can compute from the data and the model that we think provides the best fit or better, explains the data
+[]			 That's, in my opinion, something that comes after playing with relationship Everything terrible
+[]			 So I chose to skip those the chapters and come back to them in time for assignment
+[2:05:17.6]  For so to motivate Correlation, the author of the book talks about another data set called B
+[]			 R
+[2:05:28.2]  F s s Behavior Risk Factor surveillance system, that it's part of the National Center for Chronic Disease Prevention and Health Motion
+[2:05:45.7]  That is a data set with 400,000 plus respondents and almost 400,000 data points and this nickel active weight in kilograms off the individuals
+[2:05:51.4]  And they are interested in establishing relationships between weight height, which could be converted to body mass index, as we spoke about on the first day of classes and the risk off
+[2:06:06.4]  Chronic diseases are the incidence of chronic diseases and so on
+[]			 What your book does with it is something much simpler
+[2:06:15.9]  It basically uses the fact that it is information about height and weight to speculate if they are correlated or not
+[2:06:19.2]  Comes in, says presumably, should be somewhat correlated
+[2:06:24.0]  Taller people, maybe by virtue of being polar, have your So the idea is, if you put together a scatter plot, you'll see something like this
+[2:06:39.8]  In fact, technically, you'll see something like this to be consistently the textbook, the one on the right, which is kind of bizarre because it has those suspicious vertical bars, and you wouldn't expect that to be the case and then the book explains why it's so
+[]			 It's one of those things where the height was in inches, converted two centimeters and converted back around it somewhere in the process
+[2:07:02.9]  So they headed up
+[2:07:03.3]  Falling into very specific bins is it is, which are not quite natural looking
+[2:07:27.1]  So how goes the book author go from this to this? He introduces a measure off gender as a little bit of noise that he justifies by saying that if we know that this suspiciously regular pattern came from rounding and we know the amount of running that happens when you convert from inches to centimeters or back, we can put split the difference and add a random value in that range to each data points to kind of makeup for Iran in that took place
+[2:07:54.8]  So this part becomes this boat, and then he does additional tricks with offer values and what not for visualization purpose to make the dance part proportional to the actual density off points and the more sparse part less bright and therefore presumably a more pleasant visualization
+[]			 Off course
+[2:08:19.6]  I look at these things in the context off the second book and I say cute that you went through the trouble of writing Python cold for doing these manipulations yourself when with the library such as Met bluntly
+[2:08:25.7]  Seaborn, you have fancier, more pleasant ways off plotting scatter plot
+[2:08:31.5]  So don't worry much about the actual cold in the book
+[]			 Just look at the concept
+[]			 So let's go to the actual chapter here
+[2:08:46.1]  Um, well, before I go there, let's just see stealing Chapter four
+[]			 There's anything they should point out
+[2:08:50.7]  Exercise or not Interesting
+[]			 The cold is not interesting
+[]			 So that's it
+[]			 So in Chapter seven scatter plots
+[]			 So we're trying to see if we can plot the relationship between height and weight
+[]			 If we're gonna find some correlation between them
+[]			 There's some graphical tricks that we spoke about
+[]			 And you know where this is going
+[]			 We're gonna compute some sort off correlation coefficient
+[]			 You have be introduced
+[]			 The Pearson Correlation coefficient before, and here you'll be officially introduced
+[]			 We had to do it in the context of this book
+[2:09:32.2]  But before the Pearson Correlation coefficient is introduced, the author does something clever to look at a correlation between weight and height for that population
+[]			 Let me put this in context
+[]			 If I show you this blood figure 71 left, which is the original plot off weight versus height and asked you, Do you see some correlation? Your answer is probably yes
+[2:10:01.4]  If I ask you, can you compute a coefficient? You would say Yeah, you showed us helping complete Pearson Correlation Assignment one
+[]			 I'm gonna go back there getting cold and I know where to go To find interpretation
+[2:10:09.6]  Zero means no correlation 0
+[2:01:41.1] 8 or higher, either positive or negative Correlation
+[]			 Anything between 0
+[2:01:41.1] 8 is considered mild or week or something like that
+[2:10:29.7]  But without any question, you would say this is kind of a cluttered plot
+[2:10:35.4]  So one way to de Quarter using the recently presented knowledge off person's house is to blocked weight and height
+[]			 Bye
+[2:10:45.1]  So letting free collections off points, the ones that fall in the 25th 50th and 75th percentile
+[2:11:04.6]  So what you have here in figure 73 in contrast with figure 71 left is equivalent to what your head in the transition from PFC through CDF
+[2:11:06.9]  So much cleaner plot that allows you to established visually
+[]			 That is correlation to the best of your knowledge and maybe more than that
+[]			 What else can you say by looking at this figure? 7
+[0:55:37.5] 3
+[]			 And you say there's a positive correlation? Yes, we established that
+[]			 Can you compute? No
+[2:11:28.2]  In fact, you should compute with all the daytime
+[2:11:30.8]  That's a simple function, call or formula
+[]			 So let's not look into that
+[]			 But you may see something interesting happening here
+[]			 Can you see? There is a linear correlation between weight and height
+[2:11:51.0]  Are the two variables linearly correlated based on visual inspection alone? What I would say almost only to a certain range
+[]			 Thank you very much
+[]			 That will be the answer
+[2:12:01.4]  I would want someone to volunteer
+[2:12:03.2]  So let's trust something
+[2:12:12.8]  So if you do something between 140 centimeters in roughly 190 say, if you select is in trouble here you have almost perfectly linear correlation between weight and height
+[]			 For people who are shorted in 140 centimeters
+[]			 There the correlation flips
+[]			 And for people who are taller than 190 centimeters, it may drop a little bit, something that was not August at all
+[2:12:38.8]  From that big blocked off all data points combined, Right? So remember that person's house just as the 50 p 50th percentile, which is the medium, uh, are helpful in that sense
+[2:13:04.4]  And, of course, we also have a measure off for I ability between too, which is visually speaking, almost constant across the range, right? So meaningful insights from a purely visual perspective, right? Me under these things
+[]			 Okay
+[2:13:30.3]  Now, to compute correlation, we basically want a mathematical function that summarizes the strength off the relationship between two variables
+[2:13:47.5]  Uh, this can be done using a related concept of Cove Arians building a so called coherence matrix or can't be done without, necessarily or explicitly producing co variance matrix
+[2:14:03.6]  Uh, there are two issues when you compare two variables or try to measure how much they correlate
+[]			 One is if they are in the same units or not
+[2:14:14.5]  If they're not in the same units, you may want to normalize them first or standardize it somehow
+[2:14:28.6]  And secondly, if they come from similar distributions or not, the Pearson coefficient takes care of the first issue by transforming each value to a standard score and then computing the correlation coefficient itself and another type of correlation coefficient
+[2:14:37.7]  Officially introduced in this chapel, this Spearmon rank coefficient is one that takes into account the index off each value in this sort of list of l's, which makes it less sensitive to the actual distribution
+[]			 Some of these concepts will probably go above your head right now
+[2:14:55.1]  They will be revisited at some point
+[]			 Um, for instance, Um wait
+[]			 Have seen how height and weight are related, but we haven't seen their individual pmf yet
+[2:15:17.8]  So if I asked you, what is the distribution look like for height and weight? What would you say? Option one? I don't know, because I don't have the code or what? Off a pmf option two
+[]			 I will bet girls in Professor
+[]			 And who would be correct person that says I don't know where the person that says I will bet 1000
+[2:15:45.3]  Okay, what do you think? What do you bet that the situation's got him? Wait, no, wait
+[]			 Or height to separate
+[2:15:53.8]  No go zone
+[2:16:05.9]  Yeah, I mean, one of the big things about the girls and distributions that explains many phenomena in real life, including distribution off weight and height in populations, Right
+[2:16:18.7]  Of course, depending on the sample, how the population is simple, so we can almost bet that the distribution of weight and height in spite off there lack off a proper PMF plot will be normal, in which case the Pearson coefficient does a fine job, and the difference between computing correlation between Pearson and Spirit will probably not be relevant
+[]			 We'll take a look at it cold in a minute to see if this is such so there
+[2:16:37.7]  Official formulation for the Pearsons correlation coefficient is given here
+[]			 It's basically the product off each data point, minus the mean value for each of the two values that you are trying to compute
+[2:16:54.5]  Divided by the standard deviations off each of those classes in the book, the Pearson correlation coefficient is there noted by the Greek letter row
+[2:17:09.1]  Here's a cold to produce Pearson correlation according to the textbook style, but we have your own code from a Simon number one that you can use
+[]			 Okay, so, um, once again, always between negative and positive one
+[2:17:34.2]  And this is a new interesting case where the Pearson Correlation fails miserably for the data sets on the third roll
+[2:17:39.0]  See if you can appreciate us right down here
+[]			 The data set from the first row are the ones that were used to and what we see
+[]			 Things spread out in a circle like pattern
+[]			 More everything
+[2:17:52.8]  These things, they're not correlated as they start to organize, and some sort off over like shapes until they get to be almost like a perfect line
+[2:18:00.8]  The correlation grows in absolute value, either in the positive sense or in the negative sense, beautiful
+[2:18:15.2]  Sometimes because examples are given this way, some people have the wrong impression that the angle metres which, of course, it doesn't
+[2:18:18.2]  So just to confirm that any of these plots in the second row has very high correlation
+[]			 Okay, any of these 36 not this one here
+[]			 All right, however, what happens when your computer Pearson correlation coefficient for the bottom row is they all come down at zero, even though you can see that those data points are correlated somehow
+[]			 But the formulation of the person coefficient doesn't allow you to capture that
+[]			 Just keep that in mind
+[]			 There's no I need to find a solution for that at this point
+[]			 Okay, one bit that deserves conceptual discussion
+[]			 Here is the relationship between the words correlation and causation
+[2:19:13.3]  It's a cliche to say correlation does not imply causation organization
+[]			 It's correct, by the way
+[2:19:21.3]  So this is the textbooks attempt to put things in a more structure way
+[2:19:26.6]  So if two variables and beer correlated, there are three possible explanations
+[2:19:30.1]  Eight causes B because is a or some other separate factors causes both A and B, And the explanations are called kozo relationships as in cause and effect, the most relevant example as to how these things have to be handled in some aspects off scientific research
+[2:19:55.7]  Medical research, particularly, is the example of randomized controlled trials we just mentioned also in the book
+[2:20:07.3]  So what is a randomized controlled trial for testing the efficacy off a new treatment or medicine? Basically, you assign subjects rebel me to one of two groups, one that receives the intervention, the other one that does not or more often than not, received placebo
+[]			 So I still give them the impression that they also got the medicine and you look at the results
+[2:20:37.2]  And if you designed the experiment properly by limiting or controlling for any other factor that could explain the outcome, you would conclude can only be due to the intervention or the medicine, and you will conclude that with a certain degree off confidence or statistical significance or clinical relevance expressions that we have used today here in there
+[]			 Does that make sense? This is serious business
+[]			 Correlation and causation is very serious business
+[2:21:21.9]  There's ah, on Empire Field off probabilistic reasoning Beijing folks that deals with this There's a book by one of the top world authorities on this topic
+[2:21:24.5]  His name is Julia Pro
+[2:21:27.0]  He's a former Turing Award winner, and the name of the book is the book off
+[2:21:42.3]  Why? Where? He explains in a less mathematically dance way, as he has done in previous Have Your Books, how he understands the issue off causal relationships, how they can be modeled, how they can be used to explain certain problems and so on
+[]			 We will probably not get very deep into this in this course, but occasionally we may ask questions such as, Yes, these two variables are correlated
+[2:22:13.9]  So what? Okay, for the weight and height, it doesn't make much sense to say being taller causes I want to be heavier or vice versa
+[2:22:16.2]  Reminds me of the good old Garfield line when he would say, I'm not fit on that
+[2:22:29.3]  I'm just not tall enough or something like that, right? S o they are correlated, all right, but it's potentially silly to speak of causation
+[2:22:44.7]  But if there is a scenario in which you wanted to check if two things are correlated in a way that clearly one causes the other you you should design experiments very carefully, first of all, and you should control for as many variables outside of the one that you are, um, looking at is there being kept under bay? Okay, I think that's basically for chapter seven
+[]			 So there's an exercise at the end of that chapter that uses the data from the N S
+[]			 F
+[]			 G
+[2:23:11.9]  You see how this data set keeps going through most of the book and look at the plot off birth weight versus the mother's age
+[2:23:28.2]  So, to which degree, these things are related, are babies heavier? If the mother is holding our younger, that's I will say a potentially meaningful question to ask
+[]			 That's if I have working code for that or not
+[]			 I don't think I do
+[]			 No, I don't think so
+[2:24:00.3]  Well, for the original data set off weights and heights and keys, you're interested? Um, the Pearson correlation coefficient
+[]			 We're excited to be a 0
+[2:24:09.6] 5087 and this Peterman correlation coefficient comes out 2
+[]			54 So a difference off less than 10% between the two numbers own we
+[2:24:39.4]  We have not seen the history grams for the weights and heights, although if you look at a cold for Chapter seven that comes with the give her report for the book, you should be able to produce such history grams rather easily, I presume
+[]			 Just as you have scatter plots here, you could brought some hissed
+[]			 Let's try to do that somewhere here
+[2:24:59.8]  I mean, run everything above to make sure I got all the imports
+[2:25:06.6]  And let me look at this scene text for is the grams using the author's bones on a cold
+[]			 So it has to look like this appear and based here course change name of the terrible to be I see and see if this works
+[2:25:59.4]  Panic didn't or somebody's heights is what I think It iss looks okay to me
+[]			 Um, be something silly about the the actual function for history
+[]			 Graham from there book author
+[2:26:43.7]  So if you replace that with our I standard, um pea, auntie not pissed off heights
+[]			 Maybe it will work
+[]			 No
+[2:27:00.9]  Oh, I'm making a silly mistake
+[2:27:03.9]  This in Texas here
+[2:27:16.4]  Oh, math lab
+[]			 I got it
+[2:27:26.3]  Yeah, give us a few warnings or something, but it looks like it worked
+[]			 Some of these will go out to the purity show
+[]			 Yeah, some of them do
+[]			 So if this is your history, gram for heights, you could have one for weights
+[]			 You could play with the bins
+[]			 Uh, here
+[2:27:53.6]  Perhaps it would be interesting to use a higher number of dance, perhaps, and not surprisingly, it iss somewhat normal, Coliseum shaped
+[2:28:13.5]  And we can do the same thing for Waits, interestingly enough, and perhaps not surprisingly, with a little bit off a long tail suggesting overweight population
+[]			 Right
+[]			 So why did we do that? Because we wanted to know if they distributions of the individual variables for which we're trying to compute
+[2:28:33.7]  The correlation coefficient is dramatically different from normal, in which case spearmint would give a more reliable number than Pearson
+[2:28:44.3]  And indeed, this one is not your traditional symmetric Nelson, which may explain, and I'm using the word explain loosely here
+[]			 Why this purity correlation coefficient is different
+[2:28:57.4]  then the Pearson Correlation Coefficient Keys
+[2:29:05.6]  You want to test my comment? You can write python code to generate, say, 10,000 samples following a normal distribution off terrible X
+[]			 Another 10,000 sample different beings
+[]			 Standard deviation of available
+[2:29:17.2]  Why, If you run the Pearson and Aces spirit for the correlation, you get number that very, very close
+[]			 Okay, so I think that is it
+[2:29:38.0]  In terms of the discussion off Correlation and Pearson and experiment from the textbook, which makes us go back to the assignment, just look at which part in the assignment covers that
+[]			 It's the last part
+[]			 Not surprisingly, so here we are
+[2:29:43.3]  Scatter plots, pair plots, correlation between variables
+[]			 So I give you a code to this play
+[]			 This very good looking plot that is much more than scatter plot
+[2:29:58.2]  Definitely it is 12 scatter plots and four combine his diagrams all in one
+[2:30:08.8]  This is referred to as a pear port, and that's very simple to do using Um, Seaborn
+[2:30:29.5]  It's a simple as one line off cold, amazingly enough, okay and produces all those things in this case could be made even simpler if I had decided not to put this option or parameters here
+[2:30:32.2]  It wouldn't be so good looking for the old bluish, but it would still do its job
+[]			 Okay, so, um, the question that I ask you are the bonus thing
+[2:30:50.0]  Oh, there's nothing even anything mandatory here
+[]			 Interesting bonus point
+[2:30:55.3]  Extend the code to compute Pearson for all paralyze combinations off all three species and display the results in a table for me
+[]			 So I gave you a cold to computer correlation coefficient between battle length and with four diversity color species, it comes down to 40
+[2:31:20.0] 78667 If you look at what we're doing here is vertical or orange petal less and Peto with So you could be thesent off points here Or if you look it from this perspective battle anthem Peto With this set off points year so clear, they are correlated in a positive sense
+[]			 So 0
+[]			78667 doesn't come as a surprise
+[2:31:42.9]  The question is how are all the other combinations off cattle and battle with supple and supple with correlated for all three cases
+[]			 So if you want to extend it cold, you get up to 15 bonus points and it's after you to figure out a nice table, form it to display those correlations about pair plots where they useful
+[2:32:03.0]  I think the natural reaction I got from you was Wow, this is really cool, okay? And it ISS why in this particular problem? And that's one reason why I told the Irish data set for this assignment
+[2:32:23.8]  For this, particularly is that why are their plots so cool, so potentially useful? So needs so attractive? Because the number of data points is modest, the number of classes is small
+[2:32:33.1]  Three categories and the number of features or columns or attributes is very small
+[]			 For if there were 10,000 features per class, even if he had 50 samples
+[]			 Even if I only had three classes, this would be a matrix off 10,000 by 10,000
+[2:32:51.6]  I don't need to tell you how on Willie this would turn out to be right, so it gives you insight into things that may come back later when we talk about machine learning in the classifications sense
+[2:33:07.7]  If you have to create, say, a decision tree type of algorithm to tell based on the measurements
+[2:33:12.7]  If this is Santo's aversive caller or um Virgin Nika
+[2:33:33.9]  How would that decision to you look like? Which measures would be useful to tell one class or one species from the next? And the final question I have for you is whether the Pearson correlation coefficient should be replaced with this pier in rank order, condition
+[2:33:34.4]  Proficient in this case, have to a ways off answering this question
+[]			 One
+[]			 It's good
+[2:33:42.0]  Add a little bit of cold here
+[2:33:45.2]  Toe compute this Spearmon Correlation coefficient Right now, actually, Pearson, to see how different they are, the other one is to look at the history grams and see how different they are and how much they can be called
+[2:34:01.7]  Variations off what looks for the most work Gulshan like
+[2:34:10.6]  If you believe that they are Gulshan like, as I do, you have reasons to believe that this pyramid correlation coefficient will not provide dramatically different results
+[2:34:15.8]  Then the Pearson counterpart does that make sense
+[]			 So what do you make out off same number three
+[2:34:27.5]  It's probably much shorted in two or one, probably much easier, and it's mentally so
+[2:34:32.0]  It's a way to have you practiced
+[2:34:34.5]  Things such as percentiles, punitive distribution functions, box plots and whatnot also give you material that the book doesn't cover too well
+[2:34:56.5]  Make your familiar with yet another very, very popular data set and build knowledge for the second part where we start to look it, how we can model analytically specific, probably distribution functions
+[]			 That empirical data that we get from the samples
+[]			 I hope this eventually will tell a nice story
+[2:35:08.2]  And even if you cannot quite connect all the dots right now, they will become more clear as we go
+[]			 All right, That's it for today
+[]			 Thank you
+[]			 Yes
+[2:36:17.7]  Who was sick last week? It was good
+[2:36:23]  I think most people enjoyed it
+[]			 I did
+[2:36:30.0]  I learned quite a bit and you know recruiters
+[2:36:34.5]  So they discussed about where to go to apply for jobs, internships? Life at Google thing has to do it
+[2:36:42.2]  You know, the entire culture off the company
+[2:36:52.6]  How much of what you see in the news is true? I mean, do they play Ping Pong and It'll Day? Or there's more to their handiwork on personal projects
+[2:36:59.0]  How easy it is to relocate from one unit in the Google infrastructure to another
+[2:37:01.3]  It was really informative
+[]			 I learned a lot
+[]			 Really
+[]			 They are including people
+[2:37:09.7]  Interestingly, enough for day for scientists positions
+[2:37:11.5]  They have this mentality that its piece de folks interesting
+[]			 So they think of data scientists as being people with It's for you
+[2:37:34.6]  I have no idea how bad it's going
+[]			 Oh, yeah, right, right
+[]			 Let's go
+[]			 Yeah
+[2:37:55.9]  What, Robert?
