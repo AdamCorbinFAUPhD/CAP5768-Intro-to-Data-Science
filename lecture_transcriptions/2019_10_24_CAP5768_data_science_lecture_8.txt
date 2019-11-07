@@ -1,0 +1,1212 @@
+[]			be a pleasure to see you again
+[]			 All right
+[0:00:04.6]  Good afternoon, everyone
+[]			 And welcome to today's lecture
+[]			 It's a pleasure to be back
+[0:00:09.7]  I don't anticipate any other need for canceling lectures until the end of the semester
+[0:00:23.4]  Oh, I thought this was perceived as good news, but a fairly not, uh, and another thing that you may have noticed
+[0:00:27.2]  I'm not king on recording three hoursworth off lecturers for every lecture that we missed because it may work out in your favor
+[]			 It may not
+[0:00:40.3]  So right now if we do the actual math between how many hours off face to face contact we missed because of the two days without lectures and how many hours I have made available through screen casts or something
+[0:00:48.8]  Clearly, there's a gap
+[0:00:50.7]  And they had other StreamCast or maybe create a video playlist from other smart people telling you interesting things
+[0:00:59.8]  And, uh, at any rate, you should not worry about it
+[0:01:07.5]  Why? Because, as you know, I think a very pragmatic approach to the way I teach my courses
+[0:01:09.6]  And I try to make the contract if you will clear to the students from the very beginning
+[0:01:26.4]  So in the very first day of classes here we told something along the lines off data sign just being someone who knows more statistic than they ever saw the developer who writes better softer than the average statisticians
+[]			 Something along those lines we are
+[]			 What we're doing here is basically empowering you to get a data science job, if you so desire
+[0:01:39.2]  That's my Mingo
+[0:01:40.4]  It's a tall order and clearly not everyone in this class who have put the time in the effort to get to a point where a top company will say you're ready
+[0:01:53.9]  I don't know how many of you actually attended the life at Google event a few weeks ago with me
+[0:01:56.7]  Several of you did
+[0:02:05.6]  And I don't know if you remember, but for some reason the Google recruiters associate data scientist positions to people with phD level education, which was quite too unique
+[]			 To put it mildly, I thought it was arbitrary
+[0:02:13.6]  Uh um, Criterion
+[]			 To be honest, you can be a phenomenal data scientist without a phD
+[0:02:20.2]  In fact, opinion depletion you might get in the way on the way off being good data science because you may make things more complicated than they need to be, but anyway, but there's a shortage of jobs
+[]			 We spoke about that on the first day of classes
+[0:02:33.3]  You may not remember the exact number, but you remember it was in the hundreds of thousands off jobs in this country along looking for experts
+[]			 And the more I talk to people in the field of data science machine learning A
+[0:02:47.1]  I your reason away here to cancel class
+[0:02:51.9]  Last week I was on my way to Valencia, Spain, for a conference that took place on Friday and Saturday
+[0:02:59.7]  That was the annual meeting of European Society of Medical Imaging for Matics, and I was there presenting to abstracts off work, done with my students and also invited talk on something called a ai lab, which I will maybe make an announcement and give you the link in case you want to learn more about it
+[0:03:19.5]  And the more I talk to people in serious areas off everyday life such as medicine, radiology, healthcare and I look at what they see as potential for data science machine learning, deep learning
+[]			 A
+[]			 I
+[0:03:30.5]  The more I talk to these people, the more convinced I am that the world is basically a gigantic problem space waiting for people with the right skills and the right mind set to go and solve them
+[]			 It is a simple picture
+[0:03:45.2]  Actually
+[]			 You can picture a vast field
+[]			 We can even keep it simple
+[]			 Maybe two D
+[0:03:52.9]  Okay, so I'll try to scare something to give you a vision off
+[0:04:05.8]  What? I think, Uh, Doc, you OK? I'm a horrible artist, so you have to Oh, make it the Trudy, but slanted so we can give the impression of three D if you will, and I will get my I drew that on a napkin, jetlagged and all while I was there talking to a very prominent scientist
+[0:04:19.8]  I have to look at my sketch here to make sure I don't need represent what I said
+[0:04:29.5]  So right now you can think of this plane which eventually could evolve into a three d
+[0:04:35.9]  What s a large problem? Space? The natural? Or perhaps I should say the most important aspect of this problem space for me personally
+[0:04:51.9]  And it's sometimes shocks people when I say that because I'm from academia and academics, I perceived as disconnected from the real world
+[0:04:55.5]  I'm happy to be perceived as an exception to that rule, which is good
+[0:05:06.4]  So there's a large problem space with real world real people in the case of medicine, healthcare, rial, patients, real data, riel diseases
+[0:05:09.9]  And so in this launch problem space, which you could draw if you were an artist, is a nice surface like the surface of planet Mars, say, with some bumps and humps and whatnot
+[]			 I would say there are two dimensions that are worth considering
+[0:05:26.8]  One is the dimension off complexities, less cost
+[]			 And the other one is, Did I mention off usefulness? Yes, you impact, perhaps even a sense of urgency
+[0:05:43.8]  Clearly, those things are not seen Williams, but you get the idea a soon as they start to populate these things
+[0:05:50.9]  So, roughly speaking, there's a group of problems here
+[]			 Let's call it Group one, which would be low hanging fruits where they have in common
+[0:06:09.7]  They are urgent, they have high impact there, potentially useful, and they are not complex
+[0:06:17.3]  That's where you want to be or put it differently
+[]			 That's where the real world people with real world problems once data science expertise to help them the most
+[0:06:39.5]  Okay, on the other extreme, if you will or uh, yeah, it is in a slanted way Is working against me, especially because I put the legend here that silly
+[0:06:47.9]  Okay, but if you think off complex, costly and with high impact, so somewhere here, just exaggerate
+[0:06:52.5]  It's called Group, too, is what people normally call mugshots
+[0:06:58.7]  Right? So you have this ridiculously large contracts, costly problem that if solved, we'll have a tremendous impact
+[]			 All right, I'll go back to those
+[0:07:06.3]  1234 in a minute in 1/3 space somewhere around
+[]			 Or maybe that
+[0:07:18.9]  Stretch it out here along a wide range of complexity, but with relatively low news from his impact or urgency
+[0:07:29.0]  Our most academic projects
+[0:07:33.5]  No offense
+[]			 Okay
+[0:07:41.6]  No pictures, no recording
+[]			 I'm kidding
+[]			 No telling the thing
+[]			 I'm kidding
+[]			 I'm kidding
+[0:07:47.1]  No plagiarizing because I want to publish this thing with this gentleman
+[]			 But almost here isn't now
+[]			 And I think I have a couple more
+[]			 Yeah
+[0:08:00.2]  Um, let's see, uh, if this is relevant for this discussion, not quite in, perhaps
+[]			 Okay, that's what This way
+[]			 And there's a driving force, of course, within three to go towards the more complex, more costly and so on so there's a driving force here
+[0:08:21.9]  So the tentative in formal title of this paper will be Who needs whom to do what? So the idea is real world
+[0:08:31.7]  People need data scientists to do certain specific things and those of you who work
+[0:08:37.7]  And if you go properly wrestle it to this very simple point I'm trying to make here
+[]			 So where do you want to be? You want to be here? Okay
+[]			 Which doesn't mean it's obvious to figure out which low hanging fruits are there
+[0:09:03.1]  How to get access to the people who have the problem, who have the data, who have the resources to acquire, recruit
+[0:09:09.3]  Hire your expertise to solve this room's
+[]			 But that's where you want to be
+[0:09:21.9]  He is where you will be most likely if you do a master thesis or phD dissertation, and there's nothing wrong with that
+[0:09:31.9]  In fact, that's also where you'll be if you start to become specialized in Chicago challenges and things like that
+[0:09:45.0]  Basically, what you're doing is solving problems with different level off complexity or cost, which, which I am perhaps exaggerating here, will potentially have low impact
+[]			 All right
+[0:09:58.0]  Two is where you can only afford to be, if you are Google or her deep mind, which is a Google company
+[0:10:07.7]  Or maybe Amazon Apple, maybe Facebook cougar or something like that, or in the academic world, the Stanfords, Berkeley's M I
+[0:10:08.9]  T
+[]			 Is of this world
+[0:10:29.3]  So this is for the elite, either in academia or in industry, which can afford those who shot projects putting ridiculous amount of people money computing resource is, and if they succeed, they make the headlines
+[0:10:36.7]  All right, so I am not honest, all right, but I have my feet firmly on the ground
+[]			 I know where we are
+[0:10:44.5]  So if I teach a course that after you with this level of complexity with this type of background expected from the students, I make a personal decision to say, Let's try to use this course
+[0:10:59.8]  It's practice for being good at Type One problems, and there's nothing derogatory about calling them low hanging fruits
+[0:11:06.2]  It doesn't mean that any one can just go there and grab them
+[0:11:14.6]  It means there's a good possibility that the complexity or the cost is not so impressive compared to the usefulness off the solution
+[0:11:23.3]  And it is my hope that the course that I'm teaching right now will prepare you for addressing these types of problems
+[0:11:29.0]  I cannot go all the way through to hooking you up with the partners who have the data and the problems and so on
+[0:11:37.0]  That's the job off incubators or other types of facilitators off this type of thing, even recruiters and career fairs and this type of things
+[0:11:46.0]  That's why going to the Google event a few weeks ago, in my opinion, adds to your experience off what life in the so called real world looks like when you finish your studies, what about being here? There's nothing wrong with that
+[0:12:00.2]  And I could go on and on explaining what makes massive thesis or apiece insert a shin or paper or a patentable idea worth pursuing in this space
+[0:12:12.8]  Right? You may say you're making sing like this is ridiculous because it doesn't have immediate impact or obvious usefulness
+[0:12:17.4]  And yet one could argue it's innovative enough to be patentable
+[]			 It's innovative enough to give someone a phD dissertation, and that's fine
+[0:12:24.8]  That's fine, but it's only merit, so there's nothing wrong with that
+[0:12:32.2]  The wrong comes from thinking that if you keep progressing along this access, you are more likely to solve these types of problems
+[]			 You're not all right
+[0:12:56.1]  It's almost like cutting thousands thousands off seconds in 200 year dash practice and say, And by being the best 100 meter dash runner, I will soon run the New York Marathon
+[0:13:01.6]  Well, sorry to say they are similar in the sense they're both running, but the similarities end there
+[0:13:05.4]  Different types of practice, different distances, different strategies and so on
+[0:13:08.2]  Similar tools
+[0:13:11.8]  You didn't have to have good legs with lungs, good sneakers and so on, but completely different beyond a certain point
+[]			 So is this course any close to new shot projects? No, it's not
+[0:13:23.8]  To be honest, neither is effort
+[0:13:28.0]  You in general or most universities are most companies
+[0:13:39.0]  Is this course concerned about? Yeah, sense off complexity? Not really, because there's enough evidence that many problems are there
+[0:13:43.0]  Do not require excessive complexity
+[0:13:50.5]  Is this course trying to build this notion off? Solid foundations plus good programming skills plus open mindedness leads the success in the real world
+[0:14:00.4]  Yes, we are expensive tryingto foster that mentality to prepare you to solve problems that I would call Group One types of problems
+[]			 Okay, they're variations of this diagram that I could drop, but I don't want to go much further into this
+[0:14:14.4]  And interestingly enough, if you ask almost anyone in any walk off life if they need data scientists, if they want to employ some type of A I in your process is if they're considering empowering some of their solution with some sort of machine learning type of intelligence, the chances are the answers will be yes, yes, yes, Omi Zia's
+[0:14:41.6]  And when they start actively looking for the right people to implement those visions, you're looking mostly for people here
+[0:14:47.0]  With very few exceptions
+[0:14:53.6]  You want to work with your good fellow, our usual banjo or Geoff Hinton or unicorns or something like that
+[0:14:58.3]  You better have enough skills to be considered for Group two problems
+[0:15:03.2]  Okay, you want to do a masters or a PH
+[]			 D
+[0:15:05.3]  You will be navigating within this scope here, and you'll be more or less successful
+[0:15:12.8]  The opinion, the complexity of the problem that you tackle and how well you saw it
+[]			 Just just I'm trying
+[0:15:27.2]  What work? Um, you seem to be arguing
+[]			 If one wants to solve hanging from problems in industry
+[0:15:36.4]  There's a point where proceed in academia won't feel diminished
+[]			 He could
+[0:15:46.4]  It's not my name point, but it could be that if you want to solve practical problems, pursuing the academic endeavors for their own sake, mailing to the ministry returns you maybe
+[0:15:57.9]  And I'm not alone in that I don't know how many of you know, uh, if the name sounds familiar Jeremy Howard His name's song from You
+[0:16:02.9]  He's the founder of Fast Dot a
+[0:16:10.0]  I, which is one of the best places to learn deep learning, completely free and completely developer minded
+[0:16:14.6]  Just go too fast, not a I sign up the old Jeremy I sent you
+[]			 He doesn't know me, so it doesn't make any difference
+[0:16:21.6]  Okay, so if you look at Jeremy's interviews, his very out spoken, he doesn't sugarcoat it, and he has some interesting insights about what academia prioritizes
+[]			 See papers
+[0:16:44.0]  The impact factors of the journals in which you publish those papers grants that you get to support the research work that eventually leads publishing those papers, which will then be used to support your grant proposal in the next round of funding to keep the hamster wheel going
+[]			 Okay
+[0:16:57.1]  Hey, say's very little purposing that he claims that most the vast majority of the paper that come from a Karina is utterly useless, and he has a tremendous depth of knowledge to back up his claims
+[0:17:12.4]  And when you say, Oh, he's just a contrarian, He's the type of guy who likes to have the spotlight just to say provocative things
+[]			 Not at all
+[]			 It's his style, all right
+[]			 But then, if you ask a follow up question, so which problems are worth solving and how is your company? Fast? Aye, aye
+[0:17:26.4]  Empowering people to develop the skills to solve those problems
+[0:17:31.0]  He has a phenomenal story to tell, and the problems are meaningful
+[0:17:37.2]  We're talking about climate change or talking about improving the health conditions off individuals were trying about
+[0:17:39.1]  Talking about better use of resource is better distribution of wealth
+[0:17:47.0]  It's something that really matters for humanity at large, as opposed to all we beat
+[0:17:50.5]  Imagine that by 0
+[0:17:56.8] 1 over the previous state of the art, all of which are fine in the sense off practicing your skills
+[0:18:06.5]  And if you go too fast, you'll see that one of the first things you learn right after setting up your development environment, you learn how to do what is long as transfer learning and, you know you learn how to benchmark whatever you do against publicly available data sets
+[0:18:22.1]  After all, Johnny couldn't bet Marthe Cargo because he founded cattle himself
+[0:18:25.7]  Okay, so he knows that competition is healthy
+[0:18:26.7]  You know that reproducible research has its own Larry
+[]			 He knows that it's a great time to live
+[0:18:34.3]  And in which you say, I think I have a better idea for classifying brain tumors, benign or not, and there's a cavalry to set for that
+[]			 I'll try my hand on it
+[0:18:44.9]  I'll try my model and see how well I do and how it compares to other people
+[0:18:45.9]  Tried it in the past
+[0:18:52.8]  It's all fine, but it's just fine as far as getting your chops ready, getting your skills to the point where it can use them to solve
+[0:19:06.9]  Or so I clean Group one types of problems by calling them not too complex doesn't mean again Anyone with Basic Excel knowledge will go there and solve them
+[0:19:15.8]  It basically means they may not require the level of complexity that sometimes is artificially added to some pride
+[0:19:19.5]  It's particularly academia, but not exclusive
+[]			 All right, so what is all this? I don't know
+[]			 But anyway, I thought it was important to share it with you because because of this hopefully understood by you pragmatic vision that I consider when teaching the scores
+[0:19:39.6]  Oh, I know why I mention it because I said I wouldn't record lectures for the sake of recording
+[0:19:46.9]  Your time is best spent writing code, learning new things, then watching a few additional hours off lecturers just because it might be on the test or something like that
+[]			 We don't want to do that
+[0:19:56.1]  So the plan for today includes answering questions from assignment for and then changing topics altogether to something called regression analysis
+[]			 So let's start by assignment
+[]			 Before you probably saw the assignment already
+[0:20:10.3]  Some of you have already submitted, actually, so I believe there may be a few questions
+[]			 And if there are questions, I'll be happy to try to answer now
+[]			 Yes, in your turn
+[]			 30 points
+[0:20:27.4]  Hey, the bridge
+[0:20:29.1]  All right, E
+[]			 I think a lot of people have the same question
+[0:20:33.0]  So go ahead
+[0:20:34.0]  Be the spokesperson for that, right? Yes
+[]			 What exactly are you? Because I originally did it
+[]			 You were okay
+[0:20:57.3]  Each other
+[]			 That's why I came back
+[0:20:59.0]  Conclusion
+[]			 Bye
+[0:21:01.0]  I looked like this, right? You are still confused
+[]			 Okay, so let's go back to figure 52 together and go from there
+[]			 Okay? We're talking about your arrival times
+[]			 Yes
+[0:21:22.8]  The the difference between the birth off baby I and Baby I plus one
+[]			 Okay
+[]			 In minutes
+[]			 All right
+[0:21:33.9]  So, um, I'll get a five to in a minute, and I'll try to give some some perspective here
+[0:21:41.3]  When we talk about famous for the lack of a better term, statistical distributions are probabilistic distributions
+[0:21:44.7]  They're not famous because beyonc? Endorses them or something like that
+[0:21:49.1]  They're famous because they map to Rhea world problems
+[0:22:10.1]  Right? So why is the normal distribution famous? Can you think off phrase that, um, has shown up already in the course? That is, uh, typical way by which that decisions explain why the normal or Gaussian distribution is famous
+[]			 Anyone? It is the central human theory
+[]			 Um, thank you very much
+[]			 Okay
+[0:22:27.4]  So it's a central human theory, which basically said that you have a number off variables and manifestations and measurements and you think about the cumulative effect of those things, chances are they will organize themselves in the normal type of distribution
+[]			 That's true, for what did we see is a possibly true thing the average height or the height off a certain population
+[0:22:49.9]  The weight Not so much because you may have some skew towards obesity in a country such as the U
+[]			 S
+[0:22:57.6]  Where obesity is a well known issue perhaps much less in Japan, where being lean is a well known aspect
+[0:23:03.6]  Which leads to speculations about why people who look in our leave live so long and diet two feds and all that
+[]			 All right, so that so that's the normal distribution, this explanation distribution
+[]			 The book doesn't do a very good job, And that may be one reason why some of you may be getting confused
+[0:23:29.2]  For those of you who are taking the time to do the data camp thinking statistics, that seems to go thinking Python
+[0:23:38.8]  I think it's called You have a better explanation there because they go first to the issue off inter arrival times in processes in which you cannot quite predict when the next bus welcome or something and the the presenter of the training program, cause it pour some ville because it's a possum distribution off the arrival times
+[]			 And if you measure the inter arrival times, you'll see that it follows an exponential distribution
+[0:24:05.5]  So there's this notion that these types off Rheal world scenarios things that arrive in somewhat random fashion
+[0:24:12.9]  If you measure the inter arrival times, they will behave as an explanation distribution
+[0:24:16.4]  So the Brisbane Babies data set becomes convenient in the sense that it has that information in it
+[]			 And, um, let me pick my solutions here
+[0:24:36.3]  So I can I run a little bit off the code together with you, and you can pause the video and do all those streaks getting all right
+[]			 So the Brisbane distribution allows you
+[]			 Let's see how much
+[]			 Yeah
+[]			 Okay
+[]			 So you can run the differences between the minutes store that in an array
+[]			 Okay, that's fundamentally the cold
+[0:25:00.3]  You need to get the book off the work done houses, hold it there for a second, so you guys can take a look at it
+[0:25:09.6]  So fundamentally, you have Ah, you can, uh, we can split this cell here
+[]			 Well, look at the minutes
+[]			 Yeah, that's it
+[]			 And the difference between minutes and everything follows from there
+[]			 Okay, so if you're building a ray off the differences between minutes, you can compute the mean off those differences
+[0:25:28.5]  And this reciprocal of that will be emojis reciprocal off
+[0:25:31.7]  That will be your Lampton, and you can take it from there
+[0:25:35.8]  All right, You use the lamp
+[0:25:45.8]  That too create your analytical distribution with the exponential distribution function from the random module in Nam Pie
+[0:25:48.2]  Passing one over Lambda is a parameter
+[0:25:50.1]  However many data points you want and those aren't the fundamental bits
+[0:26:00.2]  So what about this figure five to this is basically an exercise in understanding CDF e c d f c c d e f And all these acronyms get a little bit confusing
+[0:26:06.5]  So let me clarify them one more time
+[0:26:13.5]  We are using city F humility of distribution function to refer to the theoretical samples
+[0:26:32.2]  So what you get by running or by um, basically, uh, computing a formula and we are using e c d e f as the empirical equivalent
+[0:26:36.3]  In other words, there typically dotted plot off what you get from the sample data
+[0:26:43.3]  So in many cases throughout this course, such as in the Michaelson Speed of Light
+[0:26:55.6]  Here we we want to have ah scenario in which we can visually demonstrate that the empirical CDF those dots in orange or red resembles quite closely the analytical or theoretical CDF
+[0:27:13.8]  That's why we have variables with underscore fear, as in theoretical, to make it more clear that this is the theoretical model
+[]			 So CDF is basically the blue continues line here obtained with theoretical values and e C d e f is the empirical
+[0:27:32.5]  And finally, the sea CDF is something that your book introduces
+[]			 Two suggests that there are alternative ways of plotting the same thing
+[0:27:50.2]  So if you're CDF in the baby birth Now, if you're CDF looks like this, your one minor CDF looks not surprisingly like that
+[0:27:56.8]  But if you brought the why scale in logarithmic face, it turns out to be Not surprisingly, this is exponential
+[0:28:01.9]  Dialogue of this will be linear and you can make a better analysis off relative to this straight line
+[]			 How does it your distribution look like? So this block here is close enough, in my opinion, to the plot and figure 52 under, right
+[]			 Okay
+[]			 When I say close enough
+[0:29:08.2]  I have to point out a few things that came out, uh, came up a day ago or two, and a student came to visit me in my office hours, which is, if you take the time in this problem, you can also play with plot options and realize that if you plot these, uh, numbers here using, uh, hi plot, chances are you have an option to leave them is not if you use deal by, uh, suppressing the interpolation
+[]			 If you keep the interpolation chances, I they will create diagonal lines between the points as opposed to this staircase like and there's nothing wrong with that
+[0:29:24.8]  In fact, it's your choice in terms of visual representation, but I want you to if you so desire to spend some time on the plot part to make sure that the numbers make sense and that you understand, what are the actual data points and this not so great interpolated version that you see in the book, for instance, to fully understand where the actual data points are here? You basically have to go from right to left because this is a real data point
+[0:29:55.7]  The next one is this guy and it Instead of interpreting this way, it does there jump the next day
+[]			 The point is, this guy, and so are this guy rather and so on
+[0:30:07.1]  So every interpolation is this l shaped, staircase like line, which typically don't get with pipe lot
+[0:30:16.4]  Because either you suppress the lines altogether or you allow it to interpret it as it chooses
+[0:30:21.4]  Does that make sense? Has anyone tried to create this staircase like in pi plot or found an option by which it does this for me? That function
+[0:30:30.3]  Okay, it worked for you enough to produce something that looks like that or you haven't tried
+[]			 Okay, you have
+[]			 You got close, but you see the last part where it's a diagonal line
+[0:30:42.5]  Yeah, that's exactly what I meant
+[0:30:43.4]  Yeah, ofcourse
+[]			 You can play with the skills and everything, and there's nothing wrong with that
+[0:30:48.5]  But it also goes back to reinforcing my comment depth
+[0:31:00.0]  This type of plot produced by the author of the things that's books library is not something that you can easily reproduce with public libraries
+[0:31:03.9]  And therefore, when given the option, forget about this plot that is on the screen now and understand what's happening and plot your, uh, c c the f in whatever way, it makes more sense
+[]			 Okay, so that's basically it
+[0:31:18.8]  Any other questions about the same and four in general? Or the baby's part in particular? Yes, he's four
+[]			 Well, lambda is just a reciprocal off the mean
+[0:31:41.2]  In fact, I'm using the Ming Look at that one divided by Lambda
+[0:31:46.8]  And look how computer lambda one divided by the Me
+[]			 Okay, so I'm using to me just indirectly it just because in the analytical formulation, it's common toe refer
+[0:31:54.9]  Tow their perimeter Islam
+[]			 Okay
+[0:32:00.5]  And the reason why we don't call it Lambda is because Lambda is a reserved word in python
+[]			 All right
+[0:32:03.7]  That's why it has names such as lamb or whatever you choose
+[]			 Okay, Good deal
+[]			 Any other questions about the assignment number four? Okay
+[0:32:14.4]  Good assignment before he's overdue for my end to make it available to you on putting the final touches on it, it will be there before we meet again next week
+[]			 For sure
+[0:32:21.1]  Maybe a service tomorrow morning or something
+[]			 It will be short, just as I think four was relatively short and this is by design Okay
+[]			 I want to make sure that you practice a little bit off everything
+[]			 Even if the assignments become short compared to something you did
+[0:32:39.1]  And also because we are going down will be it before we ramp up again for the final project on machine learning, which is a group project
+[]			 As you may have seen the announcement
+[0:32:47.4]  Okay? You you don't think it's getting shorter? I see you're saying no
+[]			 Are you out of your life? I get ready
+[0:32:54.3]  Deal examines the week after next
+[0:33:00.1]  So by this time next week, I'll give you all the, uh, breakdown of what? His heart, that's not, you know, probably published nothing on campus before that
+[0:33:05.8]  The exam is conceptual for those parts
+[]			 Oh, no math and no cold related questions
+[0:33:15.6]  Okay, I may give sample code only if I think it helps understand the problem
+[]			 I can say if you compute something, for instance, using the python cold below
+[]			 What does this number tell you? It's not the python code below has an error
+[0:33:28.3]  Can you tell me what it is? Come on
+[]			 You don't do that in a test
+[]			 You do that debugging, cold writing situation
+[0:33:35.6]  I hate doing that in the test
+[]			 You had a question? No
+[0:33:39.2]  Someone
+[]			 Yes, Angelica
+[0:33:41.2]  Seven seconds
+[0:33:45.2]  The babies, uh, miners that
+[]			 Yeah
+[0:33:54.6]  And remember that you can nicely use broadcasting
+[0:33:58.3]  Right? So one mine is it can be written justice
+[]			 Okay, I I saw couple should make it more complicated than he should
+[0:34:11.0]  Judges one minus y one minus dear wife Theoretical
+[]			 Make sure that what you do from this point on uses the right variables
+[0:34:18.1]  I call them underscore Seed to reflect complimentary
+[0:34:25.1]  Okay, so there is a I can double check later on your specific Or maybe one of those silly
+[]			 Yeah
+[0:34:35.0]  And always, by all means, if you don't know which sells you ran so far or something, it's always a good idea to remember the good old cell run all above when you are in the middle of something
+[]			 So you know that everything is as it should be
+[]			 Okay
+[0:34:52.2]  So always a good idea before you get to the point where you are apparently struggling or debugging or something like that
+[0:34:56.2]  So you don't make assumptions or use old
+[]			 That is our variables or something like that
+[]			 All right
+[]			 So far, so good
+[]			 So no more questions about the same number four
+[0:35:09.2]  Let's close that Number five is coming up and it will be specifically about hypothesis testing
+[]			 But our topic today is different
+[]			 We're gonna talk about regression analysis and I will use a little bit from so called book two things that look and I will go back to book one because it's time to do so
+[]			 So when you see the words correlation in connection with the course, what comes to your mind relationship between two variables
+[]			 I like that
+[]			 A relationship between two variables
+[0:36:20.6]  So if we plot a variable X and available, why and we do the data points like this, we do the data points like that without even knowing the formula for Pearson coefficient, one can say that the plot on the left has higher correlation than the one on the right
+[0:36:31.3]  Right? So what? The spirits and coefficient, which were probably called by the name row, right
+[0:36:43.7]  So that's called rose up one and rose up to you can affirm without even computing these things
+[0:36:46.7]  Because you have computed already enough examples in homework assignments at row, someone will be greater than row subject
+[]			 Okay, No, that is fine
+[0:37:02.6]  you may remember that the person coefficient has a few limitations
+[0:37:24.6]  For instance, if I tell you your computer, let's call this rose up three for this type of distribution here and rose up four for this type of distribution here, can you say something about Row three relative to rose up for last? Them greater than much greater, much less approximately equal
+[0:37:32.1]  Can you see between rows of three and Rosa before? Well, you can estimate that they're very high
+[]			 What is high in terms off Pearson coefficient close to one, if you can say
+[]			 But what is the relationship between them? What you do stick here greater than less down, approximately, equal to much greater than great
+[0:38:00.5]  You hear them? It's approximately you go, actually, because the Pearson coefficient captures how correlated to things are but has no idea off slope and intercept
+[]			 Okay, why is this important? Because we are about to make a transition in which we want to explain the correlation using a simple analytical model, just as we want it explain other distributions or other decisions we wanted explain some distributions using analytical model
+[]			 So if I tell you, is this line in blue a good model, explained the data
+[]			 You would probably say Yes, miners, you're horrible drawing skills
+[]			 It's really good
+[]			 It's okay
+[]			 And if I say what about this line in blue? He would probably agree with that
+[]			 What about this line here? You probably agree with that, and clearly any one of these lines that's called this
+[0:38:57.6]  Why Won could be explained by a one x one plus B one
+[0:39:04.7]  But I shouldn't use the one here, said a bit confusing
+[]			 Yeah, you could say it's a three
+[]			 X was B three
+[0:39:19.9]  And here it's a four x waas before simple equation from middle school dinner or something like that
+[]			 Thanks
+[0:39:23.1]  Nothing to it
+[0:39:40.4]  Okay, so what? What are we trying to do here? I'm taking my time here to show you a few things that I believe are important before we get into actual five on cold or answer, you're looking formulas and so forth
+[0:39:48.3]  So Pearson coefficient is a good measure off whether in this case, two variables are corrected
+[0:39:48.8]  Fine
+[]			 To fit a model too
+[]			 Explain the data
+[]			 Uh, we need a few additional tools and who that we like to use
+[0:40:05.7]  That represents in a nice compact equation
+[]			 How this data can be explained is what will be known as in a regression two or false in your regression is one of the most useful and one of the most used tools by professional data scientists out there
+[0:40:29.6]  True, absolutely, through surprisingly truth
+[]			 And it's simple toe understand simple to use
+[0:40:34.7]  And I won't go through some basic conceptual points today
+[0:40:41.1]  So you don't make any conceptual mistakes as you go about applying linear regression
+[0:40:47.0]  So So what is the goal? Once again, the goes to take, um, some sort of data distribution and find a model that best it's data or best explains the data
+[0:41:07.3]  And therefore, by providing this simple equation with only two renters, you can do what can explain a date
+[]			 All right, but you can go one step further
+[0:41:27.7]  What can you do? Predict, Thank you very much
+[]			 So you can make predictions, in other words, for a point here
+[]			 Oh, I'm sorry
+[]			 Thank you
+[]			 A point here that you have never seen before
+[0:41:44.0]  Thanks to the existence of this equation, you can predict at its value off
+[]			 Why? Let's call it ex prime y prime
+[0:42:08.1]  Something like that will be whatever is given by the formula based on the parameters A and B once you have those parameters, it's a very, very simple, I think the compute How do you learn those parameters? How do you discover them if you don't want to use the term learning it or what does it need to learn those parameters? Right
+[0:42:28.1]  So let's assume for the sake of argument that you have is distribution and that you try Model one, Model two a model three
+[]			 Which one is best? You know it It's one
+[0:42:56.6]  How would you be able to tell? So in a more systematic or mathematical way, you need some measure off, Aaron? All right
+[]			 One of which could be that Well, the residual is the name given to the difference between what you predict and the actual point
+[0:43:18.6]  Right? So residuals are basically these differences here, right between what your model predicts and the actual But I'm glad someone brought this terminology up
+[]			 So these are residuals, right? So of course you want the residuals to be as small as possible, all right
+[]			 And in orderto and typically you want to take into account residuals that are, let's call it above the line or below the line the same way
+[0:44:02.3]  That's why one way of computing how good off a fit your model is, is by using them with me square error or as your book number two cause it this some off squares of the differences, right? It s recalls something else act, and they put me square
+[0:44:08.7]  Error is technically the square root of this
+[]			 Some of this ground, the differences, right
+[]			 So, bye
+[0:44:23.6]  Why the square's basically toe make errors in both directions account equally to this measure off
+[0:44:39.7]  Well, there are lots of interesting implications about the effect off out fliers saying on this sum of the squares is supposed to the absolute some and some candy that I'll leave those out for now
+[0:44:46.8]  But we can go back to that and talk about other fingers off Mary, if you will
+[0:44:55.0]  So can you claim that? All right, messy for one is less than two
+[]			 Just by visual inspection
+[]			 Yes, I know
+[]			 Yes
+[]			 And you claim that it's also last
+[0:45:08.6]  Then they won for the third attempt also
+[]			 Yes
+[]			 What about between three and three? You don't want to risk it
+[0:45:14.1]  Chances, actually still better fit in three days with my drawing
+[]			 I didn't want to risk it
+[]			 Right
+[0:45:28.7]  Okay, so Well, I'm taking my time here on purpose to give you a cz broader picture as we want
+[0:45:35.2]  In fact, I will go back to this piece of paper here and remind you off another implication off correlation
+[0:45:49.7]  If you say why and ex are correlated and you find a way by which there's a mathematical equation that describes such a correlation, you're still not solving the problem off civilisation, right? You cannot say anything about ex causes
+[0:45:54.3]  Why or vice versa Or 1/3 factor causes both X and y or whatever other combination there
+[]			 Maybe that's a conceptual point that might be on the test
+[]			 All right
+[]			 Okay
+[0:46:15.9]  No, there are other things that you can do before even fitting a model going back to the, um just to show you the breath of what we're trying to cover in this course, the fact that the beautiful coefficient for certain data sample turns out to be where it turns out that we can be tested in the hypothesis, testing scents and basically ask the question
+[0:46:37.1]  What is the likelihood off a random distribution or a permutation of this data could result in a super random person coefficient
+[0:46:45.6]  And that's to see, um, guest or no hypothesis, if you will
+[0:46:51.8]  We are past that point, even though the assignment that relates to that is still coming up
+[0:47:10.7]  But it's a reminder that, um, we can test to see the if the occurrence of the person coefficient, um, could have happened as a result of the data labeled or interpreted the way it is or if a reputation of the data could lead to a comparable, uh, computation off Pearson crayfish
+[]			 So what we want to do starting today is to learn more about regression
+[0:47:43.6]  So 20 point of view off we are We're about to transition from data science, mushing, learning
+[0:47:46.0]  In this course they infect marks the first clause in which what we will talk about start to belong more and she'll learn inside of things, then on the day the science side of things and make that distinction clear in a minute
+[0:48:05.3]  So a regression problem basically consists off
+[0:48:12.8]  Being able to predict what put a blank here
+[]			 I'm independent variable like that based on dependent, which means multiple variables
+[]			 You're all right
+[0:48:43.4]  So in the regular Indian, in the general sense by which regression is usually formulated, you want to be able to predict why using parameter such as bait zero beta one etcetera
+[0:48:59.9]  This is a rotation from one of the books that we use can't remember from which it doesn't matter
+[]			 So which basically says that these are your dependent variables
+[]			 X one extreme is your independent variable
+[0:49:17.3]  Why find 1/3 caller here? These are your I'm in turns, and this ex absolute guy is your residual right, which you tried to many mights
+[]			 So let's talk about regression in one of the most classical examples used in both
+[0:49:54.4]  Take a science and machine learning literature
+[0:50:09.1]  Some of you will smile when you see those words here housing prices well, because it is ridiculously popular example used by everybody and their dogs when they teach this material
+[]			 All right, so here you go, using it as well
+[0:50:22.9]  So what is the housing price? What does the housing price later said typically look like basically a data set consisting off a number of columns that's assume here
+[0:50:34.0]  Square footage, number of bedrooms on birth, death ones year in which the house is built many, many other things and the price at which it was sold
+[0:50:59.6]  All of these columns, except for the last, are typically called in machine learning literature and in your data science textbook, Capital X, and the variable that you're trying to predict is typically called lower case
+[0:51:22.0]  Why so typically you will have what we know as a data sat with enough observations off houses typically, of course, or a zip gold, or see if he or something
+[0:51:50.1]  So there's some sense off consistency as to why they can be allies together in which your job is a machine learning engineer or scientist is to build a model that will make good predictions on prices, given those features which we collectively call Big X
+[]			 So there's a possibility that your model will be some greater zero plus beta
+[0:52:19.3]  One times the square foot property off the data was beta, two times the number of bedroom property et cetera, and that by plugging in a new house with their information about square footage, etcetera, you will predict its price
+[]			 Good
+[]			 We're good
+[0:52:36.6]  The machine learning and the date of signs the person's depart
+[0:52:42.1]  What is it that we can use this example to establish the difference
+[]			 Rather than telling this myself, I will defer it, too
+[0:52:48.8]  Everybody's favorite
+[0:52:51.3]  Aye aye, Machine learning Professor Andrew Ang Andrew Angle, founder of course ERA, has recently released a course called A Eye for Everyone
+[0:53:01.2]  It's free on course era if you don't need the certificate
+[]			 I'm almost done with the course myself
+[]			 It's really cool
+[0:53:22.7]  I like him a lot, and I decided to pick this particular portion off a particular class to share with you because it builds on this notion off the housing prices and how the approach for machine learning and beeper size is likely different, really important to go the assistance
+[]			 But what this data Let's take a look less welcome
+[0:53:28.2]  An example of a table of data, which we also call a data set
+[0:53:50.0]  If you're trying to figure out how to price holds, is that you're trying to buy or sell, you might collect a data set like this and just couldn't be just a spreadsheet like a mix of spreadsheet of data where one column is the size of the house, say in square fetal script meters, and the second column is the price of the holes as so
+[0:54:01.4]  If you're tryingto bill that the AI system a machine that exist them to help you set prices of houses or figure out of the holes is priced appropriately, you might decide that the size of the house is a and the price of the houses be in heaven
+[]			 A
+[0:54:15.1]  I system learned this input outwits or a to be happy now, rather than just pressing a house based on the size you might say, Well, that's also collect data on the number of bedrooms of this house
+[0:54:25.8]  In that case, a can be both of these 1st 2 columns and B b just the price of the house
+[]			 So, given a table of data given the data said, there's actually up to you up to your business use case to decide what is a and what this be
+[0:54:48.2]  Data is often unique to your business, and this is an example of a data set that a real estate agency might have if they're tryingto help
+[0:54:54.8]  Price holds is, and it's up to you to decide what is a Weathersbee and hard to choose thes definitions of A and B to make it valuable for your business as another example
+[]			 If you have a certain budget and you want to decide what is the size of house, you can afford that
+[0:55:10.7]  You might decide that the inputs A is
+[0:55:17.1]  How much does someone spend? And B is just the size of the hole
+[0:55:26.2]  You might have heard terminology from a I, such as machine learning or data signs on your veterans or deep learning
+[0:55:28.0]  Whether these turns me in this video
+[0:55:35.7]  You see what is this terminology of the most important concepts of the eye so that you will speak with others about it and start thinking how these things could apply in your business? Let's get started
+[0:55:42.7]  Let's say you have a husband data set like this, with the size of house number bedrooms and robot rooms, whether the house's new TV renovated as well as the price
+[0:55:52.3]  If you want to build a mobile app, toe, help people price houses
+[0:56:02.8]  So this city, the input A and this would be the upwards be, then disappear
+[0:56:11.3]  A machine learning system, in particular, would be one of those machines or any systems that learns input operates or a to B wrappings
+[]			 So machine learning often results in a running A
+[0:56:17.6]  I Systems is a piece of software that any time of day, any time of now you can all tenacity and put a thes properties of a host and upwards be
+[0:56:30.7]  So if you have any system running serving dozens or hundreds of thousands of millions of users, that's you should be machine learning system
+[0:56:39.4]  In contrast, here's something else you might want to do, which is so have 18
+[0:56:46.0]  Analyze your data set in orderto gain insights so a team might come up with a conclusion like, Hey, did you know if you have two holes? Is of a similar size of a similar script
+[0:56:53.8]  What age If the house has three bedrooms, standing costs a lot more than the house of two bedrooms, even if the square footage is the same
+[0:57:14.3]  Did you know that newly renovated home 7 15% premiere and this could help you make decisions such as given a sort of square footage? Do you want to build a two bedroom or three bedroom size in over the massive eyes value or isn't worth in investments to renovate a home and hope that the renovation increases the price, you could sell a houseful, so these would be examples of data signs, projects where the upwards of a data science project is a set of insights that can hope you make business decisions such a that's what type of house to build or whether to invest in renovation
+[]			 It is a great point, and I like that he did it using this ridiculously famous housing prices example, because you keep talking about this course being interested in the science scores
+[]			 We just spoke about this being the first class in which we start to make the transition to machine learning methods
+[]			 And I thought this short explanation goes straight to the point of where the line could be drawn for this particular example
+[0:58:10.9]  So let's spend a few more minutes on this and see if we understand that what we try to do so far in the course falls pretty much into the realm of data science
+[0:58:16.4]  What you see there with those two sentences could be what we call informal hypothesis in earlier assignments
+[]			 In this course, one hypothesis is homes with three bedrooms are more expensive than homes with two bedrooms off
+[0:58:31.8]  Same square footage do you know how to test this hypothesis is in pandas and by phone
+[]			 At this point in the course you do, you could have an assignment using dear housing
+[]			 They said there were multiple data sense of this type out there, and you could write call to test that hypothesis
+[0:58:50.6]  Can you go one step further and tested in the more formal sense? Yes, you haven't done the assignment yet because it hasn't been out yet
+[0:59:20.1]  But you will soon be able to do things such as computer values so that the test function and whatnot can you test informally hypothesis that newly renovated homes have a 15% premium? Yes, where do you find that information in this column here, what type of variables that categorical one could almost be bullying because it's a categorical variable that only takes two values, true or false? But it's a categorical variable nonetheless, and you could write code two best that hypothesis
+[0:59:31.3]  So if you think about it in this distinction between machine learning, which is where we are going to focus more and more from now until the end of the semester and classical data science, um, hopefully you see the point off what machine gun is trying to do
+[]			 Basically, learn mapping is between A and B, and we'll get to that in a minute
+[0:59:46.7]  More detail
+[0:59:55.2]  You can see the point of data scientists could make with the help of the data and properly chosen techniques and statistical knowledge
+[1:00:01.1]  And you can see that these things are somehow complementary, that they are not stepping on each other's goes
+[1:00:04.9]  But they have different goals, even though they need starts from the same data
+[]			 Does that make sense? Which field machine learning our data science is most needed these days
+[]			 That would be a silly question
+[1:00:20.6]  Tow us because they are really intertwined
+[1:00:23.4]  And some problems are better formatted in a machine learning way
+[1:00:26.1]  You want to build Annapolis professor and suggests, so people can quickly like the real value off a house based on their properties
+[1:00:37.6]  Like this estimate algorithm from Zillow, right? It's so machine learning out Wortham
+[1:00:52.7]  It's a regression algorithm that takes into account how many more parameters than these housing data sets offer to give you a quick idea if how there's only market for X is worth X indeed, or if in the process of making an offer for the house
+[1:01:00.6]  How far down you can go so that the offer's still reasonable, right? So that's a machine learning task
+[1:01:06.1]  Insights about neighborhoods becoming worse or better over time are typically take the science insights
+[]			 All right, good
+[]			 Let's talk about A and B a little bit further
+[1:01:27.5]  If the main task off machine learning solutions is toe learn, mapping is between the include ater A and they predicted variable B
+[]			 What is it about A
+[1:01:42.8]  Both in terms off the number of columns, the number of rose and the information that those intersections contain
+[1:01:50.8]  What are certain things that one should take into account? Let's stick to linear regression for now as secretly housing data set
+[1:02:01.3]  If I told you to build a linear regression model based on this data set that is currently on the slide and the general formula Big zero plus Baker one x one, and so on which types off potential problems will you find by using the data as ISS, there are least two problems here
+[1:02:29.1]  Yes, number Ah ha
+[]			 That's an interesting thing
+[]			 It's not a serious problem as the one I'm about to mention, but it's an interesting point
+[1:02:40.2]  Some variables may have a high degree off co dependence or correlation, right? In other words, it's reasonable to think off house off 2000 plus square feet, having four bedrooms
+[1:02:55.4]  But it's less reasonable to think off a house 1/4 of this size having four bedrooms
+[1:02:58.5]  You cannot imagine how small those bathrooms would have to be, so there is a correlation there, but there's something even more critical before we even get there
+[1:03:06.6]  Renovation is not a numerical variable, okay, so you have to find a way to handle it
+[1:03:16.1]  It's bracket that for a second, the other one
+[]			 It's categorical
+[]			 We'll talk about that in a minute
+[1:03:23.2]  Help to handle categorical variables
+[1:03:25.5]  Skill? Yes, one bedroom makes a huge difference in between
+[]			 One house in the next one square foot doesn't make any difference at all
+[1:03:39.7]  You had a words, this type of problem bags for something out, normalization All right, so normalization becomes a required step so that you make every parameter for within the same range
+[1:04:00.2]  Uh, what about the newly renovated deal? Their number of things to be said here when it's a categorical variable, is special kings of which could be replaced by zeros and ones, and hopefully that would be okay because it's already normalized as a bonus
+[]			 So let's leave it at that
+[]			 For now
+[1:04:09.5]  We will go back to Categorical one, Hot and Cody and things like that in another lecture
+[]			 But there's something else to be said about a in general
+[]			 All these columns, you know, the words
+[1:04:25.9]  There's nothing in principle that tells you in advance which columns are more important for the prediction you're trying to make right
+[1:04:42.7]  The task of figuring out which columns are more important, how to call Collins Invader science departments
+[1:04:45.0]  We don't really call them attribute
+[1:04:52.5]  And in machine learning, they don't really call them features, Right? So which features are attributes are more important? We'd never know that in advance
+[1:05:07.6]  How can you learn about that ridge? You can do a number off, uh, tests in in the area that is normal known this feature engineering or future selection
+[1:05:15.2]  Okay, there are ways by which you can tell the usefulness of the futures, even rank them by their using his fullness, Fisher coefficient or something like that
+[]			 Another way to figure out if something is important is and never, ever underestimate that domain knowledge
+[]			 Okay, domain knowledge, this is houses were talking about
+[1:05:35.9]  Everyone in the room knows the meaning off square footage, bedroom, bathroom and so on
+[1:05:42.0]  If this was serious off ex race with radiological findings from sea chest X rays experts, you would have to hopefully rely on human experts saying this is important, much more sold in that even though the machine also records that or we are required to report that
+[]			 So so
+[1:06:02.2]  One way to learn about the relative importance of features are attributes is by applying some some sort of domain knowledge
+[1:06:10.1]  Another one is by doing future engineering, none of which are the topics off today's lecture
+[1:06:30.5]  But I will get you something else that gets the job done indirectly in the case of linear regression, go back here for just a second to remind you of something that was interesting and not obvious that your choice off A and B depends on the problem we're trying to solve
+[1:06:34.0]  So even though the example for aggression typically says with all those parameters attributes, variables, features try to predict the price
+[]			 It could be the other way around with a certain budget
+[1:06:50.4]  Try to figure out which range off size houses you can buy with that money, in which case the problem would be reversed
+[]			 Okay
+[1:06:53.5]  Interestingly enough, many machine learning data science projects, Phil
+[]			 Why? Because people do not ask the fundamental questions from the very beginning
+[1:07:17.6]  What is it that you're trying to predict? What is it that you're trying to monitor or diagnose or classify or, uh, somehow? Okay, an intelligent insight into so never, ever
+[1:07:27.8]  Um, underestimate the power off that type of conversation where you ask the plumbing expert what is more needed
+[1:07:34.8]  I'll give an example that even Angelica, who works closely with me and Dre Moore I doesn't know yet
+[]			 Well, I wasn't his event in Valencia
+[1:07:40.3]  I was also in charge of interviewing neuro radiologists and ask them what type of bringing more Ay, ay, ay, wizardry would be most useful for their jobs
+[1:08:01.5]  And as Angelica knows it, we have been working on something that is related to quality estimation off bringing their eyes license or if they are noisy or blurry
+[1:08:09.2]  We can trying a regression deep, learning your own network to estimate by which amount make up for that call the right filter or do something about it after the fact
+[1:08:19.1]  After, you know, just have already appeared my Z or blurry or otherwise
+[1:08:20.6]  And then I asked Neurologist how impressed they would be with such a solution
+[]			 You said that would be fine
+[1:08:28.6]  It's a legitimate problem to work on excitement I was hoping for
+[1:08:34.3]  And then off guard
+[1:08:39.2]  The follow up question is what would be better than fine? Where would a I D? Most helpful and interesting enough, the answers I got from more than one experts, where A
+[1:08:48.0]  I would be most helpful in your ideology in a number off things that happened before we even get the patient on the bed on the table where everyone called it in the machine
+[1:09:05.7]  Even things as predicting no shows, patients who can so last minute and therefore will keep the machines idle and back up other patients and whatnot
+[1:09:16.1]  Using a reliable predictive model is perceived with higher value than this fancy shmancy, things that angelic insists that I work on
+[]			 I'm getting it
+[]			 It's the other way around
+[]			 Okay, All right
+[1:09:34.9]  So talk about the diagram I drew in the beginning of the class, right with all due respect the predictive modeling, off arrivals and patients being more or less reliable in containing their appointments and machine usage
+[]			 These things have been around for quite some time
+[1:09:40.8]  This is a feud called operations research
+[]			 It's me around for a question time
+[1:09:45.6]  It can be used for assembly lines for controlling crowds in stadiums
+[1:09:53.5]  And these are big matches and a Brazilian off other applications
+[1:09:57.5]  And you think you're going to talk to a neuro radiologist and they will ask you for something
+[]			 That is motive
+[1:10:09.0]  I mentioned now in is a Terek and out of this world, and what they need most is kind of on the opposite end of the spectrum
+[1:10:17.7]  Second best solution, By the way, Angelica is to do all these quality stuff that I like in the machine while the scanning is starting, kind of
+[1:10:21.2]  I think that I told you yesterday kind of an alert system
+[1:10:25.1]  So if say, you have a pediatric patient that is moving and likely to get everything blurry, you stop right there
+[1:10:37.5]  You try to if you can acquire those images in a better way, so we don't waste everybody's time and effort, and so so just a reminder that asking those from the mental questions is critical
+[]			 In fact, if you don't ask them, you risk producing the opposite product to what it was expected
+[1:10:54.4]  Think about the pricing thing imagining for the person who hires you once a nap that, given a budget, it's out there range of square foot, scruffy Vatican Brian a certain zip code
+[1:11:12.2]  And you because your bias by seeing this problem the other way around for so long you think, Oh, it went the price estimation zestimate with him, and that's kind of the opposite
+[]			 All right
+[]			 Um, no
+[1:11:37.3]  Why is linear regression called such? In other words, if I decide for some reason that using the square off the number of bedrooms or the cube off the number of bathrooms or the product of bedrooms versus bathrooms are good features, would that stop being called linear regression? And the answer is no
+[]			 Okay, so be mindful of this
+[]			 If you call this variable x one extra x three x four and so on
+[1:12:20.8]  Having a model that thus beta zero plus beta one x one Waas beta to x one times x two plus beta three x three cubed was beta four x four squared et cetera, is still a linear model because it's just some off products off features that have been combined or, one could say, napped to a different, um, space
+[1:12:34.5]  And yet the It's a linear combination off those on buying features, all right, not to be confused with other types of regression that we're gonna talk about in a minute
+[1:12:42.6]  Polynomial regression
+[]			 That's a difference
+[1:12:45.3]  Yes, sir
+[]			 For the right
+[]			 So what? No right looking for Yeah, like, I don't think there's an easy answer to your question, but let's see if I understood it
+[1:13:56.6]  First of all, I think the question speaks to effect that as convenient as it might be to use products or cubes or squares off the original variables and finding a better model, it's not always easy to explain what these things actually mean
+[1:14:04.9]  What would you do the the interpretation off in this silly case Here, Assuming normalized
+[]			 Okay, square footage times
+[1:14:25.0]  Number of bedrooms may work fine, but what is it or age square? What does the square of the age of the individual actually means? In some rare cases, such as the body mass index example that I have given several times before
+[1:14:38.8]  It just so happens that a combination off weight and height and the square and so on turned out to be a good measure off propensity for diabetes or something like that
+[1:14:45.2]  But for the most cases, these things have no semantic meaning, if you will
+[]			 There's another aspect of this playing with variables here that you have a very large number of combinations to play with
+[]			 If you allow your system to try, several combinations could try all the individual ones, plus all the products off two of them, all the products of three of them, all the squares, all the cubes, and you can do X one extra cubed and things like that and see how well they work
+[]			 And one has to develop a system
+[1:15:18.8]  So is do not overdo it
+[]			 We'll see examples of that coming up in connection with Chapter five off Jake 100 plus his book
+[1:15:32.0]  I believe most of examples for after the break so we can switch basically completely from Panama paper to Jupiter notebook and see
+[]			 There's something else I want to say here
+[1:15:43.3]  But there'll be a number off additional concepts that will come up in connection with Chapter five from under plants, including psych
+[]			 It learned related concepts
+[]			 And, yeah, I think that's a good point to stop dependent paper stuff
+[]			 I will go back to the actually talk about polynomial regression when you talk about regularization and so forth
+[1:16:04.8]  But maybe this would be a good time to switch to a few director notebook examples
+[1:16:10.5]  By the way, let me make a rough simplification here as Faras, which materials coming from which books will will use You are so called book to the book by Downey thinks that talks about regression in two chapters, Chapter 10 Linearly Squares and Chapter 11 called Regression
+[1:16:34.5]  I am not a big fan off the coverage of this topic in this book on Dhe
+[1:16:39.0]  We'll give you just a few highlights that I think are important and then move on to 100 classes book and never look back at these chapters 10 and 11
+[1:16:48.3]  And the stuff that I'm going to talk about now and highlight is conceptual, for the most part
+[]			 So it is something that could be the test
+[1:17:23.5]  So what is useful in Chapter 10 off down his book one the definition off a linear least squares fit, in other words, one that minimizes the mean square error between the line that we draw and the data and the definition off a residual, which is the difference between the actual point why s and the estimate that would get by taking the value of X multiplying by the slope and adding the intercept
+[1:17:30.6]  Um, what else is important here? One of the reasons for the popularity of the least square fit is the ease off computing
+[1:17:37.4]  And of course, you have the authors on implementation of that
+[1:17:42.1]  But we don't get hung up on that
+[1:17:48.7]  And a typical plot would look like this with your best fit over laid on top of the cloud of data point
+[1:17:59.4]  Then there's the definition of residuals, which is relatively straightforward and then some plotting off residuals relative to the inter quartile range and so on, which I find rather confusing and not exactly useful
+[1:18:10.6]  Here's an interesting thing, and I don't want to cause a stir when I say this
+[1:18:20.2]  This is the part where the book becomes a little bit too biased words the statistician view of things as opposed to the practitioners of you and I in the interest of what I said earlier today, I tell you, stop right there
+[1:18:28.1]  We're not pretending to be professional status stations here, so move on
+[]			 You have more practical things to do
+[1:18:45.4]  All right, What else is useful here? Uh, the notion that you can run several, um, experiments to see ho random
+[1:18:54.6]  The results you get are similar in spirit to the fitness examples that you have in assignment four
+[]			 Okay
+[1:19:05.4]  And you can measure the goodness off your fit by using something called the Are Square
+[1:19:10.4]  The coefficient of determination, Which turns out to be, uh, the square off the Pearson coefficient
+[1:19:24.5]  Yes, well, so that's basically it then it maps the quality of the linear model in a way that is related to the no hypothesis
+[1:19:33.2]  So this is a nicely in your nice little touch
+[1:19:34.7]  If you want to connect this business of regression to the business off hypothesis testing, no hypothesis is P values And what not? What isn't no hypothesis
+[1:19:43.7]  Typical
+[1:19:46.2]  No hypothesis is a line with his load zero
+[]			 Okay
+[]			 And then you can see if, however small this loop you get is due to the data being Ah, such that it leads needs to that or not, in other words, whether it's by chance or not
+[1:20:17.7]  And the reason he does that is because it just so happens that this, uh, data said that he's so interested in about the weight of the baby, the age of the mom and all that stuff
+[]			 It just so happened that when you fit it with the linear model, this slope is ridiculously small
+[]			 Okay, so 0
+[1:20:29.9] 27 ounces per year, or £0
+[1:20:33.2] 17 per decade
+[]			 You can see by the way the line is drawn, that it's almost horizontal
+[1:20:47.0]  And he claims, Is this really relevant statistically significant in terms of this data, O R
+[]			 Not so
+[]			 He tested no hypothesis, which is it would be perfectly horizontal
+[]			 And he shows code using his built in functions
+[1:20:59.2]  Of course, that shows that if you test their part, this is properly you're gonna get a P value less then 10 to the negative three, which basically means it is statistically significant
+[1:21:23.2]  So it's it's nice in the sense that the very modest slope off the resulting linear model is Theo statistically significant
+[1:21:40.9]  Okay, something that is not obvious at all, especially when you look at the distribution here and you have something that is a far cry from our few points, almost begging to be put in the same line that I drew on a piece of paper before, or either got zero points further away from the main line
+[]			 So conceptually speaking, it's a good chapter
+[1:22:01.3]  Um, from the point of view off code, it relies so much on its library functions that converting to universally available functions may be a bit off a pain
+[1:22:08.7]  There's a final bit on this Chapter 10 that I want to bring to your attention
+[]			 It will not be in an assignment
+[]			 It will not be on the test
+[1:22:37.1]  But for those of you who remember the comment that this national survey of family growth, uh, data set WAAS own purpose over sampling certain demographics, here's the part in the book where he revisited this problem and says, If you want to kind of make up for the over sampling, give more weight to the populations that do not appear properly represented
+[]			 Make it more like the distribution off the larger population
+[]			 Here's how to do it
+[1:22:49.2]  Using awaited re sampling their strategy
+[1:22:51.7]  So be my guests if you want to play with that
+[]			 But it will not be in the assignment or in test in chapter 11
+[1:23:00.3]  And I promise you take a break after this
+[]			 Yes
+[1:23:07.3]  Question, please
+[1:23:14.1]  Journalistic Who? Uh, Careful, dear
+[1:23:27.4]  Okay, that's Parson out, because what you're about to see is very important
+[1:23:33.0]  And I don't want to to just give a generic answer
+[1:23:37.9]  You said, you know, when you're building your data set that some parts of being over sampled and you can take some measures about it right then and there
+[]			 Yes
+[1:23:47.0]  And you know, in this case, based on code, book and context that it was done on purpose
+[]			 All right
+[]			 In fact, it and you can tell even by the distributions that you get earlier in the e
+[]			 D
+[1:24:06.5]  A part of this data set that chances are in the general population, there are not so many team Uh uh, women with pregnancy rates comparable to this data set for the simple right
+[]			 So go on to the second part
+[]			 So, basically, can you do something about it at the sampling time? Yes, but the fact that they did it on purpose to over sample
+[1:24:30.5]  Part of the population means that for the sake of that study, they were interested in doing that deliberately
+[]			 Right? So what is the the next part of the question? I always so
+[1:24:43.0]  But what are you calling empirical here? We talk about data collection or because the word empirical here can have different meanings
+[]			 And see, I guess in the morning this is you
+[1:25:08.9]  Well, no or notice you were trying to observe something you should No
+[]			 Oh, right
+[1:25:30.1]  No, I think if you allow me to just interject for a second here, I think what you're getting into is maybe something along the lines off
+[1:25:56.9]  It's much more easily said than done to say I want my sample to reflect the population or to bias certain aspects for the sake of this study, think about election time pose and how you try to sample enough voters to have a good measure off which candidates have a better chance of winning
+[]			 And yet it's not simply sample size
+[]			 It's not always the demographics
+[1:26:08.0]  And at election time you have all those discussions about the folks from the Fivethirtyeight website, Nate's over and all that and everything under the sun from Jerry mentoring and how minuscule local divisions in rural areas have a greater impact in the overall projections than you first thought they would and all those things that has a lot to do with what we're talking about here
+[1:26:36.5]  So I'm trying to suggest, since you were kind of searching for an example, that it's much more easily said than done
+[1:26:48.6]  It's not always known that the time off this sampling and it's not as obvious as oh, the larger example better it's easy to throw away were such as large or representative, but to actually demonstrated to be representative enough or large enough for meaningful enough, it's even worse
+[]			 Or to get a good picture off your population, remember? Right, Right, right, Yeah, so you're always interesting
+[]			 The population, as we have heard multiple times you have to do the best you can with simple
+[1:27:26.3]  But this is a very pertinent line of thinking, because if you really take the time to look at this section in the book, it's not quite easy to do
+[1:27:40.4]  And it seems to me personally that the author makes a few hey, stretches some claims here
+[]			 So when he actually shows how he does it, that's if I can find the point
+[1:27:57.1]  Um, so he creates a variable called Final Wait, which is the number off people in the general population that the respondent represents
+[1:28:13.0]  In other words, based on age, they try to say, OK, in the general population, they're just however many 14 year old girls, as opposed to in this sample being overrepresented or something
+[]			 Okay, so anyway, um, this could go further if we saw desire
+[]			 But I don't think it's the main point I'm trying to make you
+[1:28:29.5]  But thank you for the question, and I hope it helped a little bit
+[]			 It's a crucial problem
+[]			 I think they did it
+[1:28:35.8]  Everyday situation that comes to my mind is clearly the fivethirtyeight prediction models for for elections, especially because of what happened between the last presidential election and the one before that in which they became very famous for getting perfectly right predictions when Obama was re elected and they didn't when Trump was elected
+[1:29:06.4]  So something to be said about going back to the drawing board and seeing where did things go wrong? All right, Uh, what is the name of Nate Silver's famous book
+[]			 I hope you know who I'm talking about here
+[1:29:18.8]  Nate Silver is the hunger CEO boss off this website called Fivethirtyeight, which is basically mystics data science for real world problems
+[]			 And his famous book is called The Signal and the Noise
+[]			 Right, So it speaks a lot about that
+[1:29:31.9]  Magoo it in front of you just to make sure not say anything stupid
+[1:29:44.2]  Oh, yes, you can get 5 38 like plots on Seaborn, if you like their style of plots
+[1:29:48.7]  So Nate Silver is the founder and editor in chief for 5 38 and the famous book is indeed called The Signal in the Noise
+[1:29:56.5]  Why so many predictions fail? But some don't phenomena reading for people in the scores who want to know more about things that lie outside of the best models, the best scientists, most powerful computers and sore
+[]			 Okay, so going back quickly to the Chapter 11 in down his book
+[1:30:20.5]  This is the official chapter on regression, and it will talk about things that are important from a conceptual standpoint
+[1:30:24.6]  So the notion of dependent variables and independent or explanatory terribles is important
+[1:30:33.2]  Um, I 10 to not like the term exploratory variables too much because explanatory in the data science sense is slightly different than in everyday parlance
+[]			 Typically, indeed, the things you say
+[1:30:52.1]  Well, this model shows that Terrible's X Y and Z explain the That's call X one expects three to be consistent
+[1:31:05.2]  Explain the behavior of there but why? But in general parlance, an explanation is something a little bit richer
+[1:31:10.9]  Means it often means causation if often means correlations with things that are not even explicitly representing the model
+[1:31:18.1]  So I would rather call it independent variables as we did ourselves a few minutes ago, as opposed to, um um explanatory
+[]			 No, um, the difference between simple and multiple regression is basically how many variables are there
+[1:31:35.5]  Simple regression is just X and Y, and multiple is
+[]			 Why be explained by X one x to its natural
+[1:31:48.2]  Uh, the notation for the linear regression that I used in my notes comes from this book
+[]			 In some other books, you may see these things being called beta zero theta
+[1:32:00.6]  One thing that you are Omega zero mega wanna make it doesn't never It's whatever favorite Greek letter the author had in mind when they did it
+[1:32:04.0]  But importantly enough is to remember that those Beta's in this case are parameters
+[1:32:21.1]  Okay, that's what you specify your model by Okay, Then it talks about ordinary least squares
+[1:32:26.6]  And then it introduces ah Python package called Stats Models that we thought the respect we don't need to learn
+[1:32:33.7]  So it's all there still be maintained
+[1:32:36.0]  It's his author's choice
+[]			 If you go to this, that's Models website, which I had open before coming to class
+[]			 Yes, okay, it's That's models dot org
+[1:32:47.4]  You'll find a page that looks like this with examples and what not beautiful it seems to cater to our users
+[]			 It has a big often are Syntex, uh, feel to it
+[1:33:09.9]  And yet you don't have to worry about it in my spirit off not giving you busy work
+[1:33:19.9]  I don't want you to learn everything bye from a package or library that is useful for data science just because someone mentions it
+[1:33:40.5]  If we can get a job done using Mumbai, uh, pandas rapidly and soon enough psych it learn, then the definition off multiple regression or an example of multiple regression, rather, and some idea about nonlinear relationships In which case, um, we use maybe the square of the age of the pregnant woman as a parameter because it leads to a better result, then not to using it
+[1:33:59.1]  The rest is a little bit all over the place, to be honest
+[1:34:12.4]  Worse yet, it will jump into logistic regression, which I like to talk when we go from regression two classifications
+[]			 So I find this chapter 11
+[]			 Uh, not quite so great
+[]			 I think we have better ways off learning these things, using mostly the stuff from 100 classes book
+[1:34:27.1]  So if you're free to glance through it and if something comes back up as important will point out to you and you will pay attention to it
+[1:34:40.4]  All these things about to posit externalities accuracy will be officially introduced using funder classes, books or nothing
+[1:34:45.9]  Torrey
+[1:34:50.9]  So I will not even go to the examples on Egyptian notebook because they don't add great value
+[1:34:55.6]  On the other hand, the material that we're gonna see after the break using, um, 100 classes book Chapter five is much more useful
+[]			 And after we take a short break, we'll go from there
+[]			 Thank you
+[]			 Yes
+[]			 Okay
+[]			 Oh, Oh, right
+[]			 Yes, right? Yeah
+[]			 Yes
+[1:36:45.3]  You just heard she And over here
+[1:38:04.9]  Wait, That's it, Mother, I'm you
+[]			 Yes
+[1:38:25.2]  Yea
+[1:38:28.7]  A path for something I created for other purposes
+[]			 But you can take that if you want
+[]			 Just Yeah, that's one way that this class is the other one created because easy enough
+[]			 But they never even mentioned it in this class
+[]			 I mentioned it
+[1:38:47.2]  Might you? A classic
+[]			 Okay
+[]			 Question
+[]			 Okay, yes
+[1:39:03.9]  So this is the third pockets
+[]			 Yeah
+[1:39:05.8]  Reasonable
+[]			 Yeah, I guess
+[1:39:11.3]  Minor Seen Booth for a complimentary CD
+[1:39:22.8]  What does it have? A theoretical scene? Don't even seem to compute that
+[1:39:26.7]  What is X s underscores? Oh, yes, this is You know what for? Five off funder Pluses
+[]			 Book
+[1:39:36.2]  Make no mistake, this chapter will be explored in its entirety
+[1:39:44.7]  But today we have to jump a little bit around to get a linear regression and then back out, and eventually we'll cover missing pieces and bits
+[1:39:49.9]  So we are, to some extent, transitioning or picking into the machine learning world, if you will, because we can frame the regression analysis
+[]			 Problem is a prediction problem
+[]			 The prediction off
+[1:40:02.5]  Quantitative variable
+[1:40:09.7]  Typically one that can take infinitely many values therefore continues variable, and that is a machine learning problem to the extended
+[]			 It's a prediction task
+[1:40:27.6]  So in Chapter five off 100 classes book after another the introduction to machine learning, which we could go back to at some point we are given the very first example off regression
+[]			 So typically want to talk about regression
+[1:40:49.1]  We use phrases such as predicting continues labels or convicting continues data points or variables
+[]			 So I will switch to the Jupiter notebook containing this early stuff
+[1:41:19.4]  In fact, for the early really already stuff, it's just text, and so is there most of the 2nd 1 So basically the notion off regression being this task off fitting a model regardless off the dimensionality off the data, that's something that may be obvious to you
+[]			 But the fact that we like to show regression examples using to the data and a line plot is because it's easy to draw
+[]			 Any isn't visualize
+[]			 We can go one step further and use three D data, in which case the linear regression model would be the equation off a plane
+[]			 And beyond that, it's called a hyper plane, and it's not isn't to visualize to put it mildly
+[]			 Okay, so that's basically it at this point
+[1:42:08.1]  Um, yes, it's often the gays Jake Fund Applause
+[1:42:09.1]  Being an astronomer himself, who often use examples from astronomy, which you may like more than the next person, it's fine
+[1:42:20.6]  The next part in the chatter introduces Psych it Lord Psychic Learn is a ridiculously popular, extremely well designed and very easy to use package for machine learning in Python
+[1:42:43.3]  I don't think it has any serious competition in being the machine learning package of Troy's in Python
+[]			 So let's take a look at the psych it learned material together
+[1:42:52.6]  So it is one of the best known machine learning packages so far
+[1:42:55.8]  So good provides efficient versions off a large number off common algorithms
+[1:43:02.3]  In other words, there's no need to reinvent the wheel
+[1:43:07.2]  And there's a slim chance that if you did, you would get something that is computational, faster or better, or has a smaller memory footprint than the implementation from psych
+[1:43:17.1]  It learn it provides a clean uniform and streamlined a p
+[1:43:24.8]  I has a very useful and complete online documentation, and I stand by all these comments or words off prays that funder plus rights
+[]			 And in case you haven't bean to the psych it learn website
+[1:43:43.0]  This is how it looks like psychic that learned that org and the documentation is indeed quite rich
+[1:43:49.9]  And in addition to the quick start user guide, et cetera, it has a number off tutorials that you may want to explore at your own pace
+[]			 Okay, so the way data is represented in psych, it learn, is quite familiar to us
+[]			 It's represented as a table
+[1:44:15.3]  So the example that Funder Plaza give us is the IRS they accept with which we are familiar
+[]			 That's good
+[1:44:27.2]  And in the spirit off somehow adapting the terminology to machine learning, we're gonna call the rose samples we're gonna call the columns
+[1:44:36.5]  Features, as opposed to favorables, are attributes as we might have bean doing
+[1:44:41.7]  And he will introduce to fundamental pieces of the puzzle which we already spoke about before the capital X variable, which is the features matrix and the lower case
+[]			 Why variable? Which is there target array
+[1:45:05.1]  So these names may seem a fancy, but they're nothing overly complex
+[1:45:08.5]  If you remember them iris flower data set There were four columns or futures within length of petals and samples
+[1:45:18.2]  And one column where there was the label
+[1:45:19.7]  One of the three species
+[1:45:35.8]  So now we're gonna call the first block off 150 samples off four features each hour features matrix, Capital X, or, in this case, X underscore Iris, you're gonna call the right most column our target vector, our target array, lower keys
+[1:45:46.1]  Why, in this case, just to make it more descriptive to the fact that belongs to the arias never set
+[]			 Why underscore hires easy enough
+[]			 So what we will use technically is the estimator
+[1:46:02.8]  AP I off psychic learn Not that this name is essential to using it or using it properly
+[]			 This is interesting, too
+[1:46:09.0]  Point out
+[]			 In fact, there's a link to the A P
+[1:46:15.9]  I paper that some of you may want to read
+[1:46:32.4]  This is actually a people that explains the philosophy behind the design off psychic learn not everything that goes that comes out there as an a p I has gone through, in my opinion, is careful, eh? Thinking process that defining principles and so on as psychic learn so many AP eyes, in fact, are quite chaotic when you come to think about it So this is straight from the paper
+[1:46:52.6]  As you can tell by their hi phoned s o the AP
+[1:46:57.5]  I was designed to adhere to broad principles off consistency
+[1:47:06.9]  All objects share consistent interface with a limited set of methods and interfaces
+[1:47:07.4]  Documented medical system manner for all objects inspection, the constructor parameters and the perimeters values our store and expose this public attributes so you can expect them
+[1:47:20.5]  Non proliferation of classes
+[1:47:29.8]  In other words, if you can do something such as representing data sets, there's no umpire raise or sigh pies force matrices
+[]			 You don't have to create custom classes for that
+[]			 In other words, by design, learning algorithms are the only objects to be represented using custom classes
+[1:47:51.0]  What a contrast to down his philosophy, which is to build an entire library off custom classes for everything under the sun, including things that are quite low implemented elsewhere
+[1:47:55.1]  All right, composition
+[1:48:02.2]  This is interesting because in machine learning, there's the notion off a pipeline or a sequence of combinations of transformation with data
+[1:48:06.9]  The the idea of building blocks is taken into account in the design off psychic learn
+[]			 And this is one that I like a lot sensible default
+[1:48:24.0]  So if there's a default value that designers have to choose for a certain method or operation, they probably made a good choice on our behalf
+[]			 So this is the fundamental part to get to learn and become used to a psych
+[1:48:40.6]  It learns workflow, basically the steps that you follow using an estimator ap, I will be these five steps
+[1:48:56.5]  First, you'll choose a clause off model that basically imports the appropriate estimator class in your case here
+[]			 So enough, it will be linear regression
+[1:49:05.3]  So there'll be a line off code that says from S K learn dot linear underscore model import in your regression
+[]			 It is a way of saying we're important the linear regression class, which has its own set off methods and parameters and so on
+[1:49:42.0]  Okay, In fact, the documentation is excellent even to learn concepts and what not? And by the way, you can see that in this example Here there's the import of in your model first and then the creation off object Hard G bye
+[1:49:47.4]  Calling the constructor for linear regression object, which is slightly different
+[]			 Then what? We'll see here
+[]			 Okay, it and choose the model hyper parameters
+[1:50:02.1]  You arranged the data into a future of matrix and attack it factor
+[1:50:08.2]  So it knows which part of the latest X which part is why? And then you call the fit function, which fits the model to the data
+[1:50:16.4]  And the magic happens if you will
+[1:50:21.1]  And once you have a model that fits the data, you deploy the model
+[1:50:35.9]  In other words, you apply to make predictions on new data, using the predict method for cases of supervised learning, which is what we're interested in At this point, we'll go back to this aspect off unsupervised learning later in the course
+[]			 So let's take a look at how linear regression looks like in psych it learn
+[1:50:54.5]  So in this part of the code here we are basically creating a mostly linear distribution with a certain amount off randomness so as to create slight deviation from this straight line
+[]			 Then we're following the Five steps First important linear regression class
+[1:51:11.5]  Secondly, making decisions about which hyper parameters off the model we are interested in
+[1:51:23.6]  And questions include would you like to fit for the offset or the Y intercept? Would you like the model to be normalized? Would you like to pre process our features? What degree of regularization and so on
+[]			 Since we don't know much about any of these options, we'll keep
+[]			 It's very simple
+[1:51:50.0]  And Onley set the fit intercept parameter to true and see later if we want to expand the display with other parameters and so on
+[1:51:59.9]  The next part is to make sure that our X and why are properly stored in the corresponding variables
+[]			 And here's where we call model that fit
+[]			 Two
+[1:52:09.7]  Apply the model to the data, and here's where we measure
+[]			 What is the what are the two parameters the slope and intercept, um, for the model that it built
+[1:52:37.3]  In other words, we are asking after running the fit method, what did you come up with? Has the slope and intercept? And once we have the model, we start to use it to predict labels for unknown data
+[1:52:52.5]  So we create another data set, and we make predictions in it, and we show the model relative to the raw data and the the way by which this line was obtained was, by running there model, not predict function
+[]			 In other words, this is not a even your equation off a straight line
+[]			 It's actually called the predict function for the being a regression object
+[1:53:24.4]  Granted
+[]			 Since we know the coefficient and intercept properties off the model, we could just as well right this equation for a straight line
+[1:53:33.5]  And it would produce Seymour brought
+[1:53:39.1]  All right, So this is linear regression in, what? 568 10 lines of cold
+[]			 Something like that
+[1:53:43.6]  In Assignment number six, you have a chance to play with the cold yourselves and do a few tweaks and changes to the starting coat
+[1:53:58.5]  No, if we follow further pluses
+[1:54:01.3]  Book After introducing the basics off using a psych it learn for the sake off regression, which we just saw in the form of the Jupiter notebooks
+[1:54:13.7]  We're gonna jump over sections 5
+[2:01:30.8] 35 point four and 5
+[]			5 go straight to 5
+[]			6 in the actual book
+[]			 They don't have numbers, I know that
+[1:54:27.3]  But in the drifter notebooks they do, which means you would go to the junction of book called 5
+[]			6 linear regression and learn more about in your regression
+[]			 Let's do that
+[]			 So what we know so far we know how to create a model off the type
+[]			 Why is equal to eight times X plus B two in this case, one dimensional data? That's fine
+[]			 And we know conceptually that this can be done for data off any arbitrary they mention
+[1:55:01.2]  In which case, the hi they mentioned a ray manipulation properties of Mumbai come handy
+[]			 So all of these is straightforward
+[1:55:10.0]  So this early part here is basically a review off something we saw a minute ago
+[1:55:18.0]  Now things start to get more interesting when we talk about handling motive dimensional models
+[]			 We already spoke about that
+[]			 We just called this coefficients beta zero beta one Before now, to be consistent with the 100 plus notation, we would start calling them a zero a one and so on
+[1:55:42.3]  So clearly the fact that the mention any of the problem has grown is mostly inconsequential from the point of view of the python code, because not by race and all that complexity for us
+[1:55:55.5]  So we can still come up with not, uh, line but plain to fit points in three dimensions or hyper plane
+[1:56:07.6]  If it's higher dimensions without having to stretch because off, numb by s capabilities and That's really cool
+[]			 No
+[1:56:18.9]  What if the very nature of the data is not conducive to, um, using the variables as they are? So what if instead of using X, we start using combination off x, x squared, X cubed and so forth
+[1:56:43.0]  If we do that, we entered a round off what is known as polynomial regression
+[1:56:47.5]  Basically, we construct a polynomial off degree in this case, your higher that we believe will be a best way to represent the model for the data at hand
+[]			 And remember what we said before the break
+[1:57:06.6]  It's still a linear model because the linearity means that the coefficients themselves never multiply or divide each other
+[]			 So here's where it gets interesting
+[]			 Let's take a look of his example
+[]			 So this is an example off
+[1:57:34.7]  Okay, Data set were simple off a number of points that clearly seem to follow a sine wave like pattern
+[1:57:37.8]  In other words, if we have removed the let's do that, that's run everything up until here
+[]			 Make sure it's working
+[1:57:57.1]  So for the point from a part of your psyche, it learned before I missed that point
+[1:58:05.0]  What we're basically doing is technically importing a pre processing transformer called polynomial features
+[]			 So it's a simple s saying I want to import fully normal features
+[1:58:22.3]  This is my array X and I want to build Polly
+[1:58:24.3]  Probably object
+[1:58:26.0]  Were polynomial features with the first parameter being the degree of the polynomial in this case, three off course for everything that you say
+[1:58:37.0]  What about this property? Include bias, False
+[1:58:38.7]  What does it mean? My answer will be gold documentation
+[]			 Okay
+[]			 No one is required to know these things by hand
+[]			 Or guess what they mean
+[1:58:51.2]  So, basically, here we started with the numbers 23 and four
+[1:58:54.6]  By invoking the polynomial expansion or projection, we now have the square of these numbers for 1916 and the cube of these numbers 8 27 64 So you have your ex your X squared and your X cubed, elegantly obtained by calling polynomial features with the degree of the polynomial
+[1:59:18.6]  No, the next, uh, snippet here talks about feature engineering and pipeline
+[1:59:25.0]  We skipped the section on future engineering
+[]			 So let me give you the run
+[1:59:29]  Though
+[1:59:32.4]  Future engineering is basically the process by which we systematically decide which features to use or combinations of features to use, and we'll go back to that using psychic learn in a week or two
+[1:59:49.9]  But here we are basically using the concept off a pipeline where data gets pre processed and input into a model and eventually evaluated
+[]			 And in this case, we are creating a pipeline with 1/7 degree polynomial
+[]			 Look at how elegant this line off cold is
+[]			 We're building a polynomial regression model by calling a library function
+[]			 Make underscore pipeline using the polynomial pre process or projection or transformer passing the degree of the polynomial that you want and saying We want toe build a linear regression model
+[]			 All of this
+[2:00:31.6]  In other words, what is the best seven? The degree seven part Normie
+[]			 We can fit to this data and we test to see how well this pollen model fits the data
+[2:00:45.2]  By creating a data set, there is actually a sine wave with a certain amount off noise
+[2:00:48.4]  So granted, what we built is 1/7 degree polynomial, but the result is quite nice
+[]			 It fits the data nicely at this point
+[]			 That's if we can run this cold
+[2:01:05.6]  Can the one right before you will probably be curious to play with this thing
+[]			 For instance
+[2:01:14.2]  What if it We brought it down to 1/3 degree polynomial? Not a good fit anymore
+[2:01:17.7]  What if we went to a 50 great party? No, no, it's likely better
+[]			 We had seven before
+[]			 Good
+[2:01:40.9]  What if we want to go crazy putting on off degree 35? What will happen as a result? This happened as a result, completely out of whack with Definite went crazy, as there's something a little bit less crazy
+[2:01:44.1]  Paul, in honor of the green line
+[]			 Now we have something to think about
+[2:01:51.3]  It's almost as good s it Every seven
+[]			 Maybe a little bit better
+[]			 Maybe little bit worse
+[2:01:55.1]  That's strike degree 11
+[2:01:59.8]  A little bit better live with force, Agree 13
+[]			 We'll be there a little bit worse
+[]			 So what's happening here? Can you clean that in a general case? By allowing the polynomial to have a higher degree, we'll fit the data perhaps more closely in the general case
+[2:02:21.9]  Yes, sirs
+[]			 Yes
+[]			 In the general case, Yes
+[2:02:29.7]  What is the risk that you take by allowing the party number to be off arbitrarily? Large degree over fitting
+[]			 Okay
+[2:02:42.9]  So we'll get back to that point in a little bit, but be mindful when you talk about regularization, they're pulling No, no, uh, regression is fine
+[]			 And be mindful of other things that this little example is trying to show you
+[2:02:54.2]  I don't know if you can appreciate the fact that Oh, by the way, in case you wonder, why are we insisting on odd numbered degrees for the party? Nago Try and even number degree
+[2:03:09.5]  See if it has significant, leave better or worse performance and you'll see that it wasn't, uh, crucial point
+[2:03:18.3]  It was basically a preference for the degree off the example
+[2:03:35.1]  Okay, so how can we measure if it was a good fit? We can measure our pregnancy or something like that, And you can compare is that we could have a line of gold after the plot spitting out the arm acy
+[]			 And we'll have a loop, of course, and see what is the best fit
+[2:03:45.8]  No, this is part of Romeo Linear regression
+[]			 Using a part number off degree and another option not as often used in practice, is to use 1000 basis function
+[2:03:59.4]  So leave it up to you to explore it if you wish the nice thing is it is available in psych
+[]			 It learn the perhaps not so nice thing is that it's much more complex to get it right
+[]			 It has more parameters
+[2:04:12.8]  The code gets more involved, and for as of right now, we don't need that
+[2:04:20.2]  Let's talk about something that is significantly more important, which is the topic off regularization
+[]			 So here's an idea
+[]			 Here's a set off point
+[]			 In fact, we could do the okay, Here's a set off points
+[]			 Try to comment on this line of code
+[2:04:42.0]  Yeah, you set off one's left
+[]			 You're trying to find a model too fit properly, since we got used to a few options on psychic learned so far, pollen on
+[]			 If it goes in, we could make something as simple as calling Make pipeline girls and features authority, which means 30 basis functions and see how well it fits data
+[2:05:18.5]  And you get something like this when you look at where the continues line off, the predicted model overlaps with the actual samples
+[2:05:28.4]  You find that for the most part, it hits them right then and there, which seems a perfect fit
+[2:05:29.8]  Otherwise, of course, we know better than this
+[2:05:50.7]  We know that This has demonstrated clear signs of over fitting because even from a point of view off how natural it would be to take let's do it again, these lines here and draw something that has this up and down swing, as we saw with 30 basis functions doesn't seem right
+[]			 So it's a clear sign off over fitting as off right now
+[]			 What do you know? How? What would you know as an option? What have I shown you you could do? You could arbitrarily say go
+[]			 Maybe 20 basis functions will be enough
+[2:06:13.7]  Great
+[2:06:17.4]  Okay, but that seems a little bit too naive and not meth medical enough
+[]			 So we need to learn about regularization
+[2:06:39.0]  What is regularization? Basically, regularization is a method by which we penalize coefficients associated with the higher the degree or high exponents aspects off our regression
+[2:06:43.9]  Or in this case, it's cows in
+[]			 But I will give you an example using ah polynomial regression, right
+[2:07:06.1]  Ascension polynomial regression in which you wrote psych
+[2:07:12.6]  It learned to build up object which corresponds to a polynomial off degree five with regularization
+[]			 What you're doing is basically applying a penalty
+[]			 Two who efficient off the high really associated with the highest terms, so I don't know if
+[]			 See if I don't just want to keep the notation consistent here
+[2:07:50.8]  Let's see if Father Blast shows it in math
+[]			 Medical form or not You this
+[]			 Okay, I think this will help or not
+[2:08:04.1]  Correct
+[]			 We have a penalty term with his offer
+[2:08:10.0]  Times this and going from one to em
+[]			 Oh, data sub and squared
+[]			 So, for this to be consistent, I would have to call these guys
+[]			 It is zero theta one
+[]			 That's this is called the penalty turn
+[2:08:46.1]  Well, basically, regularization is a method by which you prevent the individual values off Ada 123 etcetera from becoming arbitrarily large
+[]			 Bye
+[2:08:57.5]  Minimizing this some off the squares off those, um, parameters
+[]			 This is known s Ridge regularization
+[2:09:11.6]  Also known as hell too, because it uses the to Normandie
+[2:09:20.9]  Uh, some of the squares on alternative to the ridge regularization, which I will put right underneath using the same rotation from funder
+[2:09:24.5]  Plus is true
+[2:09:28.5]  Penalize There absolute value off the parameters of this cold
+[2:09:41.2]  Why, sure, the regularization are one because it's based on the l one norm
+[2:09:46.9]  If you have taken horses in Lena algebra out, too
+[2:09:54.7]  L one things from metric that we use as a penalty
+[]			 So basically you are
+[2:10:14.8]  I was training the model through use the smallest possible values for the coefficients they can find while minimizing, saying the sum of the squares of the errors
+[]			 So that's what regularization
+[2:10:39.8]  Yes, In other words, you expect that by using regularization rather than arbitrarily dropping there highest terms, as we did interactively in juvenile book
+[2:10:41.1]  Let's try with a bullet one lower, one lower, one lower
+[2:10:52.5]  We leave them to however, many terms, because the regularization algorithm will take care of making eight or 75 as Morris Possible theater sub for its most possible
+[]			 In other words
+[]			 Two
+[2:10:56.8]  Minimize the impact off these high degree terms, which caused all those crazy variations from producing a less clean model to your data
+[]			 This is the least meth medical explanation that could possibly give, but we can do the more mathematical and next time issue if you want
+[]			 Uh, not quite
+[]			 This doesn't take into account the data itself
+[2:11:40.1]  In other words, of course, it doesn't agree that measures the errors, but it has nothing to do with out liar removal
+[2:11:51.2]  What it basically provides a principal way by which, rather than arbitrarily say making the model simpler by reducing the degree of the polynomial forcefully way allows for a number to be off
+[]			 I agree
+[2:12:01.5]  And but we find a wayto penalize these terms from growing out of bones and by going that we keep the model s simple as it possibly can be
+[2:12:13.9]  The way this is done in psych, it learn is incredibly easy
+[2:12:17.0]  So remember, only way we knew how to do this
+[2:12:18.6]  Say, using girls and bases wants to interactively playing with less than 30 bases here, hoping that this will be more reasonable
+[]			 We don't need to do that
+[2:12:36.8]  We can instead, um, start with the base model off authority girls and features
+[2:12:48.4]  And what fund replies does it blots the location off the coefficients relative to the basis and the amplitude, and you see that some coefficients can be as high as 50,000? I'm sorry
+[]			 Five 100,000 or higher or 10,500 or lower
+[]			 And when you look at how elegant it is to do regularization in psych, it learn you import the type of realization you want, and instead of making the pipeline simply girls and features 30 as we did a minute ago
+[2:13:21.2]  The regression you say Garson features 30 with ridge regression and a value off offer
+[]			 Oh, sure, I bet that's right
+[]			 Okay, so here you go
+[2:13:37.9]  Instead of simply showing 1000 features linear regression and hoping that we can by trial and error finder good a combination
+[2:13:57.6]  The author of the book shows that by allowing these a large number of girls in basis to be there without any constraint, the magnitude of the coefficients can be extremely high
+[2:14:09.8]  Whereas by forcing regularization, they will go to a fraction of what they used to be
+[2:14:14.2]  In this case, bless them
+[2:14:15.7]  Zero point for an absolutely and the fit will be absolutely great
+[2:14:37.6]  So what did we do here? As for a psychic, to learn is concerned, you basically have to import the ridge regression, object and initialize It's constructed, passing a value for offa and again, talk about sensible defaults
+[2:15:03.5]  If we don't know what would be a good value, we could search for Ridge within the psych it, learn documentation, look at them explanation and realized that in fact, the sensible default for Alfa is 1
+[2:15:12.5]  So in case you wonder, how would I have guessed 0
+[1:41:09.0] 1 would be good
+[]			 You don't have to guess anything
+[2:15:22.3]  You could have called Ridge without passing anything, and the result would be pretty distant
+[2:15:31.4]  Okay, so the only difference here is the author wanted to show that we can specified the value off Alpha if we know what we're doing
+[2:15:37.9]  What if we choose a very inadequate better for Alfa? Very large, positive value
+[]			 C four
+[2:15:43.0]  The effects of regression are no longer so
+[]			 A regularization no longer is good
+[2:15:51.3]  If we do 40 the model starts to suffer
+[2:15:55]  The penalty is becoming very harsh
+[2:15:59.5]  You see that? The model has very little flexibility eventually could go down to being almost a straight line
+[2:16:14.8]  So we're not over fitting, all right, but we're starting to under fit, so we're starting to run into, so we are penalizing excessively
+[]			 All right
+[]			 So, back to 0
+[1:41:09.0] 1 for the sake of these examples
+[]			 So this is a very important comment right here
+[]			 The Alfa parameters, essentially a knob controlling the complexity of tomorrow
+[2:16:33.0]  This is one of the most important statements in this entire chapter in the limit off close to zero, we recover the standard result in the opposite end to large values
+[2:16:45.9]  Off offa, all model responses will be suppressed
+[2:16:47.0]  We get closed toe, uh, straight line
+[]			 So let's try how far equal to zero, see if doesn't break anything
+[2:17:03.9]  Well, it gives a warning, but clearly we are throwing away regression
+[]			 If you want to use value, that will not give you a warning
+[2:17:17.9]  So I just tend to the negative seven or so you'll see that D'Amato over Fitz aptitudes are significant
+[2:17:26.1]  And yet, playing with Alfa, you can control how much off a regularization played come on
+[2:17:30.8]  Lots of regularization, not surprisingly, is just as easy to use
+[2:17:39.2]  If you're basically important a lot so regularize er and initialized with the proper value off Alfa, you get your results
+[]			 And once again, Alpha has a similar type of behavior
+[]			 But since the measure is the, the penalty is applied to the absolute value off the coefficient
+[2:17:55.4]  Clearing the same value for Alfa for two cases will not produce the same result
+[]			 In fact, it's more obvious that high that is off Alpha will make the the model basically useless
+[]			 under fitting big time
+[]			 And if you leave the sensible default option, it doesn't go too well
+[]			 So much for sensible defaults
+[2:18:19.7]  Okay, so that's resumed when it had originally, I think it was 0
+[2:18:23.7] 1 If I'm not mistaken, something like that, right? Okay
+[2:18:33.1]  So clearly, folks, as with many other things in this course, I am oversimplifying the math and the implications off the arriving analytical justifications for these
+[]			 And they're plotting complicated plots because in practice, you need to know about over fitting
+[]			 You need to know about realization
+[]			 You need to know about the two options There exist and are often used, and that's pretty much it
+[2:19:02]  Okay, if you want to go one level deeper, you can take a sentence like this and run with it
+[]			 Look at what it says, though this is conceptually very similar to ridge regression the results and defer
+[2:19:10.7]  Surprisingly, for example, due to geometric reasons, lots of regression tends to favor sparse models
+[2:19:20.2]  In other words, it prefers to set proficiency to exactly zero
+[]			 Rather than make many coefficients very small
+[]			 It prioritizes dropping terms all together, and, um, this is not exactly obvious
+[]			 But even in this simple example here you can see that many coefficients have been set to zero as opposed to ridge regularization, which they very in a wide range off
+[2:19:53.7]  That is, in other words, all these plateaus where coefficients are set zero are common in last regularization, but not enrich regularization
+[2:20:16.2]  Okay, so what? What can we do next? If you follow the book, the next thing you can do is to take more complete use Casar case study such as the prediction off bicycle traffic and use being a regression, including regularization aspects and and model
+[]			 How the traffic, uh, in the particular city, following a particularly time
+[2:20:39.9]  Siri's is expected to very and compare your predictions against the actual data
+[2:20:56.1]  Um, we won't look into this in assignment number six, I presume so
+[]			 I wouldn't worry about explaining it to you now, because either this prediction of bicycle traffic or something similar to it will appear in the same number six
+[]			 So what we have learned is basically how to use psych it learn for linear regression
+[]			 Let's be honest
+[2:21:28.2]  Once you learn how to do this in psych, it learn you don't have to look back it other libraries or other people's implementation
+[2:21:31.9]  But you should consider investing time into learning more about psych
+[]			 It learn itself
+[]			 And it's, in my opinion, excellent documentation
+[]			 Look at what we saw a few minutes ago, even to learn about regression in general
+[2:21:57.8]  So all these things that we spoke about they, including the mathematical formulation, is right there, embedded into the documentation with links to examples and what have you
+[]			 So there's plenty of material to learn from from the psych
+[]			 It learn documentation itself
+[2:22:13.8]  For those of you who are sometimes intimidated by meth and medical notation, don't be, for instance, the appearance off a little hat on top off
+[2:22:23.8]  Why is an explicit indication that it's a predicted value off? Why, Okay, So it's often used, um, denote predicted value, the fact that why hat is a function of w and exits, a reminder that you predict the value of why, based on the input Data X and Honore off weights, in this case a vector w where w is the factor that we want etcetera all the way to W sub p
+[]			 All right and w zero is your intercept
+[]			 So if you'll see um, formula like this nothing to worry about
+[]			 What is it basically saying? It's basically talking about this sum of the squares off
+[]			 The difference is the difference between what? What? Your thing
+[2:23:16.1]  By multiplying the weight's off the model times X and essentially producing
+[]			 Why hat minus the actual values off
+[]			 Why, In other words, what is here before you take the square of it is the so called residuals
+[]			 Okay, so you're optimization
+[2:23:37.6]  Problem is basically to find the minimum value off
+[]			 Why? I'm sorry
+[]			 The value of why that minimizes the difference or some of the square off the differences between predicted and actual values
+[2:23:55.0]  This is the optimization problem that the linear regression our thumb solves for you
+[2:24:00.9]  The nice thing is how much we have to worry about solving this analytically or writing python cold to do it from scratch
+[]			 Not at all
+[2:24:06.2]  This boils down to one function called fit, but basically say fit
+[]			 The best model to this data for me and psych it learn, does it for you
+[]			 All right
+[]			 If you're into design analysis of algorithms, big old notation, complexity and cost, you can run away with it
+[]			 I don't care about this in this course, but you might
+[]			 You might care for some reasons
+[2:24:37.2]  Same thing with the original Russian
+[2:24:41.2]  Look at how these Syntex now becomes easier to understand
+[2:24:54.3]  The original problem is to find the value off W that minimizes their some of these squares Right now, with regularization, you're basically saying, Find them value off W that minimizes this formula here
+[2:25:10.2]  In other words, one that applies a penalty if w the coefficients, the taters or debaters, we call them by four different names
+[2:25:14.5]  Beta zero beta, one Malala a 081 fate as you know, theta one and now w zero that we want
+[]			 So, basically, by having this plus often times they turned, this is the penalty
+[]			 So you don't want the values off the double
+[2:25:35.3]  Use the coefficients to go too high because that times offa would add up the dysfunction that you're trying to minimize the beginning
+[2:25:38.7]  That's how the penalties applied in meth medical sense
+[2:25:47]  And this is a nice plot of how Alfa works as a knob in Terms Off wanted us to the changes in the wait
+[]			 Make no mistake
+[2:26:14.6]  There is more complexity here than we need for the sake of this course, and I think psych, it learned, provides this excellent AP I based interface for using what we need to use and not worry about what is under the hood unless we absolutely want
+[]			 Does that make sense? And if you want to, more examples than you have in the book there
+[2:26:25.6]  Examples
+[]			 In psych, it learn itself and a number of other places
+[2:26:50.7]  Let's see the regression 26 references to the word regression in this example Page alone
+[]			 So plenty, too
+[2:26:58.2]  Play with if you're so desire
+[]			 So this is it for today
+[2:27:06.7]  Between now and next time, expect the same number five to be up and maybe hopefully also six again
+[2:27:15.7]  They would be small, pointed just to reinforce the things that you should get hands on practice on Thank you
+[]			 I think there's 1000 for that
+[2:27:24.9]  It's eight homeworks total off which I will drop the lowest grade
+[2:27:29.7]  So it's it end ended
+[2:27:29.9]  Project Yes, yes, true
+[]			 True
+[]			 I know
+[2:27:39.8]  Yes, things were compressed a little bit and to make up for that, they should become smaller or so I'm trying to As soon as the deadline is passed, we start grading
+[2:27:58.0]  So typically, 72 hours after the grace period
+[]			 After that line, remember, there's a three day grace period, so typically a week after its you are a little bit less in it
+[2:28:17.1]  Okay, But I don't know, because I can't remember the settings
+[2:28:25.6]  I don't think I explicitly leave it and date, but they may have some provisions, for there were only three
+[2:28:29.8]  No, it's paid
+[2:28:34.8]  And it's a good park that I found out that if you signed up with your effort you address while the learning path is available, it's free for you
+[2:28:40.6]  So take advantage of it while it lasts
+[2:28:54.2]  Okay? And Dad? Yeah, yeah, yeah
+[]			 Yes
+[2:29:35.0]  Working, You know that
+[2:29:46.6]  What? Rest right
+[]			 I get it
+[]			 I understand
+[2:29:58.5]  Coming right where they are

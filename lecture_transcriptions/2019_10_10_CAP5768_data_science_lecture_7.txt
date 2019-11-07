@@ -1,0 +1,1263 @@
+[]			All right
+[0:00:45.7]  Good afternoon
+[0:00:46.0]  Everyone's good to see you then
+[0:00:51.9]  We have a lot off material to cover today
+[0:01:28.4]  And since we have bean separated by two weeks rather than the usual one week interval, I thought it would be important to start by asking where are we? In the big scheme of things? Um, the course, uh, has gone through at least three distinct phases so far, depending on how you count the first phase Waas equipping you with the proper tools
+[0:01:41.0]  The second phase was mostly UTA, which stands for thank you very much
+[0:01:41.8]  Exploratory data analysis
+[0:01:46.7]  Uh, the third step is what? Where we are right now, which I will call basic statistics
+[0:01:54.5]  Hard to say what part of statistics is basic or advanced? What we're doing is definitely not advanced
+[0:02:05.4]  And some may have seen some of this stuff as early as I don't know, high school or something
+[]			 But the important thing here is to see statistics in the context off later
+[0:02:12.6]  Science
+[0:02:20.9]  So we have the you did the science name as an anchor
+[0:02:26.5]  So whatever tools we learned to use whatever expert credit analysis streets we learn
+[0:02:42.2]  And now, whatever basic statistic, reapply they're all in this context, which basically means we will not do any mathematical proof of anything will not derive analytical of demonstrations of things
+[0:02:46.0]  If something can be simulated because it makes sense to simulate, will simulate
+[]			 If something can be called from the library, function will call from a library function
+[]			 So the idea between or as we go through the transition between E
+[]			 D
+[]			 A
+[]			 And basic statistics
+[0:03:14.1]  The idea is to equip us with a number off concept techniques and the understanding that statistics will be the branch of mathematics from which much of the mathematical background from your little science comes from
+[0:03:26.1]  So which part of that is that we need? That's the question we're asking and you're trying to in strict with today's topic, which is a roughly maps, chapters 56 and eight off your textbook
+[]			 I call it statistics part, too, but has no special meaning just because we decided to break into two parts
+[0:03:50.8]  So let's go over the statistics part two together and see where it gets us a tricky question as we finalize the transition between E
+[]			 D
+[]			 A
+[0:03:56.8]  And statistics we never look back will never do Edie again
+[0:03:57.6]  Tour falls false
+[]			 Absolutely false
+[0:04:03.1]  E T
+[]			 A is part of what we do, no matter what it is the type of thing we have to get used to it
+[0:04:13.1]  Just as it could be false to say that once we learned how to use the truth, will forget about them
+[]			 Of course not
+[0:04:18.5]  The enable everything else but by the same token, Howard, the time you spend and some of you have been spending a fair amount of time learning the dump I bandas stack taking courses on data camp, going above and beyond the call of duty in the assignments
+[]			 This is time worth spending
+[0:04:40.4]  This is the type of thing that will probably make you stand above the competition
+[0:04:41.9]  Should you go for an internship, our job in this field
+[0:04:50.3]  So there's no question about that, but rather with statistics is heavily braised on what he called book to the things That's book
+[0:04:58.4]  And you may remember a word off warning, if you will, that I mentioned before which waas that I kind of life the book
+[]			 But I don't quite love the idea of its having its own code base
+[0:05:21.4]  I spoke about that before So you are welcome to have as I do thee code installed
+[0:05:24.7]  Easy to play around with I Python director and notebooks or entire Python scripts, if you will
+[]			 That's fine
+[]			 But don't get too attached to that
+[0:05:31.1]  You may get complacent, you may say Go using down his thinks That's package
+[0:05:42.6]  This is just a function call if it's not a standard Mumbai Sipe I met plot lib Pandas Function called then it's not only here to get too attached to it
+[]			 All right, so with that in mind, let's take a look at it
+[0:06:12.4]  Um, Chapter five, which talks about distributions When you hear the word distribution in the context of probability statistics, what comes to your mind? What type of brought so far? Our plots plural represent distributions
+[0:06:18.7]  Are you scare brought? Maybe there are other ways that maybe distribution has become a little bit more apparent
+[0:06:42.6]  The history grams are one of them, and the other one that we spoke about before is that see the f d p m f, which is, uh, they normalized version of history and probably the mass function, of course, and what else? The Syria Friday cumulative distribution function are cumulative density function
+[]			 So those are, um, visualization ways or visualization tools or methods by which we can tell how variable is distributed
+[0:07:17.3]  What Chapter five will do is basically it'll present or review, depending on how much exposure we had to statistics before some of the most common Lee used distributions in literature and the reason why they're used and, more importantly, Chapter five, who introduced the notion off modeling
+[0:07:33.7]  So, in other words, the idea that one could propose and eventually test a model that explains the data
+[0:07:42.9]  So let's stick to the sentence for a little bit
+[0:07:52.5]  The purpose of creating a model is basically to find, ideally, a Kansai eyes, mathematically elegant way of explaining the data
+[]			 So let's think of a simple example
+[0:08:10.1]  Um, which way would you prefer to be told about distribution of grades in a hypothetical? Examine the hypothetical course that I give you all the grades for however many students
+[]			 That's okay
+[]			 It's raw data
+[0:08:24.5]  You can do something with it that I give you a pmf off distribution or, if I tell you it is a KAOS and in shape or it's it follows a normal distribution with a mute and mean Off X and the standard deviation Sigma off
+[0:08:41.4]  Why? Which one is more concise? Which one gives you the picture without requiring any further processing? Probably the last one, the one that tell it's alone
+[]			 No distribution
+[]			 These are the parameters
+[0:08:56.2]  And of course, if you need to prove that the model that you create indeed explains the data, which is a way of saying resembles the distribution of the actual data or the simple data, as we like to call it, Then we're fine
+[0:09:10.2]  You convince whoever needs convincing that the model indeed represents the data
+[0:09:14.7]  So there's a very important terminology aspect to go through right here, which is the difference between empirical distributions and analytic distributions
+[]			 So what we have been doing so far was basically computing and plotting empirical decisions
+[0:09:31.1]  In other words, we had a finite set off samples
+[]			 What? Our samples again
+[]			 They are basically a subset of our population
+[0:09:40.7]  You are shy
+[]			 I think the two week break was too long
+[]			 Okay, so we know how to compute probably the mass functions or C D
+[0:09:48.6]  Efs from samples
+[]			 That's good
+[]			 What we want now is to learn how to, um brought analytic distributions
+[0:10:01.7]  These are typically one line function, cause there's nothing to it, but more importantly, how we can use the analytic distributions to model empirical distributions
+[]			 So one way to think of a model is a method for explaining the data
+[0:10:16.6]  Another way is to think of yet in terms off a simplification, a concise, elegant way that leaves out unnecessary details
+[0:10:23.7]  So in the context of presenting the most famous distributions out there, your tax book, Whoa, introduce the exponential distribution, which for some reason is taking forever to load and giving me some strange artifacts
+[0:10:48.8]  I think I will abandon their presentation mode often gives me some strange artifact that's removed that despair with me
+[0:11:02.5]  So the exponential distribution s presented in the book is basically a distribution that requires on Lee one parameter the parameters typically called lambda
+[0:11:18.8]  And if you know the one parameter lambda and you know the equation for the CDF off distribution, you can practically can represent it
+[]			 And so great my computer crashed
+[0:11:27.0]  All right, so all right, while you three boots, Or maybe you did No, no, it's realty
+[]			 So what's your textbook, which you call book number two down it doesn't do
+[0:11:47.8]  Maybe a great job at is, uh, tell a longer story about which distributions appear in actuality or two
+[0:11:51.5]  Which phenomena in Rio life they relate
+[0:11:59.2]  If you have taken other courses before, you may have gone through greater lands at that correlation between what a distribution is and what it typically models, does anyone remember from having read the book or previous courses? What exponential decisions typically model? Well, one thing that a model well mentioned, the book is population growth
+[]			 Maybe some people claim Pareto distribution would be more appropriate for that
+[]			 One example that is often given is, um, inter arrival times
+[0:12:41.3]  So if you need to to, um, monitor, say, the arrival off trains in a platform or something, the inter arrival time between those trains or buses can be modeled using exponential distribution
+[]			 Looks like things crashed big time here
+[0:12:57.1]  Apologize
+[0:14:15.6]  Let's see if I can put there lines back quickly over the 20th century, the development of Okay, now which of my many Google tabs is playing videos? It's gonna be fun, man
+[0:14:54.1]  Refresh
+[0:15:09.1]  Remember, what is the point? What is machine learning? Okay said that in a box at any time the power and limits off deep learning
+[]			 I can shut that
+[0:15:16.2]  Okay, maybe a number off additional videos, I'm afraid, but we'll get there eventually
+[]			 Okay
+[]			 Looks like we got something
+[]			 All right
+[]			 Let me avoid the presentation mode
+[0:16:15.1]  Use this
+[0:16:15.5]  Lives like this
+[]			 And that should be
+[0:16:21.8]  It's like Ruby on campus if they're not there already, and don't worry about it
+[]			 But you're welcome to take notes
+[]			 Of course
+[0:16:34.8]  So here's this life where everything went off the tracks
+[]			 So this is the exponential community of density function
+[0:16:46.9]  You will notice the book author's choice off representing famous distributions by their CDF rather than there
+[0:16:53.0]  Pdf probably Nancy function
+[]			 What reason could be because they only produce pdf one chapter later
+[]			 Another reason could be because the CDF is often easier to interpret
+[0:17:17.6]  You can make inferences about person tiles as we saw before, and you can Now that we know how to compute what we called empirical cdf, we can compare empirical cdf s computed earlier with Analytical City FC
+[0:17:22.1]  In other words, we can, for instance, for something that empirically looks like this
+[]			 We can say all this looks exponential to me
+[]			 And if I have to estimate the Lambda
+[0:17:29.9]  I would say it's Lambda, too, and overlay did two bloods
+[0:17:43.1]  So one use for exponential distribution in riel life, ISS events that happened over time and the inter arrival times if they are equally likely to occur at any time
+[]			 The distribution of those inter arrival times tends to look like exponential distribution
+[0:17:54.1]  We call the process off those say people arriving at a bus stop or babies being delivered in the hospital
+[0:18:00.6]  We call that a poor, some process and distribution on exponentially situation
+[0:18:14.8]  Okay, so there's an example in which the author of our textbook tries to use some data set for 44 babies delivered in a specific hospital in Brisbane, Australia, on a specific day because they had access to the time of birth for all the babies
+[0:18:33.8]  So why not? You may have noticed this trend in data science, books, courses and what not if anything, can be brought in as a data set, and you can ask potentially interesting questions about it
+[]			 Why not? So if indeed exponential distributions are good at explaining or modeling the arrival off babies to this world, Maybe this sample off 44 babies on a specific day in a specific hospital
+[0:18:53.3]  Roe follow the exponential distribution
+[0:19:08.4]  So the one thing uh we can do is to compute the CDF and on the right hand side here, the author introduces the sea CDF, where the first C stands for complimentary CDF
+[]			 It's kind of one minus the other
+[0:19:27.2]  So was there cdf off babies, birth times or arrivals to the planet is displayed on the left and the C C D e f on the right has a number of differences from the one on the left
+[]			 So let's pay attention to the specifics here
+[0:19:46.3]  Uh, so, first of all, uh, these are, as you can tell, by the jag shape, the empirical versions of the CDF and the CCD F
+[]			 If these were obtained analytically, they would be smooth, right? So you can tell by the CDF as you remember from two weeks ago, you can make inferences about what are the most common intervals
+[0:20:14.4]  For instance, every time you see something that looks vertical and has a very large amplitude, it means that that particular interval occurred a significant number of times
+[0:20:26.0]  Even in this case, if it's a jag, so in this case, it could be, you know, 30 31 32 35 minutes or something like that
+[0:20:30.7]  So babies being apart by roughly half on hour, that's what this part of the CDF is showing
+[0:20:36.5]  You remember that? So CBS are useful for that
+[0:20:54.9]  Can you tell that there was a kind, often out lawyer just by looking at the CDF alone? Right? The the arrival, the inter arrival times or the intervals between births were mostly between a couple of minutes and maybe 90 giver taken hour and 1/2 right? And then there was this one case in which the interval between Baby An and Baby N Plus one was more in the 150 plus minute range
+[0:21:09.5]  I'll go bless you
+[0:21:28.5]  I will try to alternate the as I often do the explanation off the dis lines with occasional, uh, incursions into the director notebook for the book and the book itself
+[0:21:35.5]  Just be patient before because after the crash, things may have shifted a little bit
+[]			 Okay, here we are, in the book itself
+[0:21:51.1]  We're looking at this particular figure, and if we pay attention to the figure on the right, which in The text book is called Figure five 0
+[]			 It's not simply one minus CDF
+[]			 It is one minus CDF on a log
+[0:22:06]  Why scale? In other words, your Y X is now has being converted into a logarithmic scale, and that is done for a reason
+[]			 We'll get to that
+[]			 Let me just get the code here, Chapter five
+[0:22:29.0]  So the reason for that has to do with the formulation off the exponential function
+[]			 So if the city F of X is one minus negative Lambda X, the CCD F is one minus that
+[]			 Therefore it's e to minus Lambda X
+[]			 That's what is being called why that's the CCD F
+[0:22:53.1]  If you take the log on both sides, the natural log
+[]			 In this case, of course, you get to love Why being negative
+[]			 Lambda
+[0:23:00.9]  Thanks X
+[]			 In other words, if you brought the log off, why versus X You should get a linear function
+[0:23:11.2]  Whose slope is Lamba? In other words, the closer you have to a straight line
+[0:23:21.3]  Whose slope is Lambda there? More likely, they think that can be approximated using an exponential resolution
+[0:23:25.9]  That's what the the plot is telling here
+[]			 I won't take a quick look at the actual code here
+[0:23:43.3]  You had it running once again, in spite of my comments about the code for the book being dependent on the authors on libraries and packages, There's always learning that comes from playing with the cold
+[0:23:57.7]  So if you have a chance, get your chap 05 X Dr Notebook and hack into it
+[]			 I did a few things, for instance, I was curious to see
+[0:24:09.9]  Since this is such a small data set, I was curious to print out the entire data frame to see what exactly was recorded there
+[0:24:16.1]  So there's this notion off time, starting at Cem
+[0:24:17.2]  Arbitrary 0
+[0:24:19.8] 1 presumably may think it's midnight, but there's no information one way or another
+[0:24:30.4]  And then, based on that moment from which time began to be computed, how many minutes have elapsed? And this column on the right inside, of course, is, um the column that we're interested in so we can tell if it was a baby boy or baby grow
+[]			 If we know the code book here, we only know one into
+[]			 We can only guess we can know the weight in grams and the minutes, which is what we are interested in so basic minutes
+[]			 The difference in minutes is what we care about
+[]			 Those are the intervals
+[0:25:02.9]  Here's the longest interval, the one that makes this CVS look the way thus 157 minutes
+[0:25:12.2]  And this is this is probably the shortest one
+[]			 One minute between her births
+[]			 Okay, as usual, if you I want to spend some time doing exploratory late analysis, be my guest
+[0:25:35.1]  There's only so much you can do when there's no code book when there's no further information about how the data was obtained and whatnot
+[]			 So here's the cold that creates this
+[]			 I ran everything
+[]			 It would be best
+[]			 Let's try again
+[]			 Okay, here's the cold that creates the cumulative distribution function using the author's library
+[]			 Of course, you can do that without that library
+[]			 And here's the one that doesn't complimentary CDF using the Y scale as a log as opposed to linear
+[0:26:21.6]  All right, so the lesson here being, um, that this looks exponential indeed, for the most part, and that you can infer the Ming off the exponential distribution as being one over lambda
+[]			 So 32
+[]			7 minutes in this case
+[0:26:35.8]  In other words, you could go to the to the code that generates a C on exponential CDF analytically look at which, um, in this case, it's so, as you may expect, it is a custom function that takes, not surprisingly, Lambda as one of the parameters
+[]			 And he said of passing Lambda in an interval like this, you can plot Lambda for that particular value and compared to the meaning of the actual distribution and see how well did to overlap
+[]			 I don't know why the author didn't do that, and I don't know if I should risk doing that right now
+[0:27:21.7]  But since I have fallen flat on my face before and I don't mind doing that, I will do that
+[0:27:28]  We sure to sell above popular code, just go lambda equal to
+[]			 But there was a part where they actually could do something a little bit more exploratory
+[]			 First, we could ask for the mean off
+[0:27:56.2]  This day ifs guy 33
+[]			2 to confirm that this is similar to what we saw in the book
+[0:28:04.3]  Similar? Not identical, but it works for me
+[0:28:08.8]  So if we call Linda the reciprocal that and if we remember the meaning for days but that's give it a shot
+[]			 See if it works
+[]			 No, we didn't
+[0:28:47.7]  Okay, so there's probably something here in the other two parameters for the render exponential CDF that I have to look in the documentation to see what they are else
+[]			 Uh, we should get something that looks similar to our empirical distribution from below
+[0:29:01.2]  Nothingto worry because, as I said earlier, we don't care much about this particular way of writing code
+[]			 We will
+[0:29:07.1]  Instead, we just see if this has to do with giving it a different name
+[]			 Now
+[0:29:17.3]  We were always said, have a saying the number four coming up with these types off tasks but using standard libraries
+[0:29:25.6]  So the lesson here as a mom, confusing as it may have turned out, my apologies is that you could indeed, obtaining the mean interval were difference in time
+[]			 From the data set, you could use it to model on exponential distribution
+[0:29:45.4]  Who's lambda? Is the reciprocal of the mean And you could claim that based on did overlap between the two
+[]			 You your model is good enough to explain date
+[0:30:01.4]  We'll see the same thing's happening for other types of distributions, including, of course, the godson or the normal distribution it goes on
+[0:30:08.7]  Distribution is used extensively, in part because of something called the Central Limit Theorem, which basically says that if you have many different random factors random observations and you and them up, no matter how distributed they are individually
+[0:30:33.4]  As the number off observations increase, the sum of them converges to a normal toe ago
+[]			 Alison
+[]			 And that's true for a large number of natural experiments and so on
+[0:30:50.3]  So we have made comments in the past about height off, the population, being presumably distributing a godson way, you know, from your life as a student that when they say professor grades on a curve, the curve they talk about is a godson curve
+[0:31:17.6]  And the likelihood of a class exhibiting a normal distribution type of behavior in the grades off a test, for instance, is not something that is guaranteed by any stretch of imagination depends on a number of things, including the design off the exam and the the level of understanding of the class
+[0:31:58.6]  So normal distribution has two parameters mu and sigma demean and standard deviation, and we have to be careful with technology again because we want to distinguish the analytic version off the Gaussian distribution, something that you can plot by entering mu and Sigma and obtain nice, smooth curves such as the C V F that you see here coming from the book as opposed to the empirical, this provision that he may get from some data sets
+[]			 And we'll talk about that, right? No
+[0:32:11.1]  So we have access to information about the weight's off the babies in the national survey off family growth data set that we have been using in connection with this book
+[]			 And we can figure out the mu and the Sigma
+[0:32:25.4]  So the muse, £7
+[]			28 in that case
+[0:32:39.6]  And if we plot the empirical CDF and we try to fit a perfect house into that, the perfect girls in here is in a thing shade of gray
+[]			 You'll see that it fits the data so well that you have to look at a very specific portion of the curve to see the only occasional differences
+[]			 All right, or at least that's what you get from looking at the CDF
+[0:33:20.9]  So if I gave you this data set, which you have off course through the second book, And if I told you that guy Alison with these parameters is a good model for the distribution off baby weights, and I showed you this plot, would you be convinced yes or no? Don't be too harsh on me
+[]			 Say yes
+[]			 Yes
+[]			 Okay, yeah, it's pretty convincing
+[0:33:28.8]  I mean, to the degree that you can hardly see the underlying gray curve, the model as things worth one when it's overly by the data, except for very, very few points in the car
+[]			 What textbook will tell you is to that's okay
+[0:33:55.1]  But to not never stop with one way off plotting only just as later today, we'll talk about never stopping about with one way of testing a hypothesis
+[0:34:01.4]  If there's more than one way of doing something, you may want to explore a second option for 1/3 option
+[0:34:11.2]  So that's the context in which your textbook introduces the normal probability plot, which they call a visual test for normality
+[0:34:13.9]  So here's the recipe for generating such plots
+[]			 You sort the values in the sample, then you create a standard normal distribution standard
+[0:34:24.4]  Normal distributions technology for zero mean extended aviation off one Golson's and generate a random sample with the same size as the sample is sorted and then you plot to assorted varies from the simple versus the random values they should
+[]			 If they turned out to be a straight line, it means the sample is approximately normal and the intercept is mu
+[]			 And this slope is Sigma
+[]			 These are examples off how this, uh, normal
+[0:34:53.0]  Probably the block would look like for three random samples from normal distributions
+[]			 You can see that in all cases it is approximately a straight line
+[0:35:13.8]  And you can tell that this slope off these two lines are the same because this little biz given by Sigma and the intercept is where they would cross the zero line here, which is the value off me for each case
+[]			 So going back to the birth weights case if instead, off the Syria that seems to have given us such a great fit, we decided to plot, uh, the normal probability blocked
+[]			 We may get further insight into how good the motto is or how and where and when the data is simple
+[0:35:48.9]  Date off course deviates from the analytical explanation from the model that we are offering here
+[]			 So just to give precise context here
+[0:36:17.6]  So these are examples off two subsets all life births from that data set which appear in the darker blue curve and full term births, pregnancy length created, and 36 weeks, which are the light blue, almost science type of color
+[0:36:27.5]  And if you look at what happens here, and the beauty of the normal probability blood you you always start from the May which is analyzed would be zero
+[0:36:59.2]  And you, in this case, you can see that both distributions follow a straight line for at least one, maybe two standard deviations from the meaning in one direction and one standard deviation from the meaning, the opposite direction, beyond which they start to depart from the pure Golson they started deviate in the tales and interestingly enough, the heaviest babies are heavier than what the model expect
+[0:37:09.2]  So the deviations trending upwards and the lighter are the lightest babies are lighter than the model predicts
+[0:37:21.0]  This is just the fact off life for this particular leader set
+[]			 The deviation could go both in
+[]			 This direction could go both in this direction, but in this case, for the baby waits, the heaviest ones are heavier
+[0:37:31.3]  than a girl's and would have predicted
+[0:37:36.6]  And the lighter ones are lighter than the Dawson would have predicted
+[0:37:40.3]  So which begs the question
+[]			 Are we doing E
+[]			 D
+[]			 A
+[]			 Or statistical analysis or statistical modeling? One thing we're not doing here is hypothesis testing
+[]			 We're not testing hypotheses
+[]			 Not right now
+[0:38:05.0]  Okay, What? What we're doing is a mix off modeling, statistical analysis and export our data analysis to some extent to a degree that we are choosing to visualize data in the way or another, depending on what is convenient
+[]			 So be very careful about details
+[]			 If someone says so
+[]			 This is an equivalent plot to the one who showed a few slides earlier
+[]			 Not quite
+[]			 This one was only four, um, successful pregnancies
+[]			 If I remember correctly, this one makes a difference
+[0:38:26.5]  Steps the difference between successful pregnancies and this subset that also happened to be at full term
+[]			 All right, so we're talking about slightly different cases
+[0:38:46.6]  But we can say that the subtle differences that were not completely captured or not too obvious to see hear and the CDF brought became much more apparent in the normal probability
+[0:38:59.7]  But all right, remember those early diagrams that talk about Queenie
+[0:39:04.9]  Happy data wrangling, data visualizing and eventually communicating results
+[]			 Every time you see a plot like this, you may ask yourself the question
+[0:39:12.3]  This is a good one to communicate results to my constituency to a general audience
+[0:39:14.8]  To the people who hired me to do this study or something like that, The next distribution is the log normal distribution, which, as the name suggests, is the logarithmic variation off the normal distribution
+[]			 So basically, instead, off the love normal to see the F of X is basically the normal off the log of X
+[0:39:42.6]  So be careful, though, because even though it's the normal off the log and therefore it can be described by a mule and a sigma the mu and sigma for the log, normal don't mean the mean and the standard deviation off the data
+[0:39:56.3]  All right, so we're gonna use the data set from B
+[]			 R
+[]			 F
+[0:39:58.8]  S s the behavioral risk factor surveillance system
+[0:39:59.6]  Again, this is a copy from his light you saw before
+[]			 It's basically the among other things, the statistics about the weight off adult population
+[]			 So almost 400,000 people
+[]			 And here are the two attempts at modeling the data
+[0:40:21.8]  As usual, The eject one is the empirical CDF
+[0:40:25.6]  This month one is the analytic one
+[0:40:31.1]  And on the left inside, you see an attempt to model as a linear
+[]			 In other words, a regular guy
+[0:40:35.0]  Awesome on the right, inside a log
+[]			 Normal distribution
+[0:40:46.9]  If I had a simple question to ask which of the two seems to better model the data, you would without hesitation, say the one who was that right? Absolutely
+[0:40:56.5]  It overlaps the data to a great extent, even when it departs from the data such as around, uh, this portion here, it doesn't seem to depart so dramatically
+[]			 And in this part here, it doesn't look like parts that dramatically either
+[]			 By now, you know that the city after house a story in one way you can always see the story from the point of view of normal probability bloods
+[]			 And that's what we're doing
+[0:41:31.0]  So basically, this is another way of showing that indeed, the log scale does a better job modeling, whereas the conventional normal distribution shows that the date of the parts from the estimates both above and below the Ming wait
+[0:41:55.6]  All right, the next distribution In this chapter is the parental distribution named after the economist Fred Off Pairetto, which economists use to describe, among other things, distribution off wealth and sizes, off cities and other natural phenomena
+[0:42:08.9]  And did CDF is given by one minus the ratio between the value of X and some X sub and which is the minimum possible value
+[0:42:21.4]  Res tau power negative offa so clearly offer is the single parameter that defines a parental distribution
+[0:42:25.5]  In other words, if you have a library function that allows it to plug offa and plot a parental CDF, you can build a family off curves such as this one
+[0:42:43.1]  Nothing to it except, perhaps, uh, the notion that, um, do you Perretta distribution has a very steep curve on the lower end of values of X and flattens out for most off the range of X
+[0:43:00.0]  So one way to see if the Beretta distribution can be used for explaining certain populations or samples off populations
+[]			 That's what we normally have in
+[0:43:16.5]  The book is given in the connection in connection with the U
+[]			 S
+[0:43:16.9]  Census Bureau and populations of cities in the United States
+[0:43:30.2]  So what, we're going to see here is that in the case of the Pareto distribution, best way to visualize the CCF is not log normal Log linear, but log long scale
+[]			 Because if you if you run the the the math issue, take one minus one
+[0:43:46.8]  Mine is this You get what it's called
+[]			 Why here? X over
+[0:43:52.3]  Accept them too Negative offer
+[0:43:58.0]  If you take the log on both cases and you know the properties of logarithms, you will see that the longer thumb off why vertical axis is negative Alpha Le Goff X plus out for long off except Mm
+[0:44:15.8]  In other words, it is a straight line with a slope off negative alpha and intercept positive Alfa times Love off except him
+[0:44:34.5]  So here's an example for the populations off the city's included in this file that you can find with the materials in The book has a horrible name but basically contains the statistics for a number off cities
+[0:44:48.4]  In fact, we could, in the spirit off curiosity, eventually we can open it and see how many data points it has and what not
+[0:45:01.6]  But for the purpose of this explanation, here's an idea of how the log log plot off the complimentary CDF off the Pareto fares against the data itself
+[]			 So the model, as we know, is a straight line, and the data is represented in blue, which leads to a situation that is all too common in data science
+[0:45:24.9]  When asked, does the model explained the data? The data scientist ends up having to say something along the lines off
+[0:45:32.6]  Not really a bit vague, you more precise
+[]			 Does the model explain the data? Look at the date
+[0:45:41.8]  Look at the model and the data over laid on this light
+[]			 Does the model explain to data? In a way, maybe
+[0:45:53.8]  But we can do a little bit more than you can say to some extend, or it explains part of the data very well
+[]			 And why am I making a point of their first? Because it will be on the test
+[0:46:02.1]  Secondly, because in some cases you may say hot, really, Life date is more complex than something that also magically can be modeled with exponential operator or normal alone
+[0:46:19.2]  Maybe there's something to be cerebral portions of the data set that are better model by These were there
+[]			 So look at this particular case
+[0:46:33.0]  If you look at this point here, where the model and the data intersect all the way to the area where they start to depart in somewhat more noticeable way
+[0:46:40.8]  That's a big chunk of data points that the model explains extremely well
+[]			 If you look at it from the point of view off the log off, why this is roughly below 10 to the negative to all the way to the end, one could say even below another point here
+[]			 But the point is well taken
+[]			 So that explains this part of the data quite well, but definitely not the part where the log off why is greater than 0
+[]			5 or something like that
+[0:47:16.8]  So one can say that the tale of distribution fits of parental model but not the entire thing
+[]			 So here I'll take your question a second
+[0:47:30.0]  The question is, what do we do that in the spirit off scientific inquiry, you make a note of it in your low who notebook or lab logbook or whatever you call it
+[0:47:38.5]  We're in our case, your Jupiter notebook, and you say OK, this is the date that is the code
+[]			 The code is correct
+[]			 This the plot and it explains part of the data, then you think off ways by which you can explain or model other parts
+[0:48:01.3]  So if this is a data set off populations, off cities and towns, chances are if he was lice
+[]			 The data set using a certain threshold that's, say, to distinguish large cities from smaller towns
+[]			 There's a great chance that that one part that has you see which part does it explains better large towns or small, that cities are small towns
+[]			 Just look at the log of the population here
+[]			 So clearly it does a better job for large cities that it us for small towns
+[0:48:48.7]  So if you slice or split your data into two subsets, you could make a case that for cities off population greater than X, it can be modeled with operetta distribution
+[0:48:56.8]  And then you take the cities or towns whose population is lower than that, and you try to find a better way to moderate
+[]			 All right, your question
+[0:49:04.1]  Um, we're friendly
+[0:49:24.3]  I went all the street right
+[0:49:37.1]  What's the difference there? A colonel dancing estimation
+[]			 It's good that imagine they will show up in a minute
+[]			 Ah, kernel density estimation is a way by which you can randomly sample, um data and create a model that in the typical case, it's a Gaussian kernel will show how 1000 fit would look like to that data
+[0:50:06.0]  So we're quite into kernel density estimation, yet we're doing it in a more naive way
+[0:50:06.8]  Perhaps we are looking at, uh, examples in data sets from multiple sources that could back up the idea that, Oh, now that I learned about distribution X and I know that it typically explains this type of phenomena
+[]			 Well, let me try it here
+[0:50:29.7]  Plot the right plots, do a visual inspection and see, however, does okay, we'll get back to keep thee in a minute
+[0:50:36.5]  Or maybe in another lecture, I don't know, but depend on how much you want to get into that
+[]			 All right, so in this case here, if you try a lot of normal distribution, so log off why and keep your normalized
+[]			 Your lot of the population here you get a very good fit
+[0:51:04.3]  And if you do the classical number probability plot, you can see that the result is quite neat, which is almost the textbooks way of saying I tried to use that as an excuse to teaching parental
+[]			 But be honest
+[]			 Let's be honest
+[0:51:11.5]  Dialogue normal
+[]			 There's a job this better
+[0:51:18.3]  In other words, it explains more of the data, particularly midsized towns or cities
+[0:51:32.6]  The departure from the model is visible both on one end as well as on the other end, and it is more pronounced for smaller populations, just as it was for the kids off
+[0:51:38.5]  Barreto
+[0:51:46.4]  Okay, any intuition as to why the model has more trouble with smaller towns, then Large sees
+[]			 Yes, could be
+[]			 We don't know that
+[0:52:12.0]  But we're talking about intuition, right? Not to peeking at the data it could be that are fewer small towns and therefore the relative importance turns out to be disproportionately high and tips things in the way that the model cannot quite capture
+[]			 Could be what else could be
+[]			 I don't know
+[0:52:25.8]  If I don't think any of us is an expert in urban planning or there
+[]			 I don't know
+[0:52:30.4]  Maybe I'm missing on the background of some of you are there, right? It could be that what else? Maybe sampling errors have greater wait for smaller towns, because if the population is already small, you make a mistake on absolute mistake
+[]			 It becomes more significant
+[]			 Maybe right
+[]			 If you make a mistake off 100 people in a time off 500 that's significant
+[]			 Maybe city off a 1,000,000 people
+[]			 Yeah
+[0:53:08.9]  What else? Any other idea off what it intuition could be
+[0:53:11.9]  Think that's good enough? Can't remember what your book says about it
+[0:53:23.5]  To be honest, let's take a quick peek at it just to see if there's any insight here that we should, uh, highlight
+[]			 Um, yeah, this is important
+[0:53:31.2]  Eso glad I it's like to come here
+[0:53:33.7]  Neither model was perfect
+[]			 You'll see a lot of that
+[0:53:39.7]  By the way, in this chapter, thief or a tomato only applies the largest 1% of seas, but it is a better fit for that part log normal motto is better for the other 99%
+[0:53:48.5]  Which model is appropriate Depends on which part of distribution is relevant
+[0:53:54.7]  And this is not lame copout type off statement here it is true fact off life, okay, and I it depends on whether you need to zoom in to a subset of the population or another
+[0:54:26]  All right, so, in fact, I had that in my slides also knew the neither model is perfect, which models appropriate depends on which part of this division's relevant
+[]			 Which brings us to a more philosophical, uh, discussion
+[0:54:39.9]  Why bother? Why model? Why bother creating model? So this light has a bunch of important things in it, all of which will be on the test
+[0:54:44.7]  So in case you're keeping tabs on those things, eventually I'll tell you what's hot and what's not for the test, as I do for courses that have a test, I basically will produced a list on campus that says Slide, Let your three part two lives love Our heart is like a blob of Are Not Okay
+[]			 This would be hot
+[0:55:06.0]  Why? Because it reminds us that models are abstractions
+[0:55:17.9]  In other words, they in the name of being concise in the name of being presumably elegant, they leave out details that are considered irrelevant
+[]			 They smooth out certain noise like aspects off the actual data
+[]			 Those noise, like aspects, could come from measurement
+[0:55:30.7]  Errors could come from anomalies in the data itself
+[0:55:35.6]  The other thing is they work as a kind of a data compression because instead of having to produce a large amount of data you can see
+[]			 Oh, it fits a normal with mu and Sigma, and that's it
+[0:55:49.3]  And they can't provide insight into physical systems
+[0:56:11.2]  And I don't know how many of you have being doing the data camp courses, but in the data camp courses, when they talk about this, they use actual measurements off physicists dealing with the speed of light, two separate famous fire years in measuring the speed of light and the computations and the measurements they had and how they departed from the expected 300,000 kilometres per second
+[0:56:23.7]  I mean in a way that fits into a nice Galson and how the thousands off the two distributions air slightly different and all that, and I love it
+[0:56:31.6]  The distributions, of course, lend themselves to mathematical analysis
+[0:56:38.8]  If you can model something as housing the nature, you can integrate, differentiate, add combined, do a number of operations with it
+[]			 Some words of wisdom, as I called him from the author of the book
+[0:56:50.0]  But still, I am the messenger of his wisdom today
+[]			 All right, all models are in perfect
+[0:57:00.1]  In fact, I think there's a very popular saying in statistics and data signs that continues the sentence by saying all models are perfect, but some are useful or something along those lines
+[0:57:17.6]  Okay, so I could supplement this by saying, But some are useful, very common saying in data science data from the real world never fit ANALITICO distribution perfectly
+[0:57:22.6]  In fact, if it thus, you may suspect something funny going on
+[0:57:30.5]  After all, any of us can produce data to fit distribution quite easily, right? They're always differences between the real world and mathematical models
+[0:57:41.7]  Models are useful if they capture the relevant aspects of the real world and leave out unneeded details
+[0:57:47.1]  The beauty, of course, is when they do that in a way that is perhaps more insightful than we would be able to do it ourselves
+[0:57:55.1]  If you think about models in context, off machine learning or, more recently, neuro networks or more, even more recently, deep learning your own networks, they do that they capture relevant aspects of, say, images features
+[0:58:09.1]  Within those images, they know which features to look for, and that's why they can classify images better than solutions that came before deep neural networks
+[0:58:27.3]  What is relevant? What is unnecessary depends on what you're planning to use the model for I know these things, and first sight looked like the most obvious statements
+[0:58:33.0]  But they are extremely important, and they're not meant to be used as lame excuses for not producing model see or not producing a report
+[]			 It says
+[]			 This is what we got
+[]			 This is the best way to explain the data
+[0:58:52]  And yet such and such things are happening here, there's a great chance that some of your data was incorrectly acquired or measured
+[0:58:59.1]  In fact, by trying to fit a model, we can go back to the physical system and say your sensors probably faulty because it doesn't make sense to have every hour this crazy out lawyer
+[0:59:11.4]  If it's something that happens, seeing the time to make so and by the way, speaking of time domain, we haven't got time serious analysis at all yet, so everything we do here is basically data frame oriented
+[]			 It's mostly quantitative
+[0:59:21.4]  It's not categorical for the most part, and it's not in multiple dimensions, whether time or ex wife or images or something like that
+[]			 But we'll get into some of that eventually, and that is the end of Chapter five in the book questions about it
+[0:59:41.9]  Yes, sir
+[]			 You can ask any break, but you can ask it now
+[]			 And if the answer is longer, I'll tell you
+[0:59:50.7]  Okay, let's knock over to Rick
+[]			 It was okay
+[1:00:13.8]  What would you like? Don't talk about your normal probably to plant
+[]			 Oh, okay
+[1:00:32.7]  We don't have the standard deviation for the baby waits, Dewey
+[]			 I do
+[]			 It's 1
+[1:00:45.5] 24 So being to two standard deviations down mean tiny babies off five ish bounds
+[]			 Okay, But I see your point
+[1:01:02.3]  Uh, no wonder there are no data points below three or four standard deviations under the mean because that would mean very, very light, fragile little babies
+[]			 Is that your point or Yes
+[1:01:27.6]  Well, if you look at the birth weight off seven point something and you imagine a line here, it will go straight to your mean, which in this case is being normalized in zero centered
+[1:01:37.3]  Right? So, basically, these are actual data points that happen to be whatever absolute waits in pounds you have here
+[1:01:44.8]  So if you take a data point here and you map here, there was this record off a baby off roughly £3 in the model that you're trying to fit
+[]			 Based on the statistics of the entire sample off the entire sample of birth weights
+[]			 This is roughly three standard deviations below the mean all right, so you can do the math
+[]			 It's basically seven point to see that again
+[1:02:06.9]  Filter versus on filter
+[]			 I don't know if I would put it that way, if you could
+[1:02:14.6]  After all, there are girls, and filters are there for things such as image smoothing, for instance
+[1:02:25.6]  But I wouldn't I think of it as a filter so much, Um, I'm trying to see if I get to the court
+[]			 I mean, there are two things that I see in your in your question
+[1:02:42.1]  One is, can I even by selecting a few points, can I confirm that this plot makes sense from a quantitative point of view? And the answer is C, as you can do simple calculations like this
+[]			 So I should do the mean 7
+[]			2 minus three times the standard deviation
+[]			 That's roughly 3
+[]			6 or 7
+[]			213 point six is 3
+[]			 So you get something like this 3
+[]			 It's this data point here or something
+[1:03:02.4]  The thing is solely based, the the line that it follows the normal distribution
+[1:03:23.2]  The model is the straight line in light Grey here you want to see? Okay, now that's okay now, But I just want to make the point clear, even though it's not in the legend, That's the model
+[]			 The model is a straight line
+[1:03:30.3]  This slope is, um, determined by the standard deviation
+[1:03:46.2]  And here's the, uh, the Miracle data and how closely overlaps the line is a visual measure off how well this particular Golson with this particular combination off Mu and Sigma explains the data
+[]			 If you had try to guess Sigma, for instance, these lines would be all over the place
+[1:03:57.1]  Depending on your guests off Sigma and the models would be more or less horrible if you try to guess the mean, the line will be displaced up or down, and your model would be off clearly
+[]			 Okay, so I don't know what's the central point of your question
+[1:04:15.4]  I'll take further discussions during the break, but I wanted to make sure that you understand what's going on here, especially in this case, because we're still dealing with the linear uh, why excess? And, um, the only novelty here is that the the X axis has a zero mean normalized standard deviation type of thing
+[1:04:38.1]  So it's independent off
+[1:04:47.5]  Why the white position? Uh, it's basically if you map here you are
+[1:04:56.7]  If you think off the X axis that miss, if I can just draw something on top of this year
+[]			 Uh, one way is to think of this year as the and think of the X axis as being your nice girls in to some extent, you know, this helps or hurts
+[1:05:30.7]  Okay, So you can make inferences about, for instance, seven point something being the they mean should align perfectly with zero here
+[1:05:32.9]  Why you pursuing drawing with the bad here
+[]			 So, basically, as you move further away, clearly you are in the territory off lighter babies here
+[1:06:00.4]  If you move further away from the average or do you mean here you are in the territory off, huh? Heavier than then, the average babies here
+[]			 Okay
+[]			 I don't know if this helps or hurts, actually, what order? Well, that's the interpretation
+[1:06:16.9]  Often E c d e f or a CDF
+[]			 Okay, okay
+[]			 That's okay
+[1:06:40.0]  The CDF as you may remember from before and from assignment over two years, you can go to any point here, and it can say the meaning of this point is the percentage off babies whose birth weight is last dinner equal to this value
+[1:06:42.4]  Here, let's assume it's £9 for the sake of argument
+[]			 Okay, that's interpretation of the CVS
+[]			 The no probability blocked is, uh, shifted a normalized version of the CDF
+[]			 If you want to think that way
+[]			 Okay
+[1:07:03.2]  Why is it is labeled? No, it's not
+[1:07:10.3]  Whereas in this case here, the birth weights appear on the horizontal axis
+[]			 Here they appear on the vertical axis
+[1:07:14.0]  But it's not mislabeled now
+[]			 No
+[]			 Okay, that's right
+[]			 You could You could put this rotated if it makes it easier to interpret
+[]			 It's fine with me
+[]			 Maybe, maybe thus I haven't thought about it
+[]			 So maybe, uh uh, it's Ah, an easier transition to go from this with the birth weights on the X axis toe normal
+[]			 Probably plot that is rotated
+[]			 The analysis would be the same
+[]			 It's how well it fits the straight line, so it doesn't really matter
+[]			 All right
+[]			 Okay
+[]			 So let's stop the drawing
+[1:08:09.7]  And Goto What is Chapter six in the book? Chapter six is probably density functions which you may remember the painting on the courses you took before coming to this course as typically defined as the derivative off a community of distribution function
+[1:08:18.4]  Sometimes the pdf is actually presented first, and then the CDF is computed as the integral of the pdf
+[1:08:22.0]  So if you look at the equations that we had for the CDF off, say the exponential or the normal distributions, the equivalent pdf will be their formulas produced presented in this light
+[1:08:39.4]  And, of course, this is a ridiculously famous equation that is the pdf off the godson, which shows how the new and the standard deviation our impact the shape off the bell shaped curve
+[1:08:58.7]  Katie you, which was brought earlier, is basically an algorithm that takes a sample and tries to find a smooth pdf that fits the data
+[1:09:17.3]  So the textbook doesn't, uh, uh give you much more details on that, except to show when estimating a density function with Katie could be useful
+[]			 In fact, in the notebook for this kind of neat, let me go to this part in the notebook here, actually hold it right chapter
+[]			 It's even better
+[]			 I like when this type of thing here happens, this cell here that will show once it's done running
+[]			 Yeah, right here
+[1:09:51.2]  It shows on elliptical, normal in Dark blue and a simple Katie where the Katie is run on 500 samples
+[1:10:11.8]  If you run this cell again and again and again, you will see that it produces slightly different or not so slightly, clearly different approximations off the normal, which is a reminder that every time you try to approximate a particular density function using a number of labels, you're bound to the number of labels in the random process by which they are selected
+[1:10:26.9]  Apparently, if we multiply, the number of labels by Dan say the results should be closer to the actual thing, even though it varies by virtue off the random selection
+[1:10:42.7]  It will be a much better result if we multiplied by
+[]			 Then again, then probably off your Katie E
+[1:10:48.4]  Estimation
+[1:10:49.6]  Mapping the distribution that you come on are trying to model becomes even more noticeable
+[1:11:04.5]  So here's an example from the textbook off Katie Ian Action
+[]			 And as you may remember, even in assignment two or three I think it was three
+[1:11:21.2]  Katie is an extremely easy option with the visualization packages such as meth lot leave been Seaborn
+[]			 So you you can use, uh, Katie estimations to better visualize or get samples off the population to build a model or simulate subsets of the population and so forth
+[]			 I'll make a note off this and, uh, try to produce additional examples for next time
+[]			 After all, the textbook doesn't go much more then
+[1:12:13.1]  This Yeah, basically only shows how, um, you can generate, uh estimated pdf from a sample using Katie you behind the scenes
+[1:12:32.8]  And if you go to the actual come text, it won't give you much more information about, um, Coach
+[]			 Yeah, okay
+[]			 Is an extremely important diagram in the book
+[1:12:48.7]  This is the type of thing that if we had a test with the clothes book, close notes or something, I would say, Make a print of this Putting your dorm room or something
+[1:12:57.2]  Look at it every night before you go to sleep, because you need to understand this
+[1:13:03.6]  It's the relationship between all these three letter acronyms, distribution functions, their city functions, mass functions, and so on
+[]			 And how to go from one to another as well as an idea of which one's a cumulative or not as well as an idea of which ones are discreet
+[]			 Which ones there continues
+[1:13:24.0]  So if we start, say, from the, um, bottom left the pmf, we all remember what it is
+[1:13:31.2]  It's basically there Normalized hist o gram
+[1:13:35.0]  In other words, probably the mass function is a representation off
+[1:13:37.9]  Discreet, random variable in probabilistic terms, non curative
+[]			 If you add up the values off a pmf, you get a discreet CDF right
+[1:13:50.4]  And if you do the diff on the city of values, you get back to the P M F that he started off with
+[]			 The textbook points out that maybe one should call the cumulative, um distribution function that you get from the P M f C M f instead community of mass function
+[]			 But this is not a common term to distinguish the discreet CDF from the continue Syria
+[1:14:23.2]  How do you go from the discrete city? After continue CDF you can apply as moving type off operation, although I would rather leave this invisible wall here for a minute From now on
+[1:14:41.4]  The continuous side of the world variables are represented using probably tenacity functions, which, if integrated, give you the humility of density functions
+[1:14:45.5]  Which, of course, if differentiated, give you back the P D EFs Togo from a continues, probably density function toe a discreet, probably mass function
+[1:14:57.0]  You can use bidding to go from discreet CDF to continue C p f
+[]			 You can use smoothing
+[1:15:15.0]  In other words, there are ways by which you can go from any distribution to any other, and they are, in my opinion, nicely summarized in this diagram
+[1:15:19.7]  Next light, basically, is the verbose explanation of this, which I will not read out loud because it would be to tease
+[1:15:37.4]  So this is a good visual summary off this whole discussion about distributions that your textbook author decided to break now in tow, however many chapters and sections as he chose to, but that boil down to being able to look a tte
+[1:15:43.7]  Whether you're talking about discreet or continues variables or phenomena, whether you're measuring something that s cumulative or not, and how to go about from one to another, he's a busy help
+[]			 Which brings us to the next topic moments
+[1:16:02.3]  Moments are, in my opinion, one of the most, uh, interesting aspects off statistics because I tried to think about the statisticians who first came out with the came up with ideas of computing moments because they're easy to compute
+[]			 All right, and some moments have meaning, and some are not
+[]			 Let's take a look
+[1:16:39.4]  So we call moment off order Kay, the some divided by an off X sub by to the Power K
+[1:16:43.4]  In other words, you take your data points you raised to the power K, and you add up the results and divide by the number off samples
+[1:16:52.3]  So basically have some off powers
+[1:16:56.6]  If you do this for K equals one, what is the result of adding everything up and divided by N? It's your good old mean for everything else
+[]			 And those are the words of the author
+[]			 The other all moments don't mean much
+[]			 They're easy to compute, but they have no special meaning
+[1:17:23.1]  If you, however, instead of taking the data points themselves, compute the mean first, which is the first or the wrong moment and subject, they mean from the each and every day to set before raising two power K and adding them up and so on you get something called central moments
+[1:17:40.2]  In other words, you're basically raising to the power Kate and eventually ending up together the distance from the mean
+[]			 The first central moment is approximately zero
+[1:17:51.4]  After all, if you add up all the points minus the ming, some will be above some will be below
+[1:17:54.1]  Except for rounding errors, it should come down to zero and the second central moment, if you put a to here, you have the formula for the variance, so it is useful
+[1:18:07.0]  Standardized moments are ratio's off central moments
+[1:18:17.9]  So I put the code from the textbook authors python code just to show how easy it is to compute this in plain python
+[]			 So this is the basically the python equivalent of this mathematical equation
+[]			 This is the python equivalent of this mathematical equation that, of course, calls wrong moment
+[1:18:33.4]  And this is the python equivalent off the standardized woman that call Central moment and produces the results
+[]			 And the third standardized moment happens to be useful
+[1:18:45.4]  And that's a measure off ce que nous so basically can call standardize moment, passing three as a metaphor K
+[]			 And what you get is a measure off ce que nous
+[1:18:56.5]  So we spoke about distributions being skewed rights, cute or left skewed before
+[1:19:03.3]  And now you are being given a concrete, quantitative way by which you can measure such skewed in statistics and therefore in data science
+[]			 We have to be always careful with the terminology
+[1:19:16.7]  So in regular apartments, if we say Oh, your views on this problem are skewed normally it means you're biased
+[]			 All right, here we use the words cute
+[]			 We use the word biased, and they have nothing to do with one another
+[1:19:30.4]  Skewed basically means that the distribution has a longer tail, whether to the right or to the left
+[]			 But it doesn't say anything about the sampling process being biased
+[1:19:45.1]  That would be absurd to to even related to
+[1:19:49.5]  So here's the official formula
+[]			 For one such measure off
+[1:19:55.2]  Ask Yunus
+[1:19:55.9]  In addition to the third moment, this is the Pearsons medium SK Eunice coefficient, which, um uses the sample mean X bar and the median M and the standard deviation capital
+[1:20:24.5]  Asked to produce the A measure of SK Eunice, the Pearsons medium SK Eunice coefficient is considered better than the third moment because it is robust, toe out liars, even though the results are typically numerically different when you have, when you apply this sample securities or the Pearsons meeting skin is, too the same data, they should show a measure of how skewed to the right or to the left a distribution is so
+[]			 These are two examples from the book related to the birth weight, in which use in this case related the birth weight for the babies and this for the adult wait for the other data set
+[]			 So in the case of the birth weight, the medium is it's likely greater than the mean, which suggests that the distribution is left skewed
+[]			 You can see the tail to the left to be longer than the one to the right
+[]			 And if you want to have a measure of house, let's cute
+[]			 It is
+[]			 You can run the formulas for samples que nous or Pearson's and you get negative something
+[1:21:25.2]  There's something's different
+[]			 Negative 0
+[]			59 versus negative 0
+[1:21:34.2] 23 by the fact they're both negative confirms that there is a certain skew to the left
+[1:21:37.4]  Just as in the case off adults, the Ming is higher than the medium
+[]			 Therefore, the distribution is skewed with right
+[]			 And if you compute them with the two different methods, you will get positive values
+[]			 But they will be once again different
+[1:21:58.6]  So did summary of this brief discussion about moments is that most moments are just different ways off computing things that we knew already such a cz 1,000,000 variance
+[]			 And the third standardized moment is useful for SK Eunice, although not so useful
+[1:22:20.3]  Therefore, Pearson squiffy s que nous coefficient questions
+[]			 Okay, so let's take a break
+[]			 When we come back, we'll talk about chapter eight, where the issue off estimation will become the central focus
+[]			 We'll see each other in five minutes
+[]			 Thank you
+[]			 Yes
+[]			 Yeah
+[1:23:08.2]  You didn't give me, like, some worried line
+[]			 Really? Okay
+[]			 I can I can show you my cool
+[1:23:15.6]  It's really, really I figured it was something really easy
+[1:23:42.4]  I just dropped the solutions on the discussion board or not, Species for each successful way of talking about Petaling
+[1:23:45.6]  Oh, is that what? Yeah, that's only for patrol
+[1:23:47.2]  Oh, because I wasn't sure, but I know it's awful in this particular case
+[]			 Yeah, sure
+[1:23:53.7]  Let's have that conversation Just a second
+[1:24:00.3]  Just shut down a few things that started off when I rebooted my computer
+[1:24:12.3]  So just bear with me for a second here, reopened there's wait
+[]			 Oh, no, yes
+[]			 So, like that standard deviation is possible
+[]			 So it's like a It's a standard deviation
+[]			 One point, then the raw data like calculate the birth weight of two standard deviations
+[]			 That's just two times 2
+[]			41 point two
+[]			 No, it's what we hear is relative to us
+[]			 You're so negative through here means we mean seven point something
+[]			 My must get the number
+[1:24:58.6]  Sorry, I don't remember the numbers here, but only seven
+[1:25:04.7]  Zou here is just so think
+[1:25:07.4]  Center
+[]			 Yeah, I get that part
+[1:25:22.0]  It's the thing, because is number three aviation, right? So it was to hear just to soothe seven
+[1:25:28.9]  Perfect on you
+[1:25:33.7]  Why would it's suddenly going? Because that's what you would happen
+[]			 It was a perfect normal
+[]			 It's a great long since he doesn't have the observations about
+[]			 But that doesn't change
+[1:25:50.8]  The relationship between the standard deviation thing is the stem of aviation off the ideal gods
+[]			 That's what you're getting
+[1:25:58.9]  But isn't the standard deviation still a constant number even for the imperial? Get Cottle, Remember, the empirical has something seconds but it's not afford to talk about the standard deviation
+[]			 Okay, I see what I'm saying
+[]			 Okay? Yeah
+[1:26:20.2]  Why? Because the standard deviation a miracle scrape some of these differences
+[]			 Of course you want
+[1:26:29.0]  But the fact that it exists as a number doesn't mean that when you when you try to fit the distribution around it, you get something that looks like a normal infect
+[]			 Your questions interesting
+[1:26:47.9]  Remember, because the formula for started invitational shoes can't remember talking about this even if the distribution you can't That's the question
+[1:27:13.1]  Because I don't see how this can how the y axis could be
+[1:27:14.8]  Really? I feel like it makes sense
+[1:27:20.3]  If it's like the probability you're like, Well, like distribution function says everything's under This is like, how many? So I understand if it's now like that to standard for Tia
+[]			 That's okay
+[1:27:31.7]  I like 14%
+[1:27:42.6] 37 point four for our date, right? Yeah, that's what I'm claiming Causes
+[]			 That issue is negative to here
+[1:27:47.3]  And your partner here you get before again
+[1:27:55.8]  You How is that line? Computed, I guess, Is what They're thio
+[]			 No, empirical is the straight line from the models
+[1:28:07.6]  Just don't like how, Like how? Why? Because you can't just standard deviations
+[1:28:13.3]  You start ups and he can't just be a number of standard deviations
+[]			 Okay, Okay, But it is
+[]			 We're like, the percentage that's under this, but they're simply jump That comes straight from the frequency
+[]			 So this why access percentage
+[1:29:14.0]  But you see what way? Way table
+[1:29:39.9]  Three pages already being it is rewriting
+[]			 I right? All right
+[1:30:14.3]  It's like Come
+[]			 Yeah
+[]			 What? You know what? Yes, I really courses
+[]			 Because what my Oh, yeah
+[]			 E classes
+[]			 Oh, you can see if we can get a master's in a I in passing
+[]			 I don't think it works that way, but I don't know all the details
+[]			 I don't know
+[]			 I don't know
+[1:31:20.6]  I would have to check
+[]			 Yeah
+[]			 Yeah, I know what you're saying
+[]			 Uh, it's very new
+[]			 I don't know the specifics
+[1:31:34.6]  To advise you on which courses count or what not, But I see your point
+[]			 You have taken so many of those courses that maybe you can get a master's in passing as they call it
+[1:31:50.8]  Yeah, go see a graduate advisor in my department
+[]			 Go see Jean first
+[1:31:53.9]  She's not an advisor, but she will point you in it
+[1:31:57.9]  Jean Margera, Xena over administrator coordinator for graduate students
+[1:32:03.4]  Okay, She will point you in the direction off Advisor
+[1:32:17.2]  OK, really? Possibly excuse that
+[1:32:19.1]  It'll be a pleasure
+[1:32:30.2]  All right? What? Okay, so let's get back to the business off Distributions, models, estimations
+[]			 And, um if you're taking the courses on data camp, you the ones that relate to this, they're called statistical thinking
+[1:32:44.6]  Fightin, I think they're called Went into They talk about these topics in a significantly different way
+[1:32:56.1]  So he should be warned that the way the textbook author chooses to approach this is one way
+[1:33:04.5]  But in the assignments that are coming up, I will try to supplement a few bits and pieces from the data camp stuff too
+[1:33:07.7]  Improve any larger understanding of the material
+[1:33:19.5]  So in Chapter eight, the topic becomes estimation in the more systematic way
+[1:33:36.6]  Some of you may have noticed that so far we have made a point that if we wanted to model distribution using a well known analytical model, we could
+[1:33:43.8]  But it's quite clear that the distributions are the data that we used to justify that this could be modeled in a using a normal or love normal operate or exponential distribution
+[1:33:53.8]  It's almost like the data came after the fact we fabricated data to fit the model in your life
+[]			 You're given the raw data and you have to come up with a model
+[1:34:02.2]  So that's the shift in perspective that you see when you get a Chapter eight notebook
+[1:34:09.5]  So if you're giving Rod Italian occasionally some additional hints how can you distribute Can estimated eight the distribution and its parameters
+[1:34:29.2]  So and how can you tell which estimator is best if there is more than one that you can come up with? So you will see that the answer to the question which estimate his best uses words such as It depends on the circumstances or mentions out flyers or talks about what they go is
+[1:34:40.1]  And the goal here is there's something that has, ah, significant implication because there are estimation Matthews that will try to minimize error
+[1:34:54.7]  The M S E uh, estimator is one case, and there are others that will try to maximize your chance of getting the right answer
+[]			 The maximum likelihood estimates for being one case and you, depending on the problem, you may want one or the other to be your go
+[]			 So the textbook gives an interesting example about how the minimum square would be a bad idea
+[1:35:25.7]  If you try to estimate the likelihood of a certain outcome in a game of dice, where your estimate could be a fractional number that has zero chances of happening, and you would be better off with a maximum likelihood estimator instead
+[]			 So here's the first little game
+[1:35:35.9]  Hi, this is the book author saying, I think of a distribution
+[]			 You have to guess what it is
+[1:35:41.2]  I give you two hands
+[1:35:44.7]  It's a normal distribution, and here's a random sample drawn from it
+[1:35:53.1]  What do you think is the mean parameter of the distribution? This is the easiest possible game basement watching those so far, because basically, the answer is implicit in the question
+[]			 If I tell you that it's a normal distribution and these are randomly sampled points, your best, yes, it is cool
+[1:36:11.8]  Take the sample mean off those six data points, which turned out to be 0
+[]			155 and say OK, I estimate that this is a normal distribution with view off 0
+[]			155 this should work fine, because in this case, the distribution doesn't have any out flyers
+[1:36:35.2]  Which takes us for example, Number two
+[]			 The game is similar, almost identical
+[]			 I think of distribution
+[]			 Have to guess what it is this time
+[]			 The hints are it's a normal distribution
+[1:36:47.2]  And here's a sample that was collected by an unreliable surveyor who occasionally puts the decimal point in the wrong place
+[1:36:51.9]  Great
+[1:36:56.5]  Your reaction after thinking, Why haven't you fired? This individual is okay
+[1:36:59.3]  I should be prepared for the possibility
+[]			 Off out liars
+[1:37:16.6]  And in this case, if you compute the sample mean, as it did for the first example, you'll be surprised to see that it will be, um, significantly distorted by virtue of this one outlier
+[1:37:29.9]  So what can you do about it? You can use a measure that is more robust throughout liars such a meeting, or you can do an outlier removal process first and take the sample mean off the rest
+[1:37:50.7]  If one produces two or more estimations for the same data points, how can one compare which one is best? One way to compares to look at the mean square error that the estimates produce so in the case of no out liars
+[]			 The sample mean, as simple as it is, is guaranteed to minimize the squared error
+[1:38:07.8]  And because I told you in the beginning of the closet, I'm not in the business off proving these things in this course
+[]			 We're using this knowledge from statistics
+[1:38:19.9]  So if you play the game many times and each time you compute the error X bar miners mere the sample mean will minimize the Ming Square
+[]			 Okay, what if you take the square root of that? You get something called the R
+[]			 M S
+[]			 C or root means square error, which is a measure off how well we did and also a measure that you can use the compared to different estimates for the same data
+[1:38:41.0]  Points deliver
+[1:38:41.8]  The are messy, the better
+[1:38:54.0]  So the everything that you learn this course comes with a word of caution in the keys off minimizing mean square or the route a scrub it off
+[]			 The main square is nice, but not always the best strategy
+[1:39:07.8]  There's an example coming from the book where you're trying to estimate its tradition of wind speeds at a building site
+[1:39:13.1]  If you estimate too high, you may overbuild the structure which leads the Lord High costs
+[1:39:21.4]  If you estimate to load, the building, might collapse, which leads to many more complicated issues than just exceedingly budget
+[1:39:33.7]  So in this gaze, the cost as a function of the error is not symmetric and the main square, Maribel, but its very nature by taking this square off the differences
+[1:39:41.3]  In other words, by not caring whether the error is on this or that side of the Ming is not the best
+[1:39:56.6]  The best strange Does that make sense? Okay, Back to the example
+[]			 One same distribution
+[]			 I see
+[]			 It's normal
+[1:40:04.4]  He's a random sample
+[1:40:22.1]  What do you think of the variance? Well, you can see well, computer variance, as I learned and, uh, claimed that this is the best estimate for the variance off the entire distribution or the solution that explains the date
+[1:40:28.1]  Here we get into one of those very intriguing aspects of statistics
+[1:40:34.9]  I don't know how many of you have seen this in previous courses, but the various computed by the some off the square off
+[]			 The differences between data points and the mean divided by the total number of points is considered a biased estimator for lower values off and for small sizes off population
+[1:41:04.6]  Therefore, you're encouraged to use the unbiased estimator, which is pretty much the same computation except that you have n minus one and the denominator, as opposed to end there the notation gets a bit ugly
+[]			 One is called simply s capital
+[1:41:16.8]  Asked the other one is s a sub n minus one to indicate that it's the unbiased variation and your tax book interestingly enough, especially because when you yet to college level courses, you are told to avoid Wikipedia like the plague
+[1:41:45.2]  Uh, your textbook, interestingly enough, says if you want to know more about this sample versus and sampled oh, our bias rather versus and Bias see this Wikipedia page? Okay
+[1:41:48.1]  And you have a lengthy, detailed mathematical explanation
+[1:41:54.8]  Why, If you use an in the dominator, it's considered biased
+[1:42:01.8]  And why, and minus one is not in which situations based on population size, that this is more or less critical
+[1:42:17]  Okay, so there variations that, uh, we may observe in the estimate may arise from the samples that we were given
+[1:42:30.2]  In other words, we may have a scenario in which will have to deal with something called sample error
+[]			 And I like the examples at this part of the book
+[]			 So let's see if I can do justice to them as a report them to you
+[1:42:46.5]  So the first example here is the average rate off adult female gorillas in a wildlife preserve
+[]			 You the book
+[1:42:52.6]  There was a story about how complex are expensive
+[]			 It would be to try to weigh a large number of female gorillas
+[1:42:59.0]  So some scientists decides nine should give you a good sample size
+[]			 So you weigh nine female gorillas
+[]			 You get those nine data points, you compute the sample mean 90 kilograms
+[1:43:12.3]  The standardization sample standard deviation
+[1:43:32.9]  You run your unbiased estimator off mu, and you report that there the model debt matches the data has average off 90 kilograms and the standard deviation of 7
+[1:43:46.8]  So, um, the question is, how confident should be in this estimate? What? What is the question trying to address here? What is the What is the problem that we're trying to get here? Bless you
+[]			 We're back to the issue off
+[]			 What? Uh, we saw in that video
+[]			 Our interest is data scientist is on the population on Lee, the population above all the population and so forth
+[]			 But we're having
+[]			 As always, it's always the case we have to make do with, in this case, a small sample of the population
+[1:44:23.7]  So is there a possibility that, accidentally, you may have weighed the lightest nine female gorillas in the hole preserved? It's possible or denying heaviest
+[]			 It's possible
+[1:44:52.4]  So there is a possibility of a sampling ever, and you want to produce some sort of statistical a number that tells toe which degree of confidence you can stand by the estimate that you have provided
+[]			 So the idea is to try to find a way to answer the question
+[1:45:03.8]  If the actual values off Mu and Sigma Worthy was given by the simple Ming and simple standard deviation, and we ran the same experiment many times
+[1:45:18.8]  How much would the estimated mean? Very and so Basically we want to, in this case, run a number off simulations in this case, 1000 iterations showing how this simply distribution off the estimator would be after running 1000 uh, random simulations
+[]			 So basically, uh, producing uh, normal distributions with those parameters
+[1:45:59.1]  Not surprisingly, they would have a simple mean off 90 and measuring the confidence intervals between the five percent and the 95% points which give a range off weights between 86 the night before
+[1:46:19.4]  In other words, the estimate could be off by as much as eight kilograms and it could still be within the confidence interval as it's called
+[]			 So you would report back by saying something along the lines off standard error and confidence interval
+[]			 So for standard error, you can say how far we expect to be off on average
+[]			 Okay, so in this case, by computing the square root of the root me squared error, you get roughly two and 1/2 kilograms
+[1:46:57.9]  And the confidence interval in this case is the interval between the fifth in the 95th percentile, which is eight kilograms, or with the interval explicitly indicated so that you could do the box walked or something like that
+[1:47:03.7]  86 94 kilograms
+[]			 So that gives a measure off confidence in your simply strategy, uh, important points here
+[1:47:20.5]  Words of caution do not confuse standard error with standard deviation
+[1:47:31.5]  So basically, when we say this case that the standard deviation off gorilla wait is 7
+[]			5 kilograms
+[1:47:41.2]  It's there for amateur off the actual measure quantity of the actual weight of those gorillas
+[]			 And whereas the standard error is an estimate off, uh, the how much of an error off the mean you may have based on this case is most sub sample off measurements
+[1:48:02.2]  This is a nice little, uh, hint
+[1:48:04.7]  If the sample size increases, the standard error will get smaller
+[1:48:07.6]  But this interrogation does not because it's a property off, presumably the population itself
+[1:48:17.3]  All right, so another way of saying, Do not get tripped on the terminology
+[1:48:28.5]  Sometimes things that look alike or are similar and award level may mean something else altogether
+[]			 Another word of caution
+[1:48:32.9]  People often think, and this is straight from the book
+[]			 There's a 90% probability that the actual parameter mu falls into 90% confidence interval
+[]			 This is not true
+[]			 There's no connection between the fact that the confidence interval happens to be between the fifth and the 95th percentile and the probability that the parameter mu will be in that interval
+[1:49:01.1]  If you want to frame things in terms of probability, you would have to create a base and framework for it, and we're not doing that
+[]			 So basically what we're trying to do is giving an estimate off
+[]			 How reliable, giving a sense of how reliable an estimate is and how much it was very if we ran the experiment again and again
+[]			 I'm not a bit off words of caution, confidence, intervals and standard errors
+[1:49:27.6]  The only quantified this simply error
+[]			 In other words, error
+[1:49:31.1]  Due to measuring only part of the population
+[1:49:34.4]  They do not account for other sources off error
+[1:50:09.3]  And this is a great little example from the book where the author stretches from measuring the ways of gorillas in the wild to asking human beings young ladies, what is your weight and doing that by calling them? All right, so two, we were just just opposition between the way by which data was collected in the gorillas in the wild case, what was the only problem assumed that the scale was calibrated? Technician you its job
+[1:50:16.2]  The only problems could be not enough data and unfortunate sampling on Lee, the lightweight or the heavyweight guerrillas of the population
+[1:50:24.9]  Right? But here, once we change the methodology to using phone calls to ask young ladies, what is your weight? We introduce room for simply bias and measurement error
+[]			 If you read the book, What types of sources off sampling bias do you have? Off course, The book looks 100 years old in that part because it says on Lee, people who can't afford a phone would be interviewed
+[]			 Yeah, O r
+[1:51:00.9]  If two or more people share the same, presumably landline, only one will pick up the phone and be the one that gets interviewed by you Are not interviewing order potential female members of the household
+[1:51:11.8]  But the main thing that probably came to your mind right from the start is if you ask a young lady, what is her weight? There's a chance they will fudge the numbers a little bit
+[]			 All right
+[1:51:22.6]  Oh, we're equivalently
+[1:51:24.8]  Ask a young male college student
+[1:51:30.2]  How many times did you get drunk over? You're doing your freshman year
+[1:51:38.0]  They may deflate that number a little bit, right? So it's not a good way off collecting the data to begin with
+[]			 So that introduces sampling bias
+[1:51:47.5]  Do through whatever, uh, age, race, economic income and so on
+[]			 And the possibility of measuring measurement errors
+[1:51:56.3]  None of which have anything to do with your estimation method
+[1:52:01.9]  They will have to do with the quality of data they will lead wears, but not something that you can, uh, resolve at the estimation part
+[1:52:18.1]  So the last bit off this chapter is a subpar I still produce to his lies about it
+[]			 Just to show that the natural way to estimate an exponential distribution is to do the reciprocal of the sample mean we saw that earlier today
+[1:52:50.4]  Lambda is one divided by the actual meaning, So L, as in estimated Lambda is one divided by the simple mean it is also the maximum likelihood estimator about the book doesn't do justice to Maximum Likelihood estimator, and as a result of that, will bring the maximum likelihood estimated topic again, either in futures lives or upcoming a science
+[1:53:03.0]  Speaking off, a sign is the assignment that goes with this Part two is called assignment, for it is 99% done, but not out on Kiev is yet
+[1:53:25.4]  I will put on campus between now and next Thursday, probably by the weekend, and I will probably record a screen cast to go over it step by step as I would do in the classroom, which will kind of make up for the Mist lecture from last week
+[1:53:35.5]  To some extent, at least in terms off number of minutes, that you have to sit and listen to me talk from that measure, it will be a kind of makeup is strategy
+[1:53:41.2]  I promise not to make a three hour screen casts
+[1:53:46.1]  OK, it's just in the spirit off wrapping up this topic
+[1:53:56.1]  So what we're gonna do in the same number four, you're gonna practice computing and explains that disco distributions making estimates, Completing moments and SK Eunice and things like that some to appear
+[1:54:17.4]  And that's the end off our intro to statistics Part two, which means that in terms of our so called book, too, we are done with the 1st 8 chapters, and some of these is hardly tedious
+[1:54:26.1]  I know, and I hope that when you see those things in the spirit of the assignment, they will come to life as it's usually the case for the topics in this class, which takes us to the next topic and one of the most interesting ones in the classic oh, statistical data analysis, which is hypothesis testing
+[1:54:51.0]  This topic appears in chapter nine off your book, and I will proceed very carefully as I go about explaining it because it is a minefield
+[1:55:06.3]  And no matter how many things have been exposed to this before, I will try to proceed carefully, toe, not undo the right things that you learned before or to create confusion, which is definitely not what they want to
+[1:55:16.7]  So from the point of view of the trajectory for this course, we're basically transitioning from apparent effects to rigorous hypothesis testing
+[1:55:23.3]  What does that mean? Everything we have seen so far isn't a scope off apparent effects
+[1:55:37.9]  You can say that apparently, first borns are likely to be have yer or lighter than second or third children from the same mother
+[]			 Or apparently, the pregnancy
+[1:55:41.8]  Land tends to be longer for firstborns compared to other babies or whatever apparent effect we have
+[1:55:55.0]  Bean uh, interested in, uh, exploring by doing mostly e d
+[]			 A
+[1:55:58.8]  With a little bit off summary statistics
+[]			 And so So I told you that is they would come in which we switched through rigorous hypothesis testing
+[1:56:19.2]  So whether you I love it or hate it this time we're gonna talk about things such as No hypothesis, P values and statistical significance, which are basically three main phrases that come in this context
+[1:56:22.7]  So let's your daddy's
+[1:56:23.6]  The fundamental questions we want to address is whether the effects we see in the sample are likely to appear in the larger population
+[]			 In other words, if they are statistically significant
+[1:56:41.6]  Okay, I promised I would proceed carefully, so try to resist saying much more until the time is right
+[1:56:50.3]  So that's not with an example from the national serve your family growth
+[]			 We know that there was a difference in mean pregnancy land for first babies and others
+[1:57:01.8]  We would like to know that effect reflects a real difference for women in us, or if it might appear in the sample by chance
+[1:57:14.7]  How do you go about doing that? So classical hypothesis, testing basically strength to answer this question, giving a sample in an apparent effect
+[1:57:30.8]  What is the probability of seeing such an effect by chance? Okay, and from a mathematical or logic, a point of view, it's similar to approve by a contradiction, we will to prove a mathematical statement who assumed that it's false and if that assumption leads to a contradiction
+[]			 You say, Oh, it must be true
+[]			 So here's here on the steps, and if this is new to you, it may take a couple off
+[1:57:50.8]  It orations through the material toe
+[1:57:54.6]  Get both the technology and the concepts and the techniques, right, so steps include choosing a test statistic
+[1:58:10.0]  What do you think that ISS? If you want to hypothesize, say about pregnancy length
+[1:58:34.5]  What would be if you want to look at the apparent effect that there is a difference in mean pregnancy, land for first baby and others tests that this thing could be them? The difference off the means? What do you mean, right? It's almost implicit in this center
+[1:58:36.4]  Is here the final no hypothesis, which is a model of the system, based on the assumption that the apparent effect is not really
+[1:58:54.1]  In other words, you know, hypothesis here is basil difference, right? Then compute P value, which is probably of seeing the apparent effect if you know hypothesis is true and interpreted result
+[1:58:57.0]  If the P value is slow, typically last them anyone 0
+[]			5 It is said to be statistically significant, which means that it's not likely to have occurred by chance, in that case with in for the effect is more likely to appear in the larger population
+[1:59:19.8]  Let someone brought the infamous point or five because as popular as it is, it's not a universal ah number
+[]			 But, uh, we'll talk about that in a minute
+[]			 In fact, right here
+[]			 Okay
+[1:59:29.2]  By convention, 5% is the threshold of statistical significance
+[1:59:36.8]  If the P value is less than point or five, it's considered statistical signature
+[1:59:38.4]  Is this Chris Evening Front? Otherwise it's not, but that's a very important, but the choice of 5% is arbitrary
+[]			 The P very depends on the choice of statistics and the model off
+[]			 No hypothesis
+[]			 So P value should not be considered precise measurements
+[1:59:58.5]  This is one of the most important sentence pairs in the whole semester
+[2:00:05.4]  Okay, the fact that you can compute it devalues and compare against the threshold Say point or five
+[2:00:24.3]  It doesn't mean that it's an absolute because it depends on what you chose is no hypothesis and what you chose is it their statistics? And perhaps more importantly, it is not necessarily a precise measurement
+[2:00:34.8]  Okay, so Donny, the author of the textbook recommends using caution interpreting the vase
+[2:00:48.0]  If it's less than point or one, then it is unlikely to be little chance you can consider it statistically significant if Israel and 10% it is plausibly explained by chance
+[2:00:53]  And if it's between two issue because of their border line, and then you should look at a problem or closely
+[2:01:06.5]  I think there's a good time to jump to one of the videos that I have selected for this from Cassie Co
+[2:01:12.0]  Zarkov because she makes this thing come to life in a way that is much more entertaining them
+[2:01:13.6]  Most people on the planet
+[]			 Let's take a look
+[]			 Imagine that your next job is flying through the universe from large planet two large planet in search of non human alien life
+[2:01:29.2]  Sounds like an awesome job
+[2:01:36.8]  Yes, unfortunately, as with every dream job, there is a manager, and your manager's giving you an unfortunately poultry user interface
+[]			 It only has two buttons
+[]			 Yes, there's alien life here
+[2:01:45.4]  And no, there's no alien life, doesn't Maybe it depends on the place for comments or hedging
+[]			 Yes
+[]			 Oh, no, that's all you get
+[2:01:48.8]  And then a further stroke of villainy this manager has not given you the budget to search the entire planet
+[2:01:57.4]  You're only gonna be allowed to get out of your spacecraft, start walking until your oxygen supplies get if he and then turn around, walk back and press one of those two buttons
+[2:02:03.5]  So we will be dealing with uncertainty here
+[2:02:11.8]  Which default action would you like? So I'm asking you if you don't even land on this land, which button you're gonna get? I'm hearing No, that's not the only right on
+[]			 So this depends on the politics of your space exploration company
+[]			 Maybe the right thing to do in the absence of information is depressed
+[2:02:23.1]  The guest book, that's an MBA question So? Well, actually, look at how this pans out for both
+[]			 But let's start with new
+[]			 So your default action is no
+[]			 What's your No hypothesis? You're asking yourself now, if I knew everything about the universe, what would have to be true for the no button to be a good choice
+[2:02:37.3]  Now, this is not a trick question
+[]			 This is an easy one
+[]			 When there is in fact him on this planet than pressing no is the happy choice under full information Yeah, right
+[]			 And what's the alternative hypothesis? There is alien life on this planet
+[2:02:51.0]  I couldn't have said it better myself, Weldon
+[]			 So we've got our hypotheses set up
+[]			 Thank you very much
+[]			 So here you go
+[2:03:02.1]  You get out of your spacecraft, you start walking for three grueling, miserable hours and you observe no aliens
+[]			 What have you learned? That's interesting
+[2:03:13.7]  A typical human onto the incorrect one would be than what we have learned
+[]			 That's interesting is that there are no aliens on this three hour walk
+[2:03:22.5]  And that is an incorrect answer Because of how we framed our decision
+[2:03:27.8]  We are interested by legal contract only in the population with respect to its alien, not alien status
+[]			 That is, we are interested only in the whole planet
+[2:03:34.3]  This work is boring to us
+[]			 And I asked you what we've learned
+[]			 That's interesting
+[2:03:41.1]  And from this work, we can't tell whether we saw no aliens hip
+[2:03:43.0]  Is that on and on? The planet always saw none because they're under that other rock and we haven't turned it over
+[2:03:46.5]  Give me the correct one word
+[2:03:48.3]  Answer
+[]			 What have we learned? That's interesting
+[]			 Nothing
+[]			 Did you notice that we analyzed data and we correctly learned nothing
+[2:04:01.8]  How often do you let yourselves learn nothing when you analyze data statistically? Because if you insist on learning something from every statistical analysis, you will tend to learn something stupid
+[2:04:21.4]  So I hope that throughout this course, I'm gonna make you okay with the idea that when you are framing your decisions in this manner, when you are doing statistical inference, learning nothing is a very good thing
+[]			 And you should be okay with that
+[2:04:28.3]  We need we need a badge that says, I analyze data
+[2:04:32.0]  I learned nothing, and I'm proud of that
+[2:04:35.8]  So I'm even gonna jump up and down in celebration in this course every time that we correctly learn nothing
+[2:04:42.2]  Now we're going to tell you the big secret off statistical inference
+[2:04:45.7]  Every frequent ist statistical inference course from your stats 11 to your scariest phD qualifying exam All boils down to this one sentence
+[2:05:13.6]  Oh, what is the one since course from your starts 11 to your scariest phD qualifying exam? All boils down to this one sentence just hidden under some spiking map, of course, but it is always this you could go and for homework
+[2:05:14.9]  Derive the entire discipline
+[]			 Do that down for you a little bit
+[2:05:19.2]  But truly if you sit and meditate on this sentence, everything else follows from this
+[2:05:25.9]  Okay, So what is this magical sentence? This incantation when we do hypothesis testing, we are always asking the following Does the evidence that we collected make our no hypothesis look ridiculous? Yes or no? It weighs this and only this every single time
+[2:05:43.4]  If you can truly internalize this, you've got the whole thing
+[]			 So how are we answering so far about our evidence? What's the answer? Yes or no? The answer is so far, no now imagine if instead of walking for three hours and seeing no aliens, we started walking
+[2:05:57.8]  We observed this and supposing that that is an alien and not a pickle
+[]			 What have we learned? That's interesting
+[]			 Here, here We have learned that there are There are there are, in fact, aliens on this planet
+[2:06:12.6]  There is alien life here because if I told you, I have observed this here alien and I'm still considering the possibility that there is no alien life on this planet
+[2:06:18.2]  You will tell me that you have observed an idiot this'll evidence makes my nose hypothesis look ridiculous
+[2:06:27.6]  And so what do I do when evidence makes my hypothesis look ridiculous? I don't cling to that nonsense
+[2:06:28.5]  I get rid of nothing
+[2:06:35]  And because we have cunningly made these two hypotheses so that they span all possibilities by forcing myself to reject one of them, I've been quartered into concluding the up
+[]			 So I must learn something here
+[2:06:45.1]  I now form a belief
+[2:06:47.1]  I begin with no beliefs
+[2:06:48.2]  I'm completely agnostic
+[]			 I have an action
+[]			 I don't have a belief in the beginning
+[]			 But then through this process, I know have formed a belief
+[]			 So if I answer yes to my testing question might action is to reject this ridiculous thing and conclude in favor of the alternative
+[]			 My physical action will be to press the yes button
+[2:07:08.6]  If I answered no to this testing question while in your stat 11 class, they teach you this really long
+[2:07:10.7]  The rock paragraph two
+[]			 Right
+[2:07:14.7]  And I'm convinced that that's just designed toe hurt students wrists
+[2:07:16.1]  I would allow my undergraduates too, right? We have learned nothing
+[2:07:24.2]  It seems very sad that we go through all this math and effort on we collect all this evidence and then we learn nothing
+[]			 What I left home until they remember that we're not in the business of learning on knowing things
+[]			 That's not the point here
+[]			 We're in the business of taking reasonable real world actions off making decisions on so we don't really care what we think we know
+[2:07:41.7]  Ella Endgame is just taking an action
+[2:07:44.4]  So we have a wonderful insurance policy, the default action
+[]			 That's what that thing is for
+[]			 We have a contract pretty much that says, If I know nothing, I know very little
+[]			 Here's what I'm gonna do
+[]			 The default action does
+[]			 The whole framing is not about knowing stuff
+[2:08:02.6]  It's about here I am comfortably trundling along doing this thing that I was gonna be doing
+[]			 Let's have an honest shot of seeing if I should not do it
+[2:08:17.8]  No particular reason, okay, if I go and do the thing that I was gonna do So we have the no button pressed over here the yes, but impressed over there nice and symmetric
+[2:08:20.3]  Two different actions
+[2:08:27.0]  And I hope you agree with me that they are sensible in light of the framing and the evidence now if you're interested in epistemology the philosophy of knowledge let me show you how broken this thing is
+[2:08:36.3]  Have we learned anything? If we have answered yes to artist in question Yes, we have
+[]			 Have we learned anything? If we have answered no to our testing question? No
+[2:08:46.5]  And if you're struggling with this, you might be Bassem entirely different philosophical brush by construction here we have learned nothing
+[]			 So no, we have not formed any knowledge
+[]			 Now this should trouble you down this branch
+[]			 We learned something down
+[]			 That brush we don't
+[2:09:03.1]  There's only one kind of knowledge that we can get only in favor of one of the conclusions
+[2:09:03.6]  Melt the other, Uh, how do we picked which one that was gonna be? This is dead on arrival
+[]			 It was designed for making decisions
+[2:09:13.4]  And for some reason, industry and science thought that you can get knowledge out of it
+[2:09:18.5]  And now there's all kinds of blog's shamefaced Italy having a panic
+[2:09:27.5]  You can enjoy those on the weekend, but we hear aren't going to cry over it because we're gonna use this forward
+[2:09:27.9]  It's intended for, and that is making reasonable decisions
+[2:09:32.2]  So the message the game off hypothesis
+[2:09:35.0]  Testing is all about determining whether the evidence that we have makes our no hypothesis look ridiculous
+[]			 In order to be able to set up statistical hypotheses, you must be clear on what your default action is
+[2:09:46.6]  Your default action determines your no hypothesis
+[2:09:55.7]  So I like very much what she's doing, not only because of her style, which I think is imagine that you're a trickster is flying through
+[]			 We don't need to see it again
+[]			 But uh, because she said some light on aspects of the classical hypothesis testing that not exactly obvious
+[2:10:14.2]  For instance, you don't see to the best of my knowledge that this entire chapter about hypothesis testing the world's default action and you see the classical recipe about best statistic
+[2:10:28.8]  No hypothesis P values in the meaning of statistical significance based on people is being compared against arbitrary nationals
+[2:10:41.3]  But from the point of you off, what do you learn or what your options as far as the default action or the doing something different, because there's evidence to suggest that you can now say in the keys off, for example, there is alien life in the planet, so the these are things that we should not lose track off
+[2:11:12.4]  It's easy to get caught up on there, nearly greedy off the methods off The choice of the statistics were the debate about HPV matters are appropriate for a problem at hand, but we have to be mindful that all these things exist in a bigger scope, which she frames expressing yes or no button
+[2:11:17.6]  And I also like the part was, she nails What the whole thing about what makes my hypothesis is my no hypotheses look ridiculous
+[2:11:24.6]  So what? Pipe off evidence should come from the data that makes the no hypothesis look ridiculous
+[2:11:32.7]  And in the process, we that she doesn't even speak much of the P value are at all or the threshold
+[2:11:41.9]  They're appropriate because we're talking about broader and bigger and more conceptual things here
+[]			 So, having seen her take on this and I'll move that video earlier in this lights off next time I I know I want to present them earlier
+[]			 I have another video from her coming
+[2:11:59.4]  It's kind of a reinforcement of the same thing, but shorter
+[]			 Let's take a look at some of the examples in the book, so the hypothesis being the pregnancy length is longer for first babies
+[]			 We have seen this from the very beginning
+[]			 Once we were first introduced to the N S F G data set
+[]			 So first thing is, is this a good hypothesis as a no hypothesis, Or what other options do they have to frame the hypothesis? What else would they say? There's no difference
+[]			 Okay, what else would they say is there is a difference, but not say if it's longer, a shorter
+[2:12:47.2]  Okay, so remember these the hypothesis formulated by someone that told us to get going and get busy? This is not too didn't know hypothesis
+[2:13:01.8]  This is there hypothesis in the sense that we have used the word hypothesis so far? It's almost conversational
+[2:13:03.5]  Oh, I have prophesized that the pregnancy Lance's longer for first babies
+[2:13:07.0]  There's anecdotal evidence that is a such or my cousin sister had a baby in her first baby arrived, uh, late the second and the third did not, or whatever it can be, what is a good no hypothesis? Well, the distribution for into groups are the same, so it's neutral
+[]			 It's the one that we could say, uh works well in this case
+[]			 What is a good test statistic? In this case, it could be the difference in mean pregnancy left between two groups wanted into groups, first babies and others
+[]			 Right
+[]			 How do you test the hypothesis? In this case, a typical method is by permutation
+[2:14:02.9]  You think all there rose for first babies? All Guero's
+[2:14:06.4]  For others, you shuffle, you make a cut
+[]			 And you, your computer statistics off the shuffled population
+[]			 If they reflect, uh, nothing specific O r
+[]			 If they reflect the same behavior that you see in the two separate groups, then you would say there's nothing related to how those groups were separated
+[2:14:44.5]  If, however, you cannot see the same effect, then there's nothing to be said about the hypothesis you're trying to prove, or the no hypothesis you're trying to contradict here
+[2:14:48.4]  So in the text book and I will pull them the notebook for Chapter nine
+[2:15:01.6]  Here you will see that this is one off such cases in which the cold is conveniently compact
+[]			 There are those classes for making models, running models, testing statistics and so forth
+[]			 So when you look at the computation off P value are the permutation
+[2:15:34.3]  Even it comes down to very few lines off cold to produce something such as the P value for this shuffled versus original distribution scenarios for the pregnancy length off the first babies
+[2:15:39.8]  So you see that in my slight I put 0
+[]			17 If you run this, you get very such as 0
+[]			18 point 13
+[2:15:52.8] 156 a penny on, uh, how many times you run in which random permutations were made
+[]			 So I did P value
+[2:15:59.3]  Being 0
+[2:16:04.7] 17 means that we expect to see a difference as big as the observed effect about 17% of the time
+[]			 So the effect clearly greater than 10% is not statistically significant
+[2:16:14.7]  Simple like that
+[2:16:32.7]  If you want to look at it from a graphical point of view, we can plug this CDF off the versus the difference in means and look at where the compliment off the P value would be, which is 0
+[]			83 in this case
+[2:16:52.3]  So the hypothesis that we had was first babies are there is a difference in Ming pregnancy land between the two groups, not specifying it
+[2:16:57.0]  First, babies come early or late that is often referred to as a two sided test
+[2:17:14.7]  The one we used, which is the difference in me if we change the hard part is a little bit to say that first babies come late, then we're interested in one side off that, which means we may have to change the test statistic accordingly, in this case, from the mean difference to the rock difference
+[]			 In other words, from a two sided toe, a one sided test
+[2:17:30.5]  If you look at the code for doing this on, Miranda called just to see if you get number similar to the ones in this light or in the book, you get something between 0
+[]			7 something in 0
+[]			98 so below 10% and roughly half off the P value that you've got from doing the two sided test
+[]			 And then again, don't get caught up on the P value
+[2:17:55.7]  It's an interesting math medical career curiosity, if you will, that be very off
+[]			 The one sided test is half the be very off
+[2:18:11.1]  The two sided similar hypothesis is different, of course, but the question, of course, remains
+[]			 Is it statistically significant? Based on the threshold that book author suggests? it's borderline or not statistically significant if we don't a similar analysis for birth weight will see that the computer P value is zero, and you can do that for, say, 1000 attempts
+[2:18:43.3]  And the simulation will never yield on effect that is comparable to the actual standard deviation off 0
+[2:19:02.2] 12 And the reason And if that's the case, so you run for 1000 attempts and you get P of zero love you put in your paper, you will report peel as them one divided by the number off attempts because that's what you can guarantee
+[]			 There's no guarantee that if you ran it for 10,000 times, there wouldn't be an instance in which there simulation will lead to an effect that is as big as the difference that you observed in the data
+[]			 So the differences in weight, which we have seen before, do indeed exist
+[]			 In fact, we try to model earlier today with a normal distribution, and he saw that the heaviest babies will be heavier than the model and the like
+[2:19:43.7]  This baby's will be lighter than the model
+[]			 Still, the the difference is not significant between firstborns and second or third babies
+[2:20:05.0]  Okay, so there examples that you see in this chapter are trying to guide you through different test functions
+[]			 Okay, are different tests statistics
+[2:20:14.6]  So we started by difference in Ming's, which was appropriate for in mean pregnancy length for pregnancy length
+[2:20:21.6]  We switched to the rod difference between the arrival of first babies and others because we're interested only in first babies coming late
+[]			 Of course, the other difference would give us only the interest in first babies coming earlier
+[]			 And now we're going to use standard deviation has a test statistic
+[]			 So we did some analysis earlier in this course showing that the first babies are more likely to be early
+[]			 They're also more likely to be late and less likely to be on time
+[2:21:01.7]  So we want to hypothesized that the standard deviation is higher than for other babies
+[2:21:12.8]  And if we run the code for that will see that we've got a prevailing off 0
+[2:21:14.6] 9 which, according to the book, is not statistics
+[2:21:23.2]  Okay, what about testing correlations between two attributes? This is an interesting point here because we have seen correlation before we have be introduced to at least two different ways of computing correlation, which you have computed for assignment number three, Pearson and Spearmon
+[]			 And here we are trying to test the statistical significance off hypothesis related to correlation between two attributes or variables or features in this case, the correlation between birth weight and the mother's age
+[]			 We computed that before and found it to be point all seven, which, from the point of view of Pearson's correlation, means no correlation, right so or a tiny positive correlation in favor of older mothers having have your babies
+[]			 Is this something that has statistical significance or not? So how would you go about, uh, modeling that? The hypothesis that we are trying to a test is whether older mothers have have your babies? The test statistic could be the Pearsons correlation
+[]			 And then no hypothesis is, as usual, the neutral equivalent
+[2:22:46.5]  There's no correlation between mothers Asian birthday
+[]			 We do the usual shuffling in permutation, and you get a P value off zero or after 1000 iterations
+[2:23:02.2]  The largest simulator correlation we got in 1000 alterations
+[]			 This point so far four, which is roughly half off the actual correlation
+[2:23:16.9]  So what we conclude from pee less than 0
+[]			1 which is what he would report in the paper, that the observed correlation even though it's small, it's still statistically significant
+[]			 Does that make sense? So this example is important because we're dealing with two numbers that are in the 0
+[2:23:38.9] 0 something, arranging it multiples of 10 to native to range
+[]			 And yet they mean completely different things
+[2:23:58.0]  One is the actual correlation from the data itself, which suggests modest, minimal light, part of correlation between two things and the other one's DP value, which would be 0
+[]			1 And that basically confirms that the correlation, as small as it is, is statistically significant that if we try to shuffle the population and run a number of iterations, the largest simulator correlation we would get would be 0
+[]			4 and the P value
+[]			 Once you compute the formula for people, you would be zero
+[]			 This is a good reminder that these are two different things
+[2:24:39.5]  Is statistically significant, does not mean that, in effect, is important or significant In practice, it only means is unlikely to have a good virgins
+[2:24:41.9]  This was a closed book test
+[2:24:45.7]  This would be another thing hotel you memorized, make a poster or screen saver out of it because it's extremely important
+[2:24:55.5]  Okay, so do you really understand what is highlighted there? So basically, the correlation between your mother's age and the babies weight at birth is minimal is modest
+[2:25:14.8]  And yet what is the physical significance desk did was assured that even though we obtained those numbers from huh population off a certain size, these are statistically significant results they should hold for the population at large
+[]			 All right, things got a little bit more interesting here
+[2:25:44.8]  Someone computes the roll off a die for 60 times and get this distribution off frequency off ones, twos, threes, etcetera, which is different than what you would expect, which should be
+[]			 10 10 10 10 10 10
+[]			 So the question is, is the guy croaked? And the context in which the book tells the story
+[2:25:56.1]  Of course it's a casino
+[2:25:58.2]  You suspect someone is taking advantage by using a crook to die
+[]			 And the hypothesis is that you have in your mind is it's a crook
+[2:26:06.8]  Die off course, um, statisticians or data scientists
+[2:26:14.1]  Look at the data and see if again, uh, charge
+[]			 The person is suspect or something like that
+[]			 So how do we go about testing this? This is no longer something that you can deal with using means or standard deviations or absolute differences or means of differences
+[2:26:35.3]  It's basically a situation where you have unexpected frequency
+[2:26:41.5]  10 10 10 10 10 The rial actual numbers 89 19 et cetera
+[2:26:49.6]  So one way to model the test statistics year would be to look at the deviations from the norm
+[]			 So this is to below one below nine above and so on
+[]			 These numbers here add up the absolute values off those numbers and come up with the measure off total absolute difference
+[2:27:06.5]  So the total absolute differences 20
+[]			 Could that happen by chance or didn't happen because they die is indeed croaked
+[]			 So they know
+[2:27:19.1]  Hypothesis, ofcourse, is the dice fear
+[2:27:26.4]  And if you run the code that comes in, you know the associate with the book, you see that P value is 0
+[2:27:34.3] 13 which means that if the guy's fair way, expect to see this total deviation about 13% of the time
+[]			 In other words, the apparent effect is not statistically significant
+[2:27:50.6]  Remember, we are testing proportion frequency of occurrence and we're using a test that is, they called some off the absolute differences
+[2:28:04.3]  But then some smart Alec comes and raise their hand and says, Wait a second for things such as proportions, you know, use the key square test and I see Okay, so here's the key squared
+[]			 It's there
+[]			 Do difference between observed frequencies and expected frequencies
+[2:28:25.6]  The square of the difference off the to divide but expected frequencies and up over the entire number off slots in this case, six
+[]			 And if you run the code for the key squared test for this suspicious die, you will get a P value off 0
+[2:28:45.6] 4 which in the world we live in is strategically slightly below the classical threshold off 0
+[]			5 So what should you conclude from it? If you didn't know about key squared, you would be happy with your some of absolute differences
+[2:29:01.6]  Be value off 0
+[]			13 You would say there's nothing wrong
+[]			 These things happen 13% of the time, so that guy go
+[]			 But if you run the key square test, you are strategically right below the 0
+[]			5 threshold
+[2:29:29.9]  What can you conclude about it so this was off course, carefully crafted by the book author are
+[2:29:40.2]  So I presume to make this point clear that the P value depends on the choice off, no hypothesis and no surprise, but also on the choice off test statistic
+[2:29:45.7]  So, by changing from one test statistic to another total deviation toe key square, we went from 10
+[]			13 not statistically significant to point your four wait a second
+[]			 So if we take the 5% threshold, the second value off P is strategically significant
+[]			 But if we think the to test together, we can think it's borderline
+[2:30:17.9]  Which brings to the question Would you convict the accused cheater? That's where he could turned this into a daytime show or something like that
+[]			 But we will not do that
+[]			 All right, so not more serious
+[2:30:28.8]  Note
+[2:30:40.7]  What is this? Telling us that, um, you saw the last few seconds off the video talking about all these, um, headline grabbing news that come out every now and then
+[2:30:53.7]  A boat, either bugs and statistical software that was used to compute statistical significance of experiments or, uh, reproduce ability issues
+[2:30:59.5]  We'll talk more about that in the future, Elektra, But in this case, revealing with something even simpler than no hypothesis kind of obviously dye sphere
+[]			 But by choosing to different test statistics, we come up with a dramatically different results
+[]			 And let's keep it for the sake of argument
+[2:31:14.2]  No strong reason to prefer one statistic over the other
+[2:31:23.7]  Then what is one to do? It gives credibility
+[2:31:26.2]  Tow the bad reputation that statistics typically has right to the classical lies, them lies and statistics, or whatever other expression along those lines
+[2:31:42.0]  But it also puts a word of caution in terms off documenting what you do, explaining what you have found and deciding in this particular case
+[2:31:50.0]  Interestingly enough, we can go back to the videos notion
+[]			 Off default action
+[2:32:09.2]  What is the default action here to get the person whom we suspect to have Dr Door done something to? Did I go free? Because there's not compelling reasons to act otherwise, right? So is it one case this suspicious like a visit? One such example
+[]			 If we have learned nothing, maybe I would say it
+[]			 ISS not convinced of the 0
+[]			0 for myself, I would say we have learned nothing
+[]			 In other words, no evidence that the die is not fair
+[]			 That person go
+[2:32:41.8]  One last example is the key square tests applied to pregnancy test pregnancy length
+[2:32:51.8]  I bring back one off there plots from chapter three in the book in which we kind of zoomed in this interesting phenomenon off
+[2:33:04.5]  If you have 40 weeks as the regular pregnancy land, the deviations being both in both directions, right and the focus on 35 to 43 weeks and question being are these phenomenon shown by the sample data statistically significant or not? If we run the numbers with the shuffling and everything will see that for the N S F G data, the total key square statistic is one or two
+[]			 And that's a nice thing, which doesn't mean much by itself
+[]			 It's a number
+[2:33:38.2]  But if we simulate with suffering 1000 iterations, the largest we get is 32
+[]			 So apparently the effect is statistically significant sees in 1000 iterations
+[]			 I wouldn't even get to 1/3 off the number that I get from the sample
+[2:34:03.0]  Um, this is an example chosen by the book author to show a limitation off key square tests
+[]			 When they tell you yes, there is a difference, but they don't explain her anything specific about what it is
+[2:34:18.4]  So from the companion code, I got this quote that I absolutely love
+[2:34:22.8]  And I think it kind of wraps up the topic quite nicely if we specifically test the deviations are first babies and others from expected number of words in each week of pregnancy
+[]			 The results are statistically significant, with a very small P value
+[]			 But at this point we have run so many tests we should not be surprised to find at least one that seems significant
+[2:34:45.7]  So you should twist and turn and weak and trying this and try that you may end up finally approved the opposite point off something that you have proven before and to wrap up a short note here that they follow up video by Cassie Kostikov on the whole issue off inference, hypothesis, testing
+[]			 And so it's a short one, and we looked at the no button as our default
+[2:35:10.4]  What if we had picked the yes button Instant
+[]			 What would our no hypothesis be in that situation? There is alien life on the planet
+[]			 We're asking if we knew everything about the planet
+[2:35:22.1]  What would make the choice of, Yes, a happy tress
+[]			 And so the game would change to us
+[2:35:26.8]  Evidence from our three hour walk would make the statement
+[]			 There is alien life on the planet
+[]			 Look ridiculous
+[2:35:33.3]  Now let's examine that
+[]			 Imagine that we walked for three hours and we see an alien
+[]			 Is that statement ridiculous? No
+[2:35:41.8]  Imagine we work for three hours and we see no Indians
+[]			 Is that statement ridiculous? Still, no
+[2:35:47.0]  If you're struggling with this should really go high caste
+[2:35:51.2]  It's possible to walk for three hours and hours and hours out in the woods
+[]			 See no other humans
+[2:35:55.1]  And that does not make the statement that there are humans on planet Earth Look ridiculous
+[]			 So either way, we are answering no to this question
+[2:36:01.4]  We're down the no brunch
+[]			 We are going to take the default action and press the yes, But no matter what the evidence does, either way, it's Yes
+[2:36:10.9]  Now, this is a marvelous realization because this means that if the politics of your space exploration company make it so that the right thing to do in the absence of data is depressed
+[]			 Yes
+[]			 Then you could do space
+[2:36:20.0]  Exploration is work from home
+[2:36:23.4]  You just sit in your pajamas pressing
+[]			 Yes, Yes, yes, yes, yes, yes
+[2:36:35]  And if you don't like that, the only thing that you can really do given that framing is to ask for enough budget to scour an entire planet and get certainty if you don't have that kind of budget, don't even bother going to the planet
+[2:36:42.8]  Don't be like, Well, I want to calculate something, and I want to do something fancy with, like, math and stuff
+[2:36:47.6]  So I'm gonna fly there and collect evidence and, you know, end up the same conclusion I was gonna end up anyway
+[2:36:50.1]  That's just wasting Resource is please don't do that
+[2:37:01.0]  So the correct analysis follows from the correct decision framing Once you have that framing and once you know what your default action is that is going to determine the whole analysis, appeased or try to start somewhere else
+[]			 Don't try to start from the hypothesis and back out your default action
+[]			 That doesn't make any sense
+[]			 If you have no prefer default action, just go with your best guess
+[2:37:12.4]  It's so much faster than any of us
+[2:37:21.3]  I think that sets a nice, uh, reminder that in spite of all the rigors mathematical ways by which one can do these things
+[2:37:45.3]  If you fail to see the default action ISS, the starting point from which even the no hypothesis should emerge, you may turn things, ah, direction that is not ideal and that he's not even in the interest of science or in the interest of having cost effective solutions for civil construction or population health or whatever it is
+[2:37:53.0]  So I think the example of the affair die brings This topic drives this topic home because by started with, you know, high passes the dice fear we basically started before that from the default action off
+[2:38:07.9]  Everybody is innocent until proven guilty
+[]			 Therefore, if nothing else happens, we'll let this suspicious or suspect go
+[]			 I think that's it for today
+[2:38:23.1]  There will be an assignment five focusing on hypothesis testing and the assignments for in five will be out in a short because they are focused just to make sure that you do some fight on practice to help drive these points home
+[]			 Thank you
+[2:38:45.0]  Gives same
+[2:38:51.4]  Okay, remind me about you and I will
+[]			 I think I know what's right
+[2:39:20.7]  Why so Anjelica, we need to follow up on a number of things from the remote access to the lights for other things
+[2:39:41.1]  Yes, it is so short a trip that I may not get to see anything other than conference room, but we'll see about that
+[2:39:55.2]  So I think for the remote logging, anything issue have access to information
+[2:40:02.9]  The idea would be to try to use that piece of software

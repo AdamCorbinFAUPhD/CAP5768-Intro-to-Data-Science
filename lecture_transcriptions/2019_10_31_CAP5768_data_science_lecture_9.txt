@@ -1,0 +1,1253 @@
+[]			I like that
+[0:01:08.4]  So there are people who are coming to class to get some brownie points for being here instead of hollowing, huh? Okay
+[0:01:19.0]  Um Oh, my goodness
+[]			 That's that
+[]			 Thank you
+[]			 I just This works
+[]			 Yes, I came
+[]			 All right
+[0:02:40.8]  Good afternoon
+[0:02:41.2]  Everyone and happy
+[0:02:42.7]  Have a wing
+[]			 I bet for those of you who are here, you're either taking your school seriously, which is great, or you don't care about Halloween, Which is okay or both
+[]			 Or neither
+[]			 Who knows? Right
+[0:02:58.3]  In a data science course, I shouldn't be making assumption about any of these things, but I wanted to see how many of you were paying attention
+[]			 So Halloween or not, it's good to see you again
+[]			 And we have basically three things today that are of different size and length and complexity
+[]			 One will be to go over the upcoming so called exam test quiz
+[]			 Call it what you want
+[]			 It's basically a long line test with multiple choice and true and false questions
+[]			 But I had published is on campus earlier today, but I think I did not
+[]			 Not yet, but I will
+[]			 Okay
+[]			 It's one of those things
+[0:03:38.1]  My workflow got interrupted
+[0:03:44.6]  I had the Create War document saved the PdF upload to canvass post announcement
+[0:03:49.1]  Something happened between saving the PdF and applauding to canvas, and I completely got derailed
+[]			 But I'll do that
+[0:04:00.9]  So for those of you who are here and people who took classes with me before, I typically put this hot or not document out, so you can quickly see what you should take a look at or have available in
+[]			 In the case of the exam, it's as you know, it's on a line on canvas
+[]			 Open book, open everything test
+[0:04:21.7]  The only thing I have to do is to create some mechanism to avoid any possibility off undo collaboration, and that puts a dent on the way exam is structured, so there will be a canvas announcement to that effect
+[]			 But you can expect something like this
+[0:04:33.4]  It will be a window of opportunity starting this coming Tuesday to take the test something between five and seven days
+[0:04:40.4]  I will include at least the following weekend, because I know some people prefer to do these things over the weekend, so most likely to be from Tuesday evening to the following Monday evening
+[0:04:50.9]  But within the generous window
+[0:04:58]  You have to find a one hour's lot, sit in front of the computer, take the test because one of the mechanisms I have to impose this
+[0:05:02.8]  Once you start, you have to finish in one sitting
+[0:05:05.7]  The other mechanism is unfortunate, I think, but I have to do it
+[0:05:09.1]  Just because of auditing and stuff is to only allow you to see one question at a time
+[0:05:14.6]  And no backtracking, which throws away one of the most common test taking strategies that I see in books and that I have used myself as a student, which is to look through the entire exam, see which questions are easier
+[0:05:28.5]  Which one's air fresher in your mind, or which ones they're worth more points
+[]			 They care of those first
+[0:05:33.1]  Unfortunately, we cannot do that in this format
+[0:05:36.9]  But there's nothingto worry because the questions will be very straightforward
+[]			 By looking at the hot or not, you will know exactly what I'm looking at here
+[0:05:55.6]  Basically, I am looking at using this test to make sure that you got the conceptual part of the course, right? So will there be any questions about python or program? You're numb pie or psych it learn
+[]			 Or pandas? No
+[0:06:00.5]  Definitely not
+[0:06:02.3]  Well, there'll be questions about concepts
+[]			 Yes
+[]			 How many questions? Typically 25 questions
+[]			 One hour, I think
+[]			 Yes
+[]			 So it's roughly two minutes per question
+[0:06:17.7]  Plus a few minutes to accommodate did uncertainties
+[0:06:24.4]  Okay, so the explicit indication off dates and Roseau appear on canvas
+[0:06:29.9]  This document that you see on the screen now that will be on campus very soon should be there already is the heart or not
+[]			 So you can only take it once
+[]			 Yes
+[]			 Okay
+[]			 You have to take it all at once
+[]			 In one hour
+[0:06:44.0]  You cannot look ahead or go back
+[]			 And that's basically it
+[]			 Okay
+[0:06:54.1]  And the types of questions are multiple choice or through in force because they get grated instantly
+[0:06:57.5]  You get to see your great right away, but not rich questions
+[0:07:00.5]  You've got right or wrong also for these accountability issues
+[0:07:01.6]  Eventually I make that available in a king
+[0:07:03.2]  Go back and see these things you got
+[0:07:10.1]  Writer started with good news for book won the excellent book by funder
+[]			 Plus, I am telling you that only the Chapter five machine learning up to and including future engineering will be in the test
+[]			 This is today's topic, by the way
+[0:07:29.6]  So by the end of today's lecture, everything that could possibly be the test will have been covered in lecture format will be available in recordings
+[0:07:32.1]  Should you ever want to revisit them? Good deal
+[0:07:35.6]  Book to thinks that's yes
+[]			 No
+[]			 If you go to not, it's even explicit chapters one through five is out, and Chapter five beyond the end of that section is also now It's okay
+[]			 You didn't see it
+[]			 You don't have to
+[]			 I guess
+[]			 Anything
+[]			 Here
+[]			 Okay
+[]			 All right
+[]			 So for book one, Chapter five is in, up to and including future engineering
+[]			 Everything else is out
+[]			 Good
+[0:08:06.9]  Yo, because it is a lengthy book
+[0:08:10.0]  But most of it is, you know, is guiding you to use the scientific stack numb by ET cetera
+[]			 And that's something that you have covered
+[]			 Or I have tested your understanding through the assignments for book two
+[]			 It's a different story
+[]			 It looks like a lot, but pay attention to the details
+[0:08:27.5]  First of all, emphasis on concepts and terminology
+[0:08:30.3]  I know this sounds repetitive when you see this for all chapters, but what can I say? Copy and paste is easy
+[0:08:38.3]  Secondly, for most of these chapters, they're ours
+[0:08:38.5]  Lights, right? So if you say Oh, he was lazy, he said
+[]			 Especially concepts and terminology
+[0:08:45.3]  See glossary
+[0:08:51.6]  But he also said, particularly Or I said, plus, but I should have said, particularly items marked as hot and slides for lecture blood, which basically takes you to business here and you'll see for those light decks that have been made available in canvas sums, lights are more important than others and if you go to any of them
+[0:09:08.1]  But if you see them, you will probably smile because it's kind of obvious
+[]			 I told you
+[]			 In close, those things are important
+[]			 Even if you were in charge of creating the test yourselves, you would say, OK, this is important
+[]			 This one is not so
+[0:09:21.0]  And to make it explicit his lights for lecturers one into one, his tools in general
+[]			 The other one is a length year explanation of numb pie
+[0:09:28.4]  Pandas met bluntly
+[0:09:36.7]  Those things are not test materials, okay, And Aeneas lights that are not explicitly including the hot list automatically are not hot
+[0:09:42.3]  Okay, so they exclusion principle applies here
+[0:09:48.8]  Finally, just for the sake of completely anything else that I may have posted on canvas papers, e books, videos, suggestions to go and do things data, camp materials, whatever is not part off the test
+[]			 Okay, so you kind of get a feel for what we are looking at here
+[]			 It will be mostly conceptual and off course, because this is a open book
+[]			 Open everything test
+[]			 I'll try to be a little bit creative when it comes to asking you questions about those concepts or terminology
+[0:10:49.1]  So if I have a figure coming from another source other than the book itself talks about the concept of states que nous rather than being ultra lazy and getting a photo from the book, an example from the book, I can get an example from someplace else and say OK, what can you say about this distribution in terms of SK Eunice or something along those lights that make sense? As much as I can say, don't worry excessively about preparing for the test
+[0:10:52.2]  I should also say, Don't be complacent
+[0:10:55.0]  Don't get to the point where you press the button, start the clock's ticking and then you go, Okay
+[]			 Ah, So now where was my book and then the clock's ticking
+[]			 So where did I put my answers to assignment? One
+[]			 Don't do that
+[]			 Get everything ready, but it's time you say time to start
+[0:11:14.5]  You have yours like Dex
+[0:11:18.7]  Maybe you even have highlight the door extracted slides on Lee or you like toe print and highlight things on paper
+[]			 Do whatever works to do well in the test
+[0:11:32.4]  I expect the test average to be very positive and very good
+[0:11:35.5]  Be pleasure
+[0:11:36.1]  Better for most, if not all of the class
+[0:11:39.3]  That's what I'm shooting for
+[0:11:41.4]  But you have to do your fair share
+[0:11:46.0]  All right, Any questions about this scope? Oh, very important
+[0:11:48.1]  I forgot to mention in book to not only the last five chapters are out, but anything that is specific to the Python package within the chapters that are in you should ignore will not ever ask questions about specific claws or object or function that the author created
+[]			 All right, Okay, good
+[]			 So to see if you're in the spirit of the test, let's crowdsource five possible questions for the test
+[0:12:23.9]  If you were, we're running out of ideas and I called you in the middle of the night, and I asked you, Can you give me one question? And I called five of you
+[]			 Which questions would you suggest? What, What conceptual things You think some someone you don't need to give me the entire question
+[0:12:37.5]  You can give me the school, dear
+[0:12:38.6]  Overall fuel for the question
+[]			 How do you think someone at this point in the course should know? Can I start with you? No
+[]			 Okay
+[0:12:50.2]  It's a free country
+[0:12:52.7]  So because, you know, can I serve? You sure? Yes
+[]			 There
+[]			 Okay
+[0:13:12.1]  Comparing
+[0:13:14.6]  Say, the empirical distribution versus a model that you think fit the data and asking a question that would fit the tour Falls model
+[0:13:31.0]  Or maybe which of these three models? Best models of data, ABC or neither
+[]			 Or something like that
+[]			 Yeah
+[]			 Okay
+[]			 I like that
+[]			 Okay
+[]			 Good idea
+[]			 Keep them coming for more
+[]			 Okay
+[]			 Just okay
+[0:13:53.9]  Refresh my memory
+[0:13:56.1]  Looking for evidence that that with, like, looking at right
+[]			 Okay
+[]			 Okay
+[]			 That's subtle, but important
+[]			 Okay
+[0:14:07.9]  Evidence that leads to action
+[]			 In other words, we spoke about the default action, right when we look at the videos and all that, and okay, I'll keep that in mind
+[]			 Good suggestions
+[]			 Okay
+[]			 Keep them coming
+[]			 you haven't
+[]			 They are
+[0:14:43.3]  When you use okay B p, F, C D efs where they are, when to use them and what they tell you, right? I like it and you can even go back to the expending a little bit on that
+[0:14:48.9]  You can go to that so called distribution framework as the is the only cause it
+[0:14:52.6]  How do you go from a Pdf to, uh, see the F or something like that? Good, good stuff
+[0:14:59.1]  1/4 different voice
+[0:14:59.6]  Perhaps there's there's difference between Pearson in Spirit
+[0:15:06.3]  Correlation
+[]			 Yeah, it's It's it's It's part of the hot stuff
+[]			 Yeah, all right
+[0:15:16.2]  Good one is more suitable for distributions that looked like the normal
+[0:15:20.7]  The other one doesn't take that much into account because considers rank
+[]			 It's got enough
+[0:15:30.7]  Okay, what else? Something about moments What, specifically, perhaps anything
+[0:15:46.1]  My special that comes to your mind divorcee as I don't want you to compute moments on a calculator or something, this type of test? That's not the idea
+[]			 I could ask conceptual questions about moments
+[]			 They cannot be too obvious, like the second moment is also the name given to, or something like that because it's two basic
+[]			 Maybe a little bit better than that
+[0:16:02.3]  You have a suggestion that okay, that's fine
+[0:16:06.7]  Obvious is good
+[]			 Okay, So let me tell you a dirty little secret
+[0:16:15.2]  I sometimes get tired, and I am principal very lazy
+[0:16:31.0]  So with those two things combined and combined with the fact that I have to create a pool off questions that is larger than the size of the test because I need to create a degree of randomness for each test to be different to some extent
+[]			 So if the test is 25 questions, they typically great 100 questions in my pool
+[0:16:41.6]  So there's a chance that about the 80 or 90% Markoff creating those questions, I started getting really tired, and I sneak in some more obvious ones
+[]			 Another dirty little secret
+[0:16:53.2]  I don't play tricks with the Kama placements or something like that, or or ambiguous by design statement
+[0:17:00.2]  So if you look at threesome, especially for true or false questions, if you look at the statement, it seems true, especially on the first read
+[0:17:08.8]  Don't change our answer to false And as you're absolutely sure that you overlooked something when you first read it, don't start reading too much into it
+[0:17:17.7]  Oh, maybe he used this Tries off words here to mean something hidden and mysterious
+[]			 Now, I don't do hidden and mysterious, especially not in a test
+[]			 All right
+[]			 It should be fine
+[0:17:27.9]  Experience shows that this component off similar courses
+[0:17:32.4]  This is my first time tasting
+[0:17:36.0]  This one is, you know, But typically, this is a good way for most grades overall
+[]			 Also great wise
+[0:17:44.5]  I think most of you are safe because so far we have greats from assignments and everybody seems to doing between very well
+[]			 Okay, so that waas one off three things we're going to take care of today
+[0:17:54.4]  Uh, well, could be fourth opinion how you come
+[]			 So let me call the next one, uh, second topic for today
+[0:18:00.5]  Ah, Final project
+[0:18:02.9]  I'm putting the final touches on the guidelines for the final project
+[0:18:11.5]  The few of the few things that you need to know are basically this number one as you already igneous a group project, which means you can choose to work in groups up to three people
+[]			 Don't ask me, Can we make a group of four? Because the answer will be No
+[0:18:22.6]  Don't even waste your time
+[]			 Don't ask me
+[0:18:25.3]  Can I work solo? Because the answer is yes
+[0:18:27.1]  Up to three means 12 or three
+[]			 No problem
+[0:18:32.8]  Um, the fundamental thing that is taking me a little bit longer to polish in the final project guidelines is I have bean inspired by folks who take their science courses and create projects or solutions
+[0:18:48.3]  The project that turned out to be being caused almost a portfolio off their work off their knowledge
+[0:19:00.1]  So I wanted to turn project to look a little bit like that that you could do enough export
+[0:19:00.5]  Our data analysis is maybe a little bit off hypothesis testing not so much because we had specific assignments
+[]			 But you could learn a little bit off data wrangling, visualization and then get to the machine learning part, which is the main part
+[0:19:16]  And when you look at your entire Joker notebook or something, you could say, Well, this looks pretty decent
+[]			 This can
+[0:19:28.7]  I could use this to showcase to someone that if they give me a data set and something to investigate or predict or quantify in some way, I can do that
+[]			 And here's an example of how I would go about doing that
+[0:19:45.4]  Let me lend you a job by the same philosophy that I used portfolios in my interest Internet computing costs that some of you here may have taken the idea of being You went up with something that is live online in the case of the other class that he can show any potential employer on their mobile phone or tablet because most projects are mobile ready
+[0:20:05.9]  And I have story after story of students getting internships or jobs primarily for showing their portfolio and demonstrating right then and there that they know the Internet programming stuff
+[0:20:15.9]  Feast
+[0:20:16.3]  Your mail job is great
+[0:20:17.1]  Php What have you here? I want to try to do something similar
+[0:20:24.9]  Okay, so I'll see how I can finalized
+[0:20:28.1]  The guy lives in a way that captures that component as well
+[]			 If we had a smaller group and if the course didn't have the distance learning component, I could be even more creative
+[0:20:47.1]  I found some great resource is online, where it can simulate the relationship between the stakeholders, people who are really interested in the results derived from the data science based study of their data
+[0:21:06.0]  The business managers in the company in charge of producing such study and the technical team, of which you would be part and how you can go simulating meetings and what matter send you the link? Because it's fun stuff
+[0:21:19.8]  But there's no way to to integrate all of this here all the way to the communicate part, where you have to produce meaningful reports to the to the constituencies or, in this case, potential of your customer, your client
+[0:21:25.0]  So I'm tryingto massage and tweak things a little bit to make sure that this spirit of the term project is not lost in the way that I craft its guidelines
+[]			 Very important folks
+[0:21:40.1]  I am aware that this master starting to approach it's and I'm about it, who have, however, many weeks to finish everything we need to finish
+[0:21:47.6]  I have already displaced the deadline for assignment six by request, but because we have so many things coming up between now and final exam week, there will be some overlaps between things being available on canvas and being duped, and I will work with you to avoid any craziness
+[]			 I don't expect anything being assigned today and do in five days or something like that
+[]			 I tried very much not to do anything like that
+[]			 Keep in mind
+[0:22:17.7]  Also, for planning purposes, that lowest grade of the assignments will be dropped
+[]			 Okay
+[]			 So you can perhaps even choose to drop one assignment
+[]			 If it comes to that at the end of the semester
+[]			 Keep in mind that our course doesn't have a final exam
+[0:22:32.8]  There's this exams, last test that will happen next week and that we don't need to use the final exam week for anything
+[0:22:41.5]  Everything will be due before that
+[0:22:48.4]  So that maybe work out nicely with other courses when those other courses get to crunch time
+[]			 All right, so the third also announcement like topic is assignment number five
+[]			 I want to see if you have any questions
+[0:23:02.9]  If the screen cast that I posed, it was useful
+[]			 In fact, I want to see a show of hands
+[]			 How many of you have started it already? Yeah
+[]			 You made an attempt
+[]			 Okay, fair enough
+[0:23:13.5]  How many of you have washed the screen test subset? Okay
+[]			 How many of you have found the screen cast helpful? No
+[0:23:20.4]  Hands over
+[0:23:21.0]  A couple
+[]			 Yeah, the last one
+[]			 Okay
+[0:23:31.1]  Anything I should go over just to make sure that you understand what is being asked, or I claimed that this assignment is relatively short
+[]			 But as you know, my estimate of these things is not always perfect
+[0:23:40.9]  It's just like the professor sense of humor
+[0:23:42.9]  Right? Professors tend to tell jokes that they find Hill areas and didn't see what's wrong with this person
+[]			 So by the same token, I am calling this a short assignment, but I and I hope it is
+[]			 But it may turn out to be differently
+[0:24:05.4]  So questions specific questions, perhaps, has anyone's stumbled upon something that made it impossible to go forward? Apparently not
+[0:24:16.7]  And having heard no questions, it's doing whatever day it's do
+[]			 Yeah, I push the deadline
+[]			 I don't remember from what to what
+[0:24:22.1]  I think it's on the 11th to give you basically the entire window of the test to be independent of this
+[0:24:31.2]  Be mindful, though, and I did that to accommodate different learning styles, travel schedule and all that
+[0:24:34.6]  There's a distinct possibility that Assignment number six will be out between now and Thursday, which means before the quiz test exam is officially over, which means at some point you have three things floating there
+[]			 And maybe who knows, the final project guidelines will be there to nothing to panic about
+[0:24:52.2]  You are either experienced senior undergrad students or graduate students
+[0:24:58.0]  You should know how to handle these things without running into panic mode
+[]			 Good
+[0:25:08.8]  You all right? So if no questions about the same in number five at this point who bracket them and maybe there will be some next week and we'll talk about the main topic for today, which is machine learning
+[0:25:23.5]  So I don't care much about whether we have already officially started National are in last week or not
+[]			 It doesn't really matter
+[0:25:27.5]  It's pretty much an arbitrary division
+[]			 But I think it's important to make sure that you understand that from this point to the end of the course will do primarily machine learning type off stuff
+[0:25:42.6]  Which basically means one could say we are transitioning from learning how to explore data in a number of ways, from informal data wrangling, slicing, dicing, plotting, visualizing two more formal statistical analysis now to a point where we want to build, train and evaluate machine learning models
+[]			 In other words, we can think of machine learning as a means off building models off data, as Jake Funder plans would put in the beginning of Chapter five
+[0:26:21.6]  So for those of you who are arriving now, this is the beginning of Chapter five in Jake Funder Plus book
+[0:26:32.5]  It is exam material, okay, and therefore, because it has so many concepts embedded in it, it's better that we give it the attention it needs So quick
+[0:26:38.5]  Show of hands
+[0:26:44.4]  How many of you have taken machine learning related courses before coming to the scores or are currently taking any? Don't be shy
+[0:26:48.0]  I will not make your life harder than I usually do
+[]			 Okay, good
+[]			 So there's a distinct possibility that those who took machine learning courses before we'll find this to be more of a review
+[]			 And that's fine
+[0:27:00.9]  By the same token, I am approaching this material without trying to steal the thunder off other professors or their courses, including my own, and trying not to go into things that belong more nicely in some other courses, including courses that I teach, for instance, as tempting and stepped ID as I am to give you some image Computervision related task, I will refrain from doing So, with one exception, we may do something using the digit Hendrik and digit set
+[0:27:29.8]  Either they want from Chapter five in the book or the traditional Am n'est because even though it is image classifications, it uses the rock pixel data
+[]			 It says more enough, uh, space
+[]			 So it makes for a nice they said It's a candidate data set for the upcoming assignments
+[]			 I'm making a final decision about that so you can define machine learning in a number of different ways
+[]			 One definition were one explanation
+[0:28:05.2]  More than a definition here is that it involves building mathematical models to help understand the data and that learning the learning component actually enters into the picture
+[0:28:33.9]  When we tuned, those models adjust their parameters so that doing face that we call the training phase, they can be improved or fine tuned so that they generalize, too, demonstrate comparable behavior if they see data that they never saw in the training stage
+[0:28:44.9]  Um, I, interestingly enough, I have got zillions light Dex about machine learning and related topics, and for some very obscure reason, I did not prepare one for today, but I will use a fuse lights
+[]			 Uh, okay, That's not it
+[]			 Um, that may be helpful here
+[0:29:06.7]  Just bear with me for a second
+[0:30:01.4]  So one thing I'll get some slights from a talk I gave it to us
+[0:30:09.4]  You heard earlier this week that may even inspire some interesting discussions
+[0:30:16.9]  One thing that funder plus talks about that, um he claims, is commonly said about machine learning
+[]			 But it's not always very helpful is that it's a subset of the eye
+[0:30:22.4]  This'll not only I course this is almost instead of going from a Iittle machine learning, we're going from data science to A I
+[0:30:30.6]  It's almost a movement in the opposite direction
+[]			 But this particular diagram here, which you find in from special, is deep learning with python book and in a few other places is something that I want to make sure that you understand
+[0:30:46.9]  Um, Machine Learning introduces a new programming paradigm in which, instead off writing a set of rules that once they take input, data produce answers, we do pretty much the opposite
+[]			 We give a significant amount of data to an algorithm
+[]			 We provide the answers and we have the algorithm in for the rules
+[]			 This is not quite obvious to many people, technical or not
+[0:31:24.7]  And in fact, when you say classical programming here, we're not even saying yet in the spirit of non eh, I even classic away
+[0:31:26.7]  I follows this paradigm here in the good old days
+[]			 Off expert systems in the 19 eighties on a I system would follow this paradigm
+[0:31:38.6]  The rules will be rules encoded by human beings after consulting with experts
+[0:31:46.5]  There would be mostly long cascades off if lcf lcf statement so that the penny on which observations are featured values you had on a given data
+[0:32:03.3]  You would say the tumor is benign or malignant, or the ah person who's applying for a loan is credit worthy or not, you machine learning in great part because of the availability of data for training such models, we can provide a vast amount of data to a model when the data comes with the answers associated with that, we have a flavor of machine learning known as supervised learning basically pairs off data samples and labels, or what here being called answers, and you try to figure out the rules by which say two things can be classified, benign or malignant tumors or dogs versus cats or spam versus not spend for email or more complex cases off multi class classification, multi class, multi label or regression problems and so on
+[]			 So the quality of the model depends on a number of things
+[0:32:57.4]  And, um, we'll go over some of those dependencies as we speak
+[0:33:09.5]  The study of machine learning typically goes through an explanation of what are the most common types of learning, and the most common types are listed in this slight and supervised supervised
+[0:33:20.1]  In fact, one could put 1/3 category between secondly, third here, which is semi supervised and finally reinforcement learning in the case off our course
+[0:33:39.6]  Interestingly enough, we are once again evolving from the data science approach to data to the machine learning, um, building and testing, invalidating off models
+[0:33:48.7]  When I say evolving, I basically mean that we go from the part where we can make statements about something that is already in the data
+[0:33:56.6]  We're just making those hypothesis amenable to test, or we're making those quantitative, say summary statistics visible to whoever needs them
+[]			 But the information was there all the time to being able to predict something by looking at data that we never saw before
+[0:34:23.5]  So and we are doing it first by exploring date and they're building models as opposed to coming from the eye world, where we think we're gonna create something revolutionary
+[0:34:35.9]  And we settle for machine learning as a viable way off doing some types off a I when there's enough data to allow some of these paradigms to be tested
+[]			 Okay, back to thunder
+[]			 Plus, So we saw the categories off machine learning, which I also had in his light
+[]			 It's important that you understand what these terms are, and if you look at it from their classes book, there's something that he does that some of you will like and some of you will not let me go to the actual book here thing
+[0:35:20.8]  This thing that he does that you may or may not enjoy has to do with presenting a number off algorithms to you, which will happen in a minute, or even names such as clustering or dimensionality reduction without stopping everything to define that mathematically and so on
+[0:35:22.3]  Making a lot of forward references to there's a section coming up that says in depth, linear regression in depth
+[]			 The principle components analysis or something like that
+[0:35:39.2]  So if you are not the big fan off forward references, you may get upset or you may fall the reference and then come back
+[0:35:45.3]  If you can live with that, then you can follow the book as its intended without too much back and forth
+[0:35:49.9]  So look at what he chooses to do
+[0:35:54.1]  For instance, in order to understand what is quantification, what is regression? What is clustering? What is their nationality reduction? He provides a number off what he calls qualitative examples basically plots just to show you what is the main go behind each of those crosses off algorithms without telling you the math behind the scenes
+[]			 And, as I said earlier, making forward references
+[]			 So this is an example off to cost classifier based on data in a two dimensional space
+[0:36:30.9]  So the data input data is completely characterized by features, one into which don't even have names because this is as generic as it gets
+[0:36:45.4]  And if I ask you what is the goal off a classifier? In a case like this, what is this model that we build golf across? The fighter in this case is to build a model that basically that's what to this plot, It most likely creates a linear boundary between it
+[0:37:05.9]  True groups off data, which have been color coded as belonging to two different categories
+[0:37:14.8]  So it's possible that if we attempt to build something like this and pretend it's a straight line for the sake of argument, we will be happy with the result
+[]			 Well, say Okay, yeah, this looks like it does the job
+[0:37:28.1]  If we build another, I see fire that turns out to have a boundary like that who say it's not as good because we can see that even the training data it starts to miss
+[0:37:35.2]  Classify certain points
+[]			 And conversely, if we do that, we know it's a bad classifier
+[0:37:43.8]  Even the train date it's already bound to miss classify Ah, whole bunch of things
+[0:37:53.1]  Granted, we could also create a classifier that looks more or less like there's a CE faras its boundary
+[0:38:08.6]  And those of you who have been paying attention to what I have said early in the semester would call it good or bad band because it may be pronto over fitting
+[]			 Okay, good, good job
+[0:38:14.5]  That's a classical mantra
+[]			 Okay, it seems too complex for its own needs
+[0:38:21.3]  It looks like in the presence off additional test data say test data here that should belong to the brown category or a test data here that should belong to the light blue category intro unnecessarily misclassified these things
+[]			 Okay, good job
+[]			 All right
+[0:38:50.0]  So then he introduces a new example off a classifier that seems to do the job In other words, draws a straight line into the or a plane in three D or hyper plane in motor dimensional space between the two classes
+[0:39:03.2]  In the process off providing this visual representation off the model with a straight line that separates the classes
+[0:39:23.3]  Um, 100 class ends up doing a few more things, and I think he does it on purpose because it's unnecessary to do so at this point
+[0:39:29.2]  If you look at the line that divides the two classes here, that actually three lines, one solid and two dashed
+[]			 If you know about machine learning algorithms, you can almost guess which algorithm his demonstrating here anyone
+[]			 But let's go
+[0:39:52.9]  Bye bye parts
+[]			 What is the name given by the distance between the solid line and those dashed lines here? This is typically called the margin off the classifier
+[0:40:12.1]  Sometimes it's defined as the distance between the two, uh, dash lines
+[]			 Right
+[0:40:21.7]  So it's basically showing that the algorithm that produced these lines, which presumably is just not an artist rendition off some lines that work waas mindful off such things and try to maximize the margin in the literature
+[0:40:32]  The motion was with him that does
+[]			 This is there
+[]			 Ha! Nice try
+[]			 It's a support vector machine s V m okay
+[]			 S V m is most likely the algorithm behind the scenes here
+[]			 Okay
+[0:40:54]  And if you want to know more about S V m, interestingly enough, it will be here under colonel density estimation
+[]			 I mean, just removed them
+[0:41:03.8]  Oh, not in current density estimation
+[]			 I bet it is not explicitly
+[0:41:10.6]  Oh, here is it will be here under supported after machines
+[]			 Okay
+[0:41:19.2]  And then when you look at support vector machines, you will see the discussion going about multiple classy fires that could be equally good in principle because they get the job done and how the go off support vector machines is to maximize the margin
+[0:41:36.4]  And after running the algorithm, you get the discriminating surface
+[0:41:41.1]  You get the visual indication of the Martins and those circles around
+[0:41:49.9]  Points show the so called support vectors that give the technique its name
+[0:41:52.5]  But I will not dwell on that much more now
+[]			 We'll get back to that later
+[]			 I told you that some of you may be upset with forward references from the offer, and I'm adding my own now
+[0:42:05.3]  So for those in the audience, you'll be extra upset because even when the author doesn't say they could look at support vector machines, I do okay
+[]			 He will say that later in this section, By the way
+[]			 Okay, So the idea of having such a model is that once it's built in this case, the model is the equation off a straight line, so you need only two parameters to specify it, slope and intercept
+[0:42:36.2]  You can take new data in Look how these new data is visualized as not having any callers because you don't know to which categories they belong
+[0:42:40.7]  Applied that model
+[0:42:50.8]  And based on that model, call these guys read this guy's blue or whatever exact color you may see in those tiny dots
+[]			 Okay, so to classify is basically to take new data and that you don't have the labels and apply the model and in this case, simple enough
+[0:43:05.1]  Depending on which side of this hyper plane or playing or straight line they fall, they will be labeled or classified accordingly
+[0:43:20.1]  We noticed that feature one feature to WAAS, or however many features
+[]			 They were generic by design
+[0:43:27.1]  Now the author goes one step, Fortune says
+[]			 By the way, if this was spend detection, these could be features
+[]			 It could be the normalized counts off important words or phrases that appear in spam email
+[]			 And the labels could have meaning instead of red and blue
+[]			 Could be spam or not spam
+[]			 I think that's simple enough
+[]			 The regression explanation is a little bit tricky, because the idea is, we predict a really value a number
+[]			 In other words, we don't have tour and categories
+[]			 We have a real number
+[0:44:07.3]  Therefore, it's something that varies continuously in whatever range we may consider
+[]			 And the way funder plus does
+[0:44:18.8]  That is by showing another set off points into deeds, color coded in some way, and the color coding here basically means the value off those points
+[0:44:34.1]  In other words, this is basically the Z access in this three d plot
+[0:44:48.6]  So predicting a label in this case is not exactly spam or not Spam dog or cat? It's actually predicting a quantity and a number, and the visualization here is they hired this number
+[0:45:00.8]  The higher this value of the dollar, these, uh, vertical portions off the plot will be
+[]			 I think it's okay
+[]			 In other words, if you can visualize this color map as being the three d equivalent off a classical regression model, you should be fine
+[]			 If you cannot don't feel bad about it
+[]			 We can
+[]			 We can do something about it when we, uh, look at the regression again in more detail
+[]			 The next example, now in the unsupervised learning category, is clustering, and the example here is again two dimensional two features
+[]			 But the difference, of course, is there are no labels
+[0:46:01.9]  So the typical classic definition off task in terms of clustering years, can you find patterns in this data? And if I ask you, can you find parents in this data, you may say, Yes
+[]			 I can find three clusters
+[]			 One, two, three
+[]			 Some of you may object and say, I think there are four clusters this should be too
+[]			 So many think there's 1/5 1 made up of this individual alone and you could go on and on about that
+[0:46:23.2]  Truth of the matter is, if you input the data and a value off Kay, we're case number of clusters toe clustering algorithm
+[0:46:32.9]  Such a scheming is clustering the most popular among them
+[0:46:39.3]  You will get each data assigned to a cluster
+[0:46:44.5]  We'll see how these algorithms work next week and dip quality off the clustering structure will depend on your choice of K
+[0:46:50.9]  After all, you're responsible for telling how many clusters you believe there are and a few other specific aspects of each with them, including the way by which they seed the put the candidates in points in the future space before they started building clusters around them
+[]			 But that's a simple algorithm to understand the next one in the unsupervised category is dimensionality reduction, which is not s simple to understand
+[]			 But I think, uh, from there, plus does a good job on the visualization side here
+[0:47:30.0]  Think about this distribution of data
+[]			 It's also to the It's also something that doesn't come with any label
+[]			 If you try to apply K means clustering to this algorithm
+[0:47:44.4]  The result will be potentially something that is not quite what you think
+[]			 I believe what you think
+[0:48:01.4]  What this humanly natural to think is that there is some sort of spiral like pattern here, in other words, that the nature of the data is represented in this spiral like manner
+[]			 So if you apply an algorithm, it's called ice a map
+[]			 But it could be called anything because the explanation is not here yet
+[0:48:16.2]  If your plan algorithms such a Zeiss a map, which is a special type of many food learning algorithm again names that may not make any sense to you
+[0:48:23.0]  Yet that's the the spirit off the explanation
+[]			 Here you will see that, indeed, there will be the always think you have the ability to figure out that there is some late and variable
+[0:48:37.2]  It's not the value of featuring one or two, but there's a latent variable that explains this spiral like behavior
+[0:48:45.8]  In other words, if you traverse the data points following the spiral like drawing, you will see that the value of these latent variable will go from very low, too, very high
+[]			 In other words, there is the ability to figure out what ISS in the data that explains this type off behavior
+[]			 And of course, if this is a regression problem, you could build a model based on this late and variable
+[0:49:24.0]  And when you put a new point in the space, it will estimate based on that, If this were a classification problem, you could break this into however many blocks or classes and call it the classifier
+[0:49:33.8]  So since this is exam material, never underestimate the power off glossaries and things like that
+[0:49:56.2]  Okay, so this type of stuff at the end of the first section is important because it's, um, typical in knowledge, off late concepts and technology I didn't next part in this chapter is a quick introduction to psych it learn
+[0:50:11.0]  So in case you haven't noticed, even though I used a little bit of psychic learning linear regression examples last week, we are officially adding the cherry on top of the cake for our scientific python stack
+[]			 And that is psych it learn
+[0:50:28.2]  In other words, just as you may have spent some time in the past going to the num pie or pandas official website, you will find yourself going to the psych it learn official website
+[0:50:38.9]  Ah, number of times From this point on in the class, psychic learn is fully compatible and built upon Mumbai Sipe I met blood lib
+[0:50:46.4]  It is meant to leverage organ knowledge that you already got with those other packages
+[0:50:53.6]  So the learning curve should be very smooth and straightforward
+[0:51:07.7]  In fact, for those of you who like to try every single example in the book and the doctor notebooks, you'll notice that some of them are outdated because psych, it learn, has become a little bit more a slim, more straightforward
+[]			 Then it waas when the book was first, uh, published
+[0:51:25.2]  So let's take a look at what is this second section in the chapter in a morning trip in the more interactive way using the notebook
+[0:51:40.3]  So the first thing that will come up in this brief explanation of psychic learn is that you can create Day Bos or to the national grid's of data as your basic um, daily structure so we can start with data frames, as we did using pandas, and we can break down the columns that have features into a so called future Matrix and the column in this case that has the label the answers, the name of the species as a target array
+[0:52:10.2]  By convention, the future's matrix is typically called uppercase X and attractive
+[0:52:15.3]  Therese, typically called lower case Why this is a review in a sense, in the beginning, because you are familiar with the arias data set, you have used it in one of your assignments, and you may or may not have seen it all
+[0:52:29.2]  Remember, if I kept this in the assignment or not this type of plots, I believe I did, right
+[]			 I did
+[0:52:56.3]  So it's Ah, um, airport, as it's called in Seaborn, which basically shows the history graham off the three the distribution of the three species, according on the distribution of the four features, according to the labels and the correlations among the futures
+[0:53:07.7]  So last time we looked into this, we were not interested in machine learning tasks such as classifications in this case, how to take this four features and build a three class classifier that can tell based on those four features
+[0:53:22.6]  If a species is off class, Sentosa versus Color or Virgin Icka, we want to do that now, so let's see how to go about doing that
+[]			 First
+[]			 There's cold, too
+[0:53:37.9]  Create the X and why terrible's that we can use later an explanation off what they are in practice
+[0:53:48.2]  We're basically stripping the labels from the rest in more complex data sets
+[]			 You have to spend more time in this step for a number of reasons
+[0:54:08.6]  So number one there may be more than one column that could be the goal off a predictive model
+[0:54:28.1]  Okay, you could use, um, the fact that saying the features are health related and their columns about whether a person is a smoker or not, whether a person has developed diabetes or not the penny on your task
+[]			 Those things, our futures depend on your task
+[]			 Those things are labels
+[0:54:37.7]  They may have to be treated accordingly
+[0:54:48.4]  You may want to see if everything else predicts the likelihood of someone being a smoker or, conversely, if everything else predicts the likelihood of someone developing diabetes, Another complexity that you're being spared from here is well, there are many things
+[0:55:08.8]  Let's crowdsource this part, which things are particularly nice in the Irish data set that are not necessarily so in larger more realistic data sets laundry list of problems that typically may happen after you split X from
+[]			 Why, let's assume you did that
+[]			 You know what your why is what you want to predict
+[]			 You know where everything else is, but you still haven't got X
+[]			 Nice, clean X
+[0:55:32.4]  Why? Because chances are you have things such as duplications could be
+[]			 You may have height in inches and height in centimeters
+[0:55:46.9]  You don't want to build a model that says offer someone times height in centimeters, plus office of two times heighten inches
+[]			 It seems silly you will probably remove one of the two, so it may have redundant columns
+[]			 What else may you have? You may have Keep going features that you're not interested in, that you may know, either because you have expert knowledge or common sense knowledge
+[0:56:16.1]  If it's something more everyday life that you're dealing with, which also means columns that you're gonna drop, they're not redundant per se, but they may be uninformative or useless
+[]			 What else can you have? You may have no numerical features
+[]			 You may have categorical features
+[0:56:25.3]  You may have Bullen features
+[0:56:29.1]  You may have audio clips you may have unstructured text
+[]			 You may have images
+[]			 You may have video
+[0:56:39.2]  You may have much more than this course can touch upon where we focus primarily on numerical data and occasionally categorical
+[]			 Very good
+[0:56:45.1]  What else? You may have man's
+[0:56:46.3]  You may have not A numbering may have missing data
+[0:56:53.4]  All right, what else? You may have duplicate Rose
+[]			 It's possible
+[0:56:55.8]  Could be clerical error
+[]			 Could be other things
+[0:57:00.8]  Could be that the data hasn't been cleaned up properly
+[0:57:05.6]  What else? As a result of cargo errors, of course, hold bets are off
+[0:57:09.2]  You could have mistyped, um, values
+[0:57:18.1]  You could have, um, other types off missing or otherwise incorrect information you worked about
+[]			 C
+[]			 Well, we're gonna get to that
+[]			 So one thing that we're gonna talk about, even today's feature engineering
+[]			 But the one thing that I'm talking about here that may lead to feature engineering down the road is how to clean up this thing that even if X has more columns that you think you may need, at least everything looks nice and neat
+[0:57:48.0]  You have all the vendors for all columns and rows
+[0:57:51.3]  You perform some exploratory the fanaticism, fire detection or something to remove something that is presumably, uh, incorrect or unlikely to help, But you're one step short of doing it more systematically, which will do when you get to feature engineering
+[]			 Very good
+[]			 So we spoke about this last time this I could learn a p I and its philosophy
+[0:58:14.2]  So save you from having to listen to those words again
+[]			 And here's an example of simple linear regression which we saw before, if not this exact example, at least something to that effect
+[0:58:24.5]  And this isn't an example that is meant to remind you off
+[]			 What you will typically do you choose a class off model that typically goes in python like this from S K
+[0:58:35.5]  Learned
+[0:58:37.2]  Got something, Import something
+[0:58:50.3]  Okay, Uh, the latest version off psych it learn uses, um, s K learned that model underscores selection caught quite extensively
+[0:58:56.8]  So if you run the Jupiter notebooks from funder Plaice book Chapter five and you find some errors, chances are the fix is to use model underscore selection rather than whatever it is that he's using
+[]			 I'll show you an example coming up some
+[]			 So once you have important during her regression model, you can one in one line off cold create a model off type
+[]			 In other words
+[]			 Instead, she ate the linear regression class
+[0:59:32.1]  And then once you have your X and Y properly, um, stored in meaningful variables, you can simply call the fit method to fit a model X, our future model to the date of passing X and y es parameters
+[]			 And then you can ask, which model do you come up with? Which in this case is basically asking, what is the coefficient and intercept for this linear model or this straight line straightforward
+[]			 And if you look at what it got, it got basically, uh, slope off to an intercept off
+[]			 Negative one
+[1:00:07.8]  If you look at how the data was artificially generated, look at that cold two X minus one plus some random number
+[1:00:24.2]  So the model seems pretty decent because since the randomness made some points, go to either side off the two x minus one straight line predicting a slope off to an intercept off
+[]			 Negative one is pretty good
+[]			 All right
+[1:00:37.6]  The equation that we used to generate the data is this
+[1:00:47.2]  And to make it interesting, of course, we use a random number, a type of noise to it All right
+[]			 So there's a way to see that this model is consistent with the data
+[]			 All right, So once we have that, we can apply to new data
+[]			 In other words, you can create, um, a new set off values and see how well the model fits
+[]			 Uh, the new set of the And of course we could compute things such as there means square error or other measures off how it fits
+[]			 Okay
+[1:01:31.9]  At this point, based on what you know about the regression, what could you do? Different? Oh, are putting it differently? Would anyone here claim that Ah, higher degree polynomial would be best then a polynomial degree one? I hope not
+[]			 Okay
+[1:01:45.1]  Although you could come up with a foreign army that would have fit or hit more points in the training set, it would probably not behave so well when it's being validated
+[1:01:56.9]  Are tested
+[]			 Now, back to classifications
+[1:02:00.7]  Now we want to learn howto build a classifier for the IRS example
+[]			 This is a good point
+[1:02:14.3]  Two be special attention because this recipe here works for a wide variety of machine learning algorithms
+[]			 So look at what we're doing here
+[]			 First thing we are important
+[1:02:32.8]  Train underscore test underscore Split To be able to call this psychic learn function that basically takes your X and Y and spits splits them into training and testing
+[1:02:45.3]  All right, so next we are following this four steps sequence where we select a machine learning classifier, in this case, the naive based classifier, which for now is just a name for most of you
+[1:03:03.5]  We Instead, she ate the model we call Fit and we call predict
+[1:03:15.8]  And as a result of these, we basically fit the model to the training data and we make new predictions on the gas data
+[1:03:27]  This is pretty standard now, and for those of you who took more advanced classes such as deep learning, you will see that most deep learning frameworks have adopted the fit and predict names for the functions that do that off course
+[1:03:34.3]  Fitting typically means training a neural network for a fairly long amount of time
+[1:03:45.5]  And finally, you can say, How well did I do by comparing your test labels with the labels predicted by the Model and Computing and accuracy score? And that's also just a library function call which in this case tells you that the classifier performed pretty well with 95
+[]			 I'm sorry, 97
+[]			3% accuracy
+[]			 So what is great and not so great about this example? What is great about this example is Number one
+[]			 It's 10 lines of python or so
+[1:04:34.0]  Even if we go from the beginning toe from loading data set until computing the accuracy, it's 10 lines off cold, right? What? What is also great is that it is kind of universal
+[1:04:41.8]  You always have to the debt have to load your data set break down the X and the Why break into training and testing, Choosing a model fitting to the data, predicting a new data computing the accuracy
+[]			 It's a classical pipeline
+[1:05:02.0]  What else is great about it? You can do that for multiple models in the psych it learned library without knowing the details off what lies underneath a naive based classifier or decision tree or a support vector machine
+[1:05:19.4]  And what is not so great is one thing that I just said You can use those models as ready to use modules that black boxes, if you will, that you input data in fit the parameters to the data make predictions on, and yet you know nothing about how they work
+[1:05:37.1]  If you were to explain which model your chosen way, that's why all those forward references in the book, all those moments when which they, the author says, see in that this in depth that are meant to be taken seriously because we want to go one step beyond simply using these
+[1:06:07.1]  In fact, there's nothing horribly wrong about using models in the library without knowing quite what they do
+[1:06:17.7]  You may think of it as a triage, early selection type of state
+[]			 You have number of models who choose from
+[1:06:29.8]  They're all equally easy to access and use things for the way the libraries are built these days
+[]			 So you can do that
+[1:06:48.0]  And, uh, once you have a few for which models are more likely to be a good fit to your data, you can then select a subset of them and either tweak their parameters or studied their behavior in more detail
+[]			 And so on
+[1:07:03.1]  No further plans will use the IRS data set to show something else, which is unsupervised learning first in this period off dimensionality reduction
+[]			 Let's be careful here to not confuse you
+[1:07:22.2]  In many data science machine learning problems, there is a possibility that the future space the space in which the problem is originally defined, maybe unnecessarily, too large
+[]			 The iris problem is the finding four dimensional space
+[1:07:42.0]  There's a possibility that if you force a reduction to, ah, lower dimensionality, you have obtained more informative features that still capture the essence off the data
+[]			 The most popular, the dimensionality reduction function is called PC a principle components analysis
+[1:08:15.6]  And what will do here in this example is to instance, she ate the P C, a object passing the number of components as to basically this very small snippet
+[1:08:30.9]  What it does is it asks to fit a PC, a model to the iris data set, in other words, to find the two most significant they mentions that would represent most off the variance off the data
+[1:08:37.9]  And if you look at it from a graphical standpoint, this is what PC
+[1:08:40.1]  Thus it creates
+[1:08:44.8]  Or in this case, it shows in two dimensions
+[1:08:45.4]  Pc a one PC to how the data can be separated fairly well
+[1:09:00.2]  In other words, it gives you hope that if used PC a one NPC ai to us
+[]			 Let's call these transformed features as opposed to the original features
+[1:09:14.7]  You can still build a classifier somewhat easily by maybe drawing a line here another line somewhere here and having pretty decent results
+[1:09:21.6]  The augur example here is clustering, and once again, the author will talk about terms that you have no idea what they mean
+[1:09:31.3]  For instance, cows and mixture models will talk about that next week or the week after that were basically using, uh, clustering algorithm passing the number of components to it
+[1:09:54.9]  That would be equivalent to passing Kay, if this was a king means example and we are asking to fit that type of model to the data and displaying what is the result
+[]			 And look at what happened when you try to group the data into three clusters
+[1:10:10.0]  You got, however, many points in clusters 01 and two
+[1:10:22.6]  And if you cheat and look at their actual labels, you will see that all the Tosa samples were clustered together without any mistake
+[1:10:25.0]  Not surprisingly, because they were always easier to separate and that the closing algorithm did a good job separating the orange versus caller from the green Virgin Icka with just a few errors, which, let's be honest, any algorithm would make because of the way today is distributed
+[1:11:01.9]  Right? So here, the cost a ring, huh? Algorithm was capable of splitting the data into three clusters without knowing there labels and we for the sake of visualization and verification
+[1:11:04.3]  If you will added the ground truth, the label names after the fact so he can see how it did
+[]			 By the way, this is just for explanation purposes in most cases, off using clustering
+[]			 There are no not necessarily labels to be assigned to the clusters
+[1:11:27.6]  One classical example is customer segmentation, right
+[1:11:35.1]  You have the shopping patterns off your clients, your customers, and you apply clustering type of techniques to see if they fall in their categories
+[1:11:43.3]  If we find a group and if the group doesn't have an obvious name, it's the group off younger than 30 who spends an average blind like this, and often by the Israeli By that, you don't need to call this Saito's Aversa color or Mamma Mia
+[1:12:03.3]  You just call them the group off customers who do who usually do these things and your target, whatever it is it to target at them advertisements or whatnot
+[1:12:11.4]  The next example in this section talks about handwritten digits and, in other words, the problem off optical character recognition
+[1:12:28.1]  How to take very wrote very low resolution images such as these and building a classifier that can tell if a kn image contains 012 etcetera
+[1:12:35.1]  You, If you haven't ever taken a class in this topic, you will be positively surprised at how easy it is to do this in psych it learn
+[1:12:39.3]  Look, a tte
+[]			 Basically, we are using, um, very few lines of code
+[]			 Let's do it one step at a time
+[]			 So the 1st 1 is too important
+[1:12:51.9]  Load the data set in this case by calling shape
+[1:13:06.6]  We are told that we have 1797 samples, each of which consisting off eight by eight picks
+[]			 So talk about low resolution
+[1:13:13.1]  Nothing is being said about the actual distribution
+[]			 We could do that
+[1:13:21.0]  Of course, we could ask for, uh, a breakdown off this digits variable and see how many examples of each class are there
+[]			 In fact, you may want to the debt yourselves
+[1:13:54.3]  Okay, Now, the next bit of quote is a very clever way to display the digits and to put in green next to them on the lower left corner
+[1:13:56.0]  The dig, um, label the ground truth
+[]			 The target, as it's called in the digits
+[1:14:06.0]  Variable
+[]			 Okay, so maybe I should do this
+[]			 Let me
+[1:14:22.2]  I mentioned you could do that, but why not do it together? You would probably not be very happy about bringing this variable digits in
+[]			 Oh, maybe I have to do this
+[]			 Oh
+[]			 Oh, Okay, that's two
+[]			 Uh oh
+[1:14:41.2]  Cannot be sliced
+[]			 Okay, let's start with digits and then see what you can think
+[]			 So because it has a bunch of things in it, of course
+[]			 So here's what is in digits
+[1:15:06.4]  It has this empire, um, preamble here, and it's structured as a as a dictionary
+[]			 So you need to know the names such as data or images or target or target names in order to use it properly
+[1:15:27.0]  So, in case you wonder, how did the author of the book come up with things such as digits that images that shape or digits that target on brackets? I is because, of course, at some point he picked into the into the data
+[1:15:40.8]  Okay, and there's a The formatting is a little bit confusing here, but if you Google low digits under the sea born website or psychic learned, rather you will see a better documentation
+[1:16:11.5]  A Claudia linked to click here to learn more about it, which takes you to the classical University of California, Irvine, machine learning repositories where many classical of data sets come from
+[]			 Okay, so back to the example here
+[1:16:36.7]  So now we know that images is indeed a collection of those arrays off size eight by eight and target and a target names
+[]			 In this case, um, the target names are basically the names of the classes
+[]			 What are the meaningful names you can give to the categories in this classifications task? And they are the names off the digits themselves and the array target is the ground truth for each, um, image in this data set
+[]			 So what the author of the book did was to create this very clever way to display the digits with the ground truth
+[]			 So especially for non obvious ones such as this nine, for instance, Or maybe this four or this eight, at least you know what is the ground truth? there for something such as this five or zero or one you wouldn't need that you can see off course, that's a one or a zero
+[1:17:41.0]  But for this four or this seven or this three, you may welcome the help
+[1:17:43.9]  All right, Just a visualization trick
+[1:17:47.1]  Then you build your ex and wife once again, you need to know where to go to find this thing
+[]			 So the data portion and the target portion take a portion and target a portion
+[1:18:14.7]  And in this case, to show you how the nationality reduction could be used to have an intuition off which classes are more difficult to classify against others, this is the result off running the ice
+[1:18:21.6]  A map hungry them
+[1:18:22.4]  Still only a name at this point for us, which basically produces a to D plot that shows the 10 classes color coded in this to the space normalized to the space
+[]			 So what can you learn from looking at a plot like this once again? Thank you
+[1:18:44.1]  Were here's intuition
+[1:18:50.2]  Okay, So the plot gives us good intuition into how well various numbers are separated
+[1:19:04.2]  And since in this case, we're talking about something that doesn't require expert knowledge if I tell you that zero The dark gray is far from the bluish twos or threes, or better yet, far from the purple One, he would say, make sense to confuse a zero with the 11 has to draw very narrow zero
+[1:19:18.9]  If you look at the overlap between, say, the Grey and the red area, it's already more significant or even worse, the gray and the light blue area, which means confusions between nine and three
+[]			 You say, Of course, I can see why nine and three can be confused
+[1:19:43.7]  You can even go back here and see these two examples here, none of which are canonical examples of threes or nines and likely to be confused
+[1:19:52.6]  Plus the fire right, you may say, OK, yang
+[1:19:53.9]  This is boring because I know how ones or twos or threes look like, but the example is valid
+[]			 Exactly
+[1:20:22.4]  For that reason, imagine if this was a fairly complex case off breast mammograms in four categories off, um, um, properties that you can density aspects off breast mammograms, mostly fat or extremely dance or heterogeneous lee dance or whatever names they may have in in the literature
+[]			 Those names are more likely foreign to you as well as they are to me
+[]			 But if you have a plot like this, you can say Okay
+[1:20:45.7]  Category one is more likely confused with Category two, not likely to be confused with Category three at all, and therefore you can't expect the pain points for your classifier before you even pick a model
+[1:20:54.9]  Train it fine, tune it and so on
+[1:21:06.6]  All right, so it's basically an early understanding of the problem and which, uh, confusions are more likely to arise
+[]			 And then you you create the classifier
+[]			 Here we go
+[]			 It's a naive based classifier
+[1:21:20.9]  Same we used before for the iris classification Galson and be as a naive based classifier again
+[]			 Just a name at this point, just a label
+[1:21:31.3]  And there Secrets Off Steps is exactly the same
+[]			 Split into training and testing fit the model
+[]			 Make predictions on the test
+[1:21:40.9]  Part of the data compared the predictions to the labels and see however you did
+[]			 And the result here's 0
+[1:21:49.2] 83% or 23 or 83%
+[1:22:05.1]  Is that good? Well, depends on who you ask when you ask about accuracy of classy fire What is the first number that should come to mind to test against what would happen if I flipped a coin or in this case, a 10 sided die
+[1:22:11.3]  Okay, what is the baseline for guessing in this case, it is 10% in the case off Iris was 33
+[1:22:21.5]  Right, So this is significantly better than guessing
+[]			 Who? Who now what else can this number by itself tell me? Not a whole lot
+[]			 It basically tells me it makes mistakes
+[]			666% of the time
+[1:22:41.6]  If you go one step further and plot something called a confusion matrix, you get more insight into where it makes those mistakes
+[1:22:51.5]  So confusion matrix, which in psych it learn is just one line of code plus the seaborn code to actually plotted The contents are being met
+[1:22:56.2]  In this case, Matt is such a small variable that you could even plot its contents on the on the, um notebook without having something too horrible as a result
+[]			 But this is elegant plot
+[1:23:18.2]  What is it telling you? The ideal confusion matrix is one in which these numbers are rated a zero and everything around them is zero meaning true
+[1:23:28.1]  Zero was predicted as a zero
+[1:23:32.4]  Every time and the fact for zero, we have something good
+[1:23:38.3]  All true zeros have Bean predicted as zeros and nothing else was predicted is a zero
+[]			 So no false positives, no false negatives
+[]			 For once, the story is different
+[1:23:55.8]  39 ones were correctly predicted as once, but four occurrences of the number one were incorrectly predicted as eight
+[1:23:59.2]  Surprisingly enough, Okay, who are 40 to 15 instances off? Two were predicted as eight instead, for number
+[]			 What else? Number nine
+[1:24:14.8]  Seven instances were predicted as eight and so on
+[1:24:20.6]  Clearly, the confusion matrix does not need to be symmetric, and that's what makes false positives and false negatives occur at a different rate
+[1:24:33.8]  And that's one more reason why accuracy can be tricky because it puts everything into the same basket
+[1:24:42.8]  It's very convenient to have one number, but it doesn't tell you the difference is between false positives and false negatives or how much they contributed to the accuracy
+[]			 And neither does it tell you which cases are more likely to be confused
+[]			 So what is one to do upon looking at this confusion matrix
+[1:24:59.6]  The most problematic cases are confusions between two and eight
+[]			 Two in one, nine and eight and a few others
+[]			 Right, But by far to an eight
+[]			 Can you do something about it again? Take them out
+[]			 From where? From the training
+[1:25:30.6]  He says er from the desk set on Dhe from the graph in there
+[]			 Oh, no, no, that would not be a good idea
+[1:25:33.9]  Photoshopped, the confusion matrix is not an option
+[1:25:37.2]  Yeah, Professor, I can take the zero here and No, no, no, no
+[1:25:53.1]  Okay, So what can you do? First of all, is it reasonable to have confusions between twos and AIDS? And under this early sample here gave us there are some horrible weights off their look at these two examples here, right? Or even this one here
+[1:26:04.9]  So to think off some of these AIDS as not being eight is something that maybe even humans would do Because of the very poor quality and the low resolution
+[1:26:07.9]  Infect your book
+[1:26:10.6]  Author will show you some examples off correct and incorrect classifications so he can see ones be misclassified
+[]			 This eight or nines be misclassified as eight and so on
+[]			 Okay
+[1:26:37.6]  So you can see some examples in which this confusions take place, and you can perhaps think about refining your model or cleaning up your data or doing something else
+[]			 All right, any suggestions for what would be meaningful to go at this point if your boss came back and said, No, 83% is not reasonable, Just based on accuracy alone, without even looking at the confusion matrix
+[]			 What is the one thing you would try to do? Look at all her Exactly
+[]			 Thank you very much
+[1:27:17.6]  First thing you do is look at other models because you the naive base was picked here and could very well be a logistic regression S v m
+[1:27:22.3]  Or some type of neural network which discourse doesn't cover
+[1:27:31.4]  But it could very well be right so clearly you would try other models so you could have a quick comparison
+[]			 What different models into the exact same data
+[]			 If you got lucky, so to speak
+[1:27:37.8]  Great
+[1:27:40.7]  If you didn't and this was saved, the best off several models you tried, you would try to do what next? More
+[1:27:47.5]  Try to give it some more data
+[1:27:52.9]  That's a very good idea, especially in machine learning in general and in the age off so called big data
+[]			 So you would like to give it more data
+[1:28:00.2]  So if it sees more data, maybe it builds better descriptions off what makes 001 a one
+[]			 And maybe if you perform better test line, what else? So that again, future engineering in this case is tricky in general, it's a good answer
+[1:28:29.9]  In this case, it's tricky because what are we using us features? The actual 64 picks us right, the eight by eight picks of values, so it's not in any way absurd
+[1:28:37.2]  But it's tricky because it, um, we are treating those 64 numbers as if they were simply a vector, not keeping into account the dramatic distribution eight by eight
+[]			 But we could you could presumably say, Well, you know what? The top left picture is not very informative
+[]			 Let's drop it
+[1:29:01.1]  It's bring this down from the 64 space 64 dimensional space with 63 give it a shot
+[]			 You could get lucky, right? But keep going
+[1:29:12.6]  I want to hear
+[1:29:21.7]  Okay, So what makes an eight and eight now, you could get into thinking, as some of you might that maybe using rah pixels is not such a great idea after all
+[1:29:27.5]  Especially the way we're using here, where we even lose the positional information, right? Basically talking about their great level intensity
+[]			 If you look at um at the way the date is organized, let's see where we have it
+[1:29:41.2]  Where's the data that we passed? Look at this
+[1:29:49.3]  What is this shape off X 17 97 Samples Time
+[1:29:54.5]  64 columns In other words, reflect and representations
+[1:29:59.1]  We human still think off long vertical bars being indicative of maybe a one loops
+[1:30:06.2]  Be indicative of maybe a three or an eight or six closed loops being the grave off six or eight or nine
+[]			 But this information is long lost
+[1:30:13.1]  There's no notion of that, right? So let's assume for the sake of argument, just take this discussion on step further that instead of 64 this was a more realistic type of image, not eight by eight
+[]			 But that's assume for the sake of argument 80 by 80
+[1:30:27.8]  So 6400 now, would we be any better? Maybe, Maybe not
+[]			 And don't try toe up
+[1:30:36.5]  Sample these guys because you will lose because the resolution will not be there to make it more meaningful
+[]			 So you don't need to get a different data set to test that hypothesis
+[1:30:52.6]  In fact, you can get the actual AM n'est data set
+[1:31:00.7]  Okay? And this is by far the most things data set for hand written digit recognition
+[1:31:03.7]  You can go to the Anglicans website or a 1,000,000 other places where amnesty is available, including, I presume, psych it, learn
+[1:31:19.3]  So let's see if there is an honest right there in psych it learn which I'm 99% confidence that there is
+[]			 Yeah, There you go
+[]			 So you can changed this example to use amnesty instead and see if, um oh, that No, this is the eight by eight
+[1:31:46.8]  This is not really feminist
+[1:31:52.3]  I think you have to do something else to get m nus toe work on escape urn
+[]			 Yeah, digits, uh, that we're using low digits
+[]			 Is there very low dimensionality one
+[]			 But it's relatively easy to to adjust the code and see if by of course, it will be a different data set technically, But by virtue of having higher resolution, you get a better result
+[1:32:27.2]  But the point I was trying to make earlier is that if you try to think more like a human, what can you do about this thes classifier? Don't know about X and Y coordinates in the sense of images they don't know about loops they don't know about endpoints didn't know about crossings They don't know about holes, as in zero has a whole six asshole Nate has to a one typically has known
+[1:32:57.5]  So by forcing this mental exercise here, I'm basically taking you to the pre deep, learning era, off image processing image analysis, where people would have to come up with features that would in cold the accountant often image better than the rock pics of themselves
+[1:33:07.6]  Okay, so if this was a course in image processing, the 19 eighties, say, or 19 nineties you would probably
+[1:33:13.7]  In this resolution, the image resolution was conducive
+[1:33:20.9]  It would be busy writing code for doing manual feature extraction affecting endpoints edges, finding holes, arcs and so on, and eventually using those things as the input to a traditional classifier
+[1:33:50.6]  Interestingly enough, in the world we live in, this example is more realistic because one model that one could try is a convolution neural network to see if it works better as it thus famously for reminisced and maybe by virtue of replacing the naive based classified with the convolution, your network by itself, your accuracy would jump a number of points
+[1:34:02.5]  Someone said about getting more data
+[]			 That is correct
+[1:34:14.4]  What if there are no more data samples from where this came? Getting more data is always tempting or telling someone go get more data is even better because someone else's job right? But it's always tempting, but in this case, we have to be mindful off a number of things
+[1:34:25.8]  One, if it can be acquired, it all a number of other, more technical things, such as make sure that the distribution of data remains consistent because, after all, if the original sample off the entire population waas good representation of the population, we don't want to distort that to make the classifications part work for us
+[1:34:57.7]  So what do people do these days? Toe? Give a model more data data augmentation is the phrase that I was expecting
+[]			 What is data augmentation? Typically, a collection of tricks, too? Make the model and its training phase typical in your network
+[1:35:08.3]  Seymour date example than it would just by feeding those 1797 examples here
+[1:35:16.4]  What are common data? Augmentation, Tricks
+[1:35:20.6]  Flipping, rotating, displacing
+[]			 Translation
+[1:35:23.5]  Sometimes changing the brightness a little bit
+[]			 Okay
+[]			 Can you use any of those in this problem? Be careful
+[]			 Translation
+[1:35:34.2]  Find can shift by a picks or to give a slightly different examples
+[1:35:35.8]  Chances are you will not destroy almost anything
+[1:35:39.6]  Er, rotation
+[]			 Not a good idea
+[1:35:42.6]  Us upside, though nine in my book becomes a six and vice versa
+[]			 Okay, not a great year
+[1:35:52.9]  All right, um, playing with brightness of rabbit, good rotation by arbitrary
+[1:35:58.4]  Not even multiple, multiple, off 90 degrees
+[]			 Not a good idea either
+[1:36:02.7]  So maybe some shifting some playing with contrast and brightness could lead to additional examples that could presumably help with, um, the accuracy of the classifier
+[]			 The end no one mentioned
+[1:36:21.2]  But we could have bean more picky about training up the data before splitting into training and testing
+[]			 Right
+[]			 We could have ah ah, step here
+[1:36:33.8]  Where with the browser or something
+[1:36:37.6]  17 97 images can be browsed
+[]			 And if to humans look at it and say I have no idea if this is a four or a seven
+[1:36:46.2]  Maybe you could make a judgment call and say Drop it
+[1:36:51.8]  Because if you and I both literal cannot make sense of this, then maybe they're not good examples to begin with, right, But again, it always depends on the context in which the problem is being from placed
+[1:37:08.8]  After all, Once you deploy the system, say, to read zip codes, which is how famously the m n'est uh, data set comes from
+[1:37:19.0]  And the convolution your networks from the from last century was already used in some, uh, postal office, huh? Uh, systems
+[1:37:34.2]  You cannot tell people you have to be neat when it comes to deploying the model
+[1:37:36.4]  You you have to be robust too
+[1:37:53.4]  All sorts of things okay, true or false, Even if you're let's assume we do a simple cold example here, even if your classifier that's awesome
+[1:37:56.3]  Five digit zip code, not the stupid for digit extension that makes it more complicated
+[1:38:02.2]  So even if your classifier is 83% accurate, which is not great two or false in the context off a zip code, you may still make the final overall accuracy for zip code a little bit higher
+[1:38:27.5]  Yes, it is true how your patterns, in other words, not every five digit combination is a valid ZIP code
+[1:38:32.9]  So if you get something such as that's assumed between two most notorious offenders here two and eight, the system seems to be eager to produce AIDS when it's really late, when it's not
+[]			 So let's assume for the sake of argument that 100 to eight is not a valid zip code
+[1:38:52.3]  But 10022 is you can say OK replaced the eight by
+[]			 There it's There's a chance that there was a two that it confused with an eight
+[1:39:05.8]  So if you know the second best result, which it's not guaranteed that this model produces, by the way, you could say, Let's try the second best candidate and give it a shot all right? Or even if you don't even based on the confusion matrix, you could try this second, most likely a correct label for something that was predicted as an eight, the third being a nine, the fourth being three and so on
+[]			 And maybe that would result in a very combination
+[1:39:36.4]  And your apparent secrecy would be higher because you have contextual information that you can use in a post processing type of way
+[1:39:55.4]  All right, So while discussing this, I try to bring about things that happened much before you do the split fit and predict, and much after you do the accuracy calculation and the plotting of the confusion matrix, there's always more to two looking, too
+[]			 All right, this is a good point to take a break
+[1:40:12.9]  This is officially the end off section 52 In the book, we have two more sections to go after the break
+[1:40:14.9]  Hyper parameters and model validation and feature engineering
+[]			 Let's take a break and then go over this
+[1:40:51.1]  They are no, what? Four rest, you know, making okay
+[1:41:22.4]  Oh, right, girl
+[]			 Oh, yeah
+[1:41:37.7]  Really? Yeah
+[]			 Yes
+[]			 Yeah
+[1:42:13.5]  It was, like, great Minus
+[1:43:06.6]  L Yeah, really? Wait and Oh, All right
+[]			 Okay
+[1:45:33.7]  Welcome back
+[]			 Let's talk about hyper parameters and model validation
+[]			 As you may have noticed, multiple times in this course
+[1:45:49.6]  Um, sometimes we have to pay attention to details that we overlook either on purpose or because we think they're not important or because we just gloss over and don't even realize they're there
+[1:46:31.6]  Take a look of this example here we have been discussing how to improve the accuracy on a so called test set without having looked in more detail of how we split the data set into training and test to begin with, Right? So for those of you who don't know the syntax off trained test split by heart, which includes me, it's always a good idea to go to the documentation and see what these things mean
+[1:47:00.7]  So a number of options there, including Random State, which was used, um, and it's an optional parameter and default is non in this case, it was forced to be zero in the same spirit off reproduce ability of results
+[1:47:06.6]  So what could have accounted for a not so great accuracy that you wouldn't be able to tell from the accuracy score alone? But you could blame to the training and testing split
+[1:47:24.2]  By the way, how much off the data set percentage wise was used for training
+[1:47:39.9]  And how much for test? Can you tell it from this line of code here? I don't think you can, probably because they're using the default and you would have to know what the default iss, right? So if it says something along the lines off
+[1:47:49.0]  Well, you can do that using the default O
+[]			 R
+[]			 You can ask for the shape or the size of these
+[1:47:59.4]  Let's insert, sell below right and do a neck strain that shape
+[1:48:03.9]  For instance, 13 47
+[1:48:15.7]  Okay, we can do X test that shape 150
+[]			 So it was roughly 75 25 which, if you go back to the documentation, is indeed D default
+[1:48:37.0]  If the training size, If the test size is not specified, it's the compliment off the train size
+[]			 And if it's ring size is not specified, it will be said 2
+[]			25 okay, or the train sizes 0
+[1:48:48.9] 7 500 their size this point to five
+[1:48:55.4]  So 25% of the original 75% of the original
+[]			 That explains some
+[1:48:59.3]  These proportions could be changed, of course, and you could specify that here and that by itself would lead to different video off Chrissy
+[1:49:22.0]  What else could have happened that has nothing to do with the model or the quality of the digits or how well people right digits? You wouldn't expect that to happen from a library function from something as repeatable a psychic learn
+[1:49:30.4]  But it could have bean that in this 75 25% split, that's assume it's from 0 to 9
+[1:49:31.7]  All eights and nines ended up in a test set because you had them all in order and you you simply made a cut
+[]			 Okay, so doesn't get very good at predicting eight or nine if it doesn't see them during training
+[]			 Well, we know this is not quite true where we think it's not by this simple sample off the target array we saw before
+[]			 We're clearly it's not a bunch of zeros than a bunch of one
+[1:50:01.0]  So even if you don't do an additional shuffling, you are unlikely to cut it in a way that some samples don't ever appear in the training set
+[1:50:13.3]  But we can do better than that, and that's one of the motivations for the model validation in the hyper parameter tuning part off this chapter
+[1:50:35.0]  So we start with the basic recipe, choose a class off model, choose the models hyper parameters fit and predict Okay, the part about choosing model hyper parameters as being under appreciated, uh, so far, and we'll talk more about that in this section
+[1:50:49.3]  So the interesting way by which the author starts is by going back to the Irish data set using a cane nearest neighbors Classifier, which basically asks, looks at the training set and counts how many off the closest neighbors have whatever labels and then choose based on majority and makes predictions
+[1:51:07.4]  And then if you compute a fraction of the correctly label points, you get a perfect score
+[1:51:20.2]  And the question here is, Why is this model validation the wrong way? Why is this wrong? What are we doing wrong here? Fact
+[]			 It's a two part answer
+[1:51:28.5]  Look at the court
+[]			 We asked the model to fit two X and then we use that model to make predictions on X and produce
+[1:51:52.6]  Why in the school motto and we compare them against Why so, basically, we tested a model on the same exact data in which it was strange
+[]			 For most models, this basically means if the model has enough parameters that it can basically memorize the training data, and if you ask it what it saw, it will be able to say so without any errors
+[1:52:09.9]  That's why the actresses, 1
+[1:52:13.8] 0, in the case off cane years, neighbors with n neighbors equal to one
+[1:52:16.3]  This is even more bizarre because what came years, neighbors within or K equal
+[1:52:24.2]  One basically means is find the guy that discloses to this guy in the training set
+[]			 If the training set is the same that you're testing, you always find the correct guy
+[]			 There's no question about it, so you get 100% accuracy every time
+[1:52:37.8]  So this is a way to motivate the need for splitting the data into training and test here
+[]			 I need to say we need to be very careful with the terminology
+[1:52:58.2]  Validation is the process by which we have a Let's call it like this on early indication of how well are modeled us with data that it didn't see during training time
+[]			 The book will call this second part of the data set
+[]			 Ah, hold out set or test set
+[1:53:19.0]  Some other references will call it a validation set or a death set
+[1:53:21.3]  So be mindful of the differences in terminology
+[1:53:26.5]  So basically what this part of the notebook is teaching us is how to pay more attention to the trained test split this time for instance, by using the test size option explicitly giving it a value
+[]			 So here we are, forcing a 50 50 split and then running the model and measuring its accuracy
+[]			 So you're just by forcing the Irish data set classifications Model two, um, be trained on half of the data and be tested on the other half
+[1:54:04.8]  We already got a knack Chrissy scored
+[]			 That is more realistic
+[]			 It's so high, but it's not perfect
+[1:54:17.4]  100% this idea off setting aside 25 or 50% for test or validation, depending on how you want to call it is called Holdout
+[1:54:28.1]  You basically set some data side so and typically you do it in more than one round
+[1:54:40.8]  In other words, you can do if you can make the 1/2 validation, set the other one be the training set, or you can do the other way around, and you can averagely to score
+[]			 So this is an example of doing one off each, in which case you kept 0
+[1:57:12.6] 96 or 0
+[1:54:55.4] 90666 as accuracy, and you could report the average of the two to be your overall accuracy
+[1:55:08.8]  And this is something that you can do for multiple cross validation chunks or folds, as they're typically called
+[]			 So this method here is called a to food
+[1:55:22.2]  Uh, cross validation, if you generalize it for K equals five, say this is a K fold cross validation, basically a cross validation means rather than taking something away, you always use in this case 4/5 off the data for training, 1/5 for validation
+[]			 But the same piece of data that in one trial is used this validation for every other trial is used this part of the training set
+[]			 So this is convenient
+[1:55:54.1]  When your data set is small, you cannot afford to take a big chunk of it out and hold out
+[]			 You want to, um, use as many data points as possible for training as many data points
+[]			 It's possible for validation
+[1:56:09.7]  So you solve this dilemma by using K food, cross validation and clearly, if que sicko to five
+[]			 And if you do the cross validation score, which is one line of code in psych, it learn you'll get five results
+[1:56:24.5]  In some cases, it may be perfected
+[1:56:32.0]  Maybe be such that for this particular validation, set your motto is predicting perfectly
+[]			 And once again, practice is to average these things out
+[1:56:37.7]  The more extreme case off K fold validation is known s leave one out
+[]			 It means exactly what you think it means
+[]			 You leave one, Oh, data point out and train with all the others
+[]			 And you measure, however you did so clearly for each individual case, you either get an accuracy off one or an accuracy of zero
+[1:57:10.4]  Because for that one point, can you either predicted correctly or not? And then you can average these things out and you get the global score
+[1:57:14.9]  In this case, 96 accuracy, 86% accuracy
+[1:57:18.1]  So these are raised by which you can split
+[]			 You're data set in the training and test or using so called cross validation instead
+[1:57:42.7]  The next bit is about how to select the best model, and it starts to get into some of those questions that we have been asking ourselves already
+[1:57:45.3]  If our estimators underperforming, which is basically not achieving the performance metric that we expect, how should we move forward? And here's some examples
+[1:57:58.1]  Use a more complicated model, use a less complicated model
+[1:58:04.7]  Interestingly enough, the two are acceptable, UH, candidates
+[1:58:08.5]  Gather more data or gather more data to add features to example, or more samples
+[1:58:22.4]  So and there's a very good comment here that says the answer to this question is offer counterintuitive, particularly in the case where a more complicated model may give worse results, and this is sometimes referred to by the name of the bias variance straight off
+[]			 This will be on the test, so pay special attention
+[1:58:37.6]  So suppose that you have the data points in blue in this figure, and you're trying to fit a model to it
+[]			 And the only candidates you have are the model on the left and the model on the right
+[]			 What can you say about those two models? The model and the left Clearly under fits the data
+[]			 You can say it's not complicated enough
+[1:59:02.5]  It's clearly not doing justice to the subtle variations of the data, which don't suggest that it's organized in a straight line fashion
+[1:59:10.6]  The model in the right tries too hard to hit every data point
+[1:59:17.2]  It can therefore minimizing the minimal square or the Me square
+[1:59:21.0]  Rather, and as a result, ID create something that is completely not natural with peaks and valleys that go even beyond the plot Herbal range and therefore over fits the data
+[1:59:38.0]  It will probably horrible at making new predictions because of its extravagant too complicated for its own good away
+[1:59:43.6]  So the solution here is to try something in between
+[1:59:53.9]  If this is a regression problem which in this case it looks like it might be one could apply something called regularization, which we spoke about before
+[2:00:13.3]  So there are ways to quantify how well a model thus, And, um, one way to do that is to use the art squared, score or coefficient off determination where one means a perfect match
+[]			 And zero means the model is not doing any better than simply taking the mean off the data
+[2:00:26.4]  And look at that and negative mod values me even worse models
+[2:00:30.7]  So if you like quantitative demonstration that this guy's consistently not so great because of the under feeding problem, if you spread the data into training and validation, it would be trained with the blue ones
+[]			 Get her R squared coefficient off 0
+[]			7, validated with additional data points in red 0
+[]			74 equally not so great
+[2:00:57.5]  Now, look at this guy that try to harden blue points got a 98 0
+[2:00:59.2] 98 our square coefficient
+[]			 And when the validation points came up, they are square is negative 1
+[]			8 times 10 to the power nine
+[2:01:12.6]  Okay, so it's a ridiculously high negative value, which is a blatant indication of how bad this model is
+[2:01:29.5]  All right there, which if you only look at the training data, you could be fooled into thinking that this model is best
+[]			 Or if you only looked at the training school
+[2:01:35.3]  I'm cutting this here
+[2:01:39.8]  Bye, Choice, because this is conveniently to D
+[]			 But this could be a high dimensional data
+[]			 You don't have the easy way to visualize
+[2:01:50.3]  That's why you need easy to compute figures off merits such as they are square
+[2:01:57.3]  But the truth comes about when you do the validation, okay, and the three forces they need for validation sets
+[]			 So here's a classic Oh, curve that talks about the bias variance straight off and that plots the model score
+[2:02:12.8]  Whatever figure of merit you choose could be accuracy, sensitivity, specificity, uh, recall precision and the model complexity
+[2:02:26.1]  So this is, uh, validation curves schematic
+[2:02:40.2]  As the author cause it, which basically shows that if you want to see if a model is too complex for its own sake, you shouldn't pay attention only to the training score, because chances are the more complex in moderately higher training score because you allow it to basically memorize the training data set
+[2:02:49.4]  You should instead keep an eye on the validation score, because chances are to reach the street spot and then start going down from there
+[]			 And this is the point where you want to stop and select the best model
+[]			 If you stop with the model with two low complexity, you have high bias model like this if you allow it to run lose
+[]			 You have high variance a model like that
+[2:03:12.6]  Neither one is good there
+[2:03:15.4]  Virtual here is in the middle, and this is true
+[2:03:18.0]  For Nero, Network based approach is sometimes the model complexity here will be actually training epochs off the neural network instead off some other parameter
+[]			 In the case of regression, the degree of the polynomial, for instance, this diagram is made generic enough that you can plot different figures off merit here and different properties off the actual model here
+[]			 All right
+[2:03:48.0]  So can we do can be plot or obtain the raw data for plotting validation Curves in psychic learn
+[]			 Yes, you can
+[2:04:04.1]  So here's what the example will be will try a simple linear regression, a degree, one polynomial on the data and compare with the third degree polynomial cubic curves to the data and see how it does so First we'll look at them
+[2:04:12.3]  Data points in black
+[]			 Here's your degree
+[]			 One model in blue
+[]			 Your degree
+[]			 Three in orange In your degree, five in green
+[]			 If I ask you just by looking at it, which model is the best? I don't think you would say the one with degree one
+[2:04:29.8]  You would probably be divided between three and five, right? We can look at the validation curve to see if it helps us decide
+[2:04:47.2]  So here's the validation curve for the pollen on a regression with CV Ego seven
+[]			 And basically what we're doing here
+[]			 ISS
+[2:05:04.6]  We're going from a degree off 0 to 21 so we're trying to fit polynomial Zoff increasingly higher degrees, and we're measuring some score for both the training and the validation set and plotting the results
+[]			 So here we have the by phone
+[2:05:22.1]  Cold toe basically generates something that schematically looks like this
+[]			 So the training score does indeed keep going up as you let your model run to very high degree polynomial
+[2:05:31.5]  Lt's the validation score reaches best point and starts to fall from there
+[2:05:42.1]  This case, it falls quite softly before it drops dramatically
+[2:05:43.7]  So what is the sweet spot? Here's your three
+[]			 Here's your five
+[2:05:47.8]  If you thought visually you couldn't make much of a difference between the two, you were not wrong
+[2:05:54.1]  Effect
+[]			 They're quite similar
+[]			 Which one would you choose? Three or five? I would choose three for two reasons
+[2:06:09.4]  The gap between the training and the elevation curve is minimal is less, and second, the model is presumably last complex
+[]			 It has fewer parameters
+[2:06:21.0]  You only need coefficient for the term in X Cubed, X squared X and the independent
+[2:06:27.6]  Turn your saving two parameters if that matters
+[2:06:37.2]  All right, so So it's It's as he throws precisely qualitative behavior
+[2:06:40.1]  Expected training scars everywhere
+[2:06:40.5]  Hired training score
+[2:06:41.8]  My anatomically improves with increased model complexity and the regulations course reaches a maximum before dropping off
+[]			 All right
+[]			 Okay
+[]			 Oh, this is the plot for there
+[2:07:08.5]  chosen degree So polynomial regression with the degree of three for the sake of completeness
+[2:07:09.1]  Basic
+[2:07:18.5]  Now let's look att! Another data set, and it's a larger, deeper set, and we will try to look at them polynomial regression again, with degrees very in between zero and 20
+[]			 And here's what we get
+[]			 The solid lines are the ones for the large data set there
+[2:07:44.6]  The best lines are the one from the previous, smaller data set
+[2:07:54.8]  And here's an interesting case where both training and validation score grow and stabilize at about the same point
+[2:08:02.7]  So clearly, for the sake of making the model simpler, one would still choose three or four, perhaps for in this case as the best degree polynomial
+[2:08:17.9]  But there's no obvious damage in terms off the by his versus variants issue off going any higher
+[]			 All right, so even 20 degree, 20 model is not seriously over fitting the date
+[]			 So the general behavior we expect from a learning curve that's a good summary
+[2:08:48.8]  Their model forgiven complexity will over fit as more data set
+[2:08:56.1]  So this is a point that is made clear by a data set off similar distribution fewer points larger number of points
+[2:09:09.0]  So for the same complexity, to say, a degree off polynomial degree of 15 over fitting on this moldy the set, but not on the large one
+[2:09:12.4]  The second observation is a model forgiven
+[2:09:15.2]  Complexity will under fit, ah, large data set, which means the training school will decrease
+[2:09:22.8]  But the validation score will increase
+[2:09:27.1]  And finally, a model will never accept by chance
+[2:09:35.4]  Give a better score to the validation set and the training set, which means the curves should keep getting closer together but never cross
+[2:09:52.8]  All right, okay, so here's another example off learning curves in Psych it learn
+[]			 And in this case, the question we are asking is different
+[2:10:01.4]  We are basically freezing the degree of the polynomial in either two or nine, and we are asking, How much data do I need to reach a certain score? Validation Score? How much? How big should the training size B
+[]			 So, for very small training sizes, the validation score doesn't even show up
+[]			 It only becomes significant after training size off 15 in this case
+[]			 In other words, for this particular degree, polynomial training with 15 data points or more
+[1:48:15.7]  I'm sorry, 15 or more makes relatively little difference from 150
+[]			8 something to less than 0
+[1:49:30.4] 9
+[2:10:47.3]  Validation accuracy, However, For a polynomial with higher degree, you'll need at least twice as many samples to get the same level off accuracy or whatever your score is at validation
+[]			 Okay, so in other words, more complex models require more data in order to best learn the multiple parameters that needed to learn
+[2:11:27.1]  All right, so this is a very insightful piece off advice, valuable diagnostic, as your book author says, because any more training data for modest or small models or models that have already converged will not help your case
+[2:11:51.0]  So this is a very useful diagnostic tool to speculate
+[2:11:52.8]  Weather your performance
+[2:12:01.9]  Let's assume for the sake of argument that the best line is what your boss wanted and the red line is what you've got so clearly, if your boss wanted this certain value or score and you got close but not quite there
+[2:12:14.0]  If you stick toe polynomial of degree, too, there's no point in saying, Oh, I need more training data
+[]			 The plot is showing exactly that
+[]			 This will not help
+[2:12:34.7]  Okay, if you changed it model, however you may reach the desired go No in polynomial regression, the only parameter that you may want to play with is the degree off the polynomial
+[]			 So it's relatively easy
+[]			 Okay, because the complexity of the model depends on one parameter on Lee
+[2:13:04.1]  No, what if you want to play with other things, how can you go about doing it? Doing that systematically? One way to adjust the multiple knobs in your model is by doing something called Grid Search
+[2:13:16.4]  Grid Search, as the name suggests, is basically searching in a grid type off problem space for the best combination off parameters and doing so in a structured way
+[2:13:33.3]  So you build in this case a parameter grid, which constitutes, in this case, off the 20 combinations off degree pollen phenomena agrees
+[]			 Two options for the fit intercept parameter to are false
+[2:13:56.9]  Two options for the normalize parameter tour force and you hit a grid search CV passing this parameter grid as one of its parameters, and you have it figured out for you what are the best parameters? And if I don't run this line of code, it will not be able to run this life
+[]			 So it's fuse almost like magic
+[]			 You gave it all those options
+[]			 It said, You know what? From all the options that you gave 20 for 21 times
+[]			 Two times two
+[2:14:21.8]  So from all the 84 options, I checked all of them
+[]			 And the best option is this combination off fit intercept force normalized
+[2:14:33.1]  True, in 1/4 degree polynomial, it looks phenomenal, right? Because you already want to use a certain model, you know, it has some parameters to choose from
+[]			 You don't know in advance which ones to choose from so you can do a grid search might seem too good to be true, though
+[2:14:54.6]  All right, what is the catch here? Catch? Here's the total number of combinations which in this case, is quite manageable
+[]			 The complexity of the problem, the amount of data, all of which are very modest
+[2:15:04.6]  Okay, so what can you do? A grid search for hyper parameter optimization in deep learning, for instance, It's not feasible, Okay, because nobody we're talking about millions off parameters
+[2:15:15.6]  You're talking about hundreds off thousands of combinations of hydro parameters, and this is not feasible
+[]			 So here's what the best estimator produces
+[2:15:24.3]  That's a plot to show that thanks to the magic off grid search and the produced combination off parameters
+[]			 You got a model that looks like this
+[]			 You have a question
+[]			 Do that again
+[]			 Uh, I'm not sure you understand the question right
+[2:16:00.0]  You could In principle, if you have the computational power to afford grid search, you can use green searching a variety of machine learning, neural network problems
+[]			 Okay
+[]			 What? I was trying to make a point here is that our parameter great in this example is extremely small
+[2:16:20.6]  Okay? And again, the devil was always in the details because when we spoke about parameter such as fit, underscore, intercept and normalize, we took them at face value
+[]			 We didn't go to the documentation to see exactly what they mean
+[2:16:43.8]  We know that once we have them, we can We can get the best estimator property off the grid object that was returned
+[2:16:50.0]  In fact, why don't we do this? That's insert sell below here and just take a peek at how this grid object
+[2:16:56.3]  Looks like I don't know why
+[]			 It's much anything
+[]			 Okay? It doesn't seem to be understanding python now
+[2:17:12.9]  I don't know why anyway
+[]			 Oh, yes
+[]			 Thank you
+[]			 Thank you
+[]			 Thank you
+[]			 That makes more sense
+[]			 Okay
+[]			 There you go
+[]			 Thank you
+[]			 So here you go
+[2:17:30.5]  So, Grid and its internal structure from which you can think things such as the best underscore prams underscore, which is here someplace
+[]			 Okay
+[2:17:46.7]  Or you can take the best underscore estimator underscore, which is probably here someplace the prompted ribs that it tried
+[2:17:50.5]  In fact, here it spells out the options you gave it
+[2:18:04.1]  Um, what else? The steps and the pipeline that it built to try all these things on your behalf
+[2:18:11.5]  So, um, the John a message here is let me with the hyper parameters off your model may pay off
+[2:18:19.4]  Know in advance which combination is best is not likely to occur
+[2:18:32.1]  Tweaking by trial never is often meaningful, producing intermediate plots to see the impact on the off the degree versus the amount of data or, um, keeping the data size fixed
+[2:18:50.7]  What happens if you push this degree further up? All of these are helpful, but if you want to do things a little more systematic and you can afford to try all the combinations grid search may be your friend
+[]			 Okay
+[2:18:59.8]  Granted, if computation uh, waas a limiting factor here
+[]			 You wouldn't start with something as high as 21
+[]			 You would try something smaller
+[2:19:21.3]  You would try siccing, run this thing and then say, Oh, it tells me that the best degrees four chances are keeping up with 78 all the way to 20 would be pointless because you wouldn't expect it to become better after a while, Right? If the validation score comes thou except for a few minor blips, it's unlikely to come back up to a point where it's helpful, Right? Does that help with your question or not? All right, combinations off hyper parameters
+[]			 In this case, that's what it's like
+[]			 Yes, okay, we're keeping the same data
+[]			 We're keeping the same model
+[]			 But a motto has these knobs in your own network
+[]			 This could be what? Learning rate
+[2:20:02.7]  It could be your choice off optimizer
+[2:20:10]  It could be the number of books you could be the use of dropouts
+[]			 Yes or no
+[]			 It could be there that size
+[2:20:20.0]  So for those of you who have used or are using your own network's just to make the equivalency, But what are you doing? You're on
+[2:20:22.4]  Affects typically cannot afford grid search So for learning rate, you have those rules off them
+[2:20:27.0]  Start with 0
+[2:24:46.2] 3 then go to 0
+[2:20:37.4] 1 or three times as much 10 times or something because, first of all, it's a continuous perimeter
+[]			 So it's not just a few values, and second, each combination is costly
+[]			 That alone, all combinations are four things all right, the next and last topic of today's feature engineering, which can be defined as the process by which you select, which features are more likely to be useful for the problem at hand
+[2:21:14.0]  So how do you do that, or what is involved in this process? So basically here the number of things one can do under the umbrella future engineering you can, for instance, drop features that are not useful
+[2:21:30.1]  You can rien cold features because they're not called it in a way that is convenient for your algorithm
+[2:21:36.6]  Classical example would be one heart encoding off categorical features, turning them into a race of ones and zeros
+[2:21:45.7]  You can create new features out of the existing ones
+[]			 Maybe X one is not so great
+[2:21:53.4]  X two is not so great, but the product of two or the cube off one or describe the other is much more helpful to create a model
+[]			 And, uh, this part of chapter five goes through some of the most common tricks under the future
+[2:22:07]  Engineering, um, umbrella, true or false? Feature engineering is easier when you have the main knowledge off what you're doing true, right
+[2:22:31.8]  If we give, uh, the cost a co housing price data set to anyone in this class think such as number of bathrooms, square footage, year the house was built and so on are common sense knowledge, right? You can
+[2:22:48.3]  Without being in the real estate or the construction business, you can already say OK, this is more likely to be useful in that where he can be reminded that you need normalization for reasons discussed before
+[2:22:59.0]  If you are given a data set off very Isa Terek measurements in astrophysics or more regular biology or something that you have no idea of the domain for your These are just numbers
+[]			 Then you need help
+[2:23:16.5]  You need some sort off algorithms that help you test the fitness off the features and maybe come up with something better than what you were given as raw features
+[]			 So few things under this umbrella first is categorical features
+[]			 What happens if you have, say, a real state, they said
+[2:23:35.6]  That contains things such as prices or number, part price and number of rooms, both of which, of course, of quantitative but their neighborhood and the name off the neighborhood in which the house, uh, has been built
+[2:23:56.7]  What can you do? One option is to do in a miracle mapping instead of queen, and we say Call it one free from Hunter College, too, and so on
+[2:24:01.4]  There's a problem, though, with this conversion to the miracle futures means that a relationship between the numbers that you chose to encode will be presumed to be true so that Queen Anne is less than free moment or something which do not make sense
+[2:24:24.1]  So the classical alternative is one heart encoding, which is implemented in psych
+[2:24:34.6]  It learn by dicked Vector Riser Dictionary
+[2:24:35.2]  Characterize er so basically you can transformed the data
+[]			 Look at the data before and after, so price and rooms are straightforward
+[2:24:53.7]  But look at the 1st 3 columns here, so basically one heart in coding means that you create a vector whose land is the number of categories
+[2:24:57.0]  All elements are zero, except for the one that corresponds to that category
+[]			 So basically, the one component of this factor there is equal to one corresponds to the category or conversely, if you look at them column wise, you'll see how many instances air they're off
+[]			 Queen
+[2:25:20.5]  I'm sorry, friend, which was the 1st 1? How many instances Air Queen Anne? How many instances are walking forward? In other words, you can say how these things have bean encoded for you, and you can ask for the future names if you ever need, and it will tell you how it built these things
+[]			 So before is calling his neighborhood friend the second his neighborhood Queen Anne
+[2:25:42.2]  And so so it created addiction area for you and Victory ized it, in other words, created factors off length, size of the number of categories and the property is everything is zero, except for the one category
+[2:25:59.3]  By the way, there's a flexible way off in Kolding Moti label cases, So if you have image classification and there were multiple objects in an image, then you could heart in code
+[]			 That image has a computer in a bottle and a person just as elegantly as only a computer on your bottle on the papers
+[]			 Okay
+[]			 All right
+[2:26:26.8]  How do you do with text features? This is one example using something called Count Victor riser
+[2:26:41.9]  So if you have ah, three phrases problem off evil, Evil Queen and horizon problem, you could use Count Victor Riser to produce something that basically has account off the relevant, uh, wards one whenever they occur in each record
+[]			 So problem of evil would have one occurrence off, evil off and problem and so on
+[2:26:57.8]  So clearly, by scanning the text, you built tokens and the tokens are used as the names of the columns
+[]			 And then you perform the count
+[]			 So what is the problem with his approach? It uses wrong word count, which means too much weight on words that appear very frequently
+[2:27:22.5]  If you have worked with text processing token ization and so far you could even argue that even stop words
+[]			 Maybe the world off should be removed
+[]			 But let's not go there
+[2:27:38.9]  But the fact that words that appear very frequently end up having too much weight leads to ah, the motivation to use an information retrieval inspired approach called T f i D f term frequency inverse document frequency
+[2:27:54.0]  There is ah, built in class for that which basically assigns a wait
+[2:27:56.0]  Tow each occurrence of each word in each record according to the statistics off that word in the overall data set
+[]			 So one occurrence off Queen, for instance, in in the second record in record, one has a higher Do you have idea value, then the single occurrence off, um, horizon
+[]			 See, what is four
+[2:28:28.9]  Eyes are comparable, of course, because they only happen once in the entire data set
+[2:28:58.4]  So the term frequency is technically, how many times the term appears The inverse document frequency is the reciprocal off the frequency off the term in the document Oh, are the reciprocal of the number of documents that have that term
+[2:29:02.8]  So basically, the t f i
+[]			 D
+[]			 F
+[2:29:05.5]  Is a measure off relevance off debt term in the context off that data set or corpus as information retrieval
+[2:29:14.3]  People like to call it
+[]			 Don't try to make too much of these numbers
+[2:29:22.6]  Don't try to think they add after one grow wise, they don't or that they had upto one column wise, they don't
+[2:29:29.0]  Okay, they're just relative measures off importance
+[2:29:40.0]  Okay, so there's some very brief mentioning off what happens if you have images
+[]			 We spoke about using the pixel values themselves, but that only works in some cases, and this course will not take us much beyond that
+[2:29:56.9]  But courses in machine vision, Computervision image processing would take it from here
+[2:30:03.6]  And there's a discussion about the arrived future
+[]			 So let's look at the example, um, where we try toe, find a linear regression model to fit these five data points, we get a result that is clearly not good
+[]			 Instead, we try it third degree polynomial, and the way we do that is by doing feature transformation
+[]			 We basically create a new ah, set off features that has the cube off the original values
+[]			 And we fit a linear regression to that
+[]			 And the result is quite good
+[2:30:52.3]  In other words, I hope you can appreciate what is happening here
+[2:31:06.0]  We're doing linear regression on a transformed feature set, okay, in which we decided to add polynomial features to the original data
+[]			 So by doing that, we can fit a linear regression using X two instead of the original X, and the result is pretty good
+[2:31:30.2]  It's comparable to fitting a polynomial off the Greek three to the data
+[2:31:39.7]  All right, the next I presume the second to last point is imputation off
+[2:31:41.1]  Missing data
+[2:31:42.8]  We've spoken about that in the context of fan this
+[]			 What happens with the classical, Not a number
+[]			 You remember what you can do about them
+[2:31:55.9]  Most common things you can do throw out the entire road
+[]			 In other words, the entire sample sometimes cannot afford that may be too costly
+[2:32:05.7]  What else can you do? Replaced them with zero's? Not more, more times than not, Not a good idea
+[]			 Another thing you can do replaced with the mean off that feature
+[]			 And that's the example here
+[]			 So we're using
+[]			 By the way, this is one of the many examples in which there was changed to psych
+[2:32:31.4]  It learn so the text still refers to the computer class, but secular now tells us to use this simple impure applies
+[2:32:57.6]  I changed all these examples before coming to class, but if you look at the original version in the book and the original version off the off, the corresponding droop their notebooks, you will still find the the code to look like this s k learned that pre processing, importing pewter when it should be es que learned that impute import simple in pewter
+[2:33:07.9]  So something that you can easily figure out by doing some Google search from the warning, our error messages that you get, which is how I fix it
+[2:33:11.0]  Excellent, actually
+[2:33:17.4]  So here you are basically saying when you don't have something to fill out these spots used the Ming off the corresponding columns
+[]			 And that's how this guy becomes a 4
+[2:33:29.3] 5 and this guy becomes not fight
+[]			 Okay, all right
+[2:33:36.2]  And then do whatever in your aggression or something and using the imputed features X two as an input and everything works nicely
+[2:33:48.4]  Last but not least, when you do machine learning, you are encouraged to create five lines
+[]			 Two
+[2:34:00.2]  Encapsulate all these steps that are needed from cleaning out the data
+[2:34:06.3]  Pre processing, doing future engineering
+[]			 Finally applying toe a model and going all the way to fit and predict
+[2:34:23.4]  Here's an example off a pipeline that is basically later than 10 lines off python code and psychic learn actually encourages the idea off
+[]			 A pipeline provides a pipeline object so you can do things like that
+[2:34:49.0]  You can say that your model who take whatever data it gets it through first filling the missing points using a simple in pewter with the strategy mean which will then be processed by putting no mule feature transformation where you get the square of the original features in the process, which are then sent to the linear regression algorithm
+[2:35:11.0]  So everything that you saw here in different lines of code, these two lines of code here followed by this line of code here, actually, even more than that combined with this polynomial features part can be elegantly placed in one single call to make pipeline
+[2:35:27.5]  This is tremendously elegant and particularly important for documenting your crosses
+[2:35:37.5]  Okay, chances are if you have those things in separate cells, especially in a Jupiter notebook, you may not remember that In order to get what you got, you have to input these
+[]			 You play with feature engineering
+[2:35:46.3]  You played with hyper parameter validation here can elegantly put everything in one
+[2:35:53.3]  Secondly, one line off gold and then run, fit and predict and be happy
+[2:36:15.2]  Okay, so this is, um, an example of something that even if you go to more advanced courses later on in machine learning deep Larry and what not you will be encouraged to do, and to keep interment a knee into document, you need to know your pipelines
+[]			 They will become much more complex
+[]			 You need to go to one point
+[2:36:34.4]  You can see which options you're choosing to avoid silly problems, such as having these things correctly done but not connected properly or not documented properly
+[2:36:36.6]  On the case of Dr Notebooks running the old version off something not updating properly
+[]			 And so Okay, I think that's it for today
+[]			 Thank you for your attention
+[2:36:47.3]  Happy Halloween and see you next week
+[]			 Yes, you
+[2:37:22.9]  No reason your sexual positions
+[2:37:24.1]  It's no longer proselytization
+[]			 It's model underscore selection
+[2:37:28.6]  I mentioned it briefly, but I didn't
+[2:37:31.7]  I would make it too emphatic
+[2:37:40.2]  I mentioned, uh, that quite a few spots where this happens, but most of the fixes air very easy, and if you remind me, send me a note on campus
+[2:37:44.6]  I can put the corrected versions for everyone
